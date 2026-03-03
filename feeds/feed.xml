@@ -4,41 +4,59 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 08:53:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 09:53:24 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Mar 2026 08:53:11 GMT</pubDate>
+        <pubDate>Tue, 03 Mar 2026 09:53:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Fuel stocks adequate  for short term]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/fuel-stocks-adequate-short-term-4119261</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/fuel-stocks-adequate-short-term-4119261</guid>
-            <pubDate>Tue, 03 Mar 2026 02:37:00 GMT</pubDate>
+            <title><![CDATA[Russia-Ukraine War / Over 100 Bangladeshis sent to the front, 34 dead: report]]></title>
+            <link>https://www.thedailystar.net/news/world/russian-invasion-ukraine/news/over-100-bangladeshis-sent-the-front-34-dead-report-4119266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/russian-invasion-ukraine/news/over-100-bangladeshis-sent-the-front-34-dead-report-4119266</guid>
+            <pubDate>Tue, 03 Mar 2026 02:40:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How Dubai's safe-haven status is being put to the test]]></title>
-            <description><![CDATA[For decades, Dubai's sales pitch featured gleaming skylines, tax-free salaries, ease of doing business and something far more intangible: the unspoken promise that whatever was happening elsewhere in the Middle East, this city was different]]></description>
-            <link>https://www.thedailystar.net/news/world/middle-east/news/how-dubais-safe-haven-status-being-put-the-test-4119521</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/how-dubais-safe-haven-status-being-put-the-test-4119521</guid>
+            <title><![CDATA[Private jet prices soar as wealthy rush to leave Dubai]]></title>
+            <description><![CDATA[Guardian reports airport closures and regional conflict leave tourists stranded]]></description>
+            <link>https://www.thedailystar.net/news/world/news/private-jet-prices-soar-wealthy-rush-leave-dubai-4119571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/private-jet-prices-soar-wealthy-rush-leave-dubai-4119571</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tennis players holed up in Dubai after Iranian strikes]]></title>
-            <link>https://www.thedailystar.net/sports/more-sports/tennis/news/tennis-players-holed-dubai-after-iranian-strikes-4119576</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/tennis/news/tennis-players-holed-dubai-after-iranian-strikes-4119576</guid>
+            <title><![CDATA[Special loan facility for February wages of export-oriented industries: BB]]></title>
+            <link>https://www.thedailystar.net/business/news/special-loan-facility-february-wages-export-oriented-industries-bb-4119606</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/special-loan-facility-february-wages-export-oriented-industries-bb-4119606</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[PM’s March 10 Bogura visit cancelled over Bogura-6 by-election]]></title>
-            <description><![CDATA[Family Card launch deferred as April 9 by-poll approaches]]></description>
-            <link>https://www.thedailystar.net/news/governance/news/pms-march-10-bogura-visit-cancelled-over-bogura-6-election-4119481</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/pms-march-10-bogura-visit-cancelled-over-bogura-6-election-4119481</guid>
+            <title><![CDATA[Bangladesh hold firm but China lead at halftime]]></title>
+            <description><![CDATA[Bangladesh had nearly stunned the favourites in the 14th minute when Ritu Porna Chakma’s trademark long-range strike was pushed away by the outstretched Chen Chen.]]></description>
+            <link>https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/bangladesh-hold-firm-china-lead-halftime-4119586</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/bangladesh-hold-firm-china-lead-halftime-4119586</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ACC chairman, two commissioners resign]]></title>
+            <description><![CDATA[The commission formally stepped down after meeting Cabinet Secretary Dr Nasimul Ghani at around 2:45pm]]></description>
+            <link>https://www.thedailystar.net/news/governance/news/acc-chairman-two-commissioners-resign-4119581</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/acc-chairman-two-commissioners-resign-4119581</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran Red Crescent says 787 killed so far since war began]]></title>
+            <link>https://www.thedailystar.net/news/world/middle-east/news/iran-red-crescent-says-787-killed-so-far-war-began-4119626</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/iran-red-crescent-says-787-killed-so-far-war-began-4119626</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Analysis  / Restive Hormuz puts Bangladesh’s LNG lifeline in peril]]></title>
-            <description><![CDATA[Bangladesh’s energy security is increasingly vulnerable to Middle Eastern geopolitics, as it sourced over 50% of its LNG imports from Qatar, UAE in 2025]]></description>
             <link>https://www.thedailystar.net/business/news/restive-hormuz-puts-bangladeshs-lng-lifeline-peril-4119546</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/restive-hormuz-puts-bangladeshs-lng-lifeline-peril-4119546</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka’s air ‘very unhealthy’, behind Tehran, Dubai and Doha in today's AQI rankings]]></title>
+            <link>https://www.thedailystar.net/environment/pollution/air-pollution/news/dhakas-air-very-unhealthy-behind-tehran-dubai-and-doha-todays-aqi-rankings-4119636</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/environment/pollution/air-pollution/news/dhakas-air-very-unhealthy-behind-tehran-dubai-and-doha-todays-aqi-rankings-4119636</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -54,27 +72,9 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Russia-Ukraine War / Over 100 Bangladeshis sent to the front, 34 dead: report]]></title>
-            <link>https://www.thedailystar.net/news/world/russian-invasion-ukraine/news/over-100-bangladeshis-sent-the-front-34-dead-report-4119266</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/russian-invasion-ukraine/news/over-100-bangladeshis-sent-the-front-34-dead-report-4119266</guid>
-            <pubDate>Tue, 03 Mar 2026 02:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Private jet prices soar as wealthy rush to leave Dubai]]></title>
-            <link>https://www.thedailystar.net/news/world/news/private-jet-prices-soar-wealthy-rush-leave-dubai-4119571</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/private-jet-prices-soar-wealthy-rush-leave-dubai-4119571</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[147 flights cancelled at Dhaka airport amid Middle East airspace closures]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/transport/news/147-flights-cancelled-dhaka-airport-amid-middle-east-airspace-closures-4119516</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/transport/news/147-flights-cancelled-dhaka-airport-amid-middle-east-airspace-closures-4119516</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Qatar extends entry visas by one month amid Middle East air traffic disruption]]></title>
-            <link>https://www.thedailystar.net/news/world/middle-east/news/qatar-extends-entry-visas-one-month-amid-middle-east-air-traffic-disruption-4119556</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/qatar-extends-entry-visas-one-month-amid-middle-east-air-traffic-disruption-4119556</guid>
+            <title><![CDATA[Hindu devotees celebrate Dol Purnima with colours and prayers]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/hindu-devotees-celebrate-dol-purnima-colours-and-prayers-4119601</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/hindu-devotees-celebrate-dol-purnima-colours-and-prayers-4119601</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -139,15 +139,15 @@
             <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dhaka stocks tumble amid growing investor fears over US-Israel war on Iran]]></title>
-            <link>https://www.thedailystar.net/business/news/dhaka-stocks-tumble-amid-growing-investor-fears-over-us-israel-war-iran-4119496</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/dhaka-stocks-tumble-amid-growing-investor-fears-over-us-israel-war-iran-4119496</guid>
+            <title><![CDATA[Maersk suspends bookings between Bangladesh and Gulf region amid Iran warning]]></title>
+            <link>https://www.thedailystar.net/business/news/maersk-suspends-bookings-between-bangladesh-and-gulf-region-amid-iran-warning-4119391</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/maersk-suspends-bookings-between-bangladesh-and-gulf-region-amid-iran-warning-4119391</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[AFC Women's Asian Cup / Myong hattrick fires North Korea to 3-0 win over Uzbekistan]]></title>
-            <link>https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/myong-hattrick-fires-north-korea-3-0-win-over-uzbekistan-4119431</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/myong-hattrick-fires-north-korea-3-0-win-over-uzbekistan-4119431</guid>
+            <title><![CDATA[Tennis players holed up in Dubai after Iranian strikes]]></title>
+            <link>https://www.thedailystar.net/sports/more-sports/tennis/news/tennis-players-holed-dubai-after-iranian-strikes-4119576</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/tennis/news/tennis-players-holed-dubai-after-iranian-strikes-4119576</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -314,7 +314,7 @@
             <title><![CDATA[Today's Gallery (2026.03.03)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260303-4119331</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260303-4119331</guid>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Tue, 03 Mar 2026 03:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Today's Gallery (2026.03.02)]]></title>
