@@ -4,51 +4,19 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 04:52:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 05:55:49 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Mar 2026 04:52:54 GMT</pubDate>
+        <pubDate>Tue, 03 Mar 2026 05:55:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Fresh Israel, Iran attacks across region: Latest developments in Middle East war]]></title>
-            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/fresh-israel-iran-attacks-across-region-latest-developments-middle-east-war-4119361</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/fresh-israel-iran-attacks-across-region-latest-developments-middle-east-war-4119361</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dr Yunus granted one-year VVIP status two days before Feb 12 election]]></title>
-            <description><![CDATA[Will remain under the stringent security coverage of SSF]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/dr-yunus-granted-one-year-vvip-status-two-days-feb-12-election-4119101</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/dr-yunus-granted-one-year-vvip-status-two-days-feb-12-election-4119101</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia-Ukraine War / Over 100 Bangladeshis sent to the front, 34 dead: report]]></title>
-            <link>https://www.thedailystar.net/news/world/russian-invasion-ukraine/news/over-100-bangladeshis-sent-the-front-34-dead-report-4119266</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/russian-invasion-ukraine/news/over-100-bangladeshis-sent-the-front-34-dead-report-4119266</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[West Indies, Zimbabwe unable to return from India due to Middle East airspace closures]]></title>
-            <description><![CDATA[West Indies failed to reach the semi-finals after Sunday's five-wicket loss to hosts India, while Zimbabwe were eliminated after losing all three of their Super Eights matches.]]></description>
-            <link>https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/west-indies-zimbabwe-unable-return-india-due-middle-east-airspace-closures-4119386</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/west-indies-zimbabwe-unable-return-india-due-middle-east-airspace-closures-4119386</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Maersk suspends bookings between Bangladesh and Gulf region amid Iran warning]]></title>
-            <description><![CDATA[The announcement comes as Iran warns of attacks on ships trying to pass through the Strait of Hormuz]]></description>
-            <link>https://www.thedailystar.net/business/news/maersk-suspends-bookings-between-bangladesh-and-gulf-region-amid-iran-warning-4119391</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/maersk-suspends-bookings-between-bangladesh-and-gulf-region-amid-iran-warning-4119391</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran 'will burn any ship' in Hormuz: IRGC general]]></title>
-            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/iran-will-burn-any-ship-hormuz-irgc-general-4119396</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/iran-will-burn-any-ship-hormuz-irgc-general-4119396</guid>
+            <title><![CDATA[Magnitude 6.4 earthquake strikes off Indonesia's Aceh]]></title>
+            <link>https://www.thedailystar.net/news/asia/news/magnitude-64-earthquake-strikes-indonesias-aceh-4119451</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/asia/news/magnitude-64-earthquake-strikes-indonesias-aceh-4119451</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[7-year-old rescued from Sitakunda Eco Park with slit throat dies at CMCH]]></title>
+            <description><![CDATA[Child dies in ICU after surgery; police, Rab probe alleged abduction and attack, no arrests yet]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/7-year-old-rescued-sitakunda-eco-park-slit-throat-dies-cmch-4119381</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/7-year-old-rescued-sitakunda-eco-park-slit-throat-dies-cmch-4119381</guid>
             <pubDate>Invalid Date</pubDate>
@@ -60,21 +28,53 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kuwait mistakenly shot down 3 US F-15E fighter jets]]></title>
-            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/kuwait-mistakenly-shot-down-3-us-f-15e-fighter-jets-4119376</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/kuwait-mistakenly-shot-down-3-us-f-15e-fighter-jets-4119376</guid>
+            <title><![CDATA[Dr Yunus granted one-year VVIP status two days before Feb 12 election]]></title>
+            <description><![CDATA[Will remain under the stringent security coverage of SSF]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/dr-yunus-granted-one-year-vvip-status-two-days-feb-12-election-4119101</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/dr-yunus-granted-one-year-vvip-status-two-days-feb-12-election-4119101</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[US embassy in Riyadh hit by two drones, Trump warns of longer war]]></title>
-            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/us-embassy-riyadh-hit-two-drones-trump-warns-longer-war-4119366</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/us-embassy-riyadh-hit-two-drones-trump-warns-longer-war-4119366</guid>
+            <title><![CDATA[Fuel stocks adequate  for short term]]></title>
+            <description><![CDATA[While a prolonged conflict in the Middle East could disrupt fuel flows, Bangladesh’s energy supply remains stable for now, with officials saying imports and distribution are continuing without interruption.]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/fuel-stocks-adequate-short-term-4119261</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/fuel-stocks-adequate-short-term-4119261</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bahrain’s King Hamad conveys condolences to PM Tarique over death of Bangladeshi man]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/bahrains-king-hamad-conveys-condolences-pm-tarique-over-death-bangladeshi-man-4119411</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/bahrains-king-hamad-conveys-condolences-pm-tarique-over-death-bangladeshi-man-4119411</guid>
+            <title><![CDATA[Maersk suspends bookings between Bangladesh and Gulf region amid Iran warning]]></title>
+            <link>https://www.thedailystar.net/business/news/maersk-suspends-bookings-between-bangladesh-and-gulf-region-amid-iran-warning-4119391</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/maersk-suspends-bookings-between-bangladesh-and-gulf-region-amid-iran-warning-4119391</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran 'will burn any ship' in Hormuz: IRGC general]]></title>
+            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/iran-will-burn-any-ship-hormuz-irgc-general-4119396</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/iran-will-burn-any-ship-hormuz-irgc-general-4119396</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump says US 'not where we want to be' on highest end weapon stockpiles]]></title>
+            <link>https://www.thedailystar.net/news/world/usa/news/trump-says-us-not-where-we-want-be-highest-end-weapon-stockpiles-4119441</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/usa/news/trump-says-us-not-where-we-want-be-highest-end-weapon-stockpiles-4119441</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt cancels contractual appointment of DMTCL MD]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/transport/news/govt-cancels-contractual-appointment-dmtcl-md-4119476</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/transport/news/govt-cancels-contractual-appointment-dmtcl-md-4119476</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coast Guard DG pays courtesy call on prime minister at Secretariat]]></title>
+            <link>https://www.thedailystar.net/news/governance/news/coast-guard-dg-pays-courtesy-call-prime-minister-secretariat-4119471</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/coast-guard-dg-pays-courtesy-call-prime-minister-secretariat-4119471</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Seven flights cancelled at Ctg airport as Middle East airfields remain shut]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/seven-flights-cancelled-ctg-airport-middle-east-airfields-remain-shut-4119446</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/seven-flights-cancelled-ctg-airport-middle-east-airfields-remain-shut-4119446</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -110,6 +110,18 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[Musings / How Persia became Iran]]></title>
+            <link>https://www.thedailystar.net/news/world/middle-east/news/how-persia-became-iran-4118011</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/how-persia-became-iran-4118011</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Barisal, beyond, and the making of Bengali literary modernity]]></title>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/barisal-beyond-and-the-making-bengali-literary-modernity-4118316</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/barisal-beyond-and-the-making-bengali-literary-modernity-4118316</guid>
+            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Khamenei's killing and Iran’s war on the Arab states, explained]]></title>
             <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/khameneis-killing-and-irans-war-the-arab-states-explained-4117901</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/khameneis-killing-and-irans-war-the-arab-states-explained-4117901</guid>
@@ -122,21 +134,9 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[A parent’s guide to comfortable Eid wear for kids]]></title>
-            <link>https://www.thedailystar.net/life-living/fashion-beauty/news/parents-guide-comfortable-eid-wear-kids-4118726</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/fashion-beauty/news/parents-guide-comfortable-eid-wear-kids-4118726</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swap fried iftar snacks for fresh healthy salads]]></title>
-            <link>https://www.thedailystar.net/life-living/food-recipes/news/swap-fried-iftar-snacks-fresh-healthy-salads-4118731</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/food-recipes/news/swap-fried-iftar-snacks-fresh-healthy-salads-4118731</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When coercion becomes a governance mechanism]]></title>
-            <link>https://www.thedailystar.net/opinion/views/closer-look/news/when-coercion-becomes-governance-mechanism-4119201</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/when-coercion-becomes-governance-mechanism-4119201</guid>
+            <title><![CDATA[The real crisis at Bangladesh Bank: The mandate, not the résumé]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/the-real-crisis-bangladesh-bank-the-mandate-not-the-resume-4119191</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-real-crisis-bangladesh-bank-the-mandate-not-the-resume-4119191</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -146,15 +146,15 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Satriano volley stuns Real Madrid as Getafe shake up LaLiga title race]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/satriano-volley-stuns-real-madrid-getafe-shake-laliga-title-race-4119351</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/satriano-volley-stuns-real-madrid-getafe-shake-laliga-title-race-4119351</guid>
+            <title><![CDATA[‘Women’s team needs exposure’]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/womens-team-needs-exposure-4118936</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/womens-team-needs-exposure-4118936</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fazlur Rahman Babu undergoes heart surgery]]></title>
-            <link>https://www.thedailystar.net/entertainment/news/fazlur-rahman-babu-undergoes-heart-surgery-4119416</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/news/fazlur-rahman-babu-undergoes-heart-surgery-4119416</guid>
+            <title><![CDATA[Recitation artistes to hold protest against rape and abuse today]]></title>
+            <link>https://www.thedailystar.net/entertainment/theatre-arts/news/recitation-artistes-hold-protest-against-rape-and-abuse-today-4119456</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/theatre-arts/news/recitation-artistes-hold-protest-against-rape-and-abuse-today-4119456</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
