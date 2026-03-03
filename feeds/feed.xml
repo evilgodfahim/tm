@@ -4,10 +4,23 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 19:01:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 20:40:01 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Mar 2026 19:01:44 GMT</pubDate>
+        <pubDate>Tue, 03 Mar 2026 20:40:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[We don’t want to raise slogans like ‘High Court or the streets’: Nahid]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/politics/news/we-dont-want-raise-slogans-high-court-or-the-streets-nahid-4119821</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/we-dont-want-raise-slogans-high-court-or-the-streets-nahid-4119821</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Real Madrid's Rudiger tried to 'smash my face in': Getafe's Rico]]></title>
+            <description><![CDATA[Getafe's Diego Rico said Tuesday Real Madrid's Antonio Rudiger tried to "smash my face in" in a LaLiga match in the Spanish capital the previous evening.]]></description>
+            <link>https://www.thedailystar.net/sports/football/news/real-madrids-rudiger-tried-smash-my-face-getafes-rico-4120136</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/real-madrids-rudiger-tried-smash-my-face-getafes-rico-4120136</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chaldal employees storm software park in Jashore over unpaid wages]]></title>
             <link>https://www.thedailystar.net/business/news/chaldal-employees-storm-software-park-jashore-over-unpaid-wages-4120106</link>
@@ -19,19 +32,6 @@
             <description><![CDATA[Urges caution against misinformation amid Middle East flight disruptions]]></description>
             <link>https://www.thedailystar.net/business/economy/aviation/news/aviation-minister-asks-airlines-not-charge-extra-stranded-travellers-4119826</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/aviation/news/aviation-minister-asks-airlines-not-charge-extra-stranded-travellers-4119826</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mother of 2 found dead in Cox’s Bazar]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/mother-2-found-dead-coxs-bazar-4119861</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/mother-2-found-dead-coxs-bazar-4119861</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saif, Naim help Central Zone clinch second BCL one-day trophy]]></title>
-            <description><![CDATA[Saif Hassan and Mohammad Naim notched a 164-run stand for the second wicket to help Central Zone to a dominating five-wicket win over North Zone in the Bangladesh Cricket League final at Mirpur’s Sher-e-Bangla National Cricket Stadium today.]]></description>
-            <link>https://www.thedailystar.net/sports/cricket/news/saif-naim-help-central-zone-clinch-second-bcl-one-day-trophy-4119886</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/saif-naim-help-central-zone-clinch-second-bcl-one-day-trophy-4119886</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -54,6 +54,12 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[US-Bangla to operate special flights on Dhaka-Dubai route]]></title>
+            <link>https://www.thedailystar.net/news/world/middle-east/news/us-bangla-operate-special-flights-dhaka-dubai-route-4120161</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/us-bangla-operate-special-flights-dhaka-dubai-route-4120161</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[US Assistant Secretary Paul Kapur arrives in Dhaka]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/us-assistant-secretary-paul-kapur-arrives-dhaka-4119891</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/us-assistant-secretary-paul-kapur-arrives-dhaka-4119891</guid>
@@ -69,12 +75,6 @@
             <title><![CDATA[Physical, mental health and arts to be mandatory from class 4: Education minister]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/education/news/physical-mental-health-and-arts-be-mandatory-class-4-education-minister-4119751</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/education/news/physical-mental-health-and-arts-be-mandatory-class-4-education-minister-4119751</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We don’t want to raise slogans like ‘High Court or the streets’: Nahid]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/politics/news/we-dont-want-raise-slogans-high-court-or-the-streets-nahid-4119821</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/we-dont-want-raise-slogans-high-court-or-the-streets-nahid-4119821</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -146,9 +146,9 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Will Iran play in the 2026 World Cup in the United States?]]></title>
-            <link>https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/will-iran-play-the-2026-world-cup-the-united-states-4119786</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/will-iran-play-the-2026-world-cup-the-united-states-4119786</guid>
+            <title><![CDATA[Brazil winger Rodrygo set to miss World Cup with knee injury]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/brazil-winger-rodrygo-set-miss-world-cup-knee-injury-4119851</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/brazil-winger-rodrygo-set-miss-world-cup-knee-injury-4119851</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
