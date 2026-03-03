@@ -4,9 +4,9 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 21:40:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 22:37:34 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Mar 2026 21:40:39 GMT</pubDate>
+        <pubDate>Tue, 03 Mar 2026 22:37:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Man Utd 'hungry for more', says Carrick]]></title>
@@ -294,6 +294,12 @@
             <pubDate>Sat, 07 Feb 2026 00:14:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Today's Gallery (2026.03.01)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260301-4117581</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260301-4117581</guid>
+            <pubDate>Sun, 01 Mar 2026 06:07:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Today's Gallery (2026.02.28)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260228-4116836</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260228-4116836</guid>
@@ -306,10 +312,10 @@
             <pubDate>Fri, 27 Feb 2026 03:19:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Today's Gallery (2026.02.26)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260226-4115306</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260226-4115306</guid>
-            <pubDate>Thu, 26 Feb 2026 03:41:00 GMT</pubDate>
+            <title><![CDATA[Today's Gallery (2026.03.04)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260304-4120266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260304-4120266</guid>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Today's Gallery (2026.03.03)]]></title>
@@ -324,10 +330,10 @@
             <pubDate>Mon, 02 Mar 2026 03:11:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Today's Gallery (2026.03.01)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260301-4117581</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260301-4117581</guid>
-            <pubDate>Sun, 01 Mar 2026 06:07:00 GMT</pubDate>
+            <title><![CDATA[Today's Gallery (2026.02.26)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260226-4115306</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260226-4115306</guid>
+            <pubDate>Thu, 26 Feb 2026 03:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Today's Gallery (2026.02.26)]]></title>
@@ -340,12 +346,6 @@
             <link>https://www.thedailystar.net/todays-gallery-20260224-4113421</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260224-4113421</guid>
             <pubDate>Tue, 24 Feb 2026 01:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today's Gallery (2026.02.23)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260223-4112636</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260223-4112636</guid>
-            <pubDate>Mon, 23 Feb 2026 02:52:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
