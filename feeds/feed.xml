@@ -4,45 +4,19 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 23:34:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 02:46:03 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Mar 2026 23:34:08 GMT</pubDate>
+        <pubDate>Tue, 03 Mar 2026 02:46:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Jamaat weighs BNP offer of deputy speaker post amid questions over July Charter]]></title>
-            <link>https://www.thedailystar.net/news/political/news/jamaat-weighs-bnp-offer-deputy-speaker-post-amid-questions-over-july-charter-4118906</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/political/news/jamaat-weighs-bnp-offer-deputy-speaker-post-amid-questions-over-july-charter-4118906</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Real Madrid superstar Mbappe in Paris for treatment on knee injury]]></title>
-            <description><![CDATA[France captain Kylian Mbappe was in Paris Monday for treatment on a knee injury but no surgery is planned, the Real Madrid superstar's entourage told AFP.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/real-madrid-superstar-mbappe-paris-treatment-knee-injury-4119216</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/real-madrid-superstar-mbappe-paris-treatment-knee-injury-4119216</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mustafizur, Rishad shortlisted for The Hundred 2026 auction]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/mustafizur-rishad-shortlisted-the-hundred-2026-auction-4119211</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/mustafizur-rishad-shortlisted-the-hundred-2026-auction-4119211</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Family Card reset our social protection system?]]></title>
-            <description><![CDATA[Social protection is not charity. It is an economic policy.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/can-family-card-reset-our-social-protection-system-4118216</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-family-card-reset-our-social-protection-system-4118216</guid>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dr Yunus granted one-year VVIP status two days before Feb 12 election]]></title>
-            <description><![CDATA[Will remain under the stringent security coverage of SSF]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/dr-yunus-granted-one-year-vvip-status-two-days-feb-12-election-4119101</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/dr-yunus-granted-one-year-vvip-status-two-days-feb-12-election-4119101</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Fuel tanker ablaze in Strait of Hormuz after drone strike: Iran Revolutionary Guards]]></title>
+            <description><![CDATA[The strait is the world's most vital oil export route, connecting the biggest Gulf oil producers, such as Saudi Arabia, Iran, Iraq and the UAE, with the Gulf of Oman and the Arabian Sea]]></description>
             <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/fuel-tanker-ablaze-strait-hormuz-after-drone-strike-iran-revolutionary-guards-4119226</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/fuel-tanker-ablaze-strait-hormuz-after-drone-strike-iran-revolutionary-guards-4119226</guid>
             <pubDate>Invalid Date</pubDate>
@@ -55,31 +29,65 @@
         </item>
         <item>
             <title><![CDATA[A promise to call, and a coffin yet to come]]></title>
+            <description><![CDATA[Missile strike in the UAE claims life of Bangladeshi driver; grieving family awaits repatriation]]></description>
             <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/promise-call-and-coffin-yet-come-4118951</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/promise-call-and-coffin-yet-come-4118951</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Reflection / The Empire and the performance of moral high ground]]></title>
-            <link>https://www.thedailystar.net/news-analysis/news/the-empire-and-the-performance-moral-high-ground-4118941</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news-analysis/news/the-empire-and-the-performance-moral-high-ground-4118941</guid>
+            <title><![CDATA[US embassy in Riyadh hit by two drones, Trump warns of longer war]]></title>
+            <description><![CDATA[Trump says that his attack on Iran could extend longer than a month]]></description>
+            <link>https://www.thedailystar.net/news/world/middle-east/news/us-embassy-riyadh-hit-two-drones-trump-warns-longer-war-4119366</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/us-embassy-riyadh-hit-two-drones-trump-warns-longer-war-4119366</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gulf states pledge safety of Bangladeshi expatriates amid conflict]]></title>
-            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/gulf-states-pledge-safety-bangladeshi-expatriates-amid-conflict-4118971</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/gulf-states-pledge-safety-bangladeshi-expatriates-amid-conflict-4118971</guid>
+            <title><![CDATA[Fresh Israel, Iran attacks across region: Latest developments in Middle East war]]></title>
+            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/fresh-israel-iran-attacks-across-region-latest-developments-middle-east-war-4119361</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/fresh-israel-iran-attacks-across-region-latest-developments-middle-east-war-4119361</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[US flagged tanker hit by unknown projectiles in Bahrain port]]></title>
-            <link>https://www.thedailystar.net/news/world/news/us-flagged-tanker-hit-unknown-projectiles-bahrain-port-4119061</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/us-flagged-tanker-hit-unknown-projectiles-bahrain-port-4119061</guid>
+            <title><![CDATA[Russia-Ukraine War / Over 100 Bangladeshis sent to the front, 34 dead: report]]></title>
+            <link>https://www.thedailystar.net/news/world/russian-invasion-ukraine/news/over-100-bangladeshis-sent-the-front-34-dead-report-4119266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/russian-invasion-ukraine/news/over-100-bangladeshis-sent-the-front-34-dead-report-4119266</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sworn in, still missing from govt portals]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/sworn-still-missing-govt-portals-4119041</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/sworn-still-missing-govt-portals-4119041</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flights scrapped, visa clock ticking]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/flights-scrapped-visa-clock-ticking-4119246</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/flights-scrapped-visa-clock-ticking-4119246</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tarakanda of Mymensingh / Rangsa river choked by silt, grabbers]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/rangsa-river-choked-silt-grabbers-4119071</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/rangsa-river-choked-silt-grabbers-4119071</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump's Republicans defend Iran strikes as Democrats push for war powers vote]]></title>
+            <link>https://www.thedailystar.net/news/world/news/trumps-republicans-defend-iran-strikes-democrats-push-war-powers-vote-4119371</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/trumps-republicans-defend-iran-strikes-democrats-push-war-powers-vote-4119371</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh Bank’s independence and the politics of transition]]></title>
+            <description><![CDATA[By Fahmida Khatun]]></description>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-banks-independence-and-the-politics-transition-4119176</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-banks-independence-and-the-politics-transition-4119176</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh’s statement on Iran: Measured words, high stakes]]></title>
-            <description><![CDATA[By Jannatul Naym Pieal]]></description>
+            <description><![CDATA[What the statement didn’t say is what really matters. It didn’t name the United States or Israel—the countries that launched the strikes without any provocation.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-statement-iran-measured-words-high-stakes-4118631</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-statement-iran-measured-words-high-stakes-4118631</guid>
             <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
@@ -87,7 +95,7 @@
         </item>
         <item>
             <title><![CDATA[BNP’s health agenda faces major execution challenges]]></title>
-            <description><![CDATA[For years, Bangladesh’s health sector has struggled with neglect.]]></description>
+            <description><![CDATA[By Shaikh Masudul Alam]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/bnps-health-agenda-faces-major-execution-challenges-4118241</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bnps-health-agenda-faces-major-execution-challenges-4118241</guid>
             <dc:creator><![CDATA[Shaikh Masudul Alam]]></dc:creator>
@@ -95,18 +103,10 @@
         </item>
         <item>
             <title><![CDATA[Are Trump’s visions for a new Iran achievable?]]></title>
-            <description><![CDATA[By Ramisa Rob]]></description>
+            <description><![CDATA[Trump told The New York Times that he had “three very good choices” in mind, regarding who could lead Iran. “I won’t be revealing them now. Let’s get the job done first,” he said. Trump also told The Atlantic, that he’s open to talk to Iranian leaders.]]></description>
             <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/are-trumps-visions-new-iran-achievable-4118781</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/are-trumps-visions-new-iran-achievable-4118781</guid>
             <dc:creator><![CDATA[Ramisa Rob]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What comes next for Iran?]]></title>
-            <description><![CDATA[If the current government survives in weakened form, reform is unlikely to follow automatically. Studies of regimes under siege show that external pressure often strengthens coercive institutions rather than weakening them.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/what-comes-next-iran-4118596</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/what-comes-next-iran-4118596</guid>
-            <dc:creator><![CDATA[Sanjida Bary]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -146,9 +146,9 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[100 DAYS TO GO  / The birth of the FIFA World Cup]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/the-birth-the-fifa-world-cup-4118966</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/the-birth-the-fifa-world-cup-4118966</guid>
+            <title><![CDATA[Chelsea boss Rosenior warns players over discipline]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/chelsea-boss-rosenior-warns-players-over-discipline-4119356</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/chelsea-boss-rosenior-warns-players-over-discipline-4119356</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
