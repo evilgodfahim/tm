@@ -4,47 +4,21 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Mar 2026 23:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 02:41:45 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 04 Mar 2026 23:37:12 GMT</pubDate>
+        <pubDate>Thu, 05 Mar 2026 02:41:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[Sitakunda child murder: Accused sent to jail after confessional statement]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/sitakunda-child-murder-accused-sent-jail-after-confessional-statement-4120831</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/sitakunda-child-murder-accused-sent-jail-after-confessional-statement-4120831</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh to open embassy in Argentina: Foreign minister]]></title>
-            <description><![CDATA[Two sides identify priority areas for enhanced cooperation]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-open-embassy-argentina-foreign-minister-4121001</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-open-embassy-argentina-foreign-minister-4121001</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Allen blitz leads New Zealand to crushing win over S Africa and T20 WC final]]></title>
-            <link>https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/allen-blitz-leads-new-zealand-crushing-win-over-s-africa-and-t20-wc-final-4120851</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/allen-blitz-leads-new-zealand-crushing-win-over-s-africa-and-t20-wc-final-4120851</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US trade deal safeguards national interest: Foreign minister]]></title>
-            <description><![CDATA[Trade agreement aligns with ‘Bangladesh First’ policy, says FM Khalilur]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/us-trade-deal-safeguards-national-interest-foreign-minister-4120696</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/us-trade-deal-safeguards-national-interest-foreign-minister-4120696</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At least 87 dead after US sinks Iranian warship]]></title>
-            <description><![CDATA[61 remain missing]]></description>
-            <link>https://www.thedailystar.net/news/world/news/least-87-dead-after-us-sinks-iranian-warship-4120811</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/least-87-dead-after-us-sinks-iranian-warship-4120811</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
         <item>
             <title><![CDATA[e-Health Card: What is it and how will it benefit you?]]></title>
             <link>https://www.thedailystar.net/news/governance/news/e-health-card-what-it-and-how-will-it-benefit-you-4120806</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/e-health-card-what-it-and-how-will-it-benefit-you-4120806</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[$10 oil price rise could add $80m to monthly bill]]></title>
+            <description><![CDATA[Bangladesh’s monthly import bill could rise by up to $80 million for every $10 increase in oil prices, as escalating conflict in the Middle East drives up global energy prices, according to the report prepared by BRAC EPL Stock Brokerage Ltd.]]></description>
+            <link>https://www.thedailystar.net/business/economy/news/10-oil-price-rise-could-add-80m-monthly-bill-4121086</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/10-oil-price-rise-could-add-80m-monthly-bill-4121086</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -55,26 +29,52 @@
         </item>
         <item>
             <title><![CDATA[Child rights groups express concern over 7-yr-old's murder in Sitakunda]]></title>
+            <description><![CDATA[The incident highlights growing threats to children’s safety, they said]]></description>
             <link>https://www.thedailystar.net/news-0/news/child-rights-groups-express-concern-over-7-yr-olds-murder-sitakunda-4121101</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/child-rights-groups-express-concern-over-7-yr-olds-murder-sitakunda-4121101</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Two injured in blast at AC repair shop in Dhaka]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/two-injured-blast-ac-repair-shop-dhaka-4121076</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/accidents-fires/news/two-injured-blast-ac-repair-shop-dhaka-4121076</guid>
+            <title><![CDATA[War spreads beyond Middle East]]></title>
+            <description><![CDATA[More nations were drawn into the widening war in the Middle East yesterday, as a US submarine torpedoed and sank an Iranian warship off the coast of Sri Lanka and Nato air defences intercepted a missile fired from Iran toward Turkish airspace.]]></description>
+            <link>https://www.thedailystar.net/news/world/middle-east/news/war-spreads-beyond-middle-east-4121241</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/war-spreads-beyond-middle-east-4121241</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tarique to launch Farmer Cards on April 14]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/tarique-launch-farmer-cards-april-14-4120736</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/tarique-launch-farmer-cards-april-14-4120736</guid>
+            <title><![CDATA[Nepal votes in key post-uprising polls]]></title>
+            <link>https://www.thedailystar.net/news/asia/news/nepal-votes-key-post-uprising-polls-4121256</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/asia/news/nepal-votes-key-post-uprising-polls-4121256</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Apple launches $599 MacBook Neo in push for lower-cost laptop]]></title>
-            <link>https://www.thedailystar.net/tech-startup/news/apple-launches-599-macbook-neo-push-lower-cost-laptop-4120766</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/tech-startup/news/apple-launches-599-macbook-neo-push-lower-cost-laptop-4120766</guid>
+            <title><![CDATA[Gulf states weigh response to Iranian strikes]]></title>
+            <link>https://www.thedailystar.net/news/world/middle-east/news/gulf-states-weigh-response-iranian-strikes-4121231</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/gulf-states-weigh-response-iranian-strikes-4121231</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Focus on energy security]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/focus-energy-security-4121211</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/focus-energy-security-4121211</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Senate backs Trump on Iran strikes, blocks bid to limit his war powers]]></title>
+            <link>https://www.thedailystar.net/news/world/usa/news/us-senate-backs-trump-iran-strikes-blocks-bid-limit-his-war-powers-4121261</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/usa/news/us-senate-backs-trump-iran-strikes-blocks-bid-limit-his-war-powers-4121261</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eid shopping frenzy grips Ctg]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/eid-shopping-frenzy-grips-ctg-4120936</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/eid-shopping-frenzy-grips-ctg-4120936</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[At least 87 dead after US sinks Iranian warship]]></title>
+            <link>https://www.thedailystar.net/news/world/news/least-87-dead-after-us-sinks-iranian-warship-4120811</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/least-87-dead-after-us-sinks-iranian-warship-4120811</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -130,15 +130,15 @@
             <pubDate>Tue, 03 Mar 2026 07:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[From Suez to Hormuz: A stress test for Bangladesh’s export logistics]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/suez-hormuz-stress-test-bangladeshs-export-logistics-4120041</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/suez-hormuz-stress-test-bangladeshs-export-logistics-4120041</guid>
-            <pubDate>Wed, 04 Mar 2026 00:06:00 GMT</pubDate>
+            <title><![CDATA[What the government must prioritise to tackle power and energy challenges]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/what-the-government-must-prioritise-tackle-power-and-energy-challenges-4120951</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-the-government-must-prioritise-tackle-power-and-energy-challenges-4120951</guid>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[$10 oil price rise could add $80m to monthly bill]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/10-oil-price-rise-could-add-80m-monthly-bill-4121086</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/10-oil-price-rise-could-add-80m-monthly-bill-4121086</guid>
+            <title><![CDATA[Vegetable exporters hit hard by Gulf airspace closure]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/vegetable-exporters-hit-hard-gulf-airspace-closure-4121081</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/vegetable-exporters-hit-hard-gulf-airspace-closure-4121081</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
