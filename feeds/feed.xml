@@ -4,14 +4,27 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 04:50:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 05:54:44 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Mar 2026 04:50:43 GMT</pubDate>
+        <pubDate>Thu, 05 Mar 2026 05:54:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Nepal votes in key post-uprising polls]]></title>
+            <link>https://www.thedailystar.net/news/asia/news/nepal-votes-key-post-uprising-polls-4121256</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/asia/news/nepal-votes-key-post-uprising-polls-4121256</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Gulf states weigh response to Iranian strikes]]></title>
+            <description><![CDATA[Gulf states are on the front line of the Middle East’s newest war, and they are not happy.]]></description>
             <link>https://www.thedailystar.net/news/world/middle-east/news/gulf-states-weigh-response-iranian-strikes-4121231</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/gulf-states-weigh-response-iranian-strikes-4121231</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['She's coming back': Djokovic predicts Serena return]]></title>
+            <link>https://www.thedailystar.net/sports/more-sports/tennis/news/shes-coming-back-djokovic-predicts-serena-return-4121316</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/tennis/news/shes-coming-back-djokovic-predicts-serena-return-4121316</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -19,19 +32,6 @@
             <description><![CDATA[Business leaders and experts called on the government to shift focus from conventional infrastructure to urgent energy investment and policy reform to protect the economy and jobs amid an anticipated global energy shock stemming from the war in the Middle East.]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/focus-energy-security-4121211</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/focus-energy-security-4121211</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Senate backs Trump on Iran strikes, blocks bid to limit his war powers]]></title>
-            <link>https://www.thedailystar.net/news/world/usa/news/us-senate-backs-trump-iran-strikes-blocks-bid-limit-his-war-powers-4121261</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/usa/news/us-senate-backs-trump-iran-strikes-blocks-bid-limit-his-war-powers-4121261</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Built for sports, used for markets]]></title>
-            <description><![CDATA[Sports enthusiasts allege that not a single day of sports has been held there in almost six years. Instead, the stadium witnesses a different scene every Saturday.]]></description>
-            <link>https://www.thedailystar.net/sports/more-sports/news/built-sports-used-markets-4121286</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/news/built-sports-used-markets-4121286</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -45,6 +45,12 @@
             <title><![CDATA[War in the Middle East: latest developments]]></title>
             <link>https://www.thedailystar.net/news/world/middle-east/news/war-the-middle-east-latest-developments-4121276</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/war-the-middle-east-latest-developments-4121276</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PM to launch 'Family Card' programme at Korail T&T Field on March 10]]></title>
+            <link>https://www.thedailystar.net/news/governance/news/pm-launch-family-card-programme-korail-tt-field-march-10-4121326</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/pm-launch-family-card-programme-korail-tt-field-march-10-4121326</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -69,12 +75,6 @@
             <title><![CDATA[Global economic resilience 'tested yet again' by Mideast war: IMF chief]]></title>
             <link>https://www.thedailystar.net/news/world/news/global-economic-resilience-tested-yet-again-mideast-war-imf-chief-4121301</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/global-economic-resilience-tested-yet-again-mideast-war-imf-chief-4121301</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nepal votes in key post-uprising polls]]></title>
-            <link>https://www.thedailystar.net/news/asia/news/nepal-votes-key-post-uprising-polls-4121256</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/asia/news/nepal-votes-key-post-uprising-polls-4121256</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -142,15 +142,15 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Arsenal stretch lead at top as Man City falter]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/arsenal-stretch-lead-top-man-city-falter-4121271</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/arsenal-stretch-lead-top-man-city-falter-4121271</guid>
+            <title><![CDATA[Women's Asian Cup / S.Korea on brink of quarterfinals after 3-0 win over Philippines]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/skorea-brink-quarterfinals-after-3-0-win-over-philippines-4121336</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/skorea-brink-quarterfinals-after-3-0-win-over-philippines-4121336</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Eid 2026: Leading ladies taking centre-stage]]></title>
-            <link>https://www.thedailystar.net/entertainment/news/eid-2026-leading-ladies-taking-centre-stage-4120756</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/news/eid-2026-leading-ladies-taking-centre-stage-4120756</guid>
+            <title><![CDATA[‘Prince’ to mark reopening of Bogura’s Modhuban Cineplex]]></title>
+            <link>https://www.thedailystar.net/entertainment/tv-film/news/prince-mark-reopening-boguras-modhuban-cineplex-4121311</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/tv-film/news/prince-mark-reopening-boguras-modhuban-cineplex-4121311</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
