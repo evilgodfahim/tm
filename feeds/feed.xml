@@ -4,35 +4,35 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 09:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 10:31:53 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Mar 2026 09:36:23 GMT</pubDate>
+        <pubDate>Sat, 07 Mar 2026 10:31:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[People overwhelm filling stations amid fear of supply crunch]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/people-overwhelm-filling-stations-amid-fear-supply-crunch-4122501</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/people-overwhelm-filling-stations-amid-fear-supply-crunch-4122501</guid>
+            <pubDate>Sat, 07 Mar 2026 03:21:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Russia is providing Iran intelligence to target US forces, Washington Post reports]]></title>
+            <description><![CDATA[Russia is providing Iran with targeting information that includes locations of US warships and aircraft in the Middle East, the Washington Post reported on Friday, citing three officials familiar with the intelligence]]></description>
             <link>https://www.thedailystar.net/news/world/middle-east/news/russia-providing-iran-intelligence-target-us-forces-washington-post-reports-4122711</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/russia-providing-iran-intelligence-target-us-forces-washington-post-reports-4122711</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran president says country will not surrender to Israel, US]]></title>
-            <description><![CDATA[Israel and the United States launched strikes against Iran on February, 28 killing the Islamic republic's supreme leader Ayatollah Ali Khamenei and triggering a regional conflict]]></description>
             <link>https://www.thedailystar.net/news/world/middle-east/news/iran-president-says-country-will-not-surrender-israel-us-4122791</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/iran-president-says-country-will-not-surrender-israel-us-4122791</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[National election: Record 16.91 lakh ballots rejected]]></title>
+            <description><![CDATA[An unprecedented number of ballots was rejected in the February 12 national polls.]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/national-election-record-1691-lakh-ballots-rejected-4122521</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/national-election-record-1691-lakh-ballots-rejected-4122521</guid>
             <pubDate>Sat, 07 Mar 2026 03:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[13th parliamentary polls: Women rights activists decry sharp decline in female representation]]></title>
-            <description><![CDATA[Say women received only 3.98% nominations, urge reforms to boost participation in politics]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/13th-parliamentary-polls-women-rights-activists-decry-sharp-decline-female-representation-4122751</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/13th-parliamentary-polls-women-rights-activists-decry-sharp-decline-female-representation-4122751</guid>
-            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / The speech that emboldened us all]]></title>
@@ -54,6 +54,12 @@
             <pubDate>Sat, 07 Mar 2026 00:24:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Flight disruptions persist as 346 intl flights cancelled at Dhaka, Ctg airports in 8 days]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/flight-disruptions-persist-346-intl-flights-cancelled-dhaka-ctg-airports-8-days-4122826</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/flight-disruptions-persist-346-intl-flights-cancelled-dhaka-ctg-airports-8-days-4122826</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dubai airport says 'partially' resumed operations]]></title>
             <link>https://www.thedailystar.net/news/world/news/dubai-airport-says-partially-reopens-operations-4122806</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/dubai-airport-says-partially-reopens-operations-4122806</guid>
@@ -72,14 +78,14 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[People overwhelm filling stations amid fear of supply crunch]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/people-overwhelm-filling-stations-amid-fear-supply-crunch-4122501</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/people-overwhelm-filling-stations-amid-fear-supply-crunch-4122501</guid>
-            <pubDate>Sat, 07 Mar 2026 03:21:00 GMT</pubDate>
+            <title><![CDATA[Is Cuba next for Trump?]]></title>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/cuba-next-trump-4122816</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/cuba-next-trump-4122816</guid>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[We must collectively stop tolerating preventable deaths]]></title>
-            <description><![CDATA[By Sabbir Ahmad]]></description>
+            <description><![CDATA[If our infrastructure is a threat, the ground beneath is a ticking clock, too.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/we-must-collectively-stop-tolerating-preventable-deaths-4122396</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-collectively-stop-tolerating-preventable-deaths-4122396</guid>
             <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
@@ -87,32 +93,23 @@
         </item>
         <item>
             <title><![CDATA[Fix the systemic loopholes to curb gender-based violence]]></title>
-            <description><![CDATA[Laws without protection will not save women and children from abuse]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/fix-the-systemic-loopholes-curb-gender-based-violence-4121801</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-the-systemic-loopholes-curb-gender-based-violence-4121801</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Without a Bangladesh wildlife service, our wildlife has no future]]></title>
-            <description><![CDATA[By Reza Khan]]></description>
+            <description><![CDATA[On March 3, as the world marked World Wildlife Day, Bangladesh was reminded of a structural question: can biodiversity survive under a revenue-oriented forest governance model?]]></description>
             <link>https://www.thedailystar.net/slow-reads/big-picture/news/without-bangladesh-wildlife-service-our-wildlife-has-no-future-4122431</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/without-bangladesh-wildlife-service-our-wildlife-has-no-future-4122431</guid>
             <dc:creator><![CDATA[Reza Khan]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gangster imperialism and the threat to global peace and security]]></title>
-            <description><![CDATA[The way a neighbourhood thug flaunts his power, boasts about violence, bullies at will, harasses, assaults, or kills—while proudly disregarding any law or rule—is eerily similar to what we are now witnessing from the president of the world’s most powerful state and his allies.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/gangster-imperialism-and-the-threat-global-peace-and-security-4121871</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/gangster-imperialism-and-the-threat-global-peace-and-security-4121871</guid>
-            <dc:creator><![CDATA[Anu Muhammad]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Decay threatens 250-yr-old Lalmonirhat mosque]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/decay-threatens-250-yr-old-lalmonirhat-mosque-4122526</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/decay-threatens-250-yr-old-lalmonirhat-mosque-4122526</guid>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Sat, 07 Mar 2026 03:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Who is Balen Shah? Nepal's rapper-mayor poised to become PM]]></title>
@@ -314,7 +311,7 @@
             <title><![CDATA[Today's Gallery (2026.03.07)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260307-4122591</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260307-4122591</guid>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Sat, 07 Mar 2026 03:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Today's Gallery (2026.03.06)]]></title>
