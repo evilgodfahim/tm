@@ -6,21 +6,17 @@ const RSS = require("rss");
 const baseURL = "https://www.thedailystar.net";
 const targetURL = "https://www.thedailystar.net/";
 const flareSolverrURL = process.env.FLARESOLVERR_URL || "http://localhost:8191";
+const FEED_PATH = "./feeds/feed.xml";
+const MAX_ITEMS = 500;
 
 fs.mkdirSync("./feeds", { recursive: true });
 
 // ===== DATE PARSING =====
-/**
- * Try to produce a valid Date from whatever the scraper finds.
- * Falls back to now() so feed.item() always gets a real Date object
- * and never writes "Invalid Date" into the XML.
- */
 function parseItemDate(raw) {
   if (!raw || !raw.trim()) return new Date();
 
   const trimmed = raw.trim();
 
-  // Relative: "2 hours ago", "30 minutes ago", "1 day ago"
   const relMatch = trimmed.match(/^(\d+)\s+(minute|hour|day)s?\s+ago$/i);
   if (relMatch) {
     const n    = parseInt(relMatch[1], 10);
@@ -31,13 +27,49 @@ function parseItemDate(raw) {
     return new Date(Date.now() - ms);
   }
 
-  // Attempt native parse (handles RFC 2822, ISO 8601, etc.)
   const d = new Date(trimmed);
   if (!isNaN(d.getTime())) return d;
 
-  // Nothing worked — use now so we never emit "Invalid Date"
   console.warn(`⚠️  Could not parse date: "${trimmed}" — using now()`);
   return new Date();
+}
+
+// ===== LOAD EXISTING ITEMS FROM FEED =====
+function loadExistingItems() {
+  if (!fs.existsSync(FEED_PATH)) return [];
+
+  try {
+    const xml = fs.readFileSync(FEED_PATH, "utf-8");
+    const $ = cheerio.load(xml, { xmlMode: true });
+    const items = [];
+
+    $("item").each((_, el) => {
+      const $el   = $(el);
+      const title = $el.find("title").first().text().trim();
+      const link  = $el.find("link").first().text().trim()
+                 || $el.find("guid").first().text().trim();
+      const desc  = $el.find("description").first().text().trim();
+      const author = $el.find("author").first().text().trim()
+                  || $el.find("dc\\:creator").first().text().trim();
+      const pubDate = $el.find("pubDate").first().text().trim();
+
+      if (!title || !link) return;
+
+      items.push({
+        title,
+        link,
+        description: desc,
+        author,
+        date: parseItemDate(pubDate),
+      });
+    });
+
+    console.log(`📂 Loaded ${items.length} existing items from feed`);
+    return items;
+  } catch (err) {
+    console.warn(`⚠️  Could not parse existing feed: ${err.message} — starting fresh`);
+    return [];
+  }
 }
 
 // ===== FLARESOLVERR =====
@@ -60,8 +92,8 @@ async function generateRSS() {
   try {
     const htmlContent = await fetchWithFlareSolverr(targetURL);
     const $ = cheerio.load(htmlContent);
-    const items = [];
-    const seen  = new Set();
+    const newItems = [];
+    const seen = new Set();
 
     $("div.card").each((_, el) => {
       const $card = $(el);
@@ -75,25 +107,40 @@ async function generateRSS() {
       if (seen.has(link)) return;
       seen.add(link);
 
-      const intro  = $card.find("div.card-intro").text().trim()
-                  || $card.find("p.intro").text().trim();
-      const author = $card.find("div.author a").text().trim();
+      const intro   = $card.find("div.card-intro").text().trim()
+                   || $card.find("p.intro").text().trim();
+      const author  = $card.find("div.author a").text().trim();
       const rawDate = $card.find("div.card-info span").first().text().trim();
 
-      items.push({
+      newItems.push({
         title,
         link,
         description: intro || (author ? `By ${author}` : ""),
         author,
-        date: parseItemDate(rawDate),   // always a valid Date object
+        date: parseItemDate(rawDate),
       });
     });
 
-    console.log(`Found ${items.length} articles`);
+    console.log(`🆕 Scraped ${newItems.length} articles from page`);
 
-    if (items.length === 0) {
-      console.log("⚠️  No articles found, creating placeholder item");
-      items.push({
+    // ===== MERGE: new items take priority; deduplicate by link =====
+    const existingItems = loadExistingItems();
+    const existingByLink = new Map(existingItems.map(i => [i.link, i]));
+
+    // Insert/overwrite with fresh scraped data
+    for (const item of newItems) {
+      existingByLink.set(item.link, item);
+    }
+
+    // Sort newest-first, cap at MAX_ITEMS
+    const merged = [...existingByLink.values()]
+      .sort((a, b) => b.date - a.date)
+      .slice(0, MAX_ITEMS);
+
+    console.log(`📦 Total items after merge: ${merged.length}`);
+
+    if (merged.length === 0) {
+      merged.push({
         title:       "No articles found yet",
         link:        baseURL,
         description: "RSS feed could not scrape any articles.",
@@ -111,23 +158,30 @@ async function generateRSS() {
       pubDate:     new Date().toUTCString(),
     });
 
-    items.forEach(item => {
+    merged.forEach(item => {
       feed.item({
         title:       item.title,
         url:         item.link,
         description: item.description,
         author:      item.author || undefined,
-        date:        item.date,             // Date object → RFC 2822, never "Invalid Date"
+        date:        item.date,
       });
     });
 
     const xml = feed.xml({ indent: true });
-    fs.writeFileSync("./feeds/feed.xml", xml);
-    console.log(`✅ RSS generated with ${items.length} items.`);
+    fs.writeFileSync(FEED_PATH, xml);
+    console.log(`✅ RSS written with ${merged.length} items (max ${MAX_ITEMS}).`);
 
   } catch (err) {
     console.error("❌ Error generating RSS:", err.message);
 
+    // On scrape failure: preserve existing feed untouched if it exists
+    if (fs.existsSync(FEED_PATH)) {
+      console.log("⚠️  Scrape failed — existing feed preserved as-is.");
+      return;
+    }
+
+    // No existing feed either — write placeholder
     const feed = new RSS({
       title:       "The Daily Star (error fallback)",
       description: "RSS feed could not scrape, showing placeholder",
@@ -142,7 +196,7 @@ async function generateRSS() {
       description: "An error occurred during scraping.",
       date:        new Date(),
     });
-    fs.writeFileSync("./feeds/feed.xml", feed.xml({ indent: true }));
+    fs.writeFileSync(FEED_PATH, feed.xml({ indent: true }));
   }
 }
 
