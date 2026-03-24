@@ -4,10 +4,28 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 17:00:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 19:49:17 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Mar 2026 17:00:53 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 19:49:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
+            <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
+            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
+            <pubDate>Tue, 24 Mar 2026 19:49:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jesper Brodin]]></title>
+            <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
+            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
+            <pubDate>Tue, 24 Mar 2026 19:49:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stella McCartney]]></title>
+            <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
+            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
+            <pubDate>Tue, 24 Mar 2026 19:49:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ballet Isn't Dead, But Timothée Chalamet Might Have a Point]]></title>
             <link>https://time.com/7383265/timothee-chalamet-ballet-opera/</link>
@@ -37,24 +55,6 @@
             <pubDate>Tue, 24 Mar 2026 17:00:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
-            <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
-            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Tue, 24 Mar 2026 17:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jesper Brodin]]></title>
-            <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
-            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Tue, 24 Mar 2026 17:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stella McCartney]]></title>
-            <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
-            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Tue, 24 Mar 2026 17:00:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['No Kings' Protests May Draw Largest Anti-Trump Crowd Ever]]></title>
             <description><![CDATA[Trump has the highest disapproval rating of any President at this point in his presidency in this century.]]></description>
             <link>https://time.com/article/2026/03/24/no-kings-protests-march-28-biggest-anti-trump-crowds-ever/</link>
@@ -78,6 +78,20 @@
             <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Zelensky Accuses Russia of Providing Intelligence to Iran]]></title>
+            <link>https://time.com/article/2026/03/24/zelensky-accuses-russia-intelligence-sharing-iran-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/24/zelensky-accuses-russia-intelligence-sharing-iran-war/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I Served in Baghdad. Trump is Repeating the Mistakes of Iraq.]]></title>
+            <link>https://time.com/article/2026/03/24/iran-war-trump-mistake-iraq-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/24/iran-war-trump-mistake-iraq-/</guid>
+            <dc:creator><![CDATA[Frederic Wehrey]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No articles found yet]]></title>
             <description><![CDATA[RSS feed could not scrape any articles.]]></description>
             <link>https://time.com</link>
@@ -88,7 +102,7 @@
             <title><![CDATA[Markwayne Mullin Confirmed as Homeland Security Secretary]]></title>
             <link>https://time.com/article/2026/03/23/mullin-dhs-confirmed-senate-shutdown-noem-tsa-ice/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/23/mullin-dhs-confirmed-senate-shutdown-noem-tsa-ice/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -109,7 +123,6 @@
             <title><![CDATA[Iranians Alarmed by Trump’s Threat to Strike Power Plants]]></title>
             <link>https://time.com/article/2026/03/23/iranians-react-trump-threat-strike-power-plants/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/23/iranians-react-trump-threat-strike-power-plants/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -145,6 +158,20 @@
             <link>https://time.com/article/2026/03/23/first-nations-hydropower-new-york-city/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/23/first-nations-hydropower-new-york-city/</guid>
             <category><![CDATA[Climate]]></category>
+            <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The WNBA is Taking Off. What Took So Long?]]></title>
+            <link>https://time.com/article/2026/03/23/the-wnba-is-taking-off-what-took-so-long-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/23/the-wnba-is-taking-off-what-took-so-long-/</guid>
+            <dc:creator><![CDATA[Keia Clarke]]></dc:creator>
+            <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the SAVE America Act Hurts Disabled Voters]]></title>
+            <link>https://time.com/article/2026/03/23/how-the-save-america-act-hurts-disabled-voters/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/23/how-the-save-america-act-hurts-disabled-voters/</guid>
+            <dc:creator><![CDATA[Naomi Hess]]></dc:creator>
             <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
