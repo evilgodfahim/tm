@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const fs = require("fs");
 const axios = require("axios");
 const cheerio = require("cheerio");
@@ -20,6 +22,15 @@ function extractDateFromURL(href) {
     const d = new Date(`${m[1]}-${m[2]}-${m[3]}T12:00:00Z`);
     if (!isNaN(d.getTime())) return d;
   }
+
+  // Also support TIME's numeric article pages like:
+  // https://time.com/7383185/some-slug/
+  const n = (href || "").match(/time\.com\/(\d{6,})\//);
+  if (n) {
+    const d = new Date();
+    if (!isNaN(d.getTime())) return d;
+  }
+
   return null;
 }
 
@@ -29,11 +40,12 @@ function parseItemDate(raw) {
 
   const relMatch = trimmed.match(/^(\d+)\s+(minute|hour|day)s?\s+ago$/i);
   if (relMatch) {
-    const n    = parseInt(relMatch[1], 10);
+    const n = parseInt(relMatch[1], 10);
     const unit = relMatch[2].toLowerCase();
-    const ms   = unit === "minute" ? n * 60_000
-               : unit === "hour"   ? n * 3_600_000
-               :                     n * 86_400_000;
+    const ms =
+      unit === "minute" ? n * 60_000 :
+      unit === "hour" ? n * 3_600_000 :
+      n * 86_400_000;
     return new Date(Date.now() - ms);
   }
 
@@ -54,11 +66,11 @@ function loadExistingItems() {
     const items = [];
 
     $("item").each((_, el) => {
-      const $el    = $(el);
-      const title  = $el.find("title").first().text().trim();
-      const link   = $el.find("link").first().text().trim()
-                  || $el.find("guid").first().text().trim();
-      const desc   = $el.find("description").first().text().trim();
+      const $el = $(el);
+      const title = $el.find("title").first().text().trim();
+      const link = $el.find("link").first().text().trim()
+                || $el.find("guid").first().text().trim();
+      const desc = $el.find("description").first().text().trim();
       const author = $el.find("author").first().text().trim()
                   || $el.find("dc\\:creator").first().text().trim();
       const pubDate = $el.find("pubDate").first().text().trim();
@@ -90,40 +102,36 @@ async function fetchWithFlareSolverr(url) {
     { cmd: "request.get", url, maxTimeout: 60000 },
     { headers: { "Content-Type": "application/json" }, timeout: 65000 }
   );
+
   if (response.data?.solution) {
     console.log("✅ FlareSolverr successfully bypassed protection");
     return response.data.solution.response;
   }
+
   throw new Error("FlareSolverr did not return a solution");
 }
 
-// ===== SCRAPE TIME.COM ARTICLES =====
-// TIME homepage renders every article inside an <article> element.
-// Structure (all sections: Your Brief, Story Showcase, People, Voices):
-//
-//   <article>
-//     <h1|h2|h3|h4  class="...font-editorial...">
-//       <a href="/article/YYYY/MM/DD/slug/">
-//         <span>Title text</span>   ← or direct text
-//       </a>
-//     </h1|h2|h3|h4>
-//     <p class="...text-caption-large...">Description…</p>
-//     <p class="...text-grey-1...">by Author Name</p>
-//     <a class="...rounded-2...">Category pill</a>   ← optional
-//   </article>
-//
-// Date is parsed from the URL; category pill gives the section tag.
+function isLikelyTimeArticleLink(link) {
+  if (!link) return false;
 
+  // Accept:
+  // 1) /article/YYYY/MM/DD/slug/
+  // 2) /collection/.../story/
+  // 3) /7383185/slug/ style pages
+  // 4) absolute versions of the above
+  return /time\.com\/(?:article\/\d{4}\/\d{2}\/\d{2}\/|collection\/|[0-9]{6,}\/)/.test(link);
+}
+
+// ===== SCRAPE TIME.COM ARTICLES =====
 function scrapeArticles(htmlContent) {
   const $ = cheerio.load(htmlContent);
   const items = [];
-  const seen  = new Set();
+  const seen = new Set();
 
   $("article").each((_, el) => {
     const $card = $(el);
 
-    // ── Title + link ──────────────────────────────────────────────
-    // Find the first heading that has the TIME editorial font class.
+    // Title + link
     const $heading = $card
       .find("h1, h2, h3, h4, h5")
       .filter((_, h) => ($(h).attr("class") || "").includes("font-editorial"))
@@ -134,7 +142,6 @@ function scrapeArticles(htmlContent) {
     const $anchor = $heading.find("a[href]").first();
     if (!$anchor.length) return;
 
-    // Title lives either inside a <span> child or as direct text
     const title = $anchor.find("span").first().text().trim()
                || $anchor.text().trim();
     if (!title) return;
@@ -142,15 +149,15 @@ function scrapeArticles(htmlContent) {
     const href = $anchor.attr("href");
     if (!href) return;
 
-    // Skip section/tag index pages — keep only real article paths
-    const isArticle = /^\/(article|collection|[0-9])/.test(href);
-    if (!isArticle) return;
-
     const link = href.startsWith("http") ? href : baseURL + href;
+
+    // Important: check the normalized absolute URL, not the raw href only.
+    if (!isLikelyTimeArticleLink(link)) return;
+
     if (seen.has(link)) return;
     seen.add(link);
 
-    // ── Description ───────────────────────────────────────────────
+    // Description
     const description = $card
       .find("p")
       .filter((_, p) => ($(p).attr("class") || "").includes("text-caption-large"))
@@ -158,9 +165,7 @@ function scrapeArticles(htmlContent) {
       .text()
       .trim();
 
-    // ── Author ────────────────────────────────────────────────────
-    // Primary: <p class="...text-grey-1...">by John Doe</p>
-    // Fallback: <span class=""> inside a <ul> (Voices section author list)
+    // Author
     let author = $card
       .find("p")
       .filter((_, p) => ($(p).attr("class") || "").includes("text-grey-1"))
@@ -170,22 +175,23 @@ function scrapeArticles(htmlContent) {
       .replace(/^by\s+/i, "");
 
     if (!author) {
-      // Voices section: li > span (not italic "By" span)
       $card.find("li").each((_, li) => {
         const spans = $(li).find("span");
         spans.each((__, sp) => {
           const cls = $(sp).attr("class") || "";
           if (!cls.includes("italic")) {
             const t = $(sp).text().trim();
-            if (t) { author = t; return false; }
+            if (t) {
+              author = t;
+              return false;
+            }
           }
         });
         if (author) return false;
       });
     }
 
-    // ── Category ──────────────────────────────────────────────────
-    // Category pills are <a> tags styled with rounded-2 (e.g. "World", "U.S.")
+    // Category
     const category = $card
       .find("a")
       .filter((_, a) => ($(a).attr("class") || "").includes("rounded-2"))
@@ -193,9 +199,8 @@ function scrapeArticles(htmlContent) {
       .text()
       .trim();
 
-    // ── Date ──────────────────────────────────────────────────────
-    // Best source: the URL itself — /article/YYYY/MM/DD/slug/
-    const date = extractDateFromURL(href) || new Date();
+    // Date
+    const date = extractDateFromURL(link) || extractDateFromURL(href) || new Date();
 
     items.push({ title, link, description, author, category, date });
   });
@@ -211,9 +216,9 @@ async function generateRSS() {
 
     console.log(`🆕 Scraped ${newItems.length} articles from TIME homepage`);
 
-    // ===== MERGE: new items take priority; deduplicate by link =====
-    const existingItems   = loadExistingItems();
-    const existingByLink  = new Map(existingItems.map(i => [i.link, i]));
+    // Merge: new items take priority; deduplicate by link
+    const existingItems = loadExistingItems();
+    const existingByLink = new Map(existingItems.map(i => [i.link, i]));
 
     for (const item of newItems) {
       existingByLink.set(item.link, item);
@@ -227,38 +232,37 @@ async function generateRSS() {
 
     if (merged.length === 0) {
       merged.push({
-        title:       "No articles found yet",
-        link:        baseURL,
+        title: "No articles found yet",
+        link: baseURL,
         description: "RSS feed could not scrape any articles.",
-        author:      "",
-        date:        new Date(),
+        author: "",
+        date: new Date(),
       });
     }
 
     const feed = new RSS({
-      title:       "TIME Magazine",
+      title: "TIME Magazine",
       description: "Breaking news and analysis from TIME",
-      feed_url:    `${baseURL}/feed`,
-      site_url:    baseURL,
-      language:    "en",
-      pubDate:     new Date().toUTCString(),
+      feed_url: `${baseURL}/feed`,
+      site_url: baseURL,
+      language: "en",
+      pubDate: new Date().toUTCString(),
     });
 
     merged.forEach(item => {
       feed.item({
-        title:       item.title,
-        url:         item.link,
+        title: item.title,
+        url: item.link,
         description: item.description || undefined,
-        author:      item.author      || undefined,
-        categories:  item.category    ? [item.category] : undefined,
-        date:        item.date,
+        author: item.author || undefined,
+        categories: item.category ? [item.category] : undefined,
+        date: item.date,
       });
     });
 
     const xml = feed.xml({ indent: true });
     fs.writeFileSync(FEED_PATH, xml);
     console.log(`✅ RSS written with ${merged.length} items (max ${MAX_ITEMS}).`);
-
   } catch (err) {
     console.error("❌ Error generating RSS:", err.message);
 
@@ -267,21 +271,22 @@ async function generateRSS() {
       return;
     }
 
-    // No existing feed — write placeholder
     const feed = new RSS({
-      title:       "TIME Magazine (error fallback)",
+      title: "TIME Magazine (error fallback)",
       description: "RSS feed could not scrape, showing placeholder",
-      feed_url:    `${baseURL}/feed`,
-      site_url:    baseURL,
-      language:    "en",
-      pubDate:     new Date().toUTCString(),
+      feed_url: `${baseURL}/feed`,
+      site_url: baseURL,
+      language: "en",
+      pubDate: new Date().toUTCString(),
     });
+
     feed.item({
-      title:       "Feed generation failed",
-      url:         baseURL,
+      title: "Feed generation failed",
+      url: baseURL,
       description: "An error occurred during scraping.",
-      date:        new Date(),
+      date: new Date(),
     });
+
     fs.writeFileSync(FEED_PATH, feed.xml({ indent: true }));
   }
 }
