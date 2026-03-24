@@ -4,27 +4,27 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 20:33:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 21:30:28 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Mar 2026 20:33:42 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 21:30:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Tue, 24 Mar 2026 20:33:42 GMT</pubDate>
+            <pubDate>Tue, 24 Mar 2026 21:30:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Tue, 24 Mar 2026 20:33:42 GMT</pubDate>
+            <pubDate>Tue, 24 Mar 2026 21:30:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Tue, 24 Mar 2026 20:33:42 GMT</pubDate>
+            <pubDate>Tue, 24 Mar 2026 21:30:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ballet Isn't Dead, But Timothée Chalamet Might Have a Point]]></title>
@@ -71,7 +71,6 @@
         </item>
         <item>
             <title><![CDATA[Iran Vows to Fight 'Until Complete Victory']]></title>
-            <description><![CDATA[Iran launched fresh strikes against Israel after disputing Trump's mention of peace talks.]]></description>
             <link>https://time.com/article/2026/03/24/iran-israel-trade-strikes-trump-war-peace-talks-disputed/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/24/iran-israel-trade-strikes-trump-war-peace-talks-disputed/</guid>
             <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
@@ -81,7 +80,7 @@
             <title><![CDATA[Zelensky Accuses Russia of Providing Intelligence to Iran]]></title>
             <link>https://time.com/article/2026/03/24/zelensky-accuses-russia-intelligence-sharing-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/24/zelensky-accuses-russia-intelligence-sharing-iran-war/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <category><![CDATA[World]]></category>
             <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -89,6 +88,28 @@
             <link>https://time.com/article/2026/03/24/iran-war-trump-mistake-iraq-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/24/iran-war-trump-mistake-iraq-/</guid>
             <dc:creator><![CDATA[Frederic Wehrey]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The U.S. Is Deploying Marines to the Middle East. Here’s What They Could Be Used For]]></title>
+            <description><![CDATA[The deployment comes even as top Trump officials are reportedly engaged in talks to end the war.]]></description>
+            <link>https://time.com/article/2026/03/24/marines-deployed-iran-war-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/24/marines-deployed-iran-war-trump/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Are Airport Wait Times So Long?]]></title>
+            <link>https://time.com/article/2026/03/24/airport-wait-times-security-lines-tsa-ice-dhs-shutdown/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/24/airport-wait-times-security-lines-tsa-ice-dhs-shutdown/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who Is Replacing Markwayne Mullin in the Senate?]]></title>
+            <link>https://time.com/article/2026/03/24/markwayne-mullin-senate-oklahoma-alan-armstrong/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/24/markwayne-mullin-senate-oklahoma-alan-armstrong/</guid>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -102,14 +123,13 @@
             <title><![CDATA[Markwayne Mullin Confirmed as Homeland Security Secretary]]></title>
             <link>https://time.com/article/2026/03/23/mullin-dhs-confirmed-senate-shutdown-noem-tsa-ice/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/23/mullin-dhs-confirmed-senate-shutdown-noem-tsa-ice/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TSA Workers Outraged by ICE Agents at Airports]]></title>
             <link>https://time.com/article/2026/03/23/tsa-agents-ice-airports-trump-dhs-reactions/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/23/tsa-agents-ice-airports-trump-dhs-reactions/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -136,14 +156,12 @@
             <title><![CDATA[What to Know About the Air Canada Jet Collision]]></title>
             <link>https://time.com/article/2026/03/23/air-canada-plane-collision-laguardia-new-york-fatalities-investigation/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/23/air-canada-plane-collision-laguardia-new-york-fatalities-investigation/</guid>
-            <category><![CDATA[U.S.]]></category>
             <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What Exactly Will ICE Do at Airports?]]></title>
             <link>https://time.com/article/2026/03/23/ice-airports-homan-duffy-trump-administration/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/23/ice-airports-homan-duffy-trump-administration/</guid>
-            <category><![CDATA[U.S.]]></category>
             <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
