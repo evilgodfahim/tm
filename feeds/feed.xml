@@ -4,27 +4,35 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 09:44:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 10:40:42 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Mar 2026 09:44:21 GMT</pubDate>
+        <pubDate>Wed, 25 Mar 2026 10:40:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[TSA Funding Shortage Traps Passengers in Long Airport Lines]]></title>
+            <description><![CDATA[A regular traveler from the Houston George Bush Intercontinental Airport described the situation as “the worst it’s ever been.”]]></description>
+            <link>https://time.com/article/2026/03/25/tsa-long-lines-airports/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/25/tsa-long-lines-airports/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Wed, 25 Mar 2026 09:44:21 GMT</pubDate>
+            <pubDate>Wed, 25 Mar 2026 10:40:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Wed, 25 Mar 2026 09:44:21 GMT</pubDate>
+            <pubDate>Wed, 25 Mar 2026 10:40:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Wed, 25 Mar 2026 09:44:21 GMT</pubDate>
+            <pubDate>Wed, 25 Mar 2026 10:40:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ballet Isn't Dead, But Timothée Chalamet Might Have a Point]]></title>
@@ -66,7 +74,6 @@
             <title><![CDATA[Who Is Mohammed-Baqer Qalibaf?]]></title>
             <link>https://time.com/article/2026/03/24/iran-war-mohammed-baqer-qalibaf-leader-biography-tehran-mayor-speaker/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/24/iran-war-mohammed-baqer-qalibaf-leader-biography-tehran-mayor-speaker/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -92,10 +99,9 @@
         </item>
         <item>
             <title><![CDATA[The U.S. Is Deploying Marines to the Middle East. Here’s What They Could Be Used For]]></title>
-            <description><![CDATA[The deployment comes even as top Trump officials are reportedly engaged in talks to end the war.]]></description>
             <link>https://time.com/article/2026/03/24/marines-deployed-iran-war-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/24/marines-deployed-iran-war-trump/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <category><![CDATA[World]]></category>
             <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -110,6 +116,20 @@
             <link>https://time.com/article/2026/03/24/markwayne-mullin-senate-oklahoma-alan-armstrong/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/24/markwayne-mullin-senate-oklahoma-alan-armstrong/</guid>
             <category><![CDATA[Politics]]></category>
+            <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Conservative Case for Protecting the Environment]]></title>
+            <link>https://time.com/article/2026/03/24/the-conservative-case-for-protecting-the-environment/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/24/the-conservative-case-for-protecting-the-environment/</guid>
+            <dc:creator><![CDATA[Matthew Roling]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poor Countries Will Suffer 90% of Heat-Related Deaths By 2050]]></title>
+            <link>https://time.com/article/2026/03/24/climate-heat-deaths-poor-nations-research/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/24/climate-heat-deaths-poor-nations-research/</guid>
+            <category><![CDATA[Climate]]></category>
             <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -129,7 +149,6 @@
             <title><![CDATA[TSA Workers Outraged by ICE Agents at Airports]]></title>
             <link>https://time.com/article/2026/03/23/tsa-agents-ice-airports-trump-dhs-reactions/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/23/tsa-agents-ice-airports-trump-dhs-reactions/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
