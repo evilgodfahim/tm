@@ -4,27 +4,27 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 17:51:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 18:45:17 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Mar 2026 17:51:51 GMT</pubDate>
+        <pubDate>Wed, 25 Mar 2026 18:45:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Wed, 25 Mar 2026 17:51:51 GMT</pubDate>
+            <pubDate>Wed, 25 Mar 2026 18:45:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Wed, 25 Mar 2026 17:51:51 GMT</pubDate>
+            <pubDate>Wed, 25 Mar 2026 18:45:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Wed, 25 Mar 2026 17:51:51 GMT</pubDate>
+            <pubDate>Wed, 25 Mar 2026 18:45:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TSA Funding Shortage Traps Passengers in Long Airport Lines]]></title>
@@ -46,6 +46,13 @@
             <link>https://time.com/article/2026/03/25/republican-rand-paul-voted-against-iran-war-powers-resolution/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/25/republican-rand-paul-voted-against-iran-war-powers-resolution/</guid>
             <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet Emily Gregory, the Democrat Who Flipped Trump’s Mar-a-Lago District]]></title>
+            <link>https://time.com/article/2026/03/25/emily-gregory-mar-a-lago-trump-district-florida-state-house/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/25/emily-gregory-mar-a-lago-trump-district-florida-state-house/</guid>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -94,7 +101,6 @@
             <title><![CDATA[Iran Vows to Fight 'Until Complete Victory']]></title>
             <link>https://time.com/article/2026/03/24/iran-israel-trade-strikes-trump-war-peace-talks-disputed/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/24/iran-israel-trade-strikes-trump-war-peace-talks-disputed/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -122,14 +128,13 @@
             <title><![CDATA[Why Are Airport Wait Times So Long?]]></title>
             <link>https://time.com/article/2026/03/24/airport-wait-times-security-lines-tsa-ice-dhs-shutdown/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/24/airport-wait-times-security-lines-tsa-ice-dhs-shutdown/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <category><![CDATA[U.S.]]></category>
             <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Who Is Replacing Markwayne Mullin in the Senate?]]></title>
             <link>https://time.com/article/2026/03/24/markwayne-mullin-senate-oklahoma-alan-armstrong/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/24/markwayne-mullin-senate-oklahoma-alan-armstrong/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -143,6 +148,13 @@
             <title><![CDATA[Poor Countries Could Suffer 90% of Heat-Related Deaths By 2050]]></title>
             <link>https://time.com/article/2026/03/24/climate-heat-deaths-poor-nations-research/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/24/climate-heat-deaths-poor-nations-research/</guid>
+            <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lawmakers’ Special Services at Airports in the Crosshairs]]></title>
+            <link>https://time.com/article/2026/03/24/air-travel-congress-tsa-security-lines-delta-dhs-shutdown/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/24/air-travel-congress-tsa-security-lines-delta-dhs-shutdown/</guid>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -200,7 +212,6 @@
             <title><![CDATA[Trump Poised to Skip CPAC For First Time in a Decade]]></title>
             <link>https://time.com/article/2026/03/23/trump-poised-to-skip-cpac-for-first-time-in-a-decade/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/23/trump-poised-to-skip-cpac-for-first-time-in-a-decade/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
