@@ -4,41 +4,48 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 14:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 16:02:17 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Mar 2026 14:14:29 GMT</pubDate>
+        <pubDate>Wed, 25 Mar 2026 16:02:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Wed, 25 Mar 2026 14:14:29 GMT</pubDate>
+            <pubDate>Wed, 25 Mar 2026 16:02:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Wed, 25 Mar 2026 14:14:29 GMT</pubDate>
+            <pubDate>Wed, 25 Mar 2026 16:02:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Wed, 25 Mar 2026 14:14:29 GMT</pubDate>
+            <pubDate>Wed, 25 Mar 2026 16:02:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TSA Funding Shortage Traps Passengers in Long Airport Lines]]></title>
-            <description><![CDATA[A regular traveler from the Houston George Bush Intercontinental Airport described the situation as “the worst it’s ever been.”]]></description>
             <link>https://time.com/article/2026/03/25/tsa-long-lines-airports/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/25/tsa-long-lines-airports/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trump Admin Sends Peace Proposal to Iran: What to Know]]></title>
+            <title><![CDATA[What to Know About Trump’s 15-Point Peace Plan After Iran’s Rejection]]></title>
+            <description><![CDATA[Iran has rejected a U.S.-backed 15-point peace proposal aimed at ending the conflict. Here is what we know about the plan.]]></description>
             <link>https://time.com/article/2026/03/25/trump-peace-proposal-us-iran-war-israel-pakistan/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/25/trump-peace-proposal-us-iran-war-israel-pakistan/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Lone Republican Who Voted In Support of Limiting Trump's War Powers on Iran]]></title>
+            <link>https://time.com/article/2026/03/25/republican-rand-paul-voted-against-iran-war-powers-resolution/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/25/republican-rand-paul-voted-against-iran-war-powers-resolution/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
