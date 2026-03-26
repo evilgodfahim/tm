@@ -4,27 +4,55 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 12:54:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 14:22:02 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Mar 2026 12:54:54 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 14:22:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Thu, 26 Mar 2026 12:54:54 GMT</pubDate>
+            <pubDate>Thu, 26 Mar 2026 14:22:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Thu, 26 Mar 2026 12:54:54 GMT</pubDate>
+            <pubDate>Thu, 26 Mar 2026 14:22:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Thu, 26 Mar 2026 12:54:54 GMT</pubDate>
+            <pubDate>Thu, 26 Mar 2026 14:22:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SpaceX's Gwynne Shotwell Aims to Put AI on the Moon]]></title>
+            <link>https://time.com/article/2026/03/26/gwynne-shotwell-profile/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/26/gwynne-shotwell-profile/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Read TIME's Full Interview with SpaceX's Gwynne Shotwell]]></title>
+            <link>https://time.com/article/2026/03/26/spacex-gwynne-shotwell-full-interview/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/26/spacex-gwynne-shotwell-full-interview/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Manosphere is Lying About Who Built Society]]></title>
+            <link>https://time.com/article/2026/03/26/the-manosphere-is-lying-about-who-built-society/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/26/the-manosphere-is-lying-about-who-built-society/</guid>
+            <dc:creator><![CDATA[John Hope Bryant]]></dc:creator>
+            <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Latest Polls Show Americans Continue to Disapprove of U.S.-Iran War]]></title>
+            <link>https://time.com/article/2026/03/26/us-iran-war-poll-americans-public-opinion-approve-democrats-republicans/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/26/us-iran-war-poll-americans-public-opinion-approve-democrats-republicans/</guid>
+            <category><![CDATA[U.S.]]></category>
+            <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TSA Funding Shortage Traps Passengers in Long Airport Lines]]></title>
@@ -53,6 +81,27 @@
             <link>https://time.com/article/2026/03/25/emily-gregory-mar-a-lago-trump-district-florida-state-house/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/25/emily-gregory-mar-a-lago-trump-district-florida-state-house/</guid>
             <category><![CDATA[Politics]]></category>
+            <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How OpenAI Decides What ChatGPT Should—and Shouldn’t—Do]]></title>
+            <link>https://time.com/article/2026/03/25/openai-chatgpt-model-spec-document/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/25/openai-chatgpt-model-spec-document/</guid>
+            <category><![CDATA[Business]]></category>
+            <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[America’s Confusing Relationship with Mutual Aid]]></title>
+            <link>https://time.com/article/2026/03/25/america-s-confusing-relationship-with-mutual-aid/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/25/america-s-confusing-relationship-with-mutual-aid/</guid>
+            <category><![CDATA[Ideas]]></category>
+            <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Is Fibermaxxing, and Is It Safe?]]></title>
+            <link>https://time.com/article/2026/03/25/what-fibermaxxing-gets-wrong-about-fiber/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/25/what-fibermaxxing-gets-wrong-about-fiber/</guid>
+            <category><![CDATA[Health]]></category>
             <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -88,7 +137,6 @@
             <description><![CDATA[Trump has the highest disapproval rating of any President at this point in his presidency in this century.]]></description>
             <link>https://time.com/article/2026/03/24/no-kings-protests-march-28-biggest-anti-trump-crowds-ever/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/24/no-kings-protests-march-28-biggest-anti-trump-crowds-ever/</guid>
-            <category><![CDATA[The D.C. Brief]]></category>
             <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -107,7 +155,6 @@
             <title><![CDATA[Zelensky Accuses Russia of Providing Intelligence to Iran]]></title>
             <link>https://time.com/article/2026/03/24/zelensky-accuses-russia-intelligence-sharing-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/24/zelensky-accuses-russia-intelligence-sharing-iran-war/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -154,7 +201,14 @@
             <title><![CDATA[Lawmakers’ Special Services at Airports in the Crosshairs]]></title>
             <link>https://time.com/article/2026/03/24/air-travel-congress-tsa-security-lines-delta-dhs-shutdown/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/24/air-travel-congress-tsa-security-lines-delta-dhs-shutdown/</guid>
-            <category><![CDATA[Politics]]></category>
+            <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Worst Thing to Say in a Fight With Your Partner]]></title>
+            <description><![CDATA[This phrase can turn a fight into a relationship crisis.]]></description>
+            <link>https://time.com/article/2026/03/24/what-happens-when-you-say-i-want-a-divorce-in-a-fight/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/24/what-happens-when-you-say-i-want-a-divorce-in-a-fight/</guid>
+            <category><![CDATA[Time to Talk]]></category>
             <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -193,7 +247,6 @@
             <title><![CDATA[What to Know About Hawaii's Catastrophic Flooding, and How to Help]]></title>
             <link>https://time.com/article/2026/03/23/hawaii-flooding-storms-damage-how-to-help/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/23/hawaii-flooding-storms-damage-how-to-help/</guid>
-            <category><![CDATA[U.S.]]></category>
             <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -218,7 +271,7 @@
             <title><![CDATA[The Indigenous Partnership Behind New York City's New Hydropower Deal]]></title>
             <link>https://time.com/article/2026/03/23/first-nations-hydropower-new-york-city/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/23/first-nations-hydropower-new-york-city/</guid>
-            <category><![CDATA[Climate]]></category>
+            <dc:creator><![CDATA[Petala Ironcloud]]></dc:creator>
             <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -245,7 +298,13 @@
             <title><![CDATA[Why is China Sitting Out the War on Iran]]></title>
             <link>https://time.com/article/2026/03/20/china-america-trump-xi-war-iran/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/20/china-america-trump-xi-war-iran/</guid>
-            <category><![CDATA[Ideas]]></category>
+            <pubDate>Fri, 20 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Something Very Bad' Takes Too Long to Happen]]></title>
+            <link>https://time.com/article/2026/03/20/something-very-is-going-to-happen-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/20/something-very-is-going-to-happen-review/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <pubDate>Fri, 20 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
