@@ -4,27 +4,27 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 20:28:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 21:24:15 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Mar 2026 20:28:59 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 21:24:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Thu, 26 Mar 2026 20:28:59 GMT</pubDate>
+            <pubDate>Thu, 26 Mar 2026 21:24:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Thu, 26 Mar 2026 20:28:59 GMT</pubDate>
+            <pubDate>Thu, 26 Mar 2026 21:24:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Thu, 26 Mar 2026 20:28:59 GMT</pubDate>
+            <pubDate>Thu, 26 Mar 2026 21:24:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SpaceX's Gwynne Shotwell Aims to Put AI on the Moon]]></title>
@@ -42,16 +42,65 @@
         </item>
         <item>
             <title><![CDATA[The Manosphere is Lying About Who Built Society]]></title>
+            <description><![CDATA[John Hope Bryant rebuts the manosphere's claim that men built society alone, sharing how women have always shaped the world— from communities to the very skylines around us.]]></description>
             <link>https://time.com/article/2026/03/26/the-manosphere-is-lying-about-who-built-society/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/the-manosphere-is-lying-about-who-built-society/</guid>
-            <dc:creator><![CDATA[John Hope Bryant]]></dc:creator>
+            <category><![CDATA[women]]></category>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Latest Polls Show Americans Continue to Disapprove of U.S.-Iran War]]></title>
             <link>https://time.com/article/2026/03/26/us-iran-war-poll-americans-public-opinion-approve-democrats-republicans/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/us-iran-war-poll-americans-public-opinion-approve-democrats-republicans/</guid>
-            <category><![CDATA[U.S.]]></category>
+            <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How 28 Members of Congress Define Victory in the War With Iran]]></title>
+            <link>https://time.com/article/2026/03/26/we-asked-members-of-congress-what-winning-the-iran-war-would-look-like/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/26/we-asked-members-of-congress-what-winning-the-iran-war-would-look-like/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TIME Debuts Future Proof with Justin Worland]]></title>
+            <link>https://time.com/article/2026/03/26/time-debuts-future-proof-with-justin-worland/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/26/time-debuts-future-proof-with-justin-worland/</guid>
+            <category><![CDATA[Press Room]]></category>
+            <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump, Who Mocked Carter’s Legacy, Risks Reliving It]]></title>
+            <link>https://time.com/article/2026/03/26/donald-trump-iran-war-oil-legacy-carter/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/26/donald-trump-iran-war-oil-legacy-carter/</guid>
+            <category><![CDATA[Politics]]></category>
+            <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About The Record-Breaking U.S. Spring Heat Wave]]></title>
+            <link>https://time.com/article/2026/03/26/spring-us-heat-wave-climate-change/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/26/spring-us-heat-wave-climate-change/</guid>
+            <category><![CDATA[Climate]]></category>
+            <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We Must Prepare For an AI Bubble Now]]></title>
+            <link>https://time.com/article/2026/03/26/we-must-prepare-for-an-ai-bubble-now/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/26/we-must-prepare-for-an-ai-bubble-now/</guid>
+            <category><![CDATA[Ideas]]></category>
+            <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clutter Can Overwhelm Your Brain. Here's the Easy Way to Tackle It]]></title>
+            <link>https://time.com/article/2026/03/26/clutter-overwhelms-your-brain-how-to-clean/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/26/clutter-overwhelms-your-brain-how-to-clean/</guid>
+            <category><![CDATA[Health]]></category>
+            <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Ending of 'Jo Nesbø’s Detective Hole']]></title>
+            <link>https://time.com/article/2026/03/26/jo-nesbo-detective-hole-ending-explained/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/26/jo-nesbo-detective-hole-ending-explained/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -80,21 +129,18 @@
             <title><![CDATA[Meet Emily Gregory, the Democrat Who Flipped Trump’s Mar-a-Lago District]]></title>
             <link>https://time.com/article/2026/03/25/emily-gregory-mar-a-lago-trump-district-florida-state-house/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/25/emily-gregory-mar-a-lago-trump-district-florida-state-house/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How OpenAI Decides What ChatGPT Should—and Shouldn’t—Do]]></title>
             <link>https://time.com/article/2026/03/25/openai-chatgpt-model-spec-document/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/25/openai-chatgpt-model-spec-document/</guid>
-            <category><![CDATA[Business]]></category>
             <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[America’s Confusing Relationship with Mutual Aid]]></title>
             <link>https://time.com/article/2026/03/25/america-s-confusing-relationship-with-mutual-aid/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/25/america-s-confusing-relationship-with-mutual-aid/</guid>
-            <category><![CDATA[Ideas]]></category>
             <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -168,14 +214,12 @@
             <title><![CDATA[The U.S. Is Deploying Marines to the Middle East. Here’s What They Could Be Used For]]></title>
             <link>https://time.com/article/2026/03/24/marines-deployed-iran-war-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/24/marines-deployed-iran-war-trump/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Are Airport Wait Times So Long?]]></title>
             <link>https://time.com/article/2026/03/24/airport-wait-times-security-lines-tsa-ice-dhs-shutdown/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/24/airport-wait-times-security-lines-tsa-ice-dhs-shutdown/</guid>
-            <category><![CDATA[U.S.]]></category>
             <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -208,7 +252,6 @@
             <description><![CDATA[This phrase can turn a fight into a relationship crisis.]]></description>
             <link>https://time.com/article/2026/03/24/what-happens-when-you-say-i-want-a-divorce-in-a-fight/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/24/what-happens-when-you-say-i-want-a-divorce-in-a-fight/</guid>
-            <category><![CDATA[Time to Talk]]></category>
             <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
