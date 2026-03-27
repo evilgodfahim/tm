@@ -4,27 +4,27 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 19:36:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 20:29:22 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Mar 2026 19:36:55 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 20:29:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Fri, 27 Mar 2026 19:36:55 GMT</pubDate>
+            <pubDate>Fri, 27 Mar 2026 20:29:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Fri, 27 Mar 2026 19:36:55 GMT</pubDate>
+            <pubDate>Fri, 27 Mar 2026 20:29:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Fri, 27 Mar 2026 19:36:55 GMT</pubDate>
+            <pubDate>Fri, 27 Mar 2026 20:29:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Senate Reaches DHS Funding Deal After Trump Agrees to Fund TSA]]></title>
@@ -52,6 +52,21 @@
             <link>https://time.com/article/2026/03/27/take-a-break-new-information-brain/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/27/take-a-break-new-information-brain/</guid>
             <category><![CDATA[Health]]></category>
+            <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TSA Agents Could Get Paid as Soon as Monday Following Trump Order, DHS Says]]></title>
+            <description><![CDATA["TSA has immediately begun the process of paying its workforce," a DHS spokesperson tells TIME.]]></description>
+            <link>https://time.com/article/2026/03/27/tsa-pay-dhs-shutdown-trump-order-airport-wait-times-lines/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/27/tsa-pay-dhs-shutdown-trump-order-airport-wait-times-lines/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['A Joke': House Republicans Reject Senate's DHS Funding Deal]]></title>
+            <link>https://time.com/article/2026/03/27/-a-joke-house-republicans-reject-senate-s-dhs-funding-deal/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/27/-a-joke-house-republicans-reject-senate-s-dhs-funding-deal/</guid>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -133,7 +148,6 @@
         </item>
         <item>
             <title><![CDATA[The Iranians Stuck Between ICE Detention and Deportation to War-Torn Homeland]]></title>
-            <description><![CDATA[An Iranian gay couple seeking asylum in the U.S. now faces deportation back to Iran as immigration policies tighten and deportation flights resume despite fears of persecution and death.]]></description>
             <link>https://time.com/article/2026/03/26/iran-war-ice-detention-deportation/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/iran-war-ice-detention-deportation/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
@@ -157,7 +171,6 @@
             <title><![CDATA[Olympics Committee Bans Transgender Athletes From Women's Events]]></title>
             <link>https://time.com/article/2026/03/26/olympics-ban-transgender-athletes-womens-events-policy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/olympics-ban-transgender-athletes-womens-events-policy/</guid>
-            <category><![CDATA[Sports]]></category>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
