@@ -4,27 +4,27 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 22:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 23:24:21 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Mar 2026 22:24:02 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 23:24:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Fri, 27 Mar 2026 22:24:02 GMT</pubDate>
+            <pubDate>Fri, 27 Mar 2026 23:24:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Fri, 27 Mar 2026 22:24:02 GMT</pubDate>
+            <pubDate>Fri, 27 Mar 2026 23:24:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Fri, 27 Mar 2026 22:24:02 GMT</pubDate>
+            <pubDate>Fri, 27 Mar 2026 23:24:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Senate Reaches DHS Funding Deal After Trump Agrees to Fund TSA]]></title>
@@ -44,7 +44,6 @@
             <title><![CDATA[Israel Vows to ‘Intensify and Expand’ Strikes Against Iran]]></title>
             <link>https://time.com/article/2026/03/27/israel-vows-to-intensify-and-expand-strikes-against-iran-as-tehran-warns-civilians-near-u-s-targets-to-evacuate/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/27/israel-vows-to-intensify-and-expand-strikes-against-iran-as-tehran-warns-civilians-near-u-s-targets-to-evacuate/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -66,6 +65,13 @@
             <title><![CDATA['A Joke': House Republicans Reject Senate's DHS Funding Deal]]></title>
             <link>https://time.com/article/2026/03/27/-a-joke-house-republicans-reject-senate-s-dhs-funding-deal/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/27/-a-joke-house-republicans-reject-senate-s-dhs-funding-deal/</guid>
+            <category><![CDATA[Politics]]></category>
+            <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[All the Things Trump Has Put His Name and Face on as President]]></title>
+            <link>https://time.com/article/2026/03/27/trump-name-face-signature-currency-government-buildings-programs/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/27/trump-name-face-signature-currency-government-buildings-programs/</guid>
             <category><![CDATA[Politics]]></category>
             <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
         </item>
