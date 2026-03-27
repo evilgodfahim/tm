@@ -4,27 +4,27 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 14:06:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 15:43:36 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Mar 2026 14:06:12 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 15:43:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Fri, 27 Mar 2026 14:06:12 GMT</pubDate>
+            <pubDate>Fri, 27 Mar 2026 15:43:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Fri, 27 Mar 2026 14:06:12 GMT</pubDate>
+            <pubDate>Fri, 27 Mar 2026 15:43:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Fri, 27 Mar 2026 14:06:12 GMT</pubDate>
+            <pubDate>Fri, 27 Mar 2026 15:43:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Senate Reaches DHS Funding Deal After Trump Agrees to Fund TSA]]></title>
@@ -38,6 +38,20 @@
             <link>https://time.com/article/2026/03/27/us-iran-war-nuclear-weapons-proliferation-deterrent-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/27/us-iran-war-nuclear-weapons-proliferation-deterrent-trump/</guid>
             <category><![CDATA[World]]></category>
+            <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel Vows to ‘Intensify and Expand’ Strikes Against Iran]]></title>
+            <link>https://time.com/article/2026/03/27/israel-vows-to-intensify-and-expand-strikes-against-iran-as-tehran-warns-civilians-near-u-s-targets-to-evacuate/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/27/israel-vows-to-intensify-and-expand-strikes-against-iran-as-tehran-warns-civilians-near-u-s-targets-to-evacuate/</guid>
+            <category><![CDATA[World]]></category>
+            <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Take a Break. You Just Might Learn Something]]></title>
+            <link>https://time.com/article/2026/03/27/take-a-break-new-information-brain/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/27/take-a-break-new-information-brain/</guid>
+            <category><![CDATA[Health]]></category>
             <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -109,14 +123,12 @@
             <title><![CDATA[Breaking Down the Ending of 'Jo Nesbø’s Detective Hole']]></title>
             <link>https://time.com/article/2026/03/26/jo-nesbo-detective-hole-ending-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/jo-nesbo-detective-hole-ending-explained/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump Again Pushes Republicans to ‘Terminate’ the Filibuster]]></title>
             <link>https://time.com/article/2026/03/26/trump-filibuster-senate-republicans-dhs-shutdown-tsa-airports-save-america-voting-bill/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/trump-filibuster-senate-republicans-dhs-shutdown-tsa-airports-save-america-voting-bill/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -139,6 +151,13 @@
             <link>https://time.com/article/2026/03/26/ai-slop-is-threatening-musicians-can-tech-companies-stem-the-tide-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/ai-slop-is-threatening-musicians-can-tech-companies-stem-the-tide-/</guid>
             <category><![CDATA[Business]]></category>
+            <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Olympics Committee Bans Transgender Athletes From Women's Events]]></title>
+            <link>https://time.com/article/2026/03/26/olympics-ban-transgender-athletes-womens-events-policy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/26/olympics-ban-transgender-athletes-womens-events-policy/</guid>
+            <category><![CDATA[Sports]]></category>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -185,7 +204,6 @@
             <title><![CDATA[What Is Fibermaxxing, and Is It Safe?]]></title>
             <link>https://time.com/article/2026/03/25/what-fibermaxxing-gets-wrong-about-fiber/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/25/what-fibermaxxing-gets-wrong-about-fiber/</guid>
-            <category><![CDATA[Health]]></category>
             <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
