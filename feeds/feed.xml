@@ -4,33 +4,47 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 12:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 14:06:12 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Mar 2026 12:43:55 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 14:06:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Fri, 27 Mar 2026 12:43:55 GMT</pubDate>
+            <pubDate>Fri, 27 Mar 2026 14:06:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Fri, 27 Mar 2026 12:43:55 GMT</pubDate>
+            <pubDate>Fri, 27 Mar 2026 14:06:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Fri, 27 Mar 2026 12:43:55 GMT</pubDate>
+            <pubDate>Fri, 27 Mar 2026 14:06:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Senate Reaches DHS Funding Deal After Trump Agrees to Fund TSA]]></title>
+            <link>https://time.com/article/2026/03/27/senate-dhs-shutdown-deal-ice-tsa-funding-trump-republicans/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/27/senate-dhs-shutdown-deal-ice-tsa-funding-trump-republicans/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How War With Iran Could Lead to More Nuclear Weapons Around the World]]></title>
+            <link>https://time.com/article/2026/03/27/us-iran-war-nuclear-weapons-proliferation-deterrent-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/27/us-iran-war-nuclear-weapons-proliferation-deterrent-trump/</guid>
+            <category><![CDATA[World]]></category>
+            <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SpaceX's Gwynne Shotwell Aims to Put AI on the Moon]]></title>
             <link>https://time.com/article/2026/03/26/gwynne-shotwell-profile/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/gwynne-shotwell-profile/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <category><![CDATA[Space]]></category>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -42,10 +56,9 @@
         </item>
         <item>
             <title><![CDATA[The Manosphere is Lying About Who Built Society]]></title>
-            <description><![CDATA[John Hope Bryant rebuts the manosphere's claim that men built society alone, sharing how women have always shaped the world— from communities to the very skylines around us.]]></description>
             <link>https://time.com/article/2026/03/26/the-manosphere-is-lying-about-who-built-society/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/the-manosphere-is-lying-about-who-built-society/</guid>
-            <category><![CDATA[women]]></category>
+            <category><![CDATA[Ideas]]></category>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -58,35 +71,31 @@
             <title><![CDATA[How 28 Members of Congress Define Victory in the War With Iran]]></title>
             <link>https://time.com/article/2026/03/26/we-asked-members-of-congress-what-winning-the-iran-war-would-look-like/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/we-asked-members-of-congress-what-winning-the-iran-war-would-look-like/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME Debuts Future Proof with Justin Worland]]></title>
             <link>https://time.com/article/2026/03/26/time-debuts-future-proof-with-justin-worland/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/time-debuts-future-proof-with-justin-worland/</guid>
-            <category><![CDATA[Press Room]]></category>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump, Who Mocked Carter’s Legacy, Risks Reliving It]]></title>
             <link>https://time.com/article/2026/03/26/donald-trump-iran-war-oil-legacy-carter/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/donald-trump-iran-war-oil-legacy-carter/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What to Know About The Record-Breaking U.S. Spring Heat Wave]]></title>
             <link>https://time.com/article/2026/03/26/spring-us-heat-wave-climate-change/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/spring-us-heat-wave-climate-change/</guid>
-            <category><![CDATA[Climate]]></category>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We Must Prepare For an AI Bubble Now]]></title>
             <link>https://time.com/article/2026/03/26/we-must-prepare-for-an-ai-bubble-now/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/we-must-prepare-for-an-ai-bubble-now/</guid>
-            <category><![CDATA[Ideas]]></category>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -108,6 +117,28 @@
             <link>https://time.com/article/2026/03/26/trump-filibuster-senate-republicans-dhs-shutdown-tsa-airports-save-america-voting-bill/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/trump-filibuster-senate-republicans-dhs-shutdown-tsa-airports-save-america-voting-bill/</guid>
             <category><![CDATA[Politics]]></category>
+            <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Iranians Stuck Between ICE Detention and Deportation to War-Torn Homeland]]></title>
+            <description><![CDATA[An Iranian gay couple seeking asylum in the U.S. now faces deportation back to Iran as immigration policies tighten and deportation flights resume despite fears of persecution and death.]]></description>
+            <link>https://time.com/article/2026/03/26/iran-war-ice-detention-deportation/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/26/iran-war-ice-detention-deportation/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here’s Which Cities Are Likely to Host the Biggest No Kings Protests]]></title>
+            <link>https://time.com/article/2026/03/26/no-kings-protests-cities-where/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/26/no-kings-protests-cities-where/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI Slop Is Flooding Streaming—and Musicians Are Fighting Back]]></title>
+            <link>https://time.com/article/2026/03/26/ai-slop-is-threatening-musicians-can-tech-companies-stem-the-tide-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/26/ai-slop-is-threatening-musicians-can-tech-companies-stem-the-tide-/</guid>
+            <category><![CDATA[Business]]></category>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
