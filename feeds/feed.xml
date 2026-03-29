@@ -4,27 +4,34 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 19:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 20:22:44 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Mar 2026 19:27:04 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 20:22:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Sun, 29 Mar 2026 19:27:04 GMT</pubDate>
+            <pubDate>Sun, 29 Mar 2026 20:22:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Sun, 29 Mar 2026 19:27:04 GMT</pubDate>
+            <pubDate>Sun, 29 Mar 2026 20:22:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Sun, 29 Mar 2026 19:27:04 GMT</pubDate>
+            <pubDate>Sun, 29 Mar 2026 20:22:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan Says It Will Host Peace Talks Between U.S. and Iran]]></title>
+            <link>https://time.com/article/2026/03/29/iran-war-pakistan-talks-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/29/iran-war-pakistan-talks-trump/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['No Kings' Protest Organizers Expecting Record Turnout]]></title>
@@ -46,7 +53,7 @@
             <title><![CDATA[Yemen’s Houthis Have Entered the Iran War. What You Need To Know]]></title>
             <link>https://time.com/article/2026/03/28/iran-war-news-houthis-israel/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/28/iran-war-news-houthis-israel/</guid>
-            <dc:creator><![CDATA[Richard Hall]]></dc:creator>
+            <category><![CDATA[World]]></category>
             <pubDate>Sat, 28 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -80,7 +87,6 @@
             <title><![CDATA[TSA Agents Could Soon Get Paid. Will It End the Airport Crisis?]]></title>
             <link>https://time.com/article/2026/03/27/tsa-pay-dhs-shutdown-trump-order-airport-wait-times-lines/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/27/tsa-pay-dhs-shutdown-trump-order-airport-wait-times-lines/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
