@@ -4,27 +4,27 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 17:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 18:49:45 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 17:45:19 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 18:49:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Mon, 30 Mar 2026 17:45:19 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 18:49:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Mon, 30 Mar 2026 17:45:19 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 18:49:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Mon, 30 Mar 2026 17:45:19 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 18:49:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump Official Says ICE Could Stay at Airports Even as TSA Gets Paid]]></title>
@@ -63,6 +63,13 @@
             <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How Trump and Intelligence Chief Tulsi Gabbard Differ on Iran Nuclear Issue]]></title>
+            <link>https://time.com/article/2026/03/30/trump-tulsi-gabbard-differ-on-iran-war-nuclear-capabilities/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/30/trump-tulsi-gabbard-differ-on-iran-war-nuclear-capabilities/</guid>
+            <category><![CDATA[Politics]]></category>
+            <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pakistan Says It Will Host Peace Talks Between U.S. and Iran]]></title>
             <link>https://time.com/article/2026/03/29/iran-war-pakistan-talks-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/29/iran-war-pakistan-talks-trump/</guid>
@@ -95,7 +102,6 @@
             <title><![CDATA[Who Really Built the Empire State Building?]]></title>
             <link>https://time.com/article/2026/03/28/who-built-the-empire-state-building-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/28/who-built-the-empire-state-building-/</guid>
-            <category><![CDATA[Ideas]]></category>
             <pubDate>Sat, 28 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
