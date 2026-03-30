@@ -4,27 +4,27 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 20:36:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 21:35:04 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 20:36:58 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 21:35:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Mon, 30 Mar 2026 20:36:58 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 21:35:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Mon, 30 Mar 2026 20:36:58 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 21:35:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Mon, 30 Mar 2026 20:36:58 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 21:35:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump Official Says ICE Could Stay at Airports Even as TSA Gets Paid]]></title>
@@ -34,10 +34,9 @@
         </item>
         <item>
             <title><![CDATA[Here's What Trump Has Said About Seizing Iran's Key Oil Hub Kharg Island]]></title>
-            <description><![CDATA[Trump has threatened to "obliterate" Kharg Island if a deal with Iran is not reached shortly. His interest in the key oil hub dates back decades, long before his presidency and the current war.]]></description>
             <link>https://time.com/article/2026/03/30/trump-comments-about-seizing-iran-kharg-island-oil-hub/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/30/trump-comments-about-seizing-iran-kharg-island-oil-hub/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -83,10 +82,16 @@
             <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How Renoir, Cézanne, and Matisse Paintings Were Stolen in a 3-Minute Heist]]></title>
+            <link>https://time.com/article/2026/03/30/italy-museum-art-heist-renoir-cezanne-matisse/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/30/italy-museum-art-heist-renoir-cezanne-matisse/</guid>
+            <category><![CDATA[World]]></category>
+            <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pakistan Says It Will Host Peace Talks Between U.S. and Iran]]></title>
             <link>https://time.com/article/2026/03/29/iran-war-pakistan-talks-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/29/iran-war-pakistan-talks-trump/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Sun, 29 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -107,7 +112,6 @@
             <title><![CDATA[Yemen’s Houthis Have Entered the Iran War. What You Need To Know]]></title>
             <link>https://time.com/article/2026/03/28/iran-war-news-houthis-israel/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/28/iran-war-news-houthis-israel/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Sat, 28 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
