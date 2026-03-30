@@ -4,34 +4,48 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 12:58:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 14:26:56 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 12:58:41 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 14:26:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Mon, 30 Mar 2026 12:58:41 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 14:26:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Mon, 30 Mar 2026 12:58:41 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 14:26:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Mon, 30 Mar 2026 12:58:41 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 14:26:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump Official Says ICE Could Stay at Airports Even as TSA Gets Paid]]></title>
-            <description><![CDATA[Tom Homan, the White House’s “border czar,” claimed the immigration agents have helped reduce wait times at airports.]]></description>
             <link>https://time.com/article/2026/03/30/tom-homan-ice-airports-tsa-agents-pay-wait-times-lines/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/30/tom-homan-ice-airports-tsa-agents-pay-wait-times-lines/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here's What Trump Has Said About Seizing Iran's Key Oil Hub Kharg Island]]></title>
+            <description><![CDATA[Trump has threatened to "obliterate" Kharg Island if a deal with Iran is not reached shortly. His interest in the key oil hub dates back decades, long before his presidency and the current war.]]></description>
+            <link>https://time.com/article/2026/03/30/trump-comments-about-seizing-iran-kharg-island-oil-hub/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/30/trump-comments-about-seizing-iran-kharg-island-oil-hub/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Seems to Embrace ‘Regime Change’ in Iran]]></title>
+            <link>https://time.com/article/2026/03/30/trump-regime-change-iran/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/30/trump-regime-change-iran/</guid>
+            <category><![CDATA[World]]></category>
             <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +67,7 @@
             <title><![CDATA[No Kings Protesters Take to Streets in Towns and Cities Across the U.S.]]></title>
             <link>https://time.com/article/2026/03/28/no-kings-protesters-take-to-streets-in-towns-and-cities-across-the-u-s-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/28/no-kings-protesters-take-to-streets-in-towns-and-cities-across-the-u-s-/</guid>
-            <dc:creator><![CDATA[Nik Popli and Rebecca Schneid]]></dc:creator>
+            <category><![CDATA[U.S.]]></category>
             <pubDate>Sat, 28 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -61,6 +75,13 @@
             <link>https://time.com/article/2026/03/28/iran-war-news-houthis-israel/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/28/iran-war-news-houthis-israel/</guid>
             <category><![CDATA[World]]></category>
+            <pubDate>Sat, 28 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who Really Built the Empire State Building?]]></title>
+            <link>https://time.com/article/2026/03/28/who-built-the-empire-state-building-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/28/who-built-the-empire-state-building-/</guid>
+            <category><![CDATA[Ideas]]></category>
             <pubDate>Sat, 28 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -74,7 +95,6 @@
             <title><![CDATA[How War With Iran Could Lead to More Nuclear Weapons Around the World]]></title>
             <link>https://time.com/article/2026/03/27/us-iran-war-nuclear-weapons-proliferation-deterrent-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/27/us-iran-war-nuclear-weapons-proliferation-deterrent-trump/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -106,14 +126,12 @@
             <title><![CDATA[All the Things Trump Has Put His Name and Face on as President]]></title>
             <link>https://time.com/article/2026/03/27/trump-name-face-signature-currency-government-buildings-programs/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/27/trump-name-face-signature-currency-government-buildings-programs/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SpaceX's Gwynne Shotwell Aims to Put AI on the Moon]]></title>
             <link>https://time.com/article/2026/03/26/gwynne-shotwell-profile/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/gwynne-shotwell-profile/</guid>
-            <category><![CDATA[Space]]></category>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -127,7 +145,6 @@
             <title><![CDATA[The Manosphere is Lying About Who Built Society]]></title>
             <link>https://time.com/article/2026/03/26/the-manosphere-is-lying-about-who-built-society/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/the-manosphere-is-lying-about-who-built-society/</guid>
-            <category><![CDATA[Ideas]]></category>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -188,9 +205,10 @@
         </item>
         <item>
             <title><![CDATA[The Iranians Stuck Between ICE Detention and Deportation to War-Torn Homeland]]></title>
+            <description><![CDATA[An Iranian gay couple seeking asylum in the U.S. now faces deportation back to Iran as immigration policies tighten and deportation flights resume despite fears of persecution and death.]]></description>
             <link>https://time.com/article/2026/03/26/iran-war-ice-detention-deportation/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/iran-war-ice-detention-deportation/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <category><![CDATA[Iran]]></category>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -204,7 +222,6 @@
             <title><![CDATA[AI Slop Is Flooding Streaming—and Musicians Are Fighting Back]]></title>
             <link>https://time.com/article/2026/03/26/ai-slop-is-threatening-musicians-can-tech-companies-stem-the-tide-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/ai-slop-is-threatening-musicians-can-tech-companies-stem-the-tide-/</guid>
-            <category><![CDATA[Business]]></category>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -257,6 +274,13 @@
             <title><![CDATA[What Is Fibermaxxing, and Is It Safe?]]></title>
             <link>https://time.com/article/2026/03/25/what-fibermaxxing-gets-wrong-about-fiber/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/25/what-fibermaxxing-gets-wrong-about-fiber/</guid>
+            <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Phosphorus Paradox]]></title>
+            <link>https://time.com/article/2026/03/25/the-phosphorus-paradox/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/25/the-phosphorus-paradox/</guid>
+            <category><![CDATA[Ideas]]></category>
             <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
