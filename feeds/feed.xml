@@ -4,27 +4,35 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 08:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 10:08:41 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 08:18:14 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 10:08:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump Official Says ICE Could Stay at Airports Even as TSA Gets Paid]]></title>
+            <description><![CDATA[Tom Homan, the White House’s “border czar,” claimed the immigration agents have helped reduce wait times at airports.]]></description>
+            <link>https://time.com/article/2026/03/30/tom-homan-ice-airports-tsa-agents-pay-wait-times-lines/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/30/tom-homan-ice-airports-tsa-agents-pay-wait-times-lines/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Mon, 30 Mar 2026 08:18:14 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 10:08:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Mon, 30 Mar 2026 08:18:14 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 10:08:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Mon, 30 Mar 2026 08:18:14 GMT</pubDate>
+            <pubDate>Mon, 30 Mar 2026 10:08:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pakistan Says It Will Host Peace Talks Between U.S. and Iran]]></title>
@@ -43,7 +51,6 @@
         </item>
         <item>
             <title><![CDATA[No Kings Protesters Take to Streets in Towns and Cities Across the U.S.]]></title>
-            <description><![CDATA[Organizers said the protests could be the largest day of demonstrations in American history]]></description>
             <link>https://time.com/article/2026/03/28/no-kings-protesters-take-to-streets-in-towns-and-cities-across-the-u-s-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/28/no-kings-protesters-take-to-streets-in-towns-and-cities-across-the-u-s-/</guid>
             <dc:creator><![CDATA[Nik Popli and Rebecca Schneid]]></dc:creator>
