@@ -4,27 +4,27 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 12:57:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 14:25:50 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 12:57:23 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 14:25:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Tue, 31 Mar 2026 12:57:23 GMT</pubDate>
+            <pubDate>Tue, 31 Mar 2026 14:25:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Tue, 31 Mar 2026 12:57:23 GMT</pubDate>
+            <pubDate>Tue, 31 Mar 2026 14:25:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Tue, 31 Mar 2026 12:57:23 GMT</pubDate>
+            <pubDate>Tue, 31 Mar 2026 14:25:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump Says U.K. and Others Should Go to Strait of Hormuz and 'Take' Oil]]></title>
@@ -45,7 +45,7 @@
             <title><![CDATA[AI Alone Won't Take Your Job. Someone Using AI Will]]></title>
             <link>https://time.com/article/2026/03/31/ai-alone-won-t-take-your-job-someone-using-ai-will/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/31/ai-alone-won-t-take-your-job-someone-using-ai-will/</guid>
-            <category><![CDATA[Ideas]]></category>
+            <dc:creator><![CDATA[Ryan Roslansky and Aneesh Raman]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -58,7 +58,6 @@
             <title><![CDATA[Here's What Trump Has Said About Seizing Iran's Key Oil Hub Kharg Island]]></title>
             <link>https://time.com/article/2026/03/30/trump-comments-about-seizing-iran-kharg-island-oil-hub/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/30/trump-comments-about-seizing-iran-kharg-island-oil-hub/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -69,9 +68,10 @@
         </item>
         <item>
             <title><![CDATA[Why Iran Thinks It's Winning]]></title>
+            <description><![CDATA[Tehran views the impact it has had on global oil prices as validation of its doctrine of asymmetrical warfare.]]></description>
             <link>https://time.com/article/2026/03/30/iran-war-strait-hormuz/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/30/iran-war-strait-hormuz/</guid>
-            <category><![CDATA[World]]></category>
+            <category><![CDATA[Iran]]></category>
             <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +85,6 @@
             <title><![CDATA[How Trump and Intelligence Chief Tulsi Gabbard Differ on Iran Nuclear Issue]]></title>
             <link>https://time.com/article/2026/03/30/trump-tulsi-gabbard-differ-on-iran-war-nuclear-capabilities/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/30/trump-tulsi-gabbard-differ-on-iran-war-nuclear-capabilities/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -107,6 +106,34 @@
             <link>https://time.com/article/2026/03/30/italy-museum-art-heist-renoir-cezanne-matisse/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/30/italy-museum-art-heist-renoir-cezanne-matisse/</guid>
             <category><![CDATA[World]]></category>
+            <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FBI Says Suspect in Michigan Synagogue Attack Was Inspired by Hezbollah]]></title>
+            <link>https://time.com/article/2026/03/30/michigan-synagogue-attack-hezbollah-terrorism/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/30/michigan-synagogue-attack-hezbollah-terrorism/</guid>
+            <category><![CDATA[U.S.]]></category>
+            <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Just Minutes of Hard Exercise May Slash Your Risk for Diseases, Study Says]]></title>
+            <link>https://time.com/article/2026/03/30/vigorous-exercise-reduced-risk-diseases/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/30/vigorous-exercise-reduced-risk-diseases/</guid>
+            <category><![CDATA[Health]]></category>
+            <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[America250 Cannot Celebrate Freedom While Honoring Slaveholders]]></title>
+            <link>https://time.com/article/2026/03/30/america250-cannot-celebrate-freedom-while-honoring-slaveholders/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/30/america250-cannot-celebrate-freedom-while-honoring-slaveholders/</guid>
+            <category><![CDATA[Ideas]]></category>
+            <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Astonishing Ending of Paradise Season 2]]></title>
+            <link>https://time.com/article/2026/03/30/breaking-down-ending-paradise-season-2/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/30/breaking-down-ending-paradise-season-2/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -263,7 +290,6 @@
             <description><![CDATA[An Iranian gay couple seeking asylum in the U.S. now faces deportation back to Iran as immigration policies tighten and deportation flights resume despite fears of persecution and death.]]></description>
             <link>https://time.com/article/2026/03/26/iran-war-ice-detention-deportation/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/iran-war-ice-detention-deportation/</guid>
-            <category><![CDATA[Iran]]></category>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
