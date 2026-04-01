@@ -4,27 +4,49 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 08:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 10:01:52 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 08:11:09 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 10:01:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran Threatens to Target U.S. Tech Firms]]></title>
+            <description><![CDATA[The Islamic Revolutionary Guard Corps released a list of 18 potential targets for retaliation, including Apple, Google, and Meta, if there are further assassinations of Iranian leaders.]]></description>
+            <link>https://time.com/article/2026/04/01/iran-revolutionary-guard-corps-tech-apple-google-meta-microsoft-nvidia/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/01/iran-revolutionary-guard-corps-tech-apple-google-meta-microsoft-nvidia/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s Order Restricting Mail-In Voting Rebuked by States]]></title>
+            <link>https://time.com/article/2026/04/01/trump-executive-order-mail-in-voting-states-rebuke-legal-challenge/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/01/trump-executive-order-mail-in-voting-states-rebuke-legal-challenge/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the Iran War Cracked Dubai’s Liberal Facade]]></title>
+            <link>https://time.com/article/2026/04/01/dubai-uae-iran-war-crackdown-safety/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/01/dubai-uae-iran-war-crackdown-safety/</guid>
+            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Wed, 01 Apr 2026 08:11:09 GMT</pubDate>
+            <pubDate>Wed, 01 Apr 2026 10:01:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Wed, 01 Apr 2026 08:11:09 GMT</pubDate>
+            <pubDate>Wed, 01 Apr 2026 10:01:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Wed, 01 Apr 2026 08:11:09 GMT</pubDate>
+            <pubDate>Wed, 01 Apr 2026 10:01:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump Says U.K. and Others Should Go to Strait of Hormuz and 'Take' Oil]]></title>
@@ -44,15 +66,34 @@
             <title><![CDATA[AI Alone Won't Take Your Job. Someone Using AI Will]]></title>
             <link>https://time.com/article/2026/03/31/ai-alone-won-t-take-your-job-someone-using-ai-will/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/31/ai-alone-won-t-take-your-job-someone-using-ai-will/</guid>
-            <category><![CDATA[Ideas]]></category>
             <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hegseth Says U.S. Will 'Negotiate With Bombs' Until Iran Cease-Fire Deal Is Reached]]></title>
-            <description><![CDATA["Our job is to ensure that we compel Iran to realize that this new regime, this regime in charge, is in a better place if they make a deal."]]></description>
             <link>https://time.com/article/2026/03/31/hegseth-says-us-will-negotiate-with-bombs-until-iran-cease-fire-deal/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/31/hegseth-says-us-will-negotiate-with-bombs-until-iran-cease-fire-deal/</guid>
-            <dc:creator><![CDATA[Brian Bennett]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
+            <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet the 'God Squad,' the U.S.'s Powerful Endangered Species Panel]]></title>
+            <link>https://time.com/article/2026/03/31/endangered-species-protections-commitee-gulf-of-mexico-oil-gas-drilling/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/31/endangered-species-protections-commitee-gulf-of-mexico-oil-gas-drilling/</guid>
+            <category><![CDATA[Politics]]></category>
+            <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Is in Freefall. Democrats Still Might Blow It]]></title>
+            <link>https://time.com/article/2026/03/31/trump-polling-democrats-midterm-elections/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/31/trump-polling-democrats-midterm-elections/</guid>
+            <category><![CDATA[Politics]]></category>
+            <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Climate Benefit of Ditching Next-Day Delivery]]></title>
+            <link>https://time.com/article/2026/03/31/slower-shipping-climate-benefit/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/31/slower-shipping-climate-benefit/</guid>
+            <category><![CDATA[Climate]]></category>
             <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +126,6 @@
             <title><![CDATA[It's Going to Be a Bad Tick Season. Here's How to Protect Yourself]]></title>
             <link>https://time.com/article/2026/03/30/bad-tick-season-how-to-prevent-lyme-disease/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/30/bad-tick-season-how-to-prevent-lyme-disease/</guid>
-            <category><![CDATA[Health]]></category>
             <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -105,14 +145,12 @@
             <title><![CDATA[These Are the Journalists Israel Has Killed Since the Start of the Iran War]]></title>
             <link>https://time.com/article/2026/03/30/these-are-the-journalists-israel-has-killed-since-the-start-of-the-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/30/these-are-the-journalists-israel-has-killed-since-the-start-of-the-iran-war/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Renoir, Cézanne, and Matisse Paintings Were Stolen in a 3-Minute Heist]]></title>
             <link>https://time.com/article/2026/03/30/italy-museum-art-heist-renoir-cezanne-matisse/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/30/italy-museum-art-heist-renoir-cezanne-matisse/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
