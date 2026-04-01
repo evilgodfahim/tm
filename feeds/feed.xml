@@ -4,17 +4,70 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 14:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 16:02:58 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 14:29:31 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 16:02:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How AI Will Transform Democracy]]></title>
+            <link>https://time.com/7331883/how-ai-will-transform-democracy/</link>
+            <guid isPermaLink="true">https://time.com/7331883/how-ai-will-transform-democracy/</guid>
+            <category><![CDATA[Ideas]]></category>
+            <dc:creator><![CDATA[Bruce Schneier and Nathan E. Sanders]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 16:02:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[9 Ways to Use ChatGPT for Health Advice]]></title>
+            <link>https://time.com/7321821/chatgpt-ai-how-to-use-for-health-safely/</link>
+            <guid isPermaLink="true">https://time.com/7321821/chatgpt-ai-how-to-use-for-health-safely/</guid>
+            <category><![CDATA[Health]]></category>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 16:02:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stop Letting AI Run Your Social Life]]></title>
+            <link>https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</link>
+            <guid isPermaLink="true">https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 16:02:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Internet’s New Favorite Insult]]></title>
+            <link>https://time.com/7371832/looks-like-ai-writing-online-insult/</link>
+            <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 16:02:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Baz Luhrmann's EPiC Is the Tribute Elvis Deserves]]></title>
+            <link>https://time.com/7379611/elvis-presley-in-concert-epic-review/</link>
+            <guid isPermaLink="true">https://time.com/7379611/elvis-presley-in-concert-epic-review/</guid>
+            <category><![CDATA[Entertainment]]></category>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 16:02:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Finale of Tell Me Lies]]></title>
+            <link>https://time.com/7379246/tell-me-lies-ending-explained/</link>
+            <guid isPermaLink="true">https://time.com/7379246/tell-me-lies-ending-explained/</guid>
+            <category><![CDATA[Entertainment]]></category>
+            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 16:02:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Voice of Hind Rijab]]></title>
+            <link>https://time.com/7363949/the-voice-of-hind-rajab-true-story-interview/</link>
+            <guid isPermaLink="true">https://time.com/7363949/the-voice-of-hind-rajab-true-story-interview/</guid>
+            <dc:creator><![CDATA[Alexander Durie]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 16:02:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to Approach Someone You Think May Have an Eating Disorder]]></title>
             <link>https://time.com/7382180/how-to-talk-about-eating-disorders/</link>
             <guid isPermaLink="true">https://time.com/7382180/how-to-talk-about-eating-disorders/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 14:29:31 GMT</pubDate>
+            <pubDate>Wed, 01 Apr 2026 16:02:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The 1 Small Change to Reset Your Sleep]]></title>
@@ -22,32 +75,32 @@
             <guid isPermaLink="true">https://time.com/7382327/sleep-consistency-wake-up-time/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 14:29:31 GMT</pubDate>
+            <pubDate>Wed, 01 Apr 2026 16:02:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
             <link>https://time.com/collection/time-for-change/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
             <category><![CDATA[Health]]></category>
-            <pubDate>Wed, 01 Apr 2026 14:29:31 GMT</pubDate>
+            <pubDate>Wed, 01 Apr 2026 16:02:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Wed, 01 Apr 2026 14:29:31 GMT</pubDate>
+            <pubDate>Wed, 01 Apr 2026 16:02:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Wed, 01 Apr 2026 14:29:31 GMT</pubDate>
+            <pubDate>Wed, 01 Apr 2026 16:02:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Wed, 01 Apr 2026 14:29:31 GMT</pubDate>
+            <pubDate>Wed, 01 Apr 2026 16:02:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran Threatens to Target U.S. Tech Firms]]></title>
@@ -94,7 +147,7 @@
             <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trump Threatens to Pull U.S. Out of NATO Amid Fallout Over Iran War.]]></title>
+            <title><![CDATA[Trump Threatens to Pull U.S. Out of NATO Amid Fallout Over Iran War]]></title>
             <link>https://time.com/article/2026/04/01/trump-considering-pulling-us-out-of-nato-iran-war-legal-options/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/01/trump-considering-pulling-us-out-of-nato-iran-war-legal-options/</guid>
             <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
@@ -118,6 +171,7 @@
             <title><![CDATA[AI Alone Won't Take Your Job. Someone Using AI Will]]></title>
             <link>https://time.com/article/2026/03/31/ai-alone-won-t-take-your-job-someone-using-ai-will/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/31/ai-alone-won-t-take-your-job-someone-using-ai-will/</guid>
+            <dc:creator><![CDATA[Ryan Roslansky and Aneesh Raman]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -166,6 +220,13 @@
             <link>https://time.com/article/2026/03/31/super-mario-galaxy-movie-music/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/31/super-mario-galaxy-movie-music/</guid>
             <category><![CDATA[Entertainment]]></category>
+            <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['The Drama' Is a Bleak Comedy With No Payoff]]></title>
+            <link>https://time.com/article/2026/03/31/the-drama-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/31/the-drama-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
