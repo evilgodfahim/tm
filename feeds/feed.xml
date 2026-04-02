@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 21:29:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 22:24:35 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 21:29:56 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 22:24:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Stop Letting AI Run Your Social Life]]></title>
@@ -14,7 +14,7 @@
             <guid isPermaLink="true">https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 21:29:55 GMT</pubDate>
+            <pubDate>Thu, 02 Apr 2026 22:24:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Internet’s New Favorite Insult]]></title>
@@ -22,7 +22,7 @@
             <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 21:29:55 GMT</pubDate>
+            <pubDate>Thu, 02 Apr 2026 22:24:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Baz Luhrmann's EPiC Is the Tribute Elvis Deserves]]></title>
@@ -30,32 +30,32 @@
             <guid isPermaLink="true">https://time.com/7379611/elvis-presley-in-concert-epic-review/</guid>
             <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 21:29:55 GMT</pubDate>
+            <pubDate>Thu, 02 Apr 2026 22:24:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
             <link>https://time.com/collection/time-for-change/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
             <category><![CDATA[Health]]></category>
-            <pubDate>Thu, 02 Apr 2026 21:29:55 GMT</pubDate>
+            <pubDate>Thu, 02 Apr 2026 22:24:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Thu, 02 Apr 2026 21:29:55 GMT</pubDate>
+            <pubDate>Thu, 02 Apr 2026 22:24:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Thu, 02 Apr 2026 21:29:55 GMT</pubDate>
+            <pubDate>Thu, 02 Apr 2026 22:24:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Thu, 02 Apr 2026 21:29:55 GMT</pubDate>
+            <pubDate>Thu, 02 Apr 2026 22:24:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Voice of Hind Rijab]]></title>
@@ -109,7 +109,7 @@
             <title><![CDATA[People Want Jobs, Not UBI]]></title>
             <link>https://time.com/article/2026/04/02/people-want-jobs-not-ubi/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/02/people-want-jobs-not-ubi/</guid>
-            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -139,6 +139,13 @@
             <link>https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/</guid>
             <dc:creator><![CDATA[Renée DiResta]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who Has Trump Fired in His Second Term?]]></title>
+            <link>https://time.com/article/2026/04/02/who-has-trump-fired-the-high-ranking-officials-replaced-in-the-president-s-second-term/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/02/who-has-trump-fired-the-high-ranking-officials-replaced-in-the-president-s-second-term/</guid>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
