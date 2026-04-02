@@ -4,17 +4,32 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 04:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 06:07:03 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 04:23:16 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:07:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump Promises Iran War Is ‘Nearing Completion’]]></title>
+            <description><![CDATA[The President updated the nation on the ongoing military conflict, which is both unpopular among and costly to Americans.]]></description>
+            <link>https://time.com/article/2026/04/02/trump-speech-white-house-iran-war-update-end/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/02/trump-speech-white-house-iran-war-update-end/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unbothered by Reality, Trump Gives Disjointed Update on Iran War]]></title>
+            <link>https://time.com/article/2026/04/02/unbothered-by-reality-trump-gives-disjointed-update-on-iran-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/02/unbothered-by-reality-trump-gives-disjointed-update-on-iran-war/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[9 Ways to Use ChatGPT for Health Advice]]></title>
             <link>https://time.com/7321821/chatgpt-ai-how-to-use-for-health-safely/</link>
             <guid isPermaLink="true">https://time.com/7321821/chatgpt-ai-how-to-use-for-health-safely/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 04:23:16 GMT</pubDate>
+            <pubDate>Thu, 02 Apr 2026 06:07:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How AI Will Transform Democracy]]></title>
@@ -22,21 +37,21 @@
             <guid isPermaLink="true">https://time.com/7331883/how-ai-will-transform-democracy/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Bruce Schneier and Nathan E. Sanders]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 04:23:16 GMT</pubDate>
+            <pubDate>Thu, 02 Apr 2026 06:07:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop Letting AI Run Your Social Life]]></title>
             <link>https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</link>
             <guid isPermaLink="true">https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 04:23:16 GMT</pubDate>
+            <pubDate>Thu, 02 Apr 2026 06:07:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Internet’s New Favorite Insult]]></title>
             <link>https://time.com/7371832/looks-like-ai-writing-online-insult/</link>
             <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 04:23:16 GMT</pubDate>
+            <pubDate>Thu, 02 Apr 2026 06:07:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Baz Luhrmann's EPiC Is the Tribute Elvis Deserves]]></title>
@@ -44,7 +59,7 @@
             <guid isPermaLink="true">https://time.com/7379611/elvis-presley-in-concert-epic-review/</guid>
             <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 04:23:16 GMT</pubDate>
+            <pubDate>Thu, 02 Apr 2026 06:07:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Voice of Hind Rijab]]></title>
@@ -52,32 +67,32 @@
             <guid isPermaLink="true">https://time.com/7363949/the-voice-of-hind-rajab-true-story-interview/</guid>
             <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Alexander Durie]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 04:23:16 GMT</pubDate>
+            <pubDate>Thu, 02 Apr 2026 06:07:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
             <link>https://time.com/collection/time-for-change/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
             <category><![CDATA[Health]]></category>
-            <pubDate>Thu, 02 Apr 2026 04:23:16 GMT</pubDate>
+            <pubDate>Thu, 02 Apr 2026 06:07:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Thu, 02 Apr 2026 04:23:16 GMT</pubDate>
+            <pubDate>Thu, 02 Apr 2026 06:07:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Thu, 02 Apr 2026 04:23:16 GMT</pubDate>
+            <pubDate>Thu, 02 Apr 2026 06:07:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Thu, 02 Apr 2026 04:23:16 GMT</pubDate>
+            <pubDate>Thu, 02 Apr 2026 06:07:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Breaking Down the Finale of Tell Me Lies]]></title>
@@ -110,7 +125,6 @@
             <title><![CDATA[Trump’s Order Restricting Mail-In Voting Rebuked by States]]></title>
             <link>https://time.com/article/2026/04/01/trump-executive-order-mail-in-voting-states-rebuke-legal-challenge/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/01/trump-executive-order-mail-in-voting-states-rebuke-legal-challenge/</guid>
-            <category><![CDATA[U.S.]]></category>
             <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -145,7 +159,7 @@
             <title><![CDATA[Trump Threatens to Pull U.S. Out of NATO Amid Fallout Over Iran War]]></title>
             <link>https://time.com/article/2026/04/01/trump-considering-pulling-us-out-of-nato-iran-war-legal-options/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/01/trump-considering-pulling-us-out-of-nato-iran-war-legal-options/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -215,14 +229,13 @@
             <title><![CDATA[KitKat Ramps Up Efforts to Locate 400,000 Stolen Candy Bars]]></title>
             <link>https://time.com/article/2026/04/01/kit-kat-chocolate-bars-stolen-heist-tracker/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/01/kit-kat-chocolate-bars-stolen-heist-tracker/</guid>
-            <category><![CDATA[Business]]></category>
             <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bruce Springsteen in Minneapolis]]></title>
             <link>https://time.com/article/2026/04/01/bruce-springsteen-minneapolis-concert/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/01/bruce-springsteen-minneapolis-concert/</guid>
-            <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
+            <category><![CDATA[Entertainment]]></category>
             <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
