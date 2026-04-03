@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 12:42:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 13:57:38 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 12:42:30 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 13:57:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Stop Letting AI Run Your Social Life]]></title>
@@ -14,7 +14,7 @@
             <guid isPermaLink="true">https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Fri, 03 Apr 2026 12:42:30 GMT</pubDate>
+            <pubDate>Fri, 03 Apr 2026 13:57:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Internet’s New Favorite Insult]]></title>
@@ -22,7 +22,7 @@
             <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Fri, 03 Apr 2026 12:42:30 GMT</pubDate>
+            <pubDate>Fri, 03 Apr 2026 13:57:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Baz Luhrmann's EPiC Is the Tribute Elvis Deserves]]></title>
@@ -30,32 +30,46 @@
             <guid isPermaLink="true">https://time.com/7379611/elvis-presley-in-concert-epic-review/</guid>
             <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Fri, 03 Apr 2026 12:42:30 GMT</pubDate>
+            <pubDate>Fri, 03 Apr 2026 13:57:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
             <link>https://time.com/collection/time-for-change/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
             <category><![CDATA[Health]]></category>
-            <pubDate>Fri, 03 Apr 2026 12:42:30 GMT</pubDate>
+            <pubDate>Fri, 03 Apr 2026 13:57:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Fri, 03 Apr 2026 12:42:30 GMT</pubDate>
+            <pubDate>Fri, 03 Apr 2026 13:57:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Fri, 03 Apr 2026 12:42:30 GMT</pubDate>
+            <pubDate>Fri, 03 Apr 2026 13:57:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Fri, 03 Apr 2026 12:42:30 GMT</pubDate>
+            <pubDate>Fri, 03 Apr 2026 13:57:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Long Gulf War Can Starve the World. A Hormuz Transit Deal Could Save Millions.]]></title>
+            <link>https://time.com/article/2026/04/03/gulf-war-food-crisis-asia-africa-hormuz-transit-deal-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/03/gulf-war-food-crisis-asia-africa-hormuz-transit-deal-/</guid>
+            <category><![CDATA[Ideas]]></category>
+            <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Brain Health the Next Healthcare Frontier?]]></title>
+            <link>https://time.com/article/2026/04/03/is-brain-health-the-next-healthcare-frontier-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/03/is-brain-health-the-next-healthcare-frontier-/</guid>
+            <category><![CDATA[Ideas]]></category>
+            <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Voice of Hind Rijab]]></title>
@@ -102,7 +116,6 @@
             <title><![CDATA[Iran Threatens ‘Crushing and Broader’ Attacks After Trump’s Speech]]></title>
             <link>https://time.com/article/2026/04/02/iran-threatens-crushing-broader-attacks-us-israel-after-trump-warning/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/02/iran-threatens-crushing-broader-attacks-us-israel-after-trump-warning/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -122,6 +135,7 @@
         </item>
         <item>
             <title><![CDATA[Inside Trump's Search for a Way Out of Iran War]]></title>
+            <description><![CDATA[Facing political backlash, global economic shock, and the looming midterms, the President still doesn't want to get out of Iran without declaring victory.]]></description>
             <link>https://time.com/article/2026/04/02/trump-iran-off-ramp/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/02/trump-iran-off-ramp/</guid>
             <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
@@ -131,7 +145,6 @@
             <title><![CDATA[Trump Is Trying to Nationalize Elections. States Won’t Let Him]]></title>
             <link>https://time.com/article/2026/04/02/trump-is-trying-to-nationalize-elections-states-won-t-let-him/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/02/trump-is-trying-to-nationalize-elections-states-won-t-let-him/</guid>
-            <category><![CDATA[Ideas]]></category>
             <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -152,7 +165,28 @@
             <title><![CDATA[Who Is Todd Blanche, the New Acting Attorney General?]]></title>
             <link>https://time.com/article/2026/04/02/who-is-todd-blanche-trump-s-former-lawyer-and-the-new-acting-attorney-general-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/02/who-is-todd-blanche-trump-s-former-lawyer-and-the-new-acting-attorney-general-/</guid>
-            <category><![CDATA[Politics]]></category>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump and the Venezuela Model of Compliant Autocracy]]></title>
+            <link>https://time.com/article/2026/04/02/trump-and-the-venezuela-model-of-autocracy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/02/trump-and-the-venezuela-model-of-autocracy/</guid>
+            <category><![CDATA[Ideas]]></category>
+            <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will the Strait of Hormuz Sink NATO?]]></title>
+            <link>https://time.com/article/2026/04/02/will-the-strait-of-hormuz-sink-nato-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/02/will-the-strait-of-hormuz-sink-nato-/</guid>
+            <category><![CDATA[Ideas]]></category>
+            <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Increase U.S. Fertility Rates]]></title>
+            <link>https://time.com/article/2026/04/02/how-to-increase-us-fertility-rates/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/02/how-to-increase-us-fertility-rates/</guid>
+            <category><![CDATA[Ideas]]></category>
             <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -199,6 +233,7 @@
             <link>https://time.com/article/2026/04/01/what-is-chaos-zone-decluttering-method/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/01/what-is-chaos-zone-decluttering-method/</guid>
             <category><![CDATA[Health]]></category>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -281,7 +316,6 @@
             <description><![CDATA[The best pictures from NASA’s Artemis II launch as four astronauts begin a historic journey around the moon after 53 years.]]></description>
             <link>https://time.com/article/2026/04/01/artemis-launch-best-photos/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/01/artemis-launch-best-photos/</guid>
-            <category><![CDATA[Space]]></category>
             <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -301,7 +335,14 @@
             <title><![CDATA[Why You Should Declutter By Category, Not Room]]></title>
             <link>https://time.com/article/2026/04/01/declutter-by-category-not-room/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/01/declutter-by-category-not-room/</guid>
-            <category><![CDATA[Health]]></category>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Everything We Know So Far About King Charles' Upcoming State Visit to the U.S.]]></title>
+            <link>https://time.com/article/2026/04/01/king-charles-camilla-royal-state-visit-washington-america-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/01/king-charles-camilla-royal-state-visit-washington-america-trump/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -557,9 +598,10 @@
         </item>
         <item>
             <title><![CDATA[The 12 New Books You Should Read in April]]></title>
+            <description><![CDATA[From 'Yesteryear' to 'Transcription']]></description>
             <link>https://time.com/article/2026/03/27/best-books-april-2026/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/27/best-books-april-2026/</guid>
-            <dc:creator><![CDATA[Hamilton Cain]]></dc:creator>
+            <category><![CDATA[Books]]></category>
             <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
