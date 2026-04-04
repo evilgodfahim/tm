@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 19:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 20:21:24 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Apr 2026 19:25:44 GMT</pubDate>
+        <pubDate>Sat, 04 Apr 2026 20:21:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Stop Letting AI Run Your Social Life]]></title>
@@ -14,7 +14,7 @@
             <guid isPermaLink="true">https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2026 19:25:44 GMT</pubDate>
+            <pubDate>Sat, 04 Apr 2026 20:21:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Internet’s New Favorite Insult]]></title>
@@ -22,32 +22,40 @@
             <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Sat, 04 Apr 2026 19:25:44 GMT</pubDate>
+            <pubDate>Sat, 04 Apr 2026 20:21:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
             <link>https://time.com/collection/time-for-change/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
             <category><![CDATA[Health]]></category>
-            <pubDate>Sat, 04 Apr 2026 19:25:44 GMT</pubDate>
+            <pubDate>Sat, 04 Apr 2026 20:21:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Sat, 04 Apr 2026 19:25:44 GMT</pubDate>
+            <pubDate>Sat, 04 Apr 2026 20:21:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Sat, 04 Apr 2026 19:25:44 GMT</pubDate>
+            <pubDate>Sat, 04 Apr 2026 20:21:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Sat, 04 Apr 2026 19:25:44 GMT</pubDate>
+            <pubDate>Sat, 04 Apr 2026 20:21:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Claimed Total Control of Iran's Airspace. Then Two Warplanes Were Downed]]></title>
+            <description><![CDATA[Trump and Hegseth’s claims to have uncontested control of Iran’s airspace have been undermined by the apparent shooting down of two U.S. warplanes in one day.]]></description>
+            <link>https://time.com/article/2026/04/04/f-15-shot-down-iran-search/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/04/f-15-shot-down-iran-search/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sat, 04 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Baz Luhrmann's EPiC Is the Tribute Elvis Deserves]]></title>
@@ -73,6 +81,7 @@
             <title><![CDATA[The Story Behind 'The Truth and Tragedy of Moriah Wilson']]></title>
             <link>https://time.com/article/2026/04/03/the-story-behind-the-truth-and-tragedy-of-moriah-wilson/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/03/the-story-behind-the-truth-and-tragedy-of-moriah-wilson/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Isadora Wandermurem]]></dc:creator>
             <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -98,10 +107,9 @@
         </item>
         <item>
             <title><![CDATA[U.S. Fighter Jet Crashes in Iran, Triggering Search for Crew]]></title>
-            <description><![CDATA[A U.S. F-15 jet went down in Iran, prompting a U.S. recovery effort as Iranian authorities called on civilians to find the crew first.]]></description>
             <link>https://time.com/article/2026/04/03/rescuers-search-for-crew-of-u-s-fighter-jet-downed-inside-iran/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/03/rescuers-search-for-crew-of-u-s-fighter-jet-downed-inside-iran/</guid>
-            <dc:creator><![CDATA[Kay Armin Serjoie and Brian Bennett]]></dc:creator>
+            <category><![CDATA[World]]></category>
             <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -401,7 +409,6 @@
             <title><![CDATA[Everything We Know So Far About King Charles' Upcoming State Visit to the U.S.]]></title>
             <link>https://time.com/article/2026/04/01/king-charles-camilla-royal-state-visit-washington-america-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/01/king-charles-camilla-royal-state-visit-washington-america-trump/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
