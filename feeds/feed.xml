@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 17:38:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 18:45:03 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 17:38:25 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 18:45:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Stop Letting AI Run Your Social Life]]></title>
@@ -14,7 +14,7 @@
             <guid isPermaLink="true">https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Mon, 06 Apr 2026 17:38:25 GMT</pubDate>
+            <pubDate>Mon, 06 Apr 2026 18:45:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Internet’s New Favorite Insult]]></title>
@@ -22,7 +22,7 @@
             <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Mon, 06 Apr 2026 17:38:25 GMT</pubDate>
+            <pubDate>Mon, 06 Apr 2026 18:45:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
@@ -30,7 +30,7 @@
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Mon, 06 Apr 2026 17:38:25 GMT</pubDate>
+            <pubDate>Mon, 06 Apr 2026 18:45:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The True Story Behind 'The TikTok Killer']]></title>
@@ -38,32 +38,32 @@
             <guid isPermaLink="true">https://time.com/7382708/tikok-killer-true-story/</guid>
             <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
-            <pubDate>Mon, 06 Apr 2026 17:38:25 GMT</pubDate>
+            <pubDate>Mon, 06 Apr 2026 18:45:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
             <link>https://time.com/collection/time-for-change/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
             <category><![CDATA[Health]]></category>
-            <pubDate>Mon, 06 Apr 2026 17:38:25 GMT</pubDate>
+            <pubDate>Mon, 06 Apr 2026 18:45:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Mon, 06 Apr 2026 17:38:25 GMT</pubDate>
+            <pubDate>Mon, 06 Apr 2026 18:45:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Mon, 06 Apr 2026 17:38:25 GMT</pubDate>
+            <pubDate>Mon, 06 Apr 2026 18:45:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Mon, 06 Apr 2026 17:38:25 GMT</pubDate>
+            <pubDate>Mon, 06 Apr 2026 18:45:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What to Know About the 25th Amendment as Lawmakers Call for Trump’s Removal]]></title>
@@ -200,6 +200,13 @@
             <link>https://time.com/article/2026/04/03/how-the-olympic-ban-on-transgender-women-could-affect-all-women-athletes/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/03/how-the-olympic-ban-on-transgender-women-could-affect-all-women-athletes/</guid>
             <category><![CDATA[Sports]]></category>
+            <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[6 Key Signs of an Emotionally Unavailable Partner]]></title>
+            <link>https://time.com/article/2026/04/03/emotionally-unavailable-partner-signs-therapists/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/03/emotionally-unavailable-partner-signs-therapists/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -523,7 +530,6 @@
             <title><![CDATA[What to Know About Cicada, the New COVID Variant]]></title>
             <link>https://time.com/article/2026/03/31/new-covid-variant-cicada/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/31/new-covid-variant-cicada/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
         </item>
@@ -559,6 +565,7 @@
             <title><![CDATA[What to Eat for Better Heart Health]]></title>
             <link>https://time.com/article/2026/03/31/what-to-eat-heart-health-diet-guidelines/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/31/what-to-eat-heart-health-diet-guidelines/</guid>
+            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
         </item>
