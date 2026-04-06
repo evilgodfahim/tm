@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 12:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 14:07:11 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 12:52:03 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 14:07:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Stop Letting AI Run Your Social Life]]></title>
@@ -14,7 +14,7 @@
             <guid isPermaLink="true">https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Mon, 06 Apr 2026 12:52:03 GMT</pubDate>
+            <pubDate>Mon, 06 Apr 2026 14:07:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Internet’s New Favorite Insult]]></title>
@@ -22,7 +22,7 @@
             <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Mon, 06 Apr 2026 12:52:03 GMT</pubDate>
+            <pubDate>Mon, 06 Apr 2026 14:07:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
@@ -30,7 +30,7 @@
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Mon, 06 Apr 2026 12:52:03 GMT</pubDate>
+            <pubDate>Mon, 06 Apr 2026 14:07:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The True Story Behind 'The TikTok Killer']]></title>
@@ -38,32 +38,39 @@
             <guid isPermaLink="true">https://time.com/7382708/tikok-killer-true-story/</guid>
             <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
-            <pubDate>Mon, 06 Apr 2026 12:52:03 GMT</pubDate>
+            <pubDate>Mon, 06 Apr 2026 14:07:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
             <link>https://time.com/collection/time-for-change/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
             <category><![CDATA[Health]]></category>
-            <pubDate>Mon, 06 Apr 2026 12:52:03 GMT</pubDate>
+            <pubDate>Mon, 06 Apr 2026 14:07:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Mon, 06 Apr 2026 12:52:03 GMT</pubDate>
+            <pubDate>Mon, 06 Apr 2026 14:07:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Mon, 06 Apr 2026 12:52:03 GMT</pubDate>
+            <pubDate>Mon, 06 Apr 2026 14:07:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Mon, 06 Apr 2026 12:52:03 GMT</pubDate>
+            <pubDate>Mon, 06 Apr 2026 14:07:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About the 25th Amendment as Lawmakers Call for Trump’s Removal]]></title>
+            <link>https://time.com/article/2026/04/06/25th-amendment-constitution-trump-war-iran-threat-insanity/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/06/25th-amendment-constitution-trump-war-iran-threat-insanity/</guid>
+            <category><![CDATA[Politics]]></category>
+            <pubDate>Mon, 06 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How a U.S. Airman Shot Down in Iran Was Rescued From a Mountain Crevice]]></title>
@@ -91,7 +98,7 @@
             <title><![CDATA[Trump Claimed Total Control of Iran's Airspace. Then Two Warplanes Were Downed]]></title>
             <link>https://time.com/article/2026/04/04/f-15-shot-down-iran-search/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/04/f-15-shot-down-iran-search/</guid>
-            <category><![CDATA[World]]></category>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sat, 04 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -253,9 +260,10 @@
         </item>
         <item>
             <title><![CDATA[Inside Trump's Search for a Way Out of Iran War]]></title>
+            <description><![CDATA[Facing political backlash, global economic shock, and the looming midterms, the President still doesn't want to get out of Iran without declaring victory.]]></description>
             <link>https://time.com/article/2026/04/02/trump-iran-off-ramp/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/02/trump-iran-off-ramp/</guid>
-            <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
+            <category><![CDATA[Donald Trump]]></category>
             <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -714,10 +722,9 @@
         </item>
         <item>
             <title><![CDATA[The 12 New Books You Should Read in April]]></title>
-            <description><![CDATA[From 'Yesteryear' to 'Transcription']]></description>
             <link>https://time.com/article/2026/03/27/best-books-april-2026/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/27/best-books-april-2026/</guid>
-            <category><![CDATA[Books]]></category>
+            <dc:creator><![CDATA[Hamilton Cain]]></dc:creator>
             <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
