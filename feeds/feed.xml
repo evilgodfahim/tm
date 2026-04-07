@@ -4,25 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 15:00:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 16:47:23 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 15:00:51 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 16:47:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[Stop Letting AI Run Your Social Life]]></title>
-            <link>https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</link>
-            <guid isPermaLink="true">https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</guid>
-            <category><![CDATA[Health]]></category>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 15:00:51 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The Internet’s New Favorite Insult]]></title>
             <link>https://time.com/7371832/looks-like-ai-writing-online-insult/</link>
             <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 15:00:51 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 16:47:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
@@ -30,7 +22,7 @@
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 15:00:51 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 16:47:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The True Story Behind 'The TikTok Killer']]></title>
@@ -38,31 +30,38 @@
             <guid isPermaLink="true">https://time.com/7382708/tikok-killer-true-story/</guid>
             <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 15:00:51 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 16:47:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
             <link>https://time.com/collection/time-for-change/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
             <category><![CDATA[Health]]></category>
-            <pubDate>Tue, 07 Apr 2026 15:00:51 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 16:47:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Tue, 07 Apr 2026 15:00:51 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 16:47:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Tue, 07 Apr 2026 15:00:51 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 16:47:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
+            <pubDate>Tue, 07 Apr 2026 16:47:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stop Letting AI Run Your Social Life]]></title>
+            <link>https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</link>
+            <guid isPermaLink="true">https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 15:00:51 GMT</pubDate>
         </item>
         <item>
@@ -92,6 +91,14 @@
             <link>https://time.com/article/2026/04/07/trump-warns-whole-civilization-will-die-if-iran-misses-deadline/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/trump-warns-whole-civilization-will-die-if-iran-misses-deadline/</guid>
             <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘A Perfect Storm’: How AI Is Transforming the Global Scam Industry]]></title>
+            <description><![CDATA[AI-powered malware is transforming scam compounds into a global cybercrime industry fueled by trafficked workers and willing recruits.]]></description>
+            <link>https://time.com/article/2026/04/07/-a-perfect-storm-how-ai-is-transforming-the-global-scam-industry/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/07/-a-perfect-storm-how-ai-is-transforming-the-global-scam-industry/</guid>
+            <category><![CDATA[AI]]></category>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -134,7 +141,7 @@
             <pubDate>Mon, 06 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Flower's Power To Boost Your Mood]]></title>
+            <title><![CDATA[A Flower's Power to Boost Your Mood]]></title>
             <link>https://time.com/article/2026/04/06/smell-brain-mood-science-scent-benefits/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/06/smell-brain-mood-science-scent-benefits/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
@@ -331,7 +338,6 @@
             <description><![CDATA[Facing political backlash, global economic shock, and the looming midterms, the President still doesn't want to get out of Iran without declaring victory.]]></description>
             <link>https://time.com/article/2026/04/02/trump-iran-off-ramp/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/02/trump-iran-off-ramp/</guid>
-            <category><![CDATA[Donald Trump]]></category>
             <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -555,6 +561,7 @@
             <title><![CDATA[AI Alone Won't Take Your Job. Someone Using AI Will]]></title>
             <link>https://time.com/article/2026/03/31/ai-alone-won-t-take-your-job-someone-using-ai-will/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/31/ai-alone-won-t-take-your-job-someone-using-ai-will/</guid>
+            <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Ryan Roslansky and Aneesh Raman]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
         </item>
