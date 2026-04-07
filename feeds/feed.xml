@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 08:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 10:01:20 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 08:07:07 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 10:01:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Democrats Cast Shutdown as a Win. But What Did They Actually Get?]]></title>
@@ -17,12 +17,26 @@
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The White House Wants to Cut Thousands of TSA Jobs: What to Know]]></title>
+            <link>https://time.com/article/2026/04/07/tsa-job-cuts-trump-white-house-budget-proposal-privatization-concerns/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/07/tsa-job-cuts-trump-white-house-budget-proposal-privatization-concerns/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Iran’s ‘Selective’ Closure of the Strait of Hormuz Matters]]></title>
+            <link>https://time.com/article/2026/04/07/strait-of-hormuz-countries-pass-deals-iran-us-war-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/07/strait-of-hormuz-countries-pass-deals-iran-us-war-trump/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Stop Letting AI Run Your Social Life]]></title>
             <link>https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</link>
             <guid isPermaLink="true">https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 08:07:07 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 10:01:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Internet’s New Favorite Insult]]></title>
@@ -30,7 +44,7 @@
             <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 08:07:07 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 10:01:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
@@ -38,7 +52,7 @@
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 08:07:07 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 10:01:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The True Story Behind 'The TikTok Killer']]></title>
@@ -46,32 +60,32 @@
             <guid isPermaLink="true">https://time.com/7382708/tikok-killer-true-story/</guid>
             <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 08:07:07 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 10:01:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
             <link>https://time.com/collection/time-for-change/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
             <category><![CDATA[Health]]></category>
-            <pubDate>Tue, 07 Apr 2026 08:07:07 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 10:01:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Tue, 07 Apr 2026 08:07:07 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 10:01:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Tue, 07 Apr 2026 08:07:07 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 10:01:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Tue, 07 Apr 2026 08:07:07 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 10:01:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What to Know About the 25th Amendment as Lawmakers Call for Trump’s Removal]]></title>
@@ -83,7 +97,7 @@
             <title><![CDATA[Trump Renews Vow to Destroy Iran's Power Plants and Bridges]]></title>
             <link>https://time.com/article/2026/04/06/iran-rejects-ceasefire-as-trump-deadline-looms-and-strikes-escalate/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/06/iran-rejects-ceasefire-as-trump-deadline-looms-and-strikes-escalate/</guid>
-            <dc:creator><![CDATA[Kay Armin Serjoie and Brian Bennett]]></dc:creator>
+            <category><![CDATA[World]]></category>
             <pubDate>Mon, 06 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -111,7 +125,6 @@
             <title><![CDATA[Artemis II Is About To Fly Around the Far Side of the Moon]]></title>
             <link>https://time.com/article/2026/04/06/artemis-ii-far-side-moon-historic-record/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/06/artemis-ii-far-side-moon-historic-record/</guid>
-            <category><![CDATA[Science]]></category>
             <pubDate>Mon, 06 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
