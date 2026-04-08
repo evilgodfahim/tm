@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 22:31:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 23:31:23 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 22:31:31 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 23:31:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Internet’s New Favorite Insult]]></title>
@@ -14,7 +14,7 @@
             <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 22:31:31 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 23:31:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
@@ -22,7 +22,7 @@
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 22:31:31 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 23:31:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The True Story Behind 'The TikTok Killer']]></title>
@@ -30,25 +30,25 @@
             <guid isPermaLink="true">https://time.com/7382708/tikok-killer-true-story/</guid>
             <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 22:31:31 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 23:31:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Wed, 08 Apr 2026 22:31:31 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 23:31:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Wed, 08 Apr 2026 22:31:31 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 23:31:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Wed, 08 Apr 2026 22:31:31 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 23:31:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
@@ -72,10 +72,31 @@
         </item>
         <item>
             <title><![CDATA[Strait of Hormuz Closure 'Unacceptable' Under Ceasefire, Leavitt Says]]></title>
-            <description><![CDATA[Vice President JD Vance will lead a team of negotiators meeting with Iranian officials in Pakistan on Saturday]]></description>
             <link>https://time.com/article/2026/04/08/white-house-strait-of-hormuz-closure-would-be-completely-unacceptable-under-ceasefire/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/08/white-house-strait-of-hormuz-closure-would-be-completely-unacceptable-under-ceasefire/</guid>
+            <category><![CDATA[Politics]]></category>
+            <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can the Iran Ceasefire Last? We Asked 3 Experts]]></title>
+            <description><![CDATA[A former ambassador, a former military leader, and a former intel officer talk about the pitfalls ahead]]></description>
+            <link>https://time.com/article/2026/04/08/we-asked-3-experts-where-the-iran-war-goes-from-here/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/08/we-asked-3-experts-where-the-iran-war-goes-from-here/</guid>
             <dc:creator><![CDATA[Brian Bennett]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About Iran’s Ceasefire Proposal as Peace Talks Approach]]></title>
+            <link>https://time.com/article/2026/04/08/iran-us-ceasefire-proposal-talks/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/08/iran-us-ceasefire-proposal-talks/</guid>
+            <dc:creator><![CDATA[Connor Greene and Rebecca Schneid]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why We Predicted Trump’s Iran Ceasefire]]></title>
+            <link>https://time.com/article/2026/04/08/why-we-predicted-trump-s-iran-ceasefire/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/08/why-we-predicted-trump-s-iran-ceasefire/</guid>
+            <category><![CDATA[Ideas]]></category>
             <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -89,14 +110,12 @@
             <title><![CDATA[Democrats Cast Shutdown as a Win. But What Did They Actually Get?]]></title>
             <link>https://time.com/article/2026/04/07/democrats-insist-they-won-the-shutdown-fight-some-aren-t-convinced/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/democrats-insist-they-won-the-shutdown-fight-some-aren-t-convinced/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The White House Wants to Cut Thousands of TSA Jobs: What to Know]]></title>
             <link>https://time.com/article/2026/04/07/tsa-job-cuts-trump-white-house-budget-proposal-privatization-concerns/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/tsa-job-cuts-trump-white-house-budget-proposal-privatization-concerns/</guid>
-            <category><![CDATA[U.S.]]></category>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
