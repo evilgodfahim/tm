@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 23:30:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 01:29:29 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 23:30:37 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 01:29:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
@@ -14,7 +14,7 @@
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 23:30:37 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 01:29:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The True Story Behind 'The TikTok Killer']]></title>
@@ -22,32 +22,32 @@
             <guid isPermaLink="true">https://time.com/7382708/tikok-killer-true-story/</guid>
             <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 23:30:37 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 01:29:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
             <link>https://time.com/collection/time-for-change/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
             <category><![CDATA[Health]]></category>
-            <pubDate>Tue, 07 Apr 2026 23:30:37 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 01:29:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Tue, 07 Apr 2026 23:30:37 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 01:29:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Tue, 07 Apr 2026 23:30:37 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 01:29:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Tue, 07 Apr 2026 23:30:37 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 01:29:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Internet’s New Favorite Insult]]></title>
@@ -93,10 +93,9 @@
         </item>
         <item>
             <title><![CDATA[‘A Perfect Storm’: How AI Is Transforming the Global Scam Industry]]></title>
-            <description><![CDATA[AI-powered malware is transforming scam compounds into a global cybercrime industry fueled by trafficked workers and willing recruits.]]></description>
             <link>https://time.com/article/2026/04/07/-a-perfect-storm-how-ai-is-transforming-the-global-scam-industry/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/-a-perfect-storm-how-ai-is-transforming-the-global-scam-industry/</guid>
-            <category><![CDATA[AI]]></category>
+            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -108,9 +107,10 @@
         </item>
         <item>
             <title><![CDATA[The True Story Behind 'Untold: Chess Mates']]></title>
+            <description><![CDATA[Netflix's latest 'Untold' documentary dives into a cheating scandal that rocked the competitive chess world]]></description>
             <link>https://time.com/article/2026/04/07/true-story-behind-untold-chess-mates/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/true-story-behind-untold-chess-mates/</guid>
-            <dc:creator><![CDATA[Rory Doherty]]></dc:creator>
+            <category><![CDATA[streaming]]></category>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
