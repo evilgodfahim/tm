@@ -4,24 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 11:46:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 13:02:42 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 11:46:55 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 13:02:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[Lawmakers React to U.S. Cease-Fire Deal on Iran]]></title>
-            <link>https://time.com/article/2026/04/08/cease-fire-deal-iran-reactions/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/08/cease-fire-deal-iran-reactions/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The Internet’s New Favorite Insult]]></title>
             <link>https://time.com/7371832/looks-like-ai-writing-online-insult/</link>
             <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 11:46:55 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 13:02:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
@@ -29,7 +22,7 @@
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 11:46:55 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 13:02:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The True Story Behind 'The TikTok Killer']]></title>
@@ -37,32 +30,39 @@
             <guid isPermaLink="true">https://time.com/7382708/tikok-killer-true-story/</guid>
             <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 11:46:55 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 13:02:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
             <link>https://time.com/collection/time-for-change/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
             <category><![CDATA[Health]]></category>
-            <pubDate>Wed, 08 Apr 2026 11:46:55 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 13:02:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Wed, 08 Apr 2026 11:46:55 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 13:02:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Wed, 08 Apr 2026 11:46:55 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 13:02:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Wed, 08 Apr 2026 11:46:55 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 13:02:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lawmakers React to U.S. Cease-Fire Deal on Iran]]></title>
+            <link>https://time.com/article/2026/04/08/cease-fire-deal-iran-reactions/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/08/cease-fire-deal-iran-reactions/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop Letting AI Run Your Social Life]]></title>
