@@ -4,17 +4,24 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 10:02:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 11:46:55 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 10:02:34 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 11:46:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Lawmakers React to U.S. Cease-Fire Deal on Iran]]></title>
+            <link>https://time.com/article/2026/04/08/cease-fire-deal-iran-reactions/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/08/cease-fire-deal-iran-reactions/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Internet’s New Favorite Insult]]></title>
             <link>https://time.com/7371832/looks-like-ai-writing-online-insult/</link>
             <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 10:02:34 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 11:46:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
@@ -22,7 +29,7 @@
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 10:02:34 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 11:46:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The True Story Behind 'The TikTok Killer']]></title>
@@ -30,32 +37,32 @@
             <guid isPermaLink="true">https://time.com/7382708/tikok-killer-true-story/</guid>
             <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 10:02:34 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 11:46:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
             <link>https://time.com/collection/time-for-change/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
             <category><![CDATA[Health]]></category>
-            <pubDate>Wed, 08 Apr 2026 10:02:34 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 11:46:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Wed, 08 Apr 2026 10:02:34 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 11:46:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Wed, 08 Apr 2026 10:02:34 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 11:46:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Wed, 08 Apr 2026 10:02:34 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 11:46:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop Letting AI Run Your Social Life]]></title>
@@ -82,7 +89,6 @@
             <title><![CDATA[Why Iran’s ‘Selective’ Closure of the Strait of Hormuz Matters]]></title>
             <link>https://time.com/article/2026/04/07/strait-of-hormuz-countries-pass-deals-iran-us-war-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/strait-of-hormuz-countries-pass-deals-iran-us-war-trump/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -134,6 +140,20 @@
             <link>https://time.com/article/2026/04/07/trump-iran-war-threat-steps-back/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/trump-iran-war-threat-steps-back/</guid>
             <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Significance of The Artemis II Moon Photos]]></title>
+            <link>https://time.com/article/2026/04/07/artemis-ii-moon-earth-photos/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/07/artemis-ii-moon-earth-photos/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Republican Clay Fuller Wins Election to Replace Marjorie Taylor Greene in Georgia]]></title>
+            <link>https://time.com/article/2026/04/07/clay-fuller-special-election-marjorie-taylor-greene-georgia/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/07/clay-fuller-special-election-marjorie-taylor-greene-georgia/</guid>
+            <category><![CDATA[U.S.]]></category>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
