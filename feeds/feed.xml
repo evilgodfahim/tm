@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 13:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 15:03:50 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 13:02:42 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 15:03:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Internet’s New Favorite Insult]]></title>
@@ -14,7 +14,7 @@
             <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 13:02:42 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 15:03:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
@@ -22,7 +22,7 @@
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 13:02:42 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 15:03:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The True Story Behind 'The TikTok Killer']]></title>
@@ -30,31 +30,30 @@
             <guid isPermaLink="true">https://time.com/7382708/tikok-killer-true-story/</guid>
             <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 13:02:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIME for Change]]></title>
-            <link>https://time.com/collection/time-for-change/2026/</link>
-            <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
-            <category><![CDATA[Health]]></category>
-            <pubDate>Wed, 08 Apr 2026 13:02:42 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 15:03:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Wed, 08 Apr 2026 13:02:42 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 15:03:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Wed, 08 Apr 2026 13:02:42 GMT</pubDate>
+            <pubDate>Wed, 08 Apr 2026 15:03:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
+            <pubDate>Wed, 08 Apr 2026 15:03:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TIME for Change]]></title>
+            <link>https://time.com/collection/time-for-change/2026/</link>
+            <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
             <pubDate>Wed, 08 Apr 2026 13:02:42 GMT</pubDate>
         </item>
         <item>
@@ -62,6 +61,13 @@
             <link>https://time.com/article/2026/04/08/cease-fire-deal-iran-reactions/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/08/cease-fire-deal-iran-reactions/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Handmaid's Tale' Sequel 'The Testaments': TV Review]]></title>
+            <link>https://time.com/article/2026/04/08/the-testaments-review-hulu/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/08/the-testaments-review-hulu/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -114,10 +120,9 @@
         </item>
         <item>
             <title><![CDATA[The True Story Behind 'Untold: Chess Mates']]></title>
-            <description><![CDATA[Netflix's latest 'Untold' documentary dives into a cheating scandal that rocked the competitive chess world]]></description>
             <link>https://time.com/article/2026/04/07/true-story-behind-untold-chess-mates/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/true-story-behind-untold-chess-mates/</guid>
-            <category><![CDATA[streaming]]></category>
+            <dc:creator><![CDATA[Rory Doherty]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -135,18 +140,19 @@
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trump Agrees to Ceasefire With Iran, Backs Off Threat of Sweeping Strikes]]></title>
+            <title><![CDATA[Hegseth Says Trump is “A President of Peace” After He Threatens to Wipe Out Iran]]></title>
             <description><![CDATA[Trump pauses planned strikes after accepting a two-week ceasefire proposal with Iran tied to reopening the Strait of Hormuz.]]></description>
             <link>https://time.com/article/2026/04/07/trump-iran-war-threat-steps-back/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/trump-iran-war-threat-steps-back/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <dc:creator><![CDATA[Nik Popli and Philip Wang]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Significance of The Artemis II Moon Photos]]></title>
+            <description><![CDATA[The crew of Artemis II just captured a series of dazzling images of the Earth and moon.]]></description>
             <link>https://time.com/article/2026/04/07/artemis-ii-moon-earth-photos/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/artemis-ii-moon-earth-photos/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <category><![CDATA[Space]]></category>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -154,6 +160,20 @@
             <link>https://time.com/article/2026/04/07/clay-fuller-special-election-marjorie-taylor-greene-georgia/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/clay-fuller-special-election-marjorie-taylor-greene-georgia/</guid>
             <category><![CDATA[U.S.]]></category>
+            <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Trump Losing Support Among Young MAGA Voters?]]></title>
+            <link>https://time.com/article/2026/04/07/Iran-war-Trump-MAGA-youth-vote-midterm/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/07/Iran-war-Trump-MAGA-youth-vote-midterm/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gossip Isn’t As Bad As You Think]]></title>
+            <link>https://time.com/article/2026/04/07/why-people-gossip-benefits-science/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/07/why-people-gossip-benefits-science/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -545,6 +565,7 @@
             <title><![CDATA[FDA Approves Eli Lilly's Obesity Pill]]></title>
             <link>https://time.com/article/2026/04/01/fda-approves-eli-lilly-obesity-pill/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/01/fda-approves-eli-lilly-obesity-pill/</guid>
+            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
         </item>
