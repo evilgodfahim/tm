@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 10:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 11:47:54 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 10:05:20 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 11:47:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How Ciara Became an Advocate for HIV Prevention]]></title>
@@ -19,7 +19,7 @@
             <title><![CDATA[If Cease-Fire Holds, How Soon Could Gas Prices Come Down?]]></title>
             <link>https://time.com/article/2026/04/09/oil-gas-commodity-prices-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/oil-gas-commodity-prices-iran-war/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <category><![CDATA[Business]]></category>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 10:05:19 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 11:47:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop Letting AI Run Your Social Life]]></title>
@@ -36,7 +36,7 @@
             <guid isPermaLink="true">https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 10:05:19 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 11:47:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
@@ -44,25 +44,25 @@
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 10:05:19 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 11:47:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Thu, 09 Apr 2026 10:05:19 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 11:47:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Thu, 09 Apr 2026 10:05:19 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 11:47:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Thu, 09 Apr 2026 10:05:19 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 11:47:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The True Story Behind 'The TikTok Killer']]></title>
@@ -96,6 +96,7 @@
             <title><![CDATA[Strait of Hormuz Closure 'Unacceptable' Under Ceasefire, Leavitt Says]]></title>
             <link>https://time.com/article/2026/04/08/white-house-strait-of-hormuz-closure-would-be-completely-unacceptable-under-ceasefire/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/08/white-house-strait-of-hormuz-closure-would-be-completely-unacceptable-under-ceasefire/</guid>
+            <dc:creator><![CDATA[Brian Bennett]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -144,7 +145,7 @@
             <title><![CDATA[Leaving NATO Would Be National Self-Sabotage]]></title>
             <link>https://time.com/article/2026/04/08/leaving-nato-would-be-national-self-sabotage/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/08/leaving-nato-would-be-national-self-sabotage/</guid>
-            <category><![CDATA[Ideas]]></category>
+            <dc:creator><![CDATA[Tim Kaine]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -249,7 +250,7 @@
             <title><![CDATA[Gossip Isn’t As Bad As You Think]]></title>
             <link>https://time.com/article/2026/04/07/why-people-gossip-benefits-science/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/why-people-gossip-benefits-science/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <category><![CDATA[Health]]></category>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -506,7 +507,6 @@
             <title><![CDATA[Who Has Trump Fired in His Second Term?]]></title>
             <link>https://time.com/article/2026/04/02/who-has-trump-fired-the-high-ranking-officials-replaced-in-the-president-s-second-term/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/02/who-has-trump-fired-the-high-ranking-officials-replaced-in-the-president-s-second-term/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
