@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 23:31:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 01:22:16 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 23:31:23 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 01:22:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Internet’s New Favorite Insult]]></title>
@@ -14,7 +14,7 @@
             <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 23:31:23 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 01:22:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
@@ -22,7 +22,7 @@
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 23:31:23 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 01:22:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The True Story Behind 'The TikTok Killer']]></title>
@@ -30,25 +30,25 @@
             <guid isPermaLink="true">https://time.com/7382708/tikok-killer-true-story/</guid>
             <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 23:31:23 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 01:22:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Wed, 08 Apr 2026 23:31:23 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 01:22:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Wed, 08 Apr 2026 23:31:23 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 01:22:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Wed, 08 Apr 2026 23:31:23 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 01:22:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
@@ -97,6 +97,13 @@
             <link>https://time.com/article/2026/04/08/why-we-predicted-trump-s-iran-ceasefire/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/08/why-we-predicted-trump-s-iran-ceasefire/</guid>
             <category><![CDATA[Ideas]]></category>
+            <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The True Story Behind 'Trust Me: The False Prophet']]></title>
+            <link>https://time.com/article/2026/04/08/trust-me-the-false-prophet-true-story/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/08/trust-me-the-false-prophet-true-story/</guid>
+            <dc:creator><![CDATA[Isabella Wandermurem]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -295,7 +302,6 @@
             <title><![CDATA[The Story Behind 'The Truth and Tragedy of Moriah Wilson']]></title>
             <link>https://time.com/article/2026/04/03/the-story-behind-the-truth-and-tragedy-of-moriah-wilson/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/03/the-story-behind-the-truth-and-tragedy-of-moriah-wilson/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Isadora Wandermurem]]></dc:creator>
             <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -356,6 +362,7 @@
             <title><![CDATA[The Star Trek Episodes That Changed TV Forever]]></title>
             <link>https://time.com/article/2026/04/03/star-trek-anniversary-best-of-both-worlds/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/03/star-trek-anniversary-best-of-both-worlds/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
             <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
         </item>
