@@ -4,16 +4,16 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 19:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 20:41:21 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 19:08:37 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 20:41:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Thu, 09 Apr 2026 19:08:37 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 20:41:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Internet’s New Favorite Insult]]></title>
@@ -21,7 +21,7 @@
             <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 19:08:37 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 20:41:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
@@ -29,25 +29,25 @@
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 19:08:37 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 20:41:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Thu, 09 Apr 2026 19:08:37 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 20:41:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Thu, 09 Apr 2026 19:08:37 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 20:41:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Thu, 09 Apr 2026 19:08:37 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 20:41:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop Letting AI Run Your Social Life]]></title>
@@ -74,7 +74,7 @@
             <title><![CDATA[By Hosting U.S.-Iran Talks, Pakistan Eyes an Unlikely Rebrand as Peace Broker]]></title>
             <link>https://time.com/article/2026/04/09/by-hosting-u-s--iran-talks-pakistan-eyes-an-unlikely-rebrand-as-peace-broker/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/by-hosting-u-s--iran-talks-pakistan-eyes-an-unlikely-rebrand-as-peace-broker/</guid>
-            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
+            <category><![CDATA[World]]></category>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -83,6 +83,13 @@
             <link>https://time.com/article/2026/04/09/trump-threatens-stronger-attacks-if-iran-doesnt-comply-with-real-ceasefire-agreement/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/trump-threatens-stronger-attacks-if-iran-doesnt-comply-with-real-ceasefire-agreement/</guid>
             <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Melania Trump Says Lies Linking Her to Jeffrey Epstein ‘Need to End’]]></title>
+            <link>https://time.com/article/2026/04/09/melania-trump-says-lies-linking-her-to-jeffrey-epstein-need-to-end-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/09/melania-trump-says-lies-linking-her-to-jeffrey-epstein-need-to-end-/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -270,7 +277,6 @@
             <title><![CDATA[Is Trump Losing Support Among Young MAGA Voters?]]></title>
             <link>https://time.com/article/2026/04/07/Iran-war-Trump-MAGA-youth-vote-midterm/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/Iran-war-Trump-MAGA-youth-vote-midterm/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
