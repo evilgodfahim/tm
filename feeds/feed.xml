@@ -4,25 +4,24 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 15:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 16:58:35 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 15:14:59 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 16:58:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[TIME Earth Awards | 2026]]></title>
+            <link>https://time.com/collection/earth-awards/2026/</link>
+            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
+            <category><![CDATA[Climate]]></category>
+            <pubDate>Thu, 09 Apr 2026 16:58:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Internet’s New Favorite Insult]]></title>
             <link>https://time.com/7371832/looks-like-ai-writing-online-insult/</link>
             <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 15:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stop Letting AI Run Your Social Life]]></title>
-            <link>https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</link>
-            <guid isPermaLink="true">https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</guid>
-            <category><![CDATA[Health]]></category>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 15:14:59 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 16:58:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
@@ -30,24 +29,31 @@
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 15:14:59 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 16:58:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Thu, 09 Apr 2026 15:14:59 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 16:58:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Thu, 09 Apr 2026 15:14:59 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 16:58:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
+            <pubDate>Thu, 09 Apr 2026 16:58:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stop Letting AI Run Your Social Life]]></title>
+            <link>https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</link>
+            <guid isPermaLink="true">https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 15:14:59 GMT</pubDate>
         </item>
         <item>
@@ -69,6 +75,14 @@
             <link>https://time.com/article/2026/04/09/by-hosting-u-s--iran-talks-pakistan-eyes-an-unlikely-rebrand-as-peace-broker/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/by-hosting-u-s--iran-talks-pakistan-eyes-an-unlikely-rebrand-as-peace-broker/</guid>
             <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Threatens 'Bigger and Stronger' Attacks If Iran Doesn’t Comply]]></title>
+            <description><![CDATA[The fragile U.S.-Iran cease-fire is under threat amid tensions surrounding the Strait of Hormuz and concerns over Israel’s strikes against the Hezbollah militant group in Lebanon.]]></description>
+            <link>https://time.com/article/2026/04/09/trump-threatens-stronger-attacks-if-iran-doesnt-comply-with-real-ceasefire-agreement/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/09/trump-threatens-stronger-attacks-if-iran-doesnt-comply-with-real-ceasefire-agreement/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -108,7 +122,6 @@
         </item>
         <item>
             <title><![CDATA[Can the Iran Ceasefire Last? We Asked 3 Experts]]></title>
-            <description><![CDATA[A former ambassador, a former military leader, and a former intel officer talk about the pitfalls ahead]]></description>
             <link>https://time.com/article/2026/04/08/we-asked-3-experts-where-the-iran-war-goes-from-here/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/08/we-asked-3-experts-where-the-iran-war-goes-from-here/</guid>
             <dc:creator><![CDATA[Brian Bennett]]></dc:creator>
@@ -165,9 +178,10 @@
         </item>
         <item>
             <title><![CDATA[What to Know About the Bab El-Mandeb Strait—and Why It's So Important]]></title>
+            <description><![CDATA[As the fragile U.S.-Iran cease-fire is being tested by reports of Tehran's continued chokehold on the Strait of Hormuz, concern is mounting over another critical maritime chokepoint.]]></description>
             <link>https://time.com/article/2026/04/08/bab-el-mandeb-strait-iran-houthis-threat-trade-hormuz-war-ceasefire/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/08/bab-el-mandeb-strait-iran-houthis-threat-trade-hormuz-war-ceasefire/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <category><![CDATA[Iran]]></category>
             <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -244,7 +258,6 @@
             <description><![CDATA[The crew of Artemis II just captured a series of dazzling images of the Earth and moon.]]></description>
             <link>https://time.com/article/2026/04/07/artemis-ii-moon-earth-photos/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/artemis-ii-moon-earth-photos/</guid>
-            <category><![CDATA[Space]]></category>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -433,6 +446,20 @@
             <link>https://time.com/article/2026/04/03/emotionally-unavailable-partner-signs-therapists/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/03/emotionally-unavailable-partner-signs-therapists/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Once Again, Energy Is Power]]></title>
+            <link>https://time.com/article/2026/04/03/energy-geopolitics-united-states-iran-china/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/03/energy-geopolitics-united-states-iran-china/</guid>
+            <dc:creator><![CDATA[Meghan O'Sullivan and Jason Bordoff]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will an Energy Crisis Push Executives Toward Clean Tech?]]></title>
+            <link>https://time.com/article/2026/04/03/iran-war-energy-crisis-clean-tech-investment/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/03/iran-war-energy-crisis-clean-tech-investment/</guid>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -705,6 +732,14 @@
             <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Risk of Targeting Water Desalination Plants In The Iran War]]></title>
+            <link>https://time.com/article/2026/04/01/water-desalination-plants-iran-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/01/water-desalination-plants-iran-war/</guid>
+            <category><![CDATA[World]]></category>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Trump Says U.K. and Others Should Go to Strait of Hormuz and 'Take' Oil]]></title>
             <link>https://time.com/article/2026/03/31/trump-warning-to-united-kingdom-nations-iran-war-strait-of-hormuz-oil/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/31/trump-warning-to-united-kingdom-nations-iran-war-strait-of-hormuz-oil/</guid>
@@ -748,6 +783,8 @@
             <title><![CDATA[The Climate Benefit of Ditching Next-Day Delivery]]></title>
             <link>https://time.com/article/2026/03/31/slower-shipping-climate-benefit/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/31/slower-shipping-climate-benefit/</guid>
+            <category><![CDATA[Climate]]></category>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -789,7 +826,6 @@
             <title><![CDATA[What to Eat for Better Heart Health]]></title>
             <link>https://time.com/article/2026/03/31/what-to-eat-heart-health-diet-guidelines/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/31/what-to-eat-heart-health-diet-guidelines/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
         </item>
@@ -1061,6 +1097,8 @@
             <title><![CDATA[AI Slop Is Flooding Streaming—and Musicians Are Fighting Back]]></title>
             <link>https://time.com/article/2026/03/26/ai-slop-is-threatening-musicians-can-tech-companies-stem-the-tide-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/ai-slop-is-threatening-musicians-can-tech-companies-stem-the-tide-/</guid>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1074,6 +1112,13 @@
             <link>https://time.com/article/2026/03/26/new-on-netflix-april-2026/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/new-on-netflix-april-2026/</guid>
             <dc:creator><![CDATA[TIME Staff]]></dc:creator>
+            <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does Microneedling Work—And Is It Safe?]]></title>
+            <link>https://time.com/article/2026/03/26/does-microneedling-work-is-it-safe/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/26/does-microneedling-work-is-it-safe/</guid>
+            <dc:creator><![CDATA[Erica Sweeney]]></dc:creator>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1339,6 +1384,14 @@
             <link>https://time.com/article/2026/03/18/dolores-huerta-cesar-chavez-allegations-united-farm-workers/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/18/dolores-huerta-cesar-chavez-allegations-united-farm-workers/</guid>
             <pubDate>Wed, 18 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Decarbonization Helps Weather Fuel Price Shocks]]></title>
+            <link>https://time.com/article/2026/03/13/iran-energy-fuel-prices-sustainability/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/13/iran-energy-fuel-prices-sustainability/</guid>
+            <category><![CDATA[Climate]]></category>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
+            <pubDate>Fri, 13 Mar 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
