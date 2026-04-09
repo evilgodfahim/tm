@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 13:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 15:14:59 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 13:03:26 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 15:14:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Internet’s New Favorite Insult]]></title>
@@ -14,7 +14,7 @@
             <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 13:03:26 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 15:14:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop Letting AI Run Your Social Life]]></title>
@@ -22,7 +22,7 @@
             <guid isPermaLink="true">https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 13:03:26 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 15:14:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
@@ -30,25 +30,25 @@
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 13:03:26 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 15:14:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Thu, 09 Apr 2026 13:03:26 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 15:14:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Thu, 09 Apr 2026 13:03:26 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 15:14:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Thu, 09 Apr 2026 13:03:26 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 15:14:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Ciara Became an Advocate for HIV Prevention]]></title>
@@ -62,6 +62,13 @@
             <link>https://time.com/article/2026/04/09/oil-gas-commodity-prices-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/oil-gas-commodity-prices-iran-war/</guid>
             <category><![CDATA[Business]]></category>
+            <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[By Hosting U.S.-Iran Talks, Pakistan Eyes an Unlikely Rebrand as Peace Broker]]></title>
+            <link>https://time.com/article/2026/04/09/by-hosting-u-s--iran-talks-pakistan-eyes-an-unlikely-rebrand-as-peace-broker/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/09/by-hosting-u-s--iran-talks-pakistan-eyes-an-unlikely-rebrand-as-peace-broker/</guid>
+            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -532,7 +539,6 @@
             <title><![CDATA[Will the Strait of Hormuz Sink NATO?]]></title>
             <link>https://time.com/article/2026/04/02/will-the-strait-of-hormuz-sink-nato-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/02/will-the-strait-of-hormuz-sink-nato-/</guid>
-            <category><![CDATA[Ideas]]></category>
             <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -791,7 +797,7 @@
             <title><![CDATA[Dan Levy's Netflix Comedy 'Big Mistakes': Review]]></title>
             <link>https://time.com/article/2026/03/31/big-mistakes-review-netflix/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/31/big-mistakes-review-netflix/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <category><![CDATA[Entertainment]]></category>
             <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
