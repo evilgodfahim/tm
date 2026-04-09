@@ -4,15 +4,22 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 08:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 10:05:20 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 08:14:18 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 10:05:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How Ciara Became an Advocate for HIV Prevention]]></title>
             <link>https://time.com/article/2026/04/09/-ciara-advocate-hiv-prevention/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/-ciara-advocate-hiv-prevention/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <category><![CDATA[Health]]></category>
+            <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[If Cease-Fire Holds, How Soon Could Gas Prices Come Down?]]></title>
+            <link>https://time.com/article/2026/04/09/oil-gas-commodity-prices-iran-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/09/oil-gas-commodity-prices-iran-war/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,15 @@
             <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 08:14:18 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 10:05:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stop Letting AI Run Your Social Life]]></title>
+            <link>https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</link>
+            <guid isPermaLink="true">https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</guid>
+            <category><![CDATA[Health]]></category>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 10:05:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
@@ -29,32 +44,31 @@
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 08:14:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The True Story Behind 'The TikTok Killer']]></title>
-            <link>https://time.com/7382708/tikok-killer-true-story/</link>
-            <guid isPermaLink="true">https://time.com/7382708/tikok-killer-true-story/</guid>
-            <category><![CDATA[Entertainment]]></category>
-            <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 08:14:18 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 10:05:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Thu, 09 Apr 2026 08:14:18 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 10:05:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Thu, 09 Apr 2026 08:14:18 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 10:05:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
+            <pubDate>Thu, 09 Apr 2026 10:05:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The True Story Behind 'The TikTok Killer']]></title>
+            <link>https://time.com/7382708/tikok-killer-true-story/</link>
+            <guid isPermaLink="true">https://time.com/7382708/tikok-killer-true-story/</guid>
+            <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 08:14:18 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +88,7 @@
             <title><![CDATA['Handmaid's Tale' Sequel 'The Testaments': TV Review]]></title>
             <link>https://time.com/article/2026/04/08/the-testaments-review-hulu/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/08/the-testaments-review-hulu/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -81,7 +96,6 @@
             <title><![CDATA[Strait of Hormuz Closure 'Unacceptable' Under Ceasefire, Leavitt Says]]></title>
             <link>https://time.com/article/2026/04/08/white-house-strait-of-hormuz-closure-would-be-completely-unacceptable-under-ceasefire/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/08/white-house-strait-of-hormuz-closure-would-be-completely-unacceptable-under-ceasefire/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -103,7 +117,6 @@
             <title><![CDATA[Why We Predicted Trump’s Iran Ceasefire]]></title>
             <link>https://time.com/article/2026/04/08/why-we-predicted-trump-s-iran-ceasefire/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/08/why-we-predicted-trump-s-iran-ceasefire/</guid>
-            <category><![CDATA[Ideas]]></category>
             <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -121,11 +134,26 @@
             <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Stop Letting AI Run Your Social Life]]></title>
-            <link>https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</link>
-            <guid isPermaLink="true">https://time.com/7357217/ai-social-life-texting-chat-gpt-clause-gemini/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 15:00:51 GMT</pubDate>
+            <title><![CDATA[The Iran War Is Driving More People To Consider EVs]]></title>
+            <link>https://time.com/article/2026/04/08/how-the-iran-war-is-pushing-more-people-to-buy-evs/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/08/how-the-iran-war-is-pushing-more-people-to-buy-evs/</guid>
+            <category><![CDATA[Climate]]></category>
+            <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leaving NATO Would Be National Self-Sabotage]]></title>
+            <link>https://time.com/article/2026/04/08/leaving-nato-would-be-national-self-sabotage/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/08/leaving-nato-would-be-national-self-sabotage/</guid>
+            <category><![CDATA[Ideas]]></category>
+            <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['The Miniature Wife' Is Surprisingly Wonderful]]></title>
+            <link>https://time.com/article/2026/04/08/miniature-wife-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/08/miniature-wife-review/</guid>
+            <category><![CDATA[Entertainment]]></category>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Democrats Cast Shutdown as a Win. But What Did They Actually Get?]]></title>
@@ -208,14 +236,13 @@
             <title><![CDATA[Republican Clay Fuller Wins Election to Replace Marjorie Taylor Greene in Georgia]]></title>
             <link>https://time.com/article/2026/04/07/clay-fuller-special-election-marjorie-taylor-greene-georgia/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/clay-fuller-special-election-marjorie-taylor-greene-georgia/</guid>
-            <category><![CDATA[U.S.]]></category>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is Trump Losing Support Among Young MAGA Voters?]]></title>
             <link>https://time.com/article/2026/04/07/Iran-war-Trump-MAGA-youth-vote-midterm/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/Iran-war-Trump-MAGA-youth-vote-midterm/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -331,7 +358,6 @@
             <title><![CDATA[Breaking Down the Ending of 'The Drama']]></title>
             <link>https://time.com/article/2026/04/03/the-drama-ending-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/03/the-drama-ending-explained/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -391,7 +417,7 @@
             <title><![CDATA[6 Key Signs of an Emotionally Unavailable Partner]]></title>
             <link>https://time.com/article/2026/04/03/emotionally-unavailable-partner-signs-therapists/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/03/emotionally-unavailable-partner-signs-therapists/</guid>
-            <category><![CDATA[Health]]></category>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -752,6 +778,13 @@
             <guid isPermaLink="true">https://time.com/article/2026/03/31/what-to-eat-heart-health-diet-guidelines/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dan Levy's Netflix Comedy 'Big Mistakes': Review]]></title>
+            <link>https://time.com/article/2026/03/31/big-mistakes-review-netflix/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/31/big-mistakes-review-netflix/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
