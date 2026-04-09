@@ -4,16 +4,16 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 20:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 21:39:51 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 20:41:21 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 21:39:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Thu, 09 Apr 2026 20:41:21 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 21:39:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Internet’s New Favorite Insult]]></title>
@@ -21,7 +21,7 @@
             <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 20:41:21 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 21:39:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
@@ -29,25 +29,25 @@
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 20:41:21 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 21:39:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Thu, 09 Apr 2026 20:41:21 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 21:39:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Thu, 09 Apr 2026 20:41:21 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 21:39:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Thu, 09 Apr 2026 20:41:21 GMT</pubDate>
+            <pubDate>Thu, 09 Apr 2026 21:39:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop Letting AI Run Your Social Life]]></title>
@@ -60,7 +60,7 @@
             <title><![CDATA[How Ciara Became an Advocate for HIV Prevention]]></title>
             <link>https://time.com/article/2026/04/09/-ciara-advocate-hiv-prevention/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/-ciara-advocate-hiv-prevention/</guid>
-            <category><![CDATA[Health]]></category>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -90,6 +90,20 @@
             <link>https://time.com/article/2026/04/09/melania-trump-says-lies-linking-her-to-jeffrey-epstein-need-to-end-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/melania-trump-says-lies-linking-her-to-jeffrey-epstein-need-to-end-/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[American Men Are Set to Be Automatically Registered for the Draft]]></title>
+            <link>https://time.com/article/2026/04/09/us-men-automatic-military-draft-change/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/09/us-men-automatic-military-draft-change/</guid>
+            <category><![CDATA[U.S.]]></category>
+            <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Ending of 'The Miniature Wife']]></title>
+            <link>https://time.com/article/2026/04/09/breaking-down-the-ending-of-the-miniature-wife/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/09/breaking-down-the-ending-of-the-miniature-wife/</guid>
+            <dc:creator><![CDATA[Scarlett Harris]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -151,6 +165,7 @@
             <title><![CDATA[The True Story Behind 'Trust Me: The False Prophet']]></title>
             <link>https://time.com/article/2026/04/08/trust-me-the-false-prophet-true-story/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/08/trust-me-the-false-prophet-true-story/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Isabella Wandermurem]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -437,7 +452,6 @@
             <title><![CDATA[The Star Trek Episodes That Changed TV Forever]]></title>
             <link>https://time.com/article/2026/04/03/star-trek-anniversary-best-of-both-worlds/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/03/star-trek-anniversary-best-of-both-worlds/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
             <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
         </item>
