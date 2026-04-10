@@ -4,24 +4,16 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 15:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 16:41:34 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 15:42:28 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 16:41:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Fri, 10 Apr 2026 15:42:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Internet’s New Favorite Insult]]></title>
-            <link>https://time.com/7371832/looks-like-ai-writing-online-insult/</link>
-            <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
-            <category><![CDATA[Health]]></category>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 15:42:28 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 16:41:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
@@ -29,24 +21,31 @@
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 15:42:28 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 16:41:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Fri, 10 Apr 2026 15:42:28 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 16:41:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Fri, 10 Apr 2026 15:42:28 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 16:41:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
+            <pubDate>Fri, 10 Apr 2026 16:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Internet’s New Favorite Insult]]></title>
+            <link>https://time.com/7371832/looks-like-ai-writing-online-insult/</link>
+            <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 15:42:28 GMT</pubDate>
         </item>
         <item>
@@ -81,6 +80,7 @@
             <title><![CDATA['Euphoria' Returns, Older But Not Wiser]]></title>
             <link>https://time.com/article/2026/04/10/euphoria-season-3-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/10/euphoria-season-3-review/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -165,6 +165,20 @@
             <link>https://time.com/article/2026/04/09/viktor-orban-hungary-election-peter-magyar/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/viktor-orban-hungary-election-peter-magyar/</guid>
             <category><![CDATA[World]]></category>
+            <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Not Even Keanu Reeves Can Breathe Life Into the Painfully Unfunny 'Outcome']]></title>
+            <link>https://time.com/article/2026/04/09/outcome-movie-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/09/outcome-movie-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: Steven Soderbergh's The Christophers]]></title>
+            <link>https://time.com/article/2026/04/09/the-christophers-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/09/the-christophers-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -255,7 +269,6 @@
             <title><![CDATA['The Miniature Wife' Is Surprisingly Wonderful]]></title>
             <link>https://time.com/article/2026/04/08/miniature-wife-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/08/miniature-wife-review/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -622,6 +635,7 @@
             <title><![CDATA[The New Age of AI Propaganda]]></title>
             <link>https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/</guid>
+            <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Renée DiResta]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
         </item>
