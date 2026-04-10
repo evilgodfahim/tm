@@ -4,16 +4,16 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 18:40:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 19:38:18 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 18:40:53 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 19:38:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Fri, 10 Apr 2026 18:40:53 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 19:38:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
@@ -21,25 +21,25 @@
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 18:40:53 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 19:38:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Fri, 10 Apr 2026 18:40:53 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 19:38:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Fri, 10 Apr 2026 18:40:53 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 19:38:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Fri, 10 Apr 2026 18:40:53 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 19:38:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Internet’s New Favorite Insult]]></title>
@@ -96,6 +96,13 @@
             <link>https://time.com/article/2026/04/10/you-me-tuscany-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/10/you-me-tuscany-review/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[J.P. Morgan Is Thinking About Climate Tipping Points]]></title>
+            <link>https://time.com/article/2026/04/10/jp-morgan-climate-tipping-points-risk/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/10/jp-morgan-climate-tipping-points-risk/</guid>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -589,6 +596,7 @@
             <title><![CDATA[Will an Energy Crisis Push Executives Toward Clean Tech?]]></title>
             <link>https://time.com/article/2026/04/03/iran-war-energy-crisis-clean-tech-investment/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/03/iran-war-energy-crisis-clean-tech-investment/</guid>
+            <category><![CDATA[Climate]]></category>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -1519,7 +1527,6 @@
             <title><![CDATA[How Decarbonization Helps Weather Fuel Price Shocks]]></title>
             <link>https://time.com/article/2026/03/13/iran-energy-fuel-prices-sustainability/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/13/iran-energy-fuel-prices-sustainability/</guid>
-            <category><![CDATA[Climate]]></category>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 13 Mar 2026 12:00:00 GMT</pubDate>
         </item>
