@@ -4,16 +4,23 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 06:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 08:17:22 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 06:27:52 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 08:17:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[White House Reportedly Warns Staff Against Insider Trading]]></title>
+            <link>https://time.com/article/2026/04/10/white-house-oil-prediction-markets-polymarket-bets-insider-trading-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/10/white-house-oil-prediction-markets-polymarket-bets-insider-trading-war/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Fri, 10 Apr 2026 06:27:52 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 08:17:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Internet’s New Favorite Insult]]></title>
@@ -21,7 +28,7 @@
             <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
             <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 06:27:52 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 08:17:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
@@ -29,25 +36,25 @@
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 06:27:52 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 08:17:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Fri, 10 Apr 2026 06:27:52 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 08:17:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Fri, 10 Apr 2026 06:27:52 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 08:17:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Fri, 10 Apr 2026 06:27:52 GMT</pubDate>
+            <pubDate>Fri, 10 Apr 2026 08:17:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop Letting AI Run Your Social Life]]></title>
@@ -60,14 +67,13 @@
             <title><![CDATA[How Ciara Became an Advocate for HIV Prevention]]></title>
             <link>https://time.com/article/2026/04/09/-ciara-advocate-hiv-prevention/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/-ciara-advocate-hiv-prevention/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <category><![CDATA[Health]]></category>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[If Cease-Fire Holds, How Soon Could Gas Prices Come Down?]]></title>
             <link>https://time.com/article/2026/04/09/oil-gas-commodity-prices-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/oil-gas-commodity-prices-iran-war/</guid>
-            <category><![CDATA[Business]]></category>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -89,7 +95,7 @@
             <title><![CDATA[Melania Trump Says Lies Linking Her to Jeffrey Epstein ‘Need to End’]]></title>
             <link>https://time.com/article/2026/04/09/melania-trump-says-lies-linking-her-to-jeffrey-epstein-need-to-end-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/melania-trump-says-lies-linking-her-to-jeffrey-epstein-need-to-end-/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -104,6 +110,13 @@
             <link>https://time.com/article/2026/04/09/breaking-down-the-ending-of-the-miniature-wife/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/breaking-down-the-ending-of-the-miniature-wife/</guid>
             <dc:creator><![CDATA[Scarlett Harris]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bondi Won’t Testify as Scheduled in House Epstein Probe]]></title>
+            <link>https://time.com/article/2026/04/09/pam-bondi-jeffrey-epstein-house-oversight-testimony/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/09/pam-bondi-jeffrey-epstein-house-oversight-testimony/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -180,7 +193,7 @@
             <title><![CDATA[The Iran War Is Driving More People To Consider EVs]]></title>
             <link>https://time.com/article/2026/04/08/how-the-iran-war-is-pushing-more-people-to-buy-evs/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/08/how-the-iran-war-is-pushing-more-people-to-buy-evs/</guid>
-            <category><![CDATA[Climate]]></category>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
