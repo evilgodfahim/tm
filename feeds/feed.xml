@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 18:35:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 19:33:49 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Apr 2026 18:35:47 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 19:33:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
@@ -14,25 +14,32 @@
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 18:35:47 GMT</pubDate>
+            <pubDate>Sun, 12 Apr 2026 19:33:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Sun, 12 Apr 2026 18:35:47 GMT</pubDate>
+            <pubDate>Sun, 12 Apr 2026 19:33:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Sun, 12 Apr 2026 18:35:47 GMT</pubDate>
+            <pubDate>Sun, 12 Apr 2026 19:33:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Sun, 12 Apr 2026 18:35:47 GMT</pubDate>
+            <pubDate>Sun, 12 Apr 2026 19:33:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Says U.S. Will Blockade Strait of Hormuz]]></title>
+            <link>https://time.com/article/2026/04/12/trump-blockade-strait-of-hormuz-iran/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/12/trump-blockade-strait-of-hormuz-iran/</guid>
+            <dc:creator><![CDATA[Nandika Chatterjee]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[U.S. and Iran Fail To Reach Deal on Ending War After Marathon Talks]]></title>
@@ -209,14 +216,13 @@
             <title><![CDATA[Calls to Impeach Trump Collide With Wary Democratic Leaders]]></title>
             <link>https://time.com/article/2026/04/09/calls-to-impeach-trump-collide-with-reluctant-democratic-leadership/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/calls-to-impeach-trump-collide-with-reluctant-democratic-leadership/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Women’s Brains Are a $1 Trillion Opportunity]]></title>
             <link>https://time.com/article/2026/04/09/womens-brains-are-a-1-trillion-opportunity/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/womens-brains-are-a-1-trillion-opportunity/</guid>
-            <dc:creator><![CDATA[Lisa Mosconi and George Vradenburg]]></dc:creator>
+            <category><![CDATA[Ideas]]></category>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
