@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 19:33:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 20:26:16 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Apr 2026 19:33:49 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 20:26:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
@@ -14,25 +14,25 @@
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 19:33:49 GMT</pubDate>
+            <pubDate>Sun, 12 Apr 2026 20:26:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Sun, 12 Apr 2026 19:33:49 GMT</pubDate>
+            <pubDate>Sun, 12 Apr 2026 20:26:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Sun, 12 Apr 2026 19:33:49 GMT</pubDate>
+            <pubDate>Sun, 12 Apr 2026 20:26:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Sun, 12 Apr 2026 19:33:49 GMT</pubDate>
+            <pubDate>Sun, 12 Apr 2026 20:26:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump Says U.S. Will Blockade Strait of Hormuz]]></title>
@@ -42,8 +42,22 @@
             <pubDate>Sun, 12 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hungary’s Viktor Orbán Ousted by Voters After 16 Years In Power]]></title>
+            <description><![CDATA[The longtime Prime Minister's defeat could reshape Hungary's ties to the E.U., Ukraine, and the global far-right movement he helped inspire.]]></description>
+            <link>https://time.com/article/2026/04/12/viktor-orban-election-loss-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/12/viktor-orban-election-loss-trump/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Medicaid Cuts Could Force More Kids to Become Caregivers]]></title>
+            <link>https://time.com/article/2026/04/12/medicaid-cuts-could-force-more-kids-to-become-caregivers/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/12/medicaid-cuts-could-force-more-kids-to-become-caregivers/</guid>
+            <category><![CDATA[Ideas]]></category>
+            <pubDate>Sun, 12 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[U.S. and Iran Fail To Reach Deal on Ending War After Marathon Talks]]></title>
-            <description><![CDATA[A U.S. delegation led by J.D. Vance left Pakistan on Sunday morning, failing to reach a deal with Iran on ending the war after more than 20 hours of talks.]]></description>
             <link>https://time.com/article/2026/04/11/strait-of-hormuz-iran-peace-talks/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/11/strait-of-hormuz-iran-peace-talks/</guid>
             <dc:creator><![CDATA[Richard Hall and Nandika Chatterjee]]></dc:creator>
@@ -135,7 +149,6 @@
             <title><![CDATA[What to Know About the U.S. Postal Service’s ‘Severe Financial Crisis’]]></title>
             <link>https://time.com/article/2026/04/10/usps-pension-contributions-mail-stamp-prices/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/10/usps-pension-contributions-mail-stamp-prices/</guid>
-            <category><![CDATA[U.S.]]></category>
             <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -149,7 +162,7 @@
             <title><![CDATA[How NASA Achieved the Historic Artemis II Splashdown]]></title>
             <link>https://time.com/article/2026/04/10/artemis-ii-historic-splashdown/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/10/artemis-ii-historic-splashdown/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <category><![CDATA[Science]]></category>
             <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -229,7 +242,6 @@
             <title><![CDATA[Is Hungarian Leader Viktor Orbán, an Icon of the Far Right, About to Be Ousted by Voters?]]></title>
             <link>https://time.com/article/2026/04/09/viktor-orban-hungary-election-peter-magyar/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/viktor-orban-hungary-election-peter-magyar/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
