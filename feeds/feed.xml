@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 07:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 09:28:52 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Apr 2026 07:10:22 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 09:28:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why the Iran-U.S. Peace Talks Failed]]></title>
@@ -17,29 +17,93 @@
             <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
-            <link>https://time.com/7382151/china-dominates-the-physical-ai-race/</link>
-            <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
-            <category><![CDATA[Ideas]]></category>
-            <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 07:10:22 GMT</pubDate>
+            <title><![CDATA[TIME Earth Awards | 2026]]></title>
+            <link>https://time.com/collection/earth-awards/2026/</link>
+            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
+            <pubDate>Mon, 13 Apr 2026 09:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Masayoshi Son Is Betting It All on American AI]]></title>
+            <link>https://time.com/7380074/ai-masayoshi-son-japan-softbank/</link>
+            <guid isPermaLink="true">https://time.com/7380074/ai-masayoshi-son-japan-softbank/</guid>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 09:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Leaders Near Declaration on AI, Indian Government Says]]></title>
+            <link>https://time.com/7379949/india-ai-impact-summit-us-china-middle-powers/</link>
+            <guid isPermaLink="true">https://time.com/7379949/india-ai-impact-summit-us-china-middle-powers/</guid>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 09:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Unregulated Rise of Emotionally Intelligent AI]]></title>
+            <link>https://time.com/7379564/ai-emotional-intelligence-support-bots/</link>
+            <guid isPermaLink="true">https://time.com/7379564/ai-emotional-intelligence-support-bots/</guid>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 09:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spain Orders Criminal Investigation Into X, Meta, and TikTok]]></title>
+            <link>https://time.com/7379272/spain-x-elon-musk-grok-ai-meta-tiktok-investigation-sexualized-deepfakes-children/</link>
+            <guid isPermaLink="true">https://time.com/7379272/spain-x-elon-musk-grok-ai-meta-tiktok-investigation-sexualized-deepfakes-children/</guid>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 09:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A New Lawsuit Blames Google Gemini For Man's Suicide]]></title>
+            <link>https://time.com/7382406/gemini-suicide-lawsuit-death/</link>
+            <guid isPermaLink="true">https://time.com/7382406/gemini-suicide-lawsuit-death/</guid>
+            <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 09:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Happens When AI Agents Work in Teams]]></title>
+            <link>https://time.com/7381463/chat-code-claw-ai-agents-teams/</link>
+            <guid isPermaLink="true">https://time.com/7381463/chat-code-claw-ai-agents-teams/</guid>
+            <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 09:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exclusive: Anthropic Drops Flagship Safety Pledge]]></title>
+            <link>https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/</link>
+            <guid isPermaLink="true">https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/</guid>
+            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 09:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TIME for Change]]></title>
+            <link>https://time.com/collection/time-for-change/2026/</link>
+            <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
+            <pubDate>Mon, 13 Apr 2026 09:28:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Mon, 13 Apr 2026 07:10:22 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 09:28:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Mon, 13 Apr 2026 07:10:22 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 09:28:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
+            <pubDate>Mon, 13 Apr 2026 09:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
+            <link>https://time.com/7382151/china-dominates-the-physical-ai-race/</link>
+            <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
+            <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 07:10:22 GMT</pubDate>
         </item>
         <item>
@@ -82,12 +146,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/04/11/how-trump-s-proposed-triumphal-arch-stacks-up-against-others-around-the-world/</guid>
             <category><![CDATA[U.S.]]></category>
             <pubDate>Sat, 11 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIME Earth Awards | 2026]]></title>
-            <link>https://time.com/collection/earth-awards/2026/</link>
-            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <pubDate>Fri, 10 Apr 2026 22:28:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Internet’s New Favorite Insult]]></title>
@@ -226,7 +284,6 @@
             <title><![CDATA[Breaking Down the Ending of 'The Miniature Wife']]></title>
             <link>https://time.com/article/2026/04/09/breaking-down-the-ending-of-the-miniature-wife/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/breaking-down-the-ending-of-the-miniature-wife/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Scarlett Harris]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -260,7 +317,6 @@
             <title><![CDATA[Not Even Keanu Reeves Can Breathe Life Into the Painfully Unfunny 'Outcome']]></title>
             <link>https://time.com/article/2026/04/09/outcome-movie-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/outcome-movie-review/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -268,7 +324,6 @@
             <title><![CDATA[Review: Steven Soderbergh's The Christophers]]></title>
             <link>https://time.com/article/2026/04/09/the-christophers-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/the-christophers-review/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -299,12 +354,6 @@
             <guid isPermaLink="true">https://time.com/7382708/tikok-killer-true-story/</guid>
             <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 08:14:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIME for Change]]></title>
-            <link>https://time.com/collection/time-for-change/2026/</link>
-            <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
-            <pubDate>Wed, 08 Apr 2026 13:02:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lawmakers React to U.S. Cease-Fire Deal on Iran]]></title>
@@ -379,7 +428,6 @@
             <title><![CDATA['The Miniature Wife' Is Surprisingly Wonderful]]></title>
             <link>https://time.com/article/2026/04/08/miniature-wife-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/08/miniature-wife-review/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -533,7 +581,6 @@
             <title><![CDATA[A Flower's Power to Boost Your Mood]]></title>
             <link>https://time.com/article/2026/04/06/smell-brain-mood-science-scent-benefits/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/06/smell-brain-mood-science-scent-benefits/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -656,7 +703,6 @@
             <title><![CDATA[6 Key Signs of an Emotionally Unavailable Partner]]></title>
             <link>https://time.com/article/2026/04/03/emotionally-unavailable-partner-signs-therapists/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/03/emotionally-unavailable-partner-signs-therapists/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -664,7 +710,6 @@
             <title><![CDATA[Once Again, Energy Is Power]]></title>
             <link>https://time.com/article/2026/04/03/energy-geopolitics-united-states-iran-china/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/03/energy-geopolitics-united-states-iran-china/</guid>
-            <category><![CDATA[Climate]]></category>
             <dc:creator><![CDATA[Meghan O'Sullivan and Jason Bordoff]]></dc:creator>
             <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -672,7 +717,6 @@
             <title><![CDATA[Will an Energy Crisis Push Executives Toward Clean Tech?]]></title>
             <link>https://time.com/article/2026/04/03/iran-war-energy-crisis-clean-tech-investment/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/03/iran-war-energy-crisis-clean-tech-investment/</guid>
-            <category><![CDATA[Climate]]></category>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -755,7 +799,6 @@
             <title><![CDATA[The New Age of AI Propaganda]]></title>
             <link>https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/</guid>
-            <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Renée DiResta]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -894,7 +937,6 @@
             <title><![CDATA[FDA Approves Eli Lilly's Obesity Pill]]></title>
             <link>https://time.com/article/2026/04/01/fda-approves-eli-lilly-obesity-pill/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/01/fda-approves-eli-lilly-obesity-pill/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -949,7 +991,6 @@
             <title><![CDATA[The Risk of Targeting Water Desalination Plants In The Iran War]]></title>
             <link>https://time.com/article/2026/04/01/water-desalination-plants-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/01/water-desalination-plants-iran-war/</guid>
-            <category><![CDATA[World]]></category>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -971,7 +1012,6 @@
             <title><![CDATA[AI Alone Won't Take Your Job. Someone Using AI Will]]></title>
             <link>https://time.com/article/2026/03/31/ai-alone-won-t-take-your-job-someone-using-ai-will/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/31/ai-alone-won-t-take-your-job-someone-using-ai-will/</guid>
-            <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Ryan Roslansky and Aneesh Raman]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
         </item>
@@ -997,7 +1037,6 @@
             <title><![CDATA[The Climate Benefit of Ditching Next-Day Delivery]]></title>
             <link>https://time.com/article/2026/03/31/slower-shipping-climate-benefit/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/31/slower-shipping-climate-benefit/</guid>
-            <category><![CDATA[Climate]]></category>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
         </item>
@@ -1311,7 +1350,6 @@
             <title><![CDATA[AI Slop Is Flooding Streaming—and Musicians Are Fighting Back]]></title>
             <link>https://time.com/article/2026/03/26/ai-slop-is-threatening-musicians-can-tech-companies-stem-the-tide-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/ai-slop-is-threatening-musicians-can-tech-companies-stem-the-tide-/</guid>
-            <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
