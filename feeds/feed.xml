@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 17:54:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 19:03:34 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Apr 2026 17:54:58 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 19:03:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Hurricane Melissa Leaves Trail of Devastation]]></title>
@@ -14,13 +14,13 @@
             <guid isPermaLink="true">https://time.com/7329307/hurricane-melissa-jamaica-haiti-damage-photos/</guid>
             <category><![CDATA[Climate]]></category>
             <dc:creator><![CDATA[Solcyré Burga]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 17:54:58 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 19:03:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <pubDate>Mon, 13 Apr 2026 17:54:58 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 19:03:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World Leaders Near Declaration on AI, Indian Government Says]]></title>
@@ -28,7 +28,7 @@
             <guid isPermaLink="true">https://time.com/7379949/india-ai-impact-summit-us-china-middle-powers/</guid>
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 17:54:58 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 19:03:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Masayoshi Son Is Betting It All on American AI]]></title>
@@ -36,14 +36,7 @@
             <guid isPermaLink="true">https://time.com/7380074/ai-masayoshi-son-japan-softbank/</guid>
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 17:54:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Happens When AI Agents Work in Teams]]></title>
-            <link>https://time.com/7381463/chat-code-claw-ai-agents-teams/</link>
-            <guid isPermaLink="true">https://time.com/7381463/chat-code-claw-ai-agents-teams/</guid>
-            <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 17:54:58 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 19:03:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Exclusive: Anthropic Drops Flagship Safety Pledge]]></title>
@@ -51,39 +44,46 @@
             <guid isPermaLink="true">https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/</guid>
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 17:54:58 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 19:03:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Happens When AI Agents Work in Teams]]></title>
+            <link>https://time.com/7381463/chat-code-claw-ai-agents-teams/</link>
+            <guid isPermaLink="true">https://time.com/7381463/chat-code-claw-ai-agents-teams/</guid>
+            <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 19:03:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A New Lawsuit Blames Google Gemini For Man's Suicide]]></title>
             <link>https://time.com/7382406/gemini-suicide-lawsuit-death/</link>
             <guid isPermaLink="true">https://time.com/7382406/gemini-suicide-lawsuit-death/</guid>
             <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 17:54:58 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 19:03:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
             <link>https://time.com/collection/time-for-change/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
             <category><![CDATA[Health]]></category>
-            <pubDate>Mon, 13 Apr 2026 17:54:58 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 19:03:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Mon, 13 Apr 2026 17:54:58 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 19:03:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Mon, 13 Apr 2026 17:54:58 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 19:03:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Mon, 13 Apr 2026 17:54:58 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 19:03:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Unregulated Rise of Emotionally Intelligent AI]]></title>
@@ -94,14 +94,14 @@
         </item>
         <item>
             <title><![CDATA[Why the Iran-U.S. Peace Talks Failed]]></title>
-            <description><![CDATA[More than 21 hours of talks in Islamabad failed to yield a deal to end the war.]]></description>
             <link>https://time.com/article/2026/04/13/iran-US-peace-talks-islamabad-war-nuclear/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/13/iran-US-peace-talks-islamabad-war-nuclear/</guid>
-            <dc:creator><![CDATA[Saeed Shah]]></dc:creator>
+            <category><![CDATA[World]]></category>
             <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Meet Peter Magyar, the Man Who Ended Trump Ally Viktor Orbán’s 16-Year Rule]]></title>
+            <description><![CDATA[As Magyar seeks to be sworn in as Hungarian Prime Minister as early as May 5, here’s what to know about the man whose victory is being celebrated by E.U. leadership.]]></description>
             <link>https://time.com/article/2026/04/13/peter-magyar-ended-trump-ally-viktor-orban-rule-hungary/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/13/peter-magyar-ended-trump-ally-viktor-orban-rule-hungary/</guid>
             <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
@@ -118,7 +118,7 @@
             <title><![CDATA[Heart Disease Is Preventable. Why Does It Kill So Many?]]></title>
             <link>https://time.com/article/2026/04/13/heart-disease-is-preventable-sadiya-khan-essay/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/13/heart-disease-is-preventable-sadiya-khan-essay/</guid>
-            <dc:creator><![CDATA[Sadiya S. Khan]]></dc:creator>
+            <category><![CDATA[Health]]></category>
             <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -132,7 +132,7 @@
             <title><![CDATA[The Key Obstacles to Israel-Lebanon Talks Over Hezbollah]]></title>
             <link>https://time.com/article/2026/04/13/the-key-obstacles-to-israel-lebanon-talks-over-hezbollah/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/13/the-key-obstacles-to-israel-lebanon-talks-over-hezbollah/</guid>
-            <category><![CDATA[World]]></category>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -140,6 +140,19 @@
             <link>https://time.com/article/2026/04/13/universities-must-reinvent-themselves-for-the-intelligent-age/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/13/universities-must-reinvent-themselves-for-the-intelligent-age/</guid>
             <dc:creator><![CDATA[Klaus Schwab]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pope Leo Responds to Attack By Trump]]></title>
+            <link>https://time.com/article/2026/04/13/trump-pope-leo-war-iran/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/13/trump-pope-leo-war-iran/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Forget the Midlife Crisis. It May Be Your Happiest Chapter Yet]]></title>
+            <link>https://time.com/article/2026/04/13/midlife-crisis-happiest-time-life/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/13/midlife-crisis-happiest-time-life/</guid>
             <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -261,9 +274,10 @@
         </item>
         <item>
             <title><![CDATA[Israel's War Against Lebanon, Explained]]></title>
+            <description><![CDATA[As concerns mount that Israel’s parallel war with Lebanon could jeopardize progress in U.S.-Iran negotiations, here’s what to know about the conflict, its key players, and the steeped history behind the clashes.]]></description>
             <link>https://time.com/article/2026/04/10/israels-hezbollah-lebanon-war-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/10/israels-hezbollah-lebanon-war-explained/</guid>
-            <category><![CDATA[World]]></category>
+            <category><![CDATA[Lebanon]]></category>
             <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -579,14 +593,13 @@
             <title><![CDATA[Gossip Isn’t As Bad As You Think]]></title>
             <link>https://time.com/article/2026/04/07/why-people-gossip-benefits-science/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/why-people-gossip-benefits-science/</guid>
-            <category><![CDATA[Health]]></category>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[5 Questions We Have After Euphoria's Season 3 Premiere]]></title>
             <link>https://time.com/article/2026/04/07/euphoria-season-3-premiere-questions/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/euphoria-season-3-premiere-questions/</guid>
-            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
+            <category><![CDATA[Entertainment]]></category>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -674,7 +687,6 @@
             <title><![CDATA[Is Brain Health the Next Healthcare Frontier?]]></title>
             <link>https://time.com/article/2026/04/03/is-brain-health-the-next-healthcare-frontier-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/03/is-brain-health-the-next-healthcare-frontier-/</guid>
-            <category><![CDATA[Ideas]]></category>
             <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -879,7 +891,6 @@
             <title><![CDATA[How to Increase U.S. Fertility Rates]]></title>
             <link>https://time.com/article/2026/04/02/how-to-increase-us-fertility-rates/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/02/how-to-increase-us-fertility-rates/</guid>
-            <category><![CDATA[Ideas]]></category>
             <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1135,7 +1146,12 @@
             <title><![CDATA[Dan Levy's Netflix Comedy 'Big Mistakes': Review]]></title>
             <link>https://time.com/article/2026/03/31/big-mistakes-review-netflix/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/31/big-mistakes-review-netflix/</guid>
-            <category><![CDATA[Entertainment]]></category>
+            <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Quiet Risk Taking of Michelle Pfeiffer]]></title>
+            <link>https://time.com/article/2026/03/31/michelle-pfeiffer-interview-margos-got-money-troubles/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/03/31/michelle-pfeiffer-interview-margos-got-money-troubles/</guid>
             <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1688,10 +1704,9 @@
         </item>
         <item>
             <title><![CDATA[What Is the Strait of Hormuz and Why Does Trump Want to Blockade It?]]></title>
-            <description><![CDATA[Here’s what to know about the Strait of Hormuz, Trump’s attempt to blockade it, and the impact the continued disruption is having on the global economy.]]></description>
             <link>https://time.com/article/2026/03/17/what-is-the-strait-of-hormuz-global-trade-oil-flow-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/17/what-is-the-strait-of-hormuz-global-trade-oil-flow-iran-war/</guid>
-            <category><![CDATA[Iran]]></category>
+            <category><![CDATA[World]]></category>
             <pubDate>Tue, 17 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
