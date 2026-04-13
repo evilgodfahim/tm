@@ -4,46 +4,53 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 01:53:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 04:52:55 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Apr 2026 01:53:25 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 04:52:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why the Iran-U.S. Peace Talks Failed]]></title>
+            <description><![CDATA[More than 21 hours of talks in Islamabad failed to yield a deal to end the war.]]></description>
+            <link>https://time.com/article/2026/04/13/iran-US-peace-talks-islamabad-war-nuclear/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/13/iran-US-peace-talks-islamabad-war-nuclear/</guid>
+            <dc:creator><![CDATA[Saeed Shah]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[China Could Dominate the Physical AI Future]]></title>
             <link>https://time.com/7382151/china-dominates-the-physical-ai-race/</link>
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 01:53:25 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 04:52:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Mon, 13 Apr 2026 01:53:25 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 04:52:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Mon, 13 Apr 2026 01:53:25 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 04:52:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Mon, 13 Apr 2026 01:53:25 GMT</pubDate>
+            <pubDate>Mon, 13 Apr 2026 04:52:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump Says U.S. Will Blockade Strait of Hormuz]]></title>
             <link>https://time.com/article/2026/04/12/trump-blockade-strait-of-hormuz-iran/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/12/trump-blockade-strait-of-hormuz-iran/</guid>
-            <dc:creator><![CDATA[Nandika Chatterjee]]></dc:creator>
+            <dc:creator><![CDATA[Nandika Chatterjee and Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Sun, 12 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hungary’s Viktor Orbán Ousted by Voters After 16 Years In Power]]></title>
-            <description><![CDATA[The longtime Prime Minister's defeat could reshape Hungary's ties to the E.U., Ukraine, and the global far-right movement he helped inspire.]]></description>
             <link>https://time.com/article/2026/04/12/viktor-orban-election-loss-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/12/viktor-orban-election-loss-trump/</guid>
             <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
@@ -53,7 +60,13 @@
             <title><![CDATA[Medicaid Cuts Could Force More Kids to Become Caregivers]]></title>
             <link>https://time.com/article/2026/04/12/medicaid-cuts-could-force-more-kids-to-become-caregivers/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/12/medicaid-cuts-could-force-more-kids-to-become-caregivers/</guid>
-            <category><![CDATA[Ideas]]></category>
+            <pubDate>Sun, 12 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eric Swalwell Drops Bid for California Governor]]></title>
+            <link>https://time.com/article/2026/04/12/eric-swalwell-sexual-misconduct-allegations/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/12/eric-swalwell-sexual-misconduct-allegations/</guid>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Sun, 12 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -114,7 +127,6 @@
             <title><![CDATA['Euphoria' Returns, Older But Not Wiser]]></title>
             <link>https://time.com/article/2026/04/10/euphoria-season-3-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/10/euphoria-season-3-review/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -256,6 +268,7 @@
             <title><![CDATA[Review: Steven Soderbergh's The Christophers]]></title>
             <link>https://time.com/article/2026/04/09/the-christophers-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/the-christophers-review/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -470,6 +483,13 @@
             <link>https://time.com/article/2026/04/07/why-people-gossip-benefits-science/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/why-people-gossip-benefits-science/</guid>
             <category><![CDATA[Health]]></category>
+            <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5 Questions We Have After Euphoria's Season 3 Premiere]]></title>
+            <link>https://time.com/article/2026/04/07/euphoria-season-3-premiere-questions/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/07/euphoria-season-3-premiere-questions/</guid>
+            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
