@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 10:08:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 11:53:17 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Apr 2026 10:08:48 GMT</pubDate>
+        <pubDate>Tue, 14 Apr 2026 11:53:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Officials Reportedly Considering Second Round of U.S.-Iran Talks]]></title>
-            <description><![CDATA[American and Iranian officials are reportedly considering a second round of negotiations after a marathon weekend session failed to reach a deal.]]></description>
             <link>https://time.com/article/2026/04/14/us-iran-talks-war-ceasefire-trump-nuclear-enrichment-strait-hormuz/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/14/us-iran-talks-war-ceasefire-trump-nuclear-enrichment-strait-hormuz/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
@@ -20,30 +19,21 @@
             <title><![CDATA[Trump Explains Away Post Likening Himself to Jesus]]></title>
             <link>https://time.com/article/2026/04/14/trump-jesus-christ-ai-image-backlash/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/14/trump-jesus-christ-ai-image-backlash/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <category><![CDATA[U.S.]]></category>
+            <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Agency in the Age of AI]]></title>
+            <link>https://time.com/article/2026/04/14/agency-in-the-age-of-ai/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/14/agency-in-the-age-of-ai/</guid>
+            <dc:creator><![CDATA[John Palfrey]]></dc:creator>
             <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <pubDate>Tue, 14 Apr 2026 10:08:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Leaders Near Declaration on AI, Indian Government Says]]></title>
-            <link>https://time.com/7379949/india-ai-impact-summit-us-china-middle-powers/</link>
-            <guid isPermaLink="true">https://time.com/7379949/india-ai-impact-summit-us-china-middle-powers/</guid>
-            <category><![CDATA[Business]]></category>
-            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 10:08:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Masayoshi Son Is Betting It All on American AI]]></title>
-            <link>https://time.com/7380074/ai-masayoshi-son-japan-softbank/</link>
-            <guid isPermaLink="true">https://time.com/7380074/ai-masayoshi-son-japan-softbank/</guid>
-            <category><![CDATA[Business]]></category>
-            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 10:08:48 GMT</pubDate>
+            <pubDate>Tue, 14 Apr 2026 11:53:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Exclusive: Anthropic Drops Flagship Safety Pledge]]></title>
@@ -51,45 +41,61 @@
             <guid isPermaLink="true">https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/</guid>
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 10:08:48 GMT</pubDate>
+            <pubDate>Tue, 14 Apr 2026 11:53:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What Happens When AI Agents Work in Teams]]></title>
             <link>https://time.com/7381463/chat-code-claw-ai-agents-teams/</link>
             <guid isPermaLink="true">https://time.com/7381463/chat-code-claw-ai-agents-teams/</guid>
+            <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 10:08:48 GMT</pubDate>
+            <pubDate>Tue, 14 Apr 2026 11:53:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A New Lawsuit Blames Google Gemini For Man's Suicide]]></title>
             <link>https://time.com/7382406/gemini-suicide-lawsuit-death/</link>
             <guid isPermaLink="true">https://time.com/7382406/gemini-suicide-lawsuit-death/</guid>
+            <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 10:08:48 GMT</pubDate>
+            <pubDate>Tue, 14 Apr 2026 11:53:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
             <link>https://time.com/collection/time-for-change/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
             <category><![CDATA[Health]]></category>
-            <pubDate>Tue, 14 Apr 2026 10:08:48 GMT</pubDate>
+            <pubDate>Tue, 14 Apr 2026 11:53:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
             <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Tue, 14 Apr 2026 10:08:48 GMT</pubDate>
+            <pubDate>Tue, 14 Apr 2026 11:53:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesper Brodin]]></title>
             <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Tue, 14 Apr 2026 10:08:48 GMT</pubDate>
+            <pubDate>Tue, 14 Apr 2026 11:53:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stella McCartney]]></title>
             <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
+            <pubDate>Tue, 14 Apr 2026 11:53:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Leaders Near Declaration on AI, Indian Government Says]]></title>
+            <link>https://time.com/7379949/india-ai-impact-summit-us-china-middle-powers/</link>
+            <guid isPermaLink="true">https://time.com/7379949/india-ai-impact-summit-us-china-middle-powers/</guid>
+            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
+            <pubDate>Tue, 14 Apr 2026 10:08:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Masayoshi Son Is Betting It All on American AI]]></title>
+            <link>https://time.com/7380074/ai-masayoshi-son-japan-softbank/</link>
+            <guid isPermaLink="true">https://time.com/7380074/ai-masayoshi-son-japan-softbank/</guid>
+            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
             <pubDate>Tue, 14 Apr 2026 10:08:48 GMT</pubDate>
         </item>
         <item>
@@ -116,7 +122,7 @@
             <title><![CDATA[Meet Peter Magyar, the Man Who Ended Trump Ally Viktor Orbán’s 16-Year Rule]]></title>
             <link>https://time.com/article/2026/04/13/peter-magyar-ended-trump-ally-viktor-orban-rule-hungary/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/13/peter-magyar-ended-trump-ally-viktor-orban-rule-hungary/</guid>
-            <category><![CDATA[World]]></category>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -158,7 +164,6 @@
             <title><![CDATA[Pope Leo Responds to Attack By Trump]]></title>
             <link>https://time.com/article/2026/04/13/trump-pope-leo-war-iran/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/13/trump-pope-leo-war-iran/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -183,6 +188,7 @@
         </item>
         <item>
             <title><![CDATA[Where the California Governor Race Stands After Swalwell’s Exit]]></title>
+            <description><![CDATA[The Democratic frontrunner is out in scandal. The state GOP rebuffed President Trump’s endorsement. Here’s what to know about California’s crowded primary.]]></description>
             <link>https://time.com/article/2026/04/13/where-the-california-governor-race-stands-after-swalwell-s-exit/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/13/where-the-california-governor-race-stands-after-swalwell-s-exit/</guid>
             <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
@@ -1738,6 +1744,7 @@
             <title><![CDATA[What Is the Strait of Hormuz and Why Does Trump Want to Blockade It?]]></title>
             <link>https://time.com/article/2026/03/17/what-is-the-strait-of-hormuz-global-trade-oil-flow-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/17/what-is-the-strait-of-hormuz-global-trade-oil-flow-iran-war/</guid>
+            <category><![CDATA[World]]></category>
             <pubDate>Tue, 17 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
