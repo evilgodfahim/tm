@@ -4,15 +4,15 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 15:00:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 16:54:24 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 15:00:34 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 16:54:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <pubDate>Wed, 15 Apr 2026 15:00:34 GMT</pubDate>
+            <pubDate>Wed, 15 Apr 2026 16:54:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What Happens When AI Agents Work in Teams]]></title>
@@ -20,7 +20,7 @@
             <guid isPermaLink="true">https://time.com/7381463/chat-code-claw-ai-agents-teams/</guid>
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 15:00:34 GMT</pubDate>
+            <pubDate>Wed, 15 Apr 2026 16:54:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A New Lawsuit Blames Google Gemini For Man's Suicide]]></title>
@@ -28,31 +28,31 @@
             <guid isPermaLink="true">https://time.com/7382406/gemini-suicide-lawsuit-death/</guid>
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 15:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dolores Huerta]]></title>
-            <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
-            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Wed, 15 Apr 2026 15:00:34 GMT</pubDate>
+            <pubDate>Wed, 15 Apr 2026 16:54:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Wed, 15 Apr 2026 15:00:34 GMT</pubDate>
+            <pubDate>Wed, 15 Apr 2026 16:54:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dolores Huerta]]></title>
+            <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
+            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
+            <pubDate>Wed, 15 Apr 2026 16:54:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Wed, 15 Apr 2026 15:00:34 GMT</pubDate>
+            <pubDate>Wed, 15 Apr 2026 16:54:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Wed, 15 Apr 2026 15:00:34 GMT</pubDate>
+            <pubDate>Wed, 15 Apr 2026 16:54:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
@@ -118,14 +118,22 @@
             <title><![CDATA[War on Iran Could Lead to Global Recession, IMF Warns]]></title>
             <link>https://time.com/article/2026/04/15/imf-global-recession-war-us-israel-iran-energy-hormuz/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/imf-global-recession-war-us-israel-iran-energy-hormuz/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <category><![CDATA[World]]></category>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump’s Hormuz Blockade Puts U.S. Forces on High Alert]]></title>
+            <description><![CDATA[Trump has declined to rule out deploying ground troops into Iran, where a fragile ceasefire could lapse within days]]></description>
             <link>https://time.com/article/2026/04/15/amid-trump-s-blockade-threat-of-escalation-leaves-thousands-of-u-s-forces-on-high-alert/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/amid-trump-s-blockade-threat-of-escalation-leaves-thousands-of-u-s-forces-on-high-alert/</guid>
-            <dc:creator><![CDATA[Brian Bennett]]></dc:creator>
+            <category><![CDATA[Iran]]></category>
+            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About the Latest Allegations Against Eric Swalwell]]></title>
+            <link>https://time.com/article/2026/04/15/eric-swalwell-accusation-sexual-misconduct-rape/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/15/eric-swalwell-accusation-sexual-misconduct-rape/</guid>
+            <category><![CDATA[U.S.]]></category>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -165,14 +173,14 @@
             <title><![CDATA[Vance Breaks Silence on Trump's Jesus-Like Image Amid Outcry]]></title>
             <link>https://time.com/article/2026/04/14/catholic-vance-breaks-silence-on-deleted-trump-jesus-image-amid-outcry/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/14/catholic-vance-breaks-silence-on-deleted-trump-jesus-image-amid-outcry/</guid>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Canada Fell in Love with Mark Carney]]></title>
-            <description><![CDATA[Thanks to Trump’s unpopularity, “Carney seems to be headed from triumph to triumph,” writes Stephen Maher.]]></description>
             <link>https://time.com/article/2026/04/14/how-canada-fell-in-love-with-mark-carney/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/14/how-canada-fell-in-love-with-mark-carney/</guid>
-            <category><![CDATA[World]]></category>
+            <dc:creator><![CDATA[Stephen Maher]]></dc:creator>
             <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -244,6 +252,13 @@
             <link>https://time.com/article/2026/04/14/us-climate-concern-gallup-polling/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/14/us-climate-concern-gallup-polling/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Myth of the Adult Friend Group]]></title>
+            <link>https://time.com/article/2026/04/14/the-myth-of-the-adult-friend-group/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/14/the-myth-of-the-adult-friend-group/</guid>
+            <category><![CDATA[Ideas]]></category>
             <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -333,7 +348,7 @@
             <title><![CDATA[Forget the Midlife Crisis. It May Be Your Happiest Chapter Yet]]></title>
             <link>https://time.com/article/2026/04/13/midlife-crisis-happiest-time-life/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/13/midlife-crisis-happiest-time-life/</guid>
-            <category><![CDATA[Health]]></category>
+            <dc:creator><![CDATA[Matt Fuchs]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -341,6 +356,7 @@
             <link>https://time.com/article/2026/04/13/why-i-play-chess-against-chatgpt/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/13/why-i-play-chess-against-chatgpt/</guid>
             <category><![CDATA[Ideas]]></category>
+            <dc:creator><![CDATA[Jennifer Shahade]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -820,7 +836,6 @@
             <title><![CDATA[5 Questions We Have After Euphoria's Season 3 Premiere]]></title>
             <link>https://time.com/article/2026/04/07/euphoria-season-3-premiere-questions/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/euphoria-season-3-premiere-questions/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1374,6 +1389,7 @@
             <link>https://time.com/article/2026/03/31/michelle-pfeiffer-interview-margos-got-money-troubles/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/31/michelle-pfeiffer-interview-margos-got-money-troubles/</guid>
             <category><![CDATA[Entertainment]]></category>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
