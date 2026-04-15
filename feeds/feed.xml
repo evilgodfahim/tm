@@ -4,15 +4,15 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 19:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 20:40:13 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 19:24:50 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 20:40:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <pubDate>Wed, 15 Apr 2026 19:24:50 GMT</pubDate>
+            <pubDate>Wed, 15 Apr 2026 20:40:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What Happens When AI Agents Work in Teams]]></title>
@@ -20,7 +20,7 @@
             <guid isPermaLink="true">https://time.com/7381463/chat-code-claw-ai-agents-teams/</guid>
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 19:24:50 GMT</pubDate>
+            <pubDate>Wed, 15 Apr 2026 20:40:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A New Lawsuit Blames Google Gemini For Man's Suicide]]></title>
@@ -28,31 +28,31 @@
             <guid isPermaLink="true">https://time.com/7382406/gemini-suicide-lawsuit-death/</guid>
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 19:24:50 GMT</pubDate>
+            <pubDate>Wed, 15 Apr 2026 20:40:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Wed, 15 Apr 2026 19:24:50 GMT</pubDate>
+            <pubDate>Wed, 15 Apr 2026 20:40:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Wed, 15 Apr 2026 19:24:50 GMT</pubDate>
+            <pubDate>Wed, 15 Apr 2026 20:40:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Wed, 15 Apr 2026 19:24:50 GMT</pubDate>
+            <pubDate>Wed, 15 Apr 2026 20:40:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Wed, 15 Apr 2026 19:24:50 GMT</pubDate>
+            <pubDate>Wed, 15 Apr 2026 20:40:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
@@ -118,7 +118,6 @@
             <title><![CDATA[War on Iran Could Lead to Global Recession, IMF Warns]]></title>
             <link>https://time.com/article/2026/04/15/imf-global-recession-war-us-israel-iran-energy-hormuz/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/imf-global-recession-war-us-israel-iran-energy-hormuz/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -126,14 +125,12 @@
             <description><![CDATA[Trump has declined to rule out deploying ground troops into Iran, where a fragile ceasefire could lapse within days]]></description>
             <link>https://time.com/article/2026/04/15/amid-trump-s-blockade-threat-of-escalation-leaves-thousands-of-u-s-forces-on-high-alert/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/amid-trump-s-blockade-threat-of-escalation-leaves-thousands-of-u-s-forces-on-high-alert/</guid>
-            <category><![CDATA[Iran]]></category>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What to Know About the Latest Allegations Against Eric Swalwell]]></title>
             <link>https://time.com/article/2026/04/15/eric-swalwell-accusation-sexual-misconduct-rape/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/eric-swalwell-accusation-sexual-misconduct-rape/</guid>
-            <category><![CDATA[U.S.]]></category>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -141,6 +138,28 @@
             <link>https://time.com/article/2026/04/15/trump-iran-war-ending-fox-news/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/trump-iran-war-ending-fox-news/</guid>
             <category><![CDATA[World]]></category>
+            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Senate Blocks Iran War Powers Resolution for Fourth Time]]></title>
+            <description><![CDATA[The measure failed 47-52, with Republican Rand Paul joining all of the Democrats except John Fetterman.]]></description>
+            <link>https://time.com/article/2026/04/15/senate-blocks-iran-war-powers-resolution-for-fourth-time/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/15/senate-blocks-iran-war-powers-resolution-for-fourth-time/</guid>
+            <category><![CDATA[Congress]]></category>
+            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Super-Rich Come to Washington Pleading to Pay More in Taxes]]></title>
+            <link>https://time.com/article/2026/04/15/-it-beats-pitchfork-rebellions-and-the-guillotine-why-these-super-rich-americans-are-asking-for-higher-taxes/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/15/-it-beats-pitchfork-rebellions-and-the-guillotine-why-these-super-rich-americans-are-asking-for-higher-taxes/</guid>
+            <category><![CDATA[Politics]]></category>
+            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Watch the TIME100 Gala Red Carpet Livestream]]></title>
+            <link>https://time.com/article/2026/04/15/time100-gala-red-carpet-livestream/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/15/time100-gala-red-carpet-livestream/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -250,7 +269,7 @@
             <title><![CDATA[What Will Happen to Eric Swalwell and Tony Gonzales’ House Seats?]]></title>
             <link>https://time.com/article/2026/04/14/eric-swalwell-tony-gonzales-house-seats-replacements-special-election/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/14/eric-swalwell-tony-gonzales-house-seats-replacements-special-election/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1394,7 +1413,6 @@
             <title><![CDATA[The Quiet Risk Taking of Michelle Pfeiffer]]></title>
             <link>https://time.com/article/2026/03/31/michelle-pfeiffer-interview-margos-got-money-troubles/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/31/michelle-pfeiffer-interview-margos-got-money-troubles/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
         </item>
