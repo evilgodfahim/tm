@@ -4,10 +4,50 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 11:51:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 13:04:09 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 11:51:36 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 13:04:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[TIME Earth Awards | 2026]]></title>
+            <link>https://time.com/collection/earth-awards/2026/</link>
+            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
+            <pubDate>Wed, 15 Apr 2026 13:04:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Happens When AI Agents Work in Teams]]></title>
+            <link>https://time.com/7381463/chat-code-claw-ai-agents-teams/</link>
+            <guid isPermaLink="true">https://time.com/7381463/chat-code-claw-ai-agents-teams/</guid>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 13:04:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A New Lawsuit Blames Google Gemini For Man's Suicide]]></title>
+            <link>https://time.com/7382406/gemini-suicide-lawsuit-death/</link>
+            <guid isPermaLink="true">https://time.com/7382406/gemini-suicide-lawsuit-death/</guid>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 13:04:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
+            <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
+            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
+            <pubDate>Wed, 15 Apr 2026 13:04:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jesper Brodin]]></title>
+            <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
+            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
+            <pubDate>Wed, 15 Apr 2026 13:04:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stella McCartney]]></title>
+            <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
+            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
+            <pubDate>Wed, 15 Apr 2026 13:04:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['Margo's Got Money Troubles' Is Just Delightful]]></title>
             <link>https://time.com/article/2026/04/15/margos-got-money-troubles-review-apple/</link>
@@ -46,44 +86,25 @@
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[TIME Earth Awards | 2026]]></title>
-            <link>https://time.com/collection/earth-awards/2026/</link>
-            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <pubDate>Wed, 15 Apr 2026 11:51:36 GMT</pubDate>
+            <title><![CDATA[How We Chose the 2026 TIME100]]></title>
+            <link>https://time.com/article/2026/04/15/time100-how-we-chose/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/15/time100-how-we-chose/</guid>
+            <dc:creator><![CDATA[Sam Jacobs]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What Happens When AI Agents Work in Teams]]></title>
-            <link>https://time.com/7381463/chat-code-claw-ai-agents-teams/</link>
-            <guid isPermaLink="true">https://time.com/7381463/chat-code-claw-ai-agents-teams/</guid>
-            <category><![CDATA[Business]]></category>
-            <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 11:51:36 GMT</pubDate>
+            <title><![CDATA[War on Iran Could Lead to Global Recession, IMF Warns]]></title>
+            <link>https://time.com/article/2026/04/15/imf-global-recession-war-us-israel-iran-energy-hormuz/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/15/imf-global-recession-war-us-israel-iran-energy-hormuz/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A New Lawsuit Blames Google Gemini For Man's Suicide]]></title>
-            <link>https://time.com/7382406/gemini-suicide-lawsuit-death/</link>
-            <guid isPermaLink="true">https://time.com/7382406/gemini-suicide-lawsuit-death/</guid>
-            <category><![CDATA[Business]]></category>
-            <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 11:51:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hindou Oumarou Ibrahim]]></title>
-            <link>https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</link>
-            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/hindou-oumarou-ibrahim/</guid>
-            <pubDate>Wed, 15 Apr 2026 11:51:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jesper Brodin]]></title>
-            <link>https://time.com/collection/earth-awards/2026/jesper-brodin/</link>
-            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/jesper-brodin/</guid>
-            <pubDate>Wed, 15 Apr 2026 11:51:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stella McCartney]]></title>
-            <link>https://time.com/collection/earth-awards/2026/stella-mccartney/</link>
-            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/stella-mccartney/</guid>
-            <pubDate>Wed, 15 Apr 2026 11:51:36 GMT</pubDate>
+            <title><![CDATA[Trump’s Hormuz Blockade Puts U.S. Forces on High Alert]]></title>
+            <link>https://time.com/article/2026/04/15/amid-trump-s-blockade-threat-of-escalation-leaves-thousands-of-u-s-forces-on-high-alert/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/15/amid-trump-s-blockade-threat-of-escalation-leaves-thousands-of-u-s-forces-on-high-alert/</guid>
+            <dc:creator><![CDATA[Brian Bennett]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Exclusive: Anthropic Drops Flagship Safety Pledge]]></title>
@@ -102,7 +123,7 @@
             <title><![CDATA[Officials Considering Second Round of U.S.-Iran Talks]]></title>
             <link>https://time.com/article/2026/04/14/us-iran-talks-war-ceasefire-trump-nuclear-enrichment-strait-hormuz/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/14/us-iran-talks-war-ceasefire-trump-nuclear-enrichment-strait-hormuz/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam and Brian Bennett]]></dc:creator>
+            <category><![CDATA[World]]></category>
             <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -203,7 +224,7 @@
             <title><![CDATA[What Percentage of Americans Worry About Climate Change?]]></title>
             <link>https://time.com/article/2026/04/14/us-climate-concern-gallup-polling/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/14/us-climate-concern-gallup-polling/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <category><![CDATA[Climate]]></category>
             <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -260,6 +281,7 @@
             <link>https://time.com/article/2026/04/13/heart-disease-is-preventable-sadiya-khan-essay/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/13/heart-disease-is-preventable-sadiya-khan-essay/</guid>
             <category><![CDATA[Health]]></category>
+            <dc:creator><![CDATA[Sadiya S. Khan]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -273,7 +295,6 @@
             <title><![CDATA[The Key Obstacles to Israel-Lebanon Talks Over Hezbollah]]></title>
             <link>https://time.com/article/2026/04/13/the-key-obstacles-to-israel-lebanon-talks-over-hezbollah/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/13/the-key-obstacles-to-israel-lebanon-talks-over-hezbollah/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
