@@ -4,39 +4,40 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Apr 2026 15:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 17:05:07 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Apr 2026 15:19:35 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 17:05:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <pubDate>Thu, 16 Apr 2026 15:19:35 GMT</pubDate>
+            <category><![CDATA[Climate]]></category>
+            <pubDate>Thu, 16 Apr 2026 17:05:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Thu, 16 Apr 2026 15:19:35 GMT</pubDate>
+            <pubDate>Thu, 16 Apr 2026 17:05:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Thu, 16 Apr 2026 15:19:35 GMT</pubDate>
+            <pubDate>Thu, 16 Apr 2026 17:05:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Thu, 16 Apr 2026 15:19:35 GMT</pubDate>
+            <pubDate>Thu, 16 Apr 2026 17:05:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Thu, 16 Apr 2026 15:19:35 GMT</pubDate>
+            <pubDate>Thu, 16 Apr 2026 17:05:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Live Nation Verdict May Affect Ticket Prices]]></title>
@@ -49,7 +50,6 @@
             <title><![CDATA[What to Know About the E.U.’s New Age Verification App for Social Media]]></title>
             <link>https://time.com/article/2026/04/16/european-union-age-verification-social-media-teen-bans-app/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/16/european-union-age-verification-social-media-teen-bans-app/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -57,6 +57,28 @@
             <link>https://time.com/article/2026/04/16/the-seven-senate-democrats-who-caucused-with-republicans-to-continue-arms-sales-to-israel/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/16/the-seven-senate-democrats-who-caucused-with-republicans-to-continue-arms-sales-to-israel/</guid>
             <category><![CDATA[Politics]]></category>
+            <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel and Lebanon Agree to 10-Day Ceasefire, Trump Announces]]></title>
+            <description><![CDATA[This follows weeks of Israeli strikes targeting the militant group Hezbollah that have killed more than 2,000 people in Lebanon and strained U.S.-Iran negotiations.]]></description>
+            <link>https://time.com/article/2026/04/16/israel-lebanon-ceasefire-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/16/israel-lebanon-ceasefire-trump/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Order to Require Banks to Collect Citizenship Info 'In Process,' Bessent Says]]></title>
+            <link>https://time.com/article/2026/04/16/trump-executive-order-bank-citizenship-information-bessent-immigration/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/16/trump-executive-order-bank-citizenship-information-bessent-immigration/</guid>
+            <category><![CDATA[Politics]]></category>
+            <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s Feud With the U.K. Over North Sea Oil: What to Know]]></title>
+            <link>https://time.com/article/2026/04/16/trump-uk-north-sea-oil-energy-crisis/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/16/trump-uk-north-sea-oil-energy-crisis/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -102,6 +124,7 @@
             <title><![CDATA[Nikki Glaser Is Saying Yes to It All]]></title>
             <link>https://time.com/article/2026/04/15/nikki-glaser-time100-interview-good-girl/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/nikki-glaser-time100-interview-good-girl/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -109,7 +132,6 @@
             <title><![CDATA[Zoe Saldaña Doesn’t Take This for Granted]]></title>
             <link>https://time.com/article/2026/04/15/zoe-saldana-time100-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/zoe-saldana-time100-interview/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -133,7 +155,7 @@
             <title><![CDATA[How We Chose the 2026 TIME100]]></title>
             <link>https://time.com/article/2026/04/15/time100-how-we-chose/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/time100-how-we-chose/</guid>
-            <dc:creator><![CDATA[Sam Jacobs]]></dc:creator>
+            <category><![CDATA[World]]></category>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -211,7 +233,6 @@
         </item>
         <item>
             <title><![CDATA[Diplomats Fear Trump's Iran Envoys Are Making Things Worse]]></title>
-            <description><![CDATA[Jared Kushner and Steve Witkoff lack the expertise and diplomatic experience needed to secure a deal, former diplomats warn.]]></description>
             <link>https://time.com/article/2026/04/15/diplomats-fear-trump-iran-envoys-kushner-witkoff-nuclear/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/diplomats-fear-trump-iran-envoys-kushner-witkoff-nuclear/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
@@ -228,7 +249,6 @@
             <title><![CDATA[House Democrats Move to Impeach Defense Secretary Hegseth]]></title>
             <link>https://time.com/article/2026/04/15/hegseth-impeachment-resolution-democrats-house/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/hegseth-impeachment-resolution-democrats-house/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
