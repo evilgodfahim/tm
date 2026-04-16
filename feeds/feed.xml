@@ -4,23 +4,15 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Apr 2026 08:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 10:08:59 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Apr 2026 08:23:53 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 10:08:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <pubDate>Thu, 16 Apr 2026 08:23:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Happens When AI Agents Work in Teams]]></title>
-            <link>https://time.com/7381463/chat-code-claw-ai-agents-teams/</link>
-            <guid isPermaLink="true">https://time.com/7381463/chat-code-claw-ai-agents-teams/</guid>
-            <category><![CDATA[Business]]></category>
-            <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 08:23:53 GMT</pubDate>
+            <pubDate>Thu, 16 Apr 2026 10:08:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A New Lawsuit Blames Google Gemini For Man's Suicide]]></title>
@@ -28,30 +20,37 @@
             <guid isPermaLink="true">https://time.com/7382406/gemini-suicide-lawsuit-death/</guid>
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 08:23:53 GMT</pubDate>
+            <pubDate>Thu, 16 Apr 2026 10:08:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Thu, 16 Apr 2026 08:23:53 GMT</pubDate>
+            <pubDate>Thu, 16 Apr 2026 10:08:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Thu, 16 Apr 2026 08:23:53 GMT</pubDate>
+            <pubDate>Thu, 16 Apr 2026 10:08:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Thu, 16 Apr 2026 08:23:53 GMT</pubDate>
+            <pubDate>Thu, 16 Apr 2026 10:08:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
+            <pubDate>Thu, 16 Apr 2026 10:08:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Happens When AI Agents Work in Teams]]></title>
+            <link>https://time.com/7381463/chat-code-claw-ai-agents-teams/</link>
+            <guid isPermaLink="true">https://time.com/7381463/chat-code-claw-ai-agents-teams/</guid>
+            <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
             <pubDate>Thu, 16 Apr 2026 08:23:53 GMT</pubDate>
         </item>
         <item>
@@ -76,7 +75,6 @@
             <title><![CDATA['Margo's Got Money Troubles' Is Just Delightful]]></title>
             <link>https://time.com/article/2026/04/15/margos-got-money-troubles-review-apple/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/margos-got-money-troubles-review-apple/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -159,6 +157,7 @@
             <title><![CDATA[How to Watch the TIME100 Gala Red Carpet Livestream]]></title>
             <link>https://time.com/article/2026/04/15/time100-gala-red-carpet-livestream/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/time100-gala-red-carpet-livestream/</guid>
+            <category><![CDATA[TIME100]]></category>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -174,6 +173,20 @@
             <link>https://time.com/article/2026/04/15/beef-season-2-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/beef-season-2-review/</guid>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Finale of Beef Season 2]]></title>
+            <link>https://time.com/article/2026/04/15/beef-season-2-finale-ending-explained/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/15/beef-season-2-finale-ending-explained/</guid>
+            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How AI Can Beat Cancer]]></title>
+            <link>https://time.com/article/2026/04/15/how-ai-can-beat-cancer/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/15/how-ai-can-beat-cancer/</guid>
+            <dc:creator><![CDATA[Cyriac Roeding]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
