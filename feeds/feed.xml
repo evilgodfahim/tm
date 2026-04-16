@@ -4,10 +4,40 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Apr 2026 11:54:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 13:10:58 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Apr 2026 11:54:12 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 13:10:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[TIME Earth Awards | 2026]]></title>
+            <link>https://time.com/collection/earth-awards/2026/</link>
+            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
+            <pubDate>Thu, 16 Apr 2026 13:10:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zohran Mamdani]]></title>
+            <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
+            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
+            <pubDate>Thu, 16 Apr 2026 13:10:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dolores Huerta]]></title>
+            <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
+            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
+            <pubDate>Thu, 16 Apr 2026 13:10:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alysa Liu]]></title>
+            <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
+            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
+            <pubDate>Thu, 16 Apr 2026 13:10:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Noah Wyle]]></title>
+            <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
+            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
+            <pubDate>Thu, 16 Apr 2026 13:10:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Live Nation Verdict May Affect Ticket Prices]]></title>
             <link>https://time.com/article/2026/04/16/live-nation-federal-antitrust-verdict-explainer/</link>
@@ -23,41 +53,10 @@
             <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[TIME Earth Awards | 2026]]></title>
-            <link>https://time.com/collection/earth-awards/2026/</link>
-            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <pubDate>Thu, 16 Apr 2026 11:54:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A New Lawsuit Blames Google Gemini For Man's Suicide]]></title>
             <link>https://time.com/7382406/gemini-suicide-lawsuit-death/</link>
             <guid isPermaLink="true">https://time.com/7382406/gemini-suicide-lawsuit-death/</guid>
-            <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 11:54:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zohran Mamdani]]></title>
-            <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
-            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Thu, 16 Apr 2026 11:54:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dolores Huerta]]></title>
-            <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
-            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Thu, 16 Apr 2026 11:54:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alysa Liu]]></title>
-            <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
-            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Thu, 16 Apr 2026 11:54:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Noah Wyle]]></title>
-            <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
-            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
             <pubDate>Thu, 16 Apr 2026 11:54:12 GMT</pubDate>
         </item>
         <item>
@@ -96,7 +95,7 @@
             <title><![CDATA[Nikki Glaser Is Saying Yes to It All]]></title>
             <link>https://time.com/article/2026/04/15/nikki-glaser-time100-interview-good-girl/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/nikki-glaser-time100-interview-good-girl/</guid>
-            <category><![CDATA[Entertainment]]></category>
+            <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -104,6 +103,7 @@
             <link>https://time.com/article/2026/04/15/zoe-saldana-time100-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/zoe-saldana-time100-interview/</guid>
             <category><![CDATA[Entertainment]]></category>
+            <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -111,6 +111,7 @@
             <link>https://time.com/article/2026/04/15/wagner-moura-time100-interview-secret-agent/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/wagner-moura-time100-interview-secret-agent/</guid>
             <category><![CDATA[Entertainment]]></category>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -118,12 +119,14 @@
             <link>https://time.com/article/2026/04/15/luke-combs-time100-interview-the-way-i-am/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/luke-combs-time100-interview-the-way-i-am/</guid>
             <category><![CDATA[Entertainment]]></category>
+            <dc:creator><![CDATA[Lucy Feldman]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How We Chose the 2026 TIME100]]></title>
             <link>https://time.com/article/2026/04/15/time100-how-we-chose/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/time100-how-we-chose/</guid>
+            <dc:creator><![CDATA[Sam Jacobs]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -149,19 +152,17 @@
             <title><![CDATA[Trump Says Iran War 'Close to Over,' Hints at Possible Deadline]]></title>
             <link>https://time.com/article/2026/04/15/trump-iran-war-ending-fox-news/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/trump-iran-war-ending-fox-news/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Senate Blocks Iran War Powers Resolution for Fourth Time]]></title>
-            <description><![CDATA[The measure failed 47-52, with Republican Rand Paul joining all of the Democrats except John Fetterman.]]></description>
             <link>https://time.com/article/2026/04/15/senate-blocks-iran-war-powers-resolution-for-fourth-time/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/senate-blocks-iran-war-powers-resolution-for-fourth-time/</guid>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Super-Rich Come to Washington Pleading to Pay More in Taxes]]></title>
-            <description><![CDATA[The group known as Patriotic Millionaires staged a protest outside Jeff Bezos' house on Wednesday]]></description>
             <link>https://time.com/article/2026/04/15/-it-beats-pitchfork-rebellions-and-the-guillotine-why-these-super-rich-americans-are-asking-for-higher-taxes/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/-it-beats-pitchfork-rebellions-and-the-guillotine-why-these-super-rich-americans-are-asking-for-higher-taxes/</guid>
             <category><![CDATA[Politics]]></category>
@@ -169,10 +170,10 @@
         </item>
         <item>
             <title><![CDATA[How to Watch the TIME100 Gala Red Carpet Livestream]]></title>
+            <description><![CDATA[For the first time, anyone can watch red-carpet arrivals when the world's most influential people gather in New York City on April 23.]]></description>
             <link>https://time.com/article/2026/04/15/time100-gala-red-carpet-livestream/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/time100-gala-red-carpet-livestream/</guid>
             <category><![CDATA[TIME100]]></category>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -192,14 +193,43 @@
             <title><![CDATA[Breaking Down the Finale of Beef Season 2]]></title>
             <link>https://time.com/article/2026/04/15/beef-season-2-finale-ending-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/beef-season-2-finale-ending-explained/</guid>
-            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
+            <category><![CDATA[Entertainment]]></category>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How AI Can Beat Cancer]]></title>
             <link>https://time.com/article/2026/04/15/how-ai-can-beat-cancer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/how-ai-can-beat-cancer/</guid>
-            <dc:creator><![CDATA[Cyriac Roeding]]></dc:creator>
+            <category><![CDATA[Ideas]]></category>
+            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Diplomats Fear Trump's Iran Envoys Are Making Things Worse]]></title>
+            <description><![CDATA[Jared Kushner and Steve Witkoff lack the expertise and diplomatic experience needed to secure a deal, former diplomats warn.]]></description>
+            <link>https://time.com/article/2026/04/15/diplomats-fear-trump-iran-envoys-kushner-witkoff-nuclear/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/15/diplomats-fear-trump-iran-envoys-kushner-witkoff-nuclear/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Trump’s Strait of Hormuz Blockade May Be a Gift to China]]></title>
+            <link>https://time.com/article/2026/04/15/why-trump-s-strait-of-hormuz-blockade-may-be-a-gift-to-china/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/15/why-trump-s-strait-of-hormuz-blockade-may-be-a-gift-to-china/</guid>
+            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[House Democrats Move to Impeach Defense Secretary Hegseth]]></title>
+            <link>https://time.com/article/2026/04/15/hegseth-impeachment-resolution-democrats-house/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/15/hegseth-impeachment-resolution-democrats-house/</guid>
+            <category><![CDATA[Politics]]></category>
+            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Letting AI Do Your Work Erodes Your Confidence]]></title>
+            <link>https://time.com/article/2026/04/15/how-ai-use-affects-confidence-thinking-study/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/15/how-ai-use-affects-confidence-thinking-study/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -281,6 +311,7 @@
             <title><![CDATA[Two New Drugs Offer Hope for Pancreatic Cancer]]></title>
             <link>https://time.com/article/2026/04/14/new-promise-for-treating-pancreatic-cancer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/14/new-promise-for-treating-pancreatic-cancer/</guid>
+            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -302,6 +333,7 @@
             <title><![CDATA[A New AI Tool Could Transform How We Diagnose Genetic Diseases]]></title>
             <link>https://time.com/article/2026/04/14/ai-disease-genetic-mayo-clinic-goodfire/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/14/ai-disease-genetic-mayo-clinic-goodfire/</guid>
+            <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Nikita Ostrovsky]]></dc:creator>
             <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -370,7 +402,6 @@
             <title><![CDATA[Don't Dread Small Talk]]></title>
             <link>https://time.com/article/2026/04/13/boring-small-talk-is-enjoyable-study/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/13/boring-small-talk-is-enjoyable-study/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
         </item>
