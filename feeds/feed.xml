@@ -4,40 +4,40 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 14:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 15:52:12 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Apr 2026 14:21:38 GMT</pubDate>
+        <pubDate>Fri, 17 Apr 2026 15:52:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Fri, 17 Apr 2026 14:21:38 GMT</pubDate>
+            <pubDate>Fri, 17 Apr 2026 15:52:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Fri, 17 Apr 2026 14:21:38 GMT</pubDate>
+            <pubDate>Fri, 17 Apr 2026 15:52:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Fri, 17 Apr 2026 14:21:38 GMT</pubDate>
+            <pubDate>Fri, 17 Apr 2026 15:52:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Fri, 17 Apr 2026 14:21:38 GMT</pubDate>
+            <pubDate>Fri, 17 Apr 2026 15:52:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Fri, 17 Apr 2026 14:21:38 GMT</pubDate>
+            <pubDate>Fri, 17 Apr 2026 15:52:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How U.S. Businesses Can Apply for Tariff Refunds]]></title>
@@ -51,6 +51,13 @@
             <link>https://time.com/article/2026/04/17/state-department-expands-visa-restriction-policy-against-those-working-for-u-s-adversaries-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/17/state-department-expands-visa-restriction-policy-against-those-working-for-u-s-adversaries-/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Nominates Dr. Erica Schwartz as CDC Director]]></title>
+            <link>https://time.com/article/2026/04/17/trump-nominates-erica-schwartz-new-cdc-director/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/17/trump-nominates-erica-schwartz-new-cdc-director/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -93,6 +100,13 @@
             <link>https://time.com/article/2026/04/16/trump-uk-north-sea-oil-energy-crisis/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/16/trump-uk-north-sea-oil-energy-crisis/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Lorne' Offers Some Surprising New Angles on Lorne Michaels]]></title>
+            <link>https://time.com/article/2026/04/16/lorne-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/16/lorne-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -146,7 +160,6 @@
             <title><![CDATA[Zoe Saldaña Doesn’t Take This for Granted]]></title>
             <link>https://time.com/article/2026/04/15/zoe-saldana-time100-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/zoe-saldana-time100-interview/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -353,7 +366,6 @@
             <title><![CDATA[Should I Take CoQ10?]]></title>
             <link>https://time.com/article/2026/04/14/should-i-take-CoQ10-supplement/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/14/should-i-take-CoQ10-supplement/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Stacey Colino]]></dc:creator>
             <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -472,6 +484,7 @@
             <title><![CDATA[Why It’s So Hard to Reach Your Doctor]]></title>
             <link>https://time.com/article/2026/04/13/why-its-hard-to-reach-your-doctor-how-to-get-a-response/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/13/why-its-hard-to-reach-your-doctor-how-to-get-a-response/</guid>
+            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
         </item>
