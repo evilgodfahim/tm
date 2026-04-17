@@ -4,40 +4,40 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 19:53:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 20:36:45 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Apr 2026 19:53:12 GMT</pubDate>
+        <pubDate>Fri, 17 Apr 2026 20:36:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Fri, 17 Apr 2026 19:53:12 GMT</pubDate>
+            <pubDate>Fri, 17 Apr 2026 20:36:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Fri, 17 Apr 2026 19:53:12 GMT</pubDate>
+            <pubDate>Fri, 17 Apr 2026 20:36:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Fri, 17 Apr 2026 19:53:12 GMT</pubDate>
+            <pubDate>Fri, 17 Apr 2026 20:36:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Fri, 17 Apr 2026 19:53:12 GMT</pubDate>
+            <pubDate>Fri, 17 Apr 2026 20:36:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Fri, 17 Apr 2026 19:53:12 GMT</pubDate>
+            <pubDate>Fri, 17 Apr 2026 20:36:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How U.S. Businesses Can Apply for Tariff Refunds]]></title>
@@ -80,6 +80,13 @@
             <link>https://time.com/article/2026/04/17/white-house-military-complex-bunker-trump-ballroom/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/17/white-house-military-complex-bunker-trump-ballroom/</guid>
             <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[May Bob Odenkirk Always Have as Much Fun as He's Having in Normal]]></title>
+            <link>https://time.com/article/2026/04/17/normal-movie-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/17/normal-movie-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -188,7 +195,6 @@
             <title><![CDATA[Wagner Moura Wants to Tell You the Truth]]></title>
             <link>https://time.com/article/2026/04/15/wagner-moura-time100-interview-secret-agent/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/wagner-moura-time100-interview-secret-agent/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -310,6 +316,7 @@
             <title><![CDATA[5 Predictions for 'The Pitt' Season 3]]></title>
             <link>https://time.com/article/2026/04/15/5-the-pitt-season-3-predictions/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/5-the-pitt-season-3-predictions/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
