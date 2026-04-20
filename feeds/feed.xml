@@ -4,40 +4,47 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Apr 2026 07:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 09:50:22 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Apr 2026 07:12:18 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 09:50:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Louisiana Shooting Kills 8 Children: What to Know]]></title>
+            <link>https://time.com/article/2026/04/20/louisiana-shooting-shreveport-shamar-elkins/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/20/louisiana-shooting-shreveport-shamar-elkins/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Mon, 20 Apr 2026 07:12:18 GMT</pubDate>
+            <pubDate>Mon, 20 Apr 2026 09:50:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Mon, 20 Apr 2026 07:12:18 GMT</pubDate>
+            <pubDate>Mon, 20 Apr 2026 09:50:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Mon, 20 Apr 2026 07:12:18 GMT</pubDate>
+            <pubDate>Mon, 20 Apr 2026 09:50:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Mon, 20 Apr 2026 07:12:18 GMT</pubDate>
+            <pubDate>Mon, 20 Apr 2026 09:50:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Mon, 20 Apr 2026 07:12:18 GMT</pubDate>
+            <pubDate>Mon, 20 Apr 2026 09:50:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[U.S. Seizes Iranian Cargo Ship Amid Peace Talk Standoff]]></title>
