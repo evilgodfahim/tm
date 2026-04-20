@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Apr 2026 09:50:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 11:14:09 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Apr 2026 09:50:22 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 11:14:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Louisiana Shooting Kills 8 Children: What to Know]]></title>
@@ -20,31 +20,31 @@
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Mon, 20 Apr 2026 09:50:22 GMT</pubDate>
+            <pubDate>Mon, 20 Apr 2026 11:14:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Mon, 20 Apr 2026 09:50:22 GMT</pubDate>
+            <pubDate>Mon, 20 Apr 2026 11:14:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Mon, 20 Apr 2026 09:50:22 GMT</pubDate>
+            <pubDate>Mon, 20 Apr 2026 11:14:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Mon, 20 Apr 2026 09:50:22 GMT</pubDate>
+            <pubDate>Mon, 20 Apr 2026 11:14:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Mon, 20 Apr 2026 09:50:22 GMT</pubDate>
+            <pubDate>Mon, 20 Apr 2026 11:14:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[U.S. Seizes Iranian Cargo Ship Amid Peace Talk Standoff]]></title>
@@ -73,7 +73,21 @@
             <title><![CDATA[What to Know About Allegations of Excessive Drinking by FBI Director Kash Patel]]></title>
             <link>https://time.com/article/2026/04/18/what-to-know-about-allegations-of-drinking-by-f-b-i-director-kash-patel/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/18/what-to-know-about-allegations-of-drinking-by-f-b-i-director-kash-patel/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
+            <pubDate>Sat, 18 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This Halal Beauty Company Boss Has Big Ambitions]]></title>
+            <link>https://time.com/article/2026/04/18/Sari-Chairunnisa-paragon-corp-interview/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/18/Sari-Chairunnisa-paragon-corp-interview/</guid>
+            <category><![CDATA[Business]]></category>
+            <pubDate>Sat, 18 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to the Second Gilded Age]]></title>
+            <link>https://time.com/article/2026/04/18/welcome-to-the-second-gilded-age/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/18/welcome-to-the-second-gilded-age/</guid>
+            <category><![CDATA[Ideas]]></category>
             <pubDate>Sat, 18 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -86,21 +100,20 @@
             <title><![CDATA[Trump Admin Cracks Down on Visas of People Working for ‘Adversaries’]]></title>
             <link>https://time.com/article/2026/04/17/state-department-expands-visa-restriction-policy-against-those-working-for-u-s-adversaries-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/17/state-department-expands-visa-restriction-policy-against-those-working-for-u-s-adversaries-/</guid>
-            <category><![CDATA[U.S.]]></category>
             <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump Nominates Dr. Erica Schwartz as CDC Director]]></title>
             <link>https://time.com/article/2026/04/17/trump-nominates-erica-schwartz-new-cdc-director/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/17/trump-nominates-erica-schwartz-new-cdc-director/</guid>
-            <category><![CDATA[Health]]></category>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nancy Wexler Looks Back on a Life Spent Unraveling the Mystery of Huntington’s Disease]]></title>
             <link>https://time.com/article/2026/04/17/huntingtons-disease-pioneer-nancy-wexler-memoir/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/17/huntingtons-disease-pioneer-nancy-wexler-memoir/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <category><![CDATA[Health]]></category>
             <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -114,7 +127,6 @@
             <title><![CDATA[What We Know About the Military Complex Being Built Beneath the White House]]></title>
             <link>https://time.com/article/2026/04/17/white-house-military-complex-bunker-trump-ballroom/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/17/white-house-military-complex-bunker-trump-ballroom/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -128,14 +140,19 @@
             <title><![CDATA[Why the Government Is Making Chicago O’Hare Airport Cut Flights]]></title>
             <link>https://time.com/article/2026/04/17/chicago-ohare-airport-flight-cuts-faa-transportation-department/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/17/chicago-ohare-airport-flight-cuts-faa-transportation-department/</guid>
-            <category><![CDATA[U.S.]]></category>
+            <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How American Schools Can Address Political Polarization]]></title>
+            <link>https://time.com/article/2026/04/17/how-american-schools-can-address-political-polarization/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/17/how-american-schools-can-address-political-polarization/</guid>
+            <category><![CDATA[Ideas]]></category>
             <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Live Nation Verdict May Affect Ticket Prices]]></title>
             <link>https://time.com/article/2026/04/16/live-nation-federal-antitrust-verdict-explainer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/16/live-nation-federal-antitrust-verdict-explainer/</guid>
-            <category><![CDATA[U.S.]]></category>
             <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
