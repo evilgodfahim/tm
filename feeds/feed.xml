@@ -4,46 +4,61 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Apr 2026 15:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 16:56:10 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Apr 2026 15:11:30 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 16:56:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Mon, 20 Apr 2026 15:11:30 GMT</pubDate>
+            <pubDate>Mon, 20 Apr 2026 16:56:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Mon, 20 Apr 2026 15:11:30 GMT</pubDate>
+            <pubDate>Mon, 20 Apr 2026 16:56:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Mon, 20 Apr 2026 15:11:30 GMT</pubDate>
+            <pubDate>Mon, 20 Apr 2026 16:56:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Mon, 20 Apr 2026 15:11:30 GMT</pubDate>
+            <pubDate>Mon, 20 Apr 2026 16:56:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Mon, 20 Apr 2026 15:11:30 GMT</pubDate>
+            <pubDate>Mon, 20 Apr 2026 16:56:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Louisiana Shooting Kills 8 Children: What to Know]]></title>
             <link>https://time.com/article/2026/04/20/louisiana-shooting-shreveport-shamar-elkins/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/20/louisiana-shooting-shreveport-shamar-elkins/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tehran Says ‘No Decision Yet’ on Joining Peace Talks Citing Distrust of Washington]]></title>
+            <description><![CDATA[The fragile cease-fire, set to expire this week, hangs in the balance as Iran has threatened to retaliate after the U.S. seized an Iranian cargo ship.]]></description>
+            <link>https://time.com/article/2026/04/20/iran-us-peace-talks-stalemate-strait-of-hormuz-trump-threats/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/20/iran-us-peace-talks-stalemate-strait-of-hormuz-trump-threats/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are You Losing Muscle? Here's How to Get It Back]]></title>
+            <link>https://time.com/article/2026/04/20/how-to-tell-if-you-are-losing-muscle/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/20/how-to-tell-if-you-are-losing-muscle/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -147,6 +162,13 @@
             <link>https://time.com/article/2026/04/17/how-american-schools-can-address-political-polarization/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/17/how-american-schools-can-address-political-polarization/</guid>
             <category><![CDATA[Ideas]]></category>
+            <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Modern Dating Is Making Us Less Secure]]></title>
+            <link>https://time.com/article/2026/04/17/modern-dating-is-making-us-less-secure/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/17/modern-dating-is-making-us-less-secure/</guid>
+            <dc:creator><![CDATA[Amir Levine]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -387,6 +409,7 @@
             <title><![CDATA[Stop Saying 'You're So Strong']]></title>
             <link>https://time.com/article/2026/04/15/what-to-say-to-someone-grieving/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/what-to-say-to-someone-grieving/</guid>
+            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -467,7 +490,6 @@
             <title><![CDATA[Two New Drugs Offer Hope for Pancreatic Cancer]]></title>
             <link>https://time.com/article/2026/04/14/new-promise-for-treating-pancreatic-cancer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/14/new-promise-for-treating-pancreatic-cancer/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
         </item>
