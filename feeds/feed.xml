@@ -4,51 +4,50 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Apr 2026 21:39:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 22:35:38 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Apr 2026 21:39:08 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 22:35:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Mon, 20 Apr 2026 21:39:08 GMT</pubDate>
+            <pubDate>Mon, 20 Apr 2026 22:35:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Mon, 20 Apr 2026 21:39:08 GMT</pubDate>
+            <pubDate>Mon, 20 Apr 2026 22:35:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Mon, 20 Apr 2026 21:39:08 GMT</pubDate>
+            <pubDate>Mon, 20 Apr 2026 22:35:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Mon, 20 Apr 2026 21:39:08 GMT</pubDate>
+            <pubDate>Mon, 20 Apr 2026 22:35:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Mon, 20 Apr 2026 21:39:08 GMT</pubDate>
+            <pubDate>Mon, 20 Apr 2026 22:35:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Louisiana Shooting Kills 8 Children: What to Know]]></title>
             <link>https://time.com/article/2026/04/20/louisiana-shooting-shreveport-shamar-elkins/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/20/louisiana-shooting-shreveport-shamar-elkins/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <category><![CDATA[U.S.]]></category>
             <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tehran Says ‘No Decision Yet’ on Joining Peace Talks Citing Distrust of Washington]]></title>
-            <description><![CDATA[The fragile cease-fire, set to expire this week, hangs in the balance as Iran has threatened to retaliate after the U.S. seized an Iranian cargo ship.]]></description>
             <link>https://time.com/article/2026/04/20/iran-us-peace-talks-stalemate-strait-of-hormuz-trump-threats/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/20/iran-us-peace-talks-stalemate-strait-of-hormuz-trump-threats/</guid>
             <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
@@ -83,6 +82,14 @@
             <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Trump’s Labor Secretary Lori Chavez-DeRemer Resigns]]></title>
+            <description><![CDATA[The news comes amid a monthslong investigation into Chavez-DeRemer's leadership of the federal agency that stemmed from allegations of misconduct.]]></description>
+            <link>https://time.com/article/2026/04/20/labor-secretary-lori-chavez-deremer-out-trump-administration/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/20/labor-secretary-lori-chavez-deremer-out-trump-administration/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[U.S. Seizes Iranian Cargo Ship Amid Peace Talk Standoff]]></title>
             <description><![CDATA[Iran vowed to retaliate after Trump said the U.S. blew a hole in an Iranian tanker as the cease-fire between the two countries is set to soon end.]]></description>
             <link>https://time.com/article/2026/04/19/trump-accuses-iran-of-total-violation-as-strait-of-hormuz-remains-shut/</link>
@@ -109,7 +116,6 @@
             <title><![CDATA[What to Know About Allegations of Excessive Drinking by FBI Director Kash Patel]]></title>
             <link>https://time.com/article/2026/04/18/what-to-know-about-allegations-of-drinking-by-f-b-i-director-kash-patel/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/18/what-to-know-about-allegations-of-drinking-by-f-b-i-director-kash-patel/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Sat, 18 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
