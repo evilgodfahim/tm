@@ -4,40 +4,40 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 13:03:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 15:05:23 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 13:03:46 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 15:05:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Tue, 21 Apr 2026 13:03:46 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 15:05:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Tue, 21 Apr 2026 13:03:46 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 15:05:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Tue, 21 Apr 2026 13:03:46 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 15:05:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Tue, 21 Apr 2026 13:03:46 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 15:05:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Tue, 21 Apr 2026 13:03:46 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 15:05:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cory Mills Faces Calls for Expulsion From Congress: What to Know]]></title>
@@ -51,6 +51,34 @@
             <link>https://time.com/article/2026/04/21/mexico-teotihuacan-pyramids-shooting-canada-tourist-world-cup/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/mexico-teotihuacan-pyramids-shooting-canada-tourist-world-cup/</guid>
             <category><![CDATA[World]]></category>
+            <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Story Behind TIME’s Our America Project]]></title>
+            <link>https://time.com/article/2026/04/21/our-america-250-story/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/21/our-america-250-story/</guid>
+            <dc:creator><![CDATA[Lily Rothman]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can a Documentary Help End Gang Violence?]]></title>
+            <link>https://time.com/article/2026/04/21/can-a-documentary-help-end-gang-violence-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/21/can-a-documentary-help-end-gang-violence-/</guid>
+            <category><![CDATA[Ideas]]></category>
+            <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: 'Michael' Is a Not-So-Regal Biopic]]></title>
+            <link>https://time.com/article/2026/04/21/michael-jackson-biopic-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/21/michael-jackson-biopic-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Half Man' Tests Our Tolerance for Pain: Review]]></title>
+            <link>https://time.com/article/2026/04/21/half-man-review-hbo/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/21/half-man-review-hbo/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -70,14 +98,14 @@
             <title><![CDATA[Are You Losing Muscle? Here's How to Get It Back]]></title>
             <link>https://time.com/article/2026/04/20/how-to-tell-if-you-are-losing-muscle/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/20/how-to-tell-if-you-are-losing-muscle/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <category><![CDATA[Health]]></category>
             <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why U.K. Prime Minister Keir Starmer Is Facing Growing Calls to Resign]]></title>
             <link>https://time.com/article/2026/04/20/why-uk-prime-minister-keir-starmer-is-facing-growing-calls-to-resign/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/20/why-uk-prime-minister-keir-starmer-is-facing-growing-calls-to-resign/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <category><![CDATA[World]]></category>
             <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -142,7 +170,6 @@
             <title><![CDATA[This Halal Beauty Company Boss Has Big Ambitions]]></title>
             <link>https://time.com/article/2026/04/18/Sari-Chairunnisa-paragon-corp-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/18/Sari-Chairunnisa-paragon-corp-interview/</guid>
-            <category><![CDATA[Business]]></category>
             <pubDate>Sat, 18 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -196,6 +223,7 @@
             <title><![CDATA[May Bob Odenkirk Always Have as Much Fun as He's Having in Normal]]></title>
             <link>https://time.com/article/2026/04/17/normal-movie-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/17/normal-movie-review/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -408,14 +436,13 @@
             <title><![CDATA[Breaking Down the Finale of Beef Season 2]]></title>
             <link>https://time.com/article/2026/04/15/beef-season-2-finale-ending-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/beef-season-2-finale-ending-explained/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How AI Can Beat Cancer]]></title>
             <link>https://time.com/article/2026/04/15/how-ai-can-beat-cancer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/how-ai-can-beat-cancer/</guid>
-            <category><![CDATA[Ideas]]></category>
+            <dc:creator><![CDATA[Cyriac Roeding]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -861,7 +888,6 @@
             <title><![CDATA['The Pitt' Season 2 Finale: Robby's Fate]]></title>
             <link>https://time.com/article/2026/04/10/the-pitt-season-2-finale-robby/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/10/the-pitt-season-2-finale-robby/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
         </item>
