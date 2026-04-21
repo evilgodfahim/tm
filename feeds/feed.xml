@@ -4,40 +4,40 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 21:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 22:35:06 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 21:38:16 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 22:35:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Tue, 21 Apr 2026 21:38:16 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 22:35:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Tue, 21 Apr 2026 21:38:16 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 22:35:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Tue, 21 Apr 2026 21:38:16 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 22:35:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Tue, 21 Apr 2026 21:38:16 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 22:35:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Tue, 21 Apr 2026 21:38:16 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 22:35:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cory Mills Faces Calls for Expulsion From Congress: What to Know]]></title>
@@ -81,11 +81,11 @@
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trump Says He Does Not Want to Extend U.S.-Iran Cease-Fire]]></title>
-            <description><![CDATA[As it remains uncertain whether Tehran will return to the negotiating table, Trump warned the U.S. will resume its assault of Iran if talks don't progress.]]></description>
+            <title><![CDATA[Trump Says U.S. Will Extend Ceasefire With Iran]]></title>
+            <description><![CDATA[The President said the U.S. will continue its naval blockade of the Strait of Hormuz.]]></description>
             <link>https://time.com/article/2026/04/21/iran-us-trump-war-ceasefire-talks-stalemate/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/iran-us-trump-war-ceasefire-talks-stalemate/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <dc:creator><![CDATA[Tiago Ventura and Connor Greene]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -121,6 +121,13 @@
             <link>https://time.com/article/2026/04/21/mexico-cia-killed-Claudia-Sheinbaum/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/mexico-cia-killed-Claudia-Sheinbaum/</guid>
             <category><![CDATA[World]]></category>
+            <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Chilling Ending of 'Unchosen']]></title>
+            <link>https://time.com/article/2026/04/21/unchosen-netflix-ending/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/21/unchosen-netflix-ending/</guid>
+            <dc:creator><![CDATA[Isabella Wandermurem]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -340,6 +347,7 @@
             <title><![CDATA['Lee Cronin's The Mummy' Is Not a Brendan Fraser Movie]]></title>
             <link>https://time.com/article/2026/04/16/-lee-cronins-the-mummy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/16/-lee-cronins-the-mummy/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -517,7 +525,6 @@
             <title><![CDATA[5 Predictions for 'The Pitt' Season 3]]></title>
             <link>https://time.com/article/2026/04/15/5-the-pitt-season-3-predictions/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/5-the-pitt-season-3-predictions/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
