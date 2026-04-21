@@ -4,40 +4,40 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 15:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 16:50:46 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 15:05:23 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 16:50:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Tue, 21 Apr 2026 15:05:22 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 16:50:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Tue, 21 Apr 2026 15:05:22 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 16:50:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Tue, 21 Apr 2026 15:05:22 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 16:50:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Tue, 21 Apr 2026 15:05:22 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 16:50:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Tue, 21 Apr 2026 15:05:22 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 16:50:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cory Mills Faces Calls for Expulsion From Congress: What to Know]]></title>
@@ -79,6 +79,14 @@
             <link>https://time.com/article/2026/04/21/half-man-review-hbo/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/half-man-review-hbo/</guid>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Says He Does Not Want to Extend U.S.-Iran Cease-Fire]]></title>
+            <description><![CDATA[As it remains uncertain whether Tehran will return to the negotiating table, Trump warned the U.S. will resume its assault of Iran if talks don't progress.]]></description>
+            <link>https://time.com/article/2026/04/21/iran-us-trump-war-ceasefire-talks-stalemate/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/21/iran-us-trump-war-ceasefire-talks-stalemate/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -124,10 +132,9 @@
         </item>
         <item>
             <title><![CDATA[Trump’s Labor Secretary Lori Chavez-DeRemer Resigns]]></title>
-            <description><![CDATA[The news comes amid a monthslong investigation into Chavez-DeRemer's leadership of the federal agency that stemmed from allegations of misconduct.]]></description>
             <link>https://time.com/article/2026/04/20/labor-secretary-lori-chavez-deremer-out-trump-administration/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/20/labor-secretary-lori-chavez-deremer-out-trump-administration/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -237,7 +244,7 @@
             <title><![CDATA[How American Schools Can Address Political Polarization]]></title>
             <link>https://time.com/article/2026/04/17/how-american-schools-can-address-political-polarization/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/17/how-american-schools-can-address-political-polarization/</guid>
-            <category><![CDATA[Ideas]]></category>
+            <dc:creator><![CDATA[Deborah Kenny]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
