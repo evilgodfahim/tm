@@ -4,53 +4,52 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 17:54:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 20:05:28 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 17:54:03 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 20:05:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Tue, 21 Apr 2026 17:54:03 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 20:05:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Tue, 21 Apr 2026 17:54:03 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 20:05:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Tue, 21 Apr 2026 17:54:03 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 20:05:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Tue, 21 Apr 2026 17:54:03 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 20:05:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Tue, 21 Apr 2026 17:54:03 GMT</pubDate>
+            <pubDate>Tue, 21 Apr 2026 20:05:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cory Mills Faces Calls for Expulsion From Congress: What to Know]]></title>
             <link>https://time.com/article/2026/04/21/cory-mills-expel-nancy-mace-house-congress-allegations-explainer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/cory-mills-expel-nancy-mace-house-congress-allegations-explainer/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What to Know About Shooting at Pyramid in Mexico]]></title>
             <link>https://time.com/article/2026/04/21/mexico-teotihuacan-pyramids-shooting-canada-tourist-world-cup/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/mexico-teotihuacan-pyramids-shooting-canada-tourist-world-cup/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -97,6 +96,27 @@
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Democratic Rep. Sheila Cherfilus-McCormick Resigns]]></title>
+            <link>https://time.com/article/2026/04/21/rep-sheila-cherfilus-mccormick-resigns-congress-house/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/21/rep-sheila-cherfilus-mccormick-resigns-congress-house/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About Trump’s Psychedelics Executive Order]]></title>
+            <link>https://time.com/article/2026/04/21/trump-psychedelics-executive-order-what-to-know/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/21/trump-psychedelics-executive-order-what-to-know/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Few Minutes of Coloring Can Erase Your Stress]]></title>
+            <link>https://time.com/article/2026/04/21/coloring-stress-relief-benefits/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/21/coloring-stress-relief-benefits/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Louisiana Shooting Kills 8 Children: What to Know]]></title>
             <link>https://time.com/article/2026/04/20/louisiana-shooting-shreveport-shamar-elkins/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/20/louisiana-shooting-shreveport-shamar-elkins/</guid>
@@ -127,6 +147,7 @@
             <title><![CDATA[5 Longevity Lessons You Can Learn from LeBron James]]></title>
             <link>https://time.com/article/2026/04/20/lebron-james-longevity-workout-recovery-strategies/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/20/lebron-james-longevity-workout-recovery-strategies/</guid>
+            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Matt Fuchs]]></dc:creator>
             <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -482,7 +503,6 @@
             <title><![CDATA[Letting AI Do Your Work Erodes Your Confidence]]></title>
             <link>https://time.com/article/2026/04/15/how-ai-use-affects-confidence-thinking-study/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/how-ai-use-affects-confidence-thinking-study/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -683,7 +703,6 @@
             <title><![CDATA[Why It’s So Hard to Reach Your Doctor]]></title>
             <link>https://time.com/article/2026/04/13/why-its-hard-to-reach-your-doctor-how-to-get-a-response/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/13/why-its-hard-to-reach-your-doctor-how-to-get-a-response/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
         </item>
