@@ -4,46 +4,46 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Apr 2026 13:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 15:05:56 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Apr 2026 13:06:34 GMT</pubDate>
+        <pubDate>Wed, 22 Apr 2026 15:05:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Wed, 22 Apr 2026 13:06:34 GMT</pubDate>
+            <pubDate>Wed, 22 Apr 2026 15:05:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Wed, 22 Apr 2026 13:06:34 GMT</pubDate>
+            <pubDate>Wed, 22 Apr 2026 15:05:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Wed, 22 Apr 2026 13:06:34 GMT</pubDate>
+            <pubDate>Wed, 22 Apr 2026 15:05:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Wed, 22 Apr 2026 13:06:34 GMT</pubDate>
+            <pubDate>Wed, 22 Apr 2026 15:05:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Wed, 22 Apr 2026 13:06:34 GMT</pubDate>
+            <pubDate>Wed, 22 Apr 2026 15:05:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[With ‘Donnyland,’ Ukraine Becomes Latest to Propose Naming Something After Trump]]></title>
             <link>https://time.com/article/2026/04/22/with-donnyland-ukraine-becomes-latest-to-propose-naming-something-after-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/22/with-donnyland-ukraine-becomes-latest-to-propose-naming-something-after-trump/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <category><![CDATA[World]]></category>
             <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -51,6 +51,13 @@
             <link>https://time.com/article/2026/04/22/generational-smoking-ban-uk-sale-2009/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/22/generational-smoking-ban-uk-sale-2009/</guid>
             <category><![CDATA[World]]></category>
+            <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tehran Says It Has Seized Two Ships in Strait of Hormuz After Cease-Fire Extended]]></title>
+            <link>https://time.com/article/2026/04/22/strait-of-hormuz-attacks-vessels-seized-iran-us-war-ceasefire/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/22/strait-of-hormuz-attacks-vessels-seized-iran-us-war-ceasefire/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -90,6 +97,7 @@
             <title><![CDATA['Half Man' Tests Our Tolerance for Pain: Review]]></title>
             <link>https://time.com/article/2026/04/21/half-man-review-hbo/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/half-man-review-hbo/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -125,6 +133,7 @@
             <link>https://time.com/article/2026/04/21/coloring-stress-relief-benefits/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/coloring-stress-relief-benefits/</guid>
             <category><![CDATA[Health]]></category>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -137,6 +146,7 @@
             <title><![CDATA[Breaking Down the Chilling Ending of 'Unchosen']]></title>
             <link>https://time.com/article/2026/04/21/unchosen-netflix-ending/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/unchosen-netflix-ending/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Isabella Wandermurem]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -302,7 +312,6 @@
             <title><![CDATA[May Bob Odenkirk Always Have as Much Fun as He's Having in Normal]]></title>
             <link>https://time.com/article/2026/04/17/normal-movie-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/17/normal-movie-review/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -369,7 +378,6 @@
             <title><![CDATA['Lorne' Offers Some Surprising New Angles on Lorne Michaels]]></title>
             <link>https://time.com/article/2026/04/16/lorne-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/16/lorne-review/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -377,7 +385,6 @@
             <title><![CDATA['Lee Cronin's The Mummy' Is Not a Brendan Fraser Movie]]></title>
             <link>https://time.com/article/2026/04/16/-lee-cronins-the-mummy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/16/-lee-cronins-the-mummy/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -438,6 +445,7 @@
             <title><![CDATA[Wagner Moura Wants to Tell You the Truth]]></title>
             <link>https://time.com/article/2026/04/15/wagner-moura-time100-interview-secret-agent/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/wagner-moura-time100-interview-secret-agent/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
