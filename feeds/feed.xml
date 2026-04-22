@@ -4,46 +4,45 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Apr 2026 08:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 10:12:40 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Apr 2026 08:26:08 GMT</pubDate>
+        <pubDate>Wed, 22 Apr 2026 10:12:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Wed, 22 Apr 2026 08:26:08 GMT</pubDate>
+            <pubDate>Wed, 22 Apr 2026 10:12:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Wed, 22 Apr 2026 08:26:08 GMT</pubDate>
+            <pubDate>Wed, 22 Apr 2026 10:12:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Wed, 22 Apr 2026 08:26:08 GMT</pubDate>
+            <pubDate>Wed, 22 Apr 2026 10:12:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Wed, 22 Apr 2026 08:26:08 GMT</pubDate>
+            <pubDate>Wed, 22 Apr 2026 10:12:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Wed, 22 Apr 2026 08:26:08 GMT</pubDate>
+            <pubDate>Wed, 22 Apr 2026 10:12:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cory Mills Faces Calls for Expulsion From Congress: What to Know]]></title>
             <link>https://time.com/article/2026/04/21/cory-mills-expel-nancy-mace-house-congress-allegations-explainer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/cory-mills-expel-nancy-mace-house-congress-allegations-explainer/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -54,23 +53,23 @@
         </item>
         <item>
             <title><![CDATA[The Story Behind TIME’s Our America Project]]></title>
+            <description><![CDATA[To mark America’s big birthday, TIME—with the help of 250 experts—is spotlighting art, places, and ideas that speak to the present or draw out hopes for the future.]]></description>
             <link>https://time.com/article/2026/04/21/our-america-250-story/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/our-america-250-story/</guid>
-            <dc:creator><![CDATA[Lily Rothman]]></dc:creator>
+            <category><![CDATA[Our America]]></category>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can a Documentary Help End Gang Violence?]]></title>
             <link>https://time.com/article/2026/04/21/can-a-documentary-help-end-gang-violence-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/can-a-documentary-help-end-gang-violence-/</guid>
-            <category><![CDATA[Ideas]]></category>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Review: 'Michael' Is a Not-So-Regal Biopic]]></title>
             <link>https://time.com/article/2026/04/21/michael-jackson-biopic-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/michael-jackson-biopic-review/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <category><![CDATA[Entertainment]]></category>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -82,10 +81,9 @@
         </item>
         <item>
             <title><![CDATA[Trump Says U.S. Will Extend Ceasefire With Iran]]></title>
-            <description><![CDATA[The President said the U.S. will continue its naval blockade of the Strait of Hormuz.]]></description>
             <link>https://time.com/article/2026/04/21/iran-us-trump-war-ceasefire-talks-stalemate/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/iran-us-trump-war-ceasefire-talks-stalemate/</guid>
-            <dc:creator><![CDATA[Tiago Ventura and Connor Greene]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -99,7 +97,7 @@
             <title><![CDATA[Democratic Rep. Sheila Cherfilus-McCormick Resigns]]></title>
             <link>https://time.com/article/2026/04/21/rep-sheila-cherfilus-mccormick-resigns-congress-house/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/rep-sheila-cherfilus-mccormick-resigns-congress-house/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -114,7 +112,6 @@
             <link>https://time.com/article/2026/04/21/coloring-stress-relief-benefits/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/coloring-stress-relief-benefits/</guid>
             <category><![CDATA[Health]]></category>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -139,6 +136,20 @@
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What the Passage of the Virginia Redistricting Plan Means for Control of Congress]]></title>
+            <link>https://time.com/article/2026/04/21/virginia-redistricting-referendum-amendment-vote/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/21/virginia-redistricting-referendum-amendment-vote/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran’s Supreme Leader No Longer Reins Supreme]]></title>
+            <link>https://time.com/article/2026/04/21/war-iran-mojtaba-khamenei-supreme-leader/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/21/war-iran-mojtaba-khamenei-supreme-leader/</guid>
+            <category><![CDATA[Ideas]]></category>
+            <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Louisiana Shooting Kills 8 Children: What to Know]]></title>
             <link>https://time.com/article/2026/04/20/louisiana-shooting-shreveport-shamar-elkins/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/20/louisiana-shooting-shreveport-shamar-elkins/</guid>
@@ -155,7 +166,7 @@
             <title><![CDATA[Are You Losing Muscle? Here's How to Get It Back]]></title>
             <link>https://time.com/article/2026/04/20/how-to-tell-if-you-are-losing-muscle/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/20/how-to-tell-if-you-are-losing-muscle/</guid>
-            <category><![CDATA[Health]]></category>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -183,7 +194,6 @@
             <title><![CDATA[Trump’s Labor Secretary Lori Chavez-DeRemer Resigns]]></title>
             <link>https://time.com/article/2026/04/20/labor-secretary-lori-chavez-deremer-out-trump-administration/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/20/labor-secretary-lori-chavez-deremer-out-trump-administration/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -474,7 +484,7 @@
             <description><![CDATA[For the first time, anyone can watch red-carpet arrivals when the world's most influential people gather in New York City on April 23.]]></description>
             <link>https://time.com/article/2026/04/15/time100-gala-red-carpet-livestream/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/time100-gala-red-carpet-livestream/</guid>
-            <category><![CDATA[TIME100]]></category>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -662,7 +672,6 @@
             <title><![CDATA[The Myth of the Adult Friend Group]]></title>
             <link>https://time.com/article/2026/04/14/the-myth-of-the-adult-friend-group/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/14/the-myth-of-the-adult-friend-group/</guid>
-            <category><![CDATA[Ideas]]></category>
             <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
