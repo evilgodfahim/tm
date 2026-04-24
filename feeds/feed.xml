@@ -4,54 +4,54 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 22:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 01:52:15 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 22:36:28 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 01:52:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Thu, 23 Apr 2026 22:36:28 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 01:52:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[At TIME100 Summit, Executives Confront AI’s Threat to Entry-Level Jobs]]></title>
             <link>https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</guid>
             <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 22:36:28 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 01:52:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MrBeast Does It Like No Other Creator]]></title>
             <link>https://time.com/collection/time100-summit-gala/2026/mr-beast-creator-economy/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/mr-beast-creator-economy/</guid>
             <dc:creator><![CDATA[Connor Greene]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 22:36:28 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 01:52:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Thu, 23 Apr 2026 22:36:28 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 01:52:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Thu, 23 Apr 2026 22:36:28 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 01:52:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Thu, 23 Apr 2026 22:36:28 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 01:52:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Thu, 23 Apr 2026 22:36:28 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 01:52:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Could Italy Replace Iran in the World Cup?]]></title>
@@ -64,7 +64,6 @@
             <title><![CDATA[In Cuba: To Be, or Not to Be]]></title>
             <link>https://time.com/article/2026/04/23/in-cuba-to-be-or-not-to-be/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/in-cuba-to-be-or-not-to-be/</guid>
-            <category><![CDATA[Ideas]]></category>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +76,6 @@
         </item>
         <item>
             <title><![CDATA[Trump Orders U.S. Navy to 'Shoot and Kill' Any Boat Laying Mines in Strait]]></title>
-            <description><![CDATA[The directive landed a day after Iranian soldiers seized two vessels in the crucial waterway.]]></description>
             <link>https://time.com/article/2026/04/23/trump-orders-us-navy-shoot-kill-boats-strait-hormuz-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/trump-orders-us-navy-shoot-kill-boats-strait-hormuz-iran-war/</guid>
             <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
@@ -87,7 +85,7 @@
             <title><![CDATA[Republicans Criticize Trump's Floated Bailout for Spirit Airlines]]></title>
             <link>https://time.com/article/2026/04/23/trump-administration-spirit-airlines-bailout-republicans-react-against/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/trump-administration-spirit-airlines-bailout-republicans-react-against/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -101,14 +99,14 @@
             <title><![CDATA[The Two Republicans Who Broke Ranks as GOP Clears Path for ICE Funding]]></title>
             <link>https://time.com/article/2026/04/23/republicans-who-broke-ranks-as-gop-clears-path-for-ice-funding/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/republicans-who-broke-ranks-as-gop-clears-path-for-ice-funding/</guid>
-            <category><![CDATA[Politics]]></category>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[9 Myths About the 'Stress Hormone' Cortisol]]></title>
             <link>https://time.com/article/2026/04/23/cortisol-myths-debunked-stress-hormone-facts/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/cortisol-myths-debunked-stress-hormone-facts/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <category><![CDATA[Health]]></category>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -606,6 +604,7 @@
         </item>
         <item>
             <title><![CDATA[How to Watch the TIME100 Gala Red Carpet Livestream]]></title>
+            <description><![CDATA[For the first time, anyone can watch red-carpet arrivals when the world's most influential people gather in New York City on April 23.]]></description>
             <link>https://time.com/article/2026/04/15/time100-gala-red-carpet-livestream/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/time100-gala-red-carpet-livestream/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
