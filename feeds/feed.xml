@@ -4,54 +4,62 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 07:01:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 09:23:32 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 07:01:13 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 09:23:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Soldier Charged With Insider Trading on Polymarket]]></title>
+            <description><![CDATA[The special forces specialist allegedly profited more than $400,000 after betting on the capture of Venezuelan President Nicolas Maduro, an operation he was involved in.]]></description>
+            <link>https://time.com/article/2026/04/24/soldier-charged-insider-trading-polymarket-van-dyke-maduro-capture-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/24/soldier-charged-insider-trading-polymarket-van-dyke-maduro-capture-trump/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Fri, 24 Apr 2026 07:01:13 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 09:23:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[At TIME100 Summit, Executives Confront AI’s Threat to Entry-Level Jobs]]></title>
             <link>https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</guid>
             <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 07:01:13 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 09:23:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MrBeast Does It Like No Other Creator]]></title>
             <link>https://time.com/collection/time100-summit-gala/2026/mr-beast-creator-economy/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/mr-beast-creator-economy/</guid>
             <dc:creator><![CDATA[Connor Greene]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 07:01:13 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 09:23:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Fri, 24 Apr 2026 07:01:13 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 09:23:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Fri, 24 Apr 2026 07:01:13 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 09:23:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Fri, 24 Apr 2026 07:01:13 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 09:23:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Fri, 24 Apr 2026 07:01:13 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 09:23:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Could Italy Replace Iran in the World Cup?]]></title>
@@ -604,7 +612,6 @@
         </item>
         <item>
             <title><![CDATA[How to Watch the TIME100 Gala Red Carpet Livestream]]></title>
-            <description><![CDATA[For the first time, anyone can watch red-carpet arrivals when the world's most influential people gather in New York City on April 23.]]></description>
             <link>https://time.com/article/2026/04/15/time100-gala-red-carpet-livestream/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/time100-gala-red-carpet-livestream/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
