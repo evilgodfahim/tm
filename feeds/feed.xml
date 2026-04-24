@@ -4,46 +4,45 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 18:39:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 21:40:39 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 18:39:35 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 21:40:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[TIME Earth Awards | 2026]]></title>
-            <link>https://time.com/collection/earth-awards/2026/</link>
-            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <category><![CDATA[Climate]]></category>
-            <pubDate>Fri, 24 Apr 2026 18:39:35 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[At TIME100 Summit, Executives Confront AI’s Threat to Entry-Level Jobs]]></title>
             <link>https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</guid>
             <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 18:39:35 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 21:40:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Fri, 24 Apr 2026 18:39:35 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 21:40:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Fri, 24 Apr 2026 18:39:35 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 21:40:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Fri, 24 Apr 2026 18:39:35 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 21:40:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
+            <pubDate>Fri, 24 Apr 2026 21:40:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TIME Earth Awards | 2026]]></title>
+            <link>https://time.com/collection/earth-awards/2026/</link>
+            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <pubDate>Fri, 24 Apr 2026 18:39:35 GMT</pubDate>
         </item>
         <item>
@@ -62,10 +61,9 @@
         </item>
         <item>
             <title><![CDATA[Trump Threatens U.K. With 'Big Tariff' as Relationship Sours]]></title>
-            <description><![CDATA[Trump's threat is the latest demonstration of how the "special" relationship between the U.K. and U.S. has become fractured since the start of the Iran war.]]></description>
             <link>https://time.com/article/2026/04/24/trump-threatens-uk-with-big-tariff-iran-war-relationship-fractured/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/24/trump-threatens-uk-with-big-tariff-iran-war-relationship-fractured/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -104,6 +102,27 @@
             <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Why U.K. Lawmakers Have Called for King Charles’ Visit to the U.S. to Be Canceled]]></title>
+            <link>https://time.com/article/2026/04/24/uk-lawmakers-king-charles-us-visit-canceled-calls-trump-iran-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/24/uk-lawmakers-king-charles-us-visit-canceled-calls-trump-iran-war/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Ending of Horror K-Drama 'If Wishes Could Kill']]></title>
+            <link>https://time.com/article/2026/04/24/if-wishes-could-kill-ending/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/24/if-wishes-could-kill-ending/</guid>
+            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
+            <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Energy Priorities Are Emerging From This Moment of Chaos]]></title>
+            <link>https://time.com/article/2026/04/24/geopolitics-energy-time100-summit/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/24/geopolitics-energy-time100-summit/</guid>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
+            <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Could Italy Replace Iran in the World Cup?]]></title>
             <link>https://time.com/article/2026/04/23/iran-italy-world-cup-us-war-soccer-diplomacy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/iran-italy-world-cup-us-war-soccer-diplomacy/</guid>
@@ -117,6 +136,7 @@
         </item>
         <item>
             <title><![CDATA[The Cuba Question]]></title>
+            <description><![CDATA[As the U.S. continues its blockade, Cubans wonder what President Trump’s ‘Donroe Doctrine’ means for the future of the Caribbean island.]]></description>
             <link>https://time.com/article/2026/04/23/the-cuba-question/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/the-cuba-question/</guid>
             <dc:creator><![CDATA[AJ Hess]]></dc:creator>
@@ -153,7 +173,7 @@
             <title><![CDATA[9 Myths About the 'Stress Hormone' Cortisol]]></title>
             <link>https://time.com/article/2026/04/23/cortisol-myths-debunked-stress-hormone-facts/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/cortisol-myths-debunked-stress-hormone-facts/</guid>
-            <category><![CDATA[Health]]></category>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -161,6 +181,20 @@
             <link>https://time.com/article/2026/04/23/apex-review-charlize-theron/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/apex-review-charlize-theron/</guid>
             <category><![CDATA[Entertainment]]></category>
+            <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Michael Jackson’s Cultural Dominance Reveals About Us]]></title>
+            <link>https://time.com/article/2026/04/23/michael-jackson-biopic/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/23/michael-jackson-biopic/</guid>
+            <dc:creator><![CDATA[Steven Gray]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[There Is No Redemption Arc in the Real Michael Jackson Story]]></title>
+            <link>https://time.com/article/2026/04/23/reconsidering-michael-jackson/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/23/reconsidering-michael-jackson/</guid>
+            <dc:creator><![CDATA[Steven Gray]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -324,6 +358,7 @@
             <title><![CDATA[The True Story Behind 'I Swear']]></title>
             <link>https://time.com/article/2026/04/21/i-swear-true-story-john-davidson/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/i-swear-true-story-john-davidson/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -453,6 +488,7 @@
             <title><![CDATA[The Energy Lesson Behind Iran’s Control Over the Strait of Hormuz]]></title>
             <link>https://time.com/article/2026/04/17/strait-of-hormuz-oil-price-volatility/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/17/strait-of-hormuz-oil-price-volatility/</guid>
+            <category><![CDATA[Climate]]></category>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -600,7 +636,6 @@
             <title><![CDATA[Zoe Saldaña Doesn’t Take This for Granted]]></title>
             <link>https://time.com/article/2026/04/15/zoe-saldana-time100-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/zoe-saldana-time100-interview/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -608,7 +643,6 @@
             <title><![CDATA[Wagner Moura Wants to Tell You the Truth]]></title>
             <link>https://time.com/article/2026/04/15/wagner-moura-time100-interview-secret-agent/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/wagner-moura-time100-interview-secret-agent/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -616,7 +650,6 @@
             <title><![CDATA[Luke Combs Refuses to Believe You Don’t Like Country Music]]></title>
             <link>https://time.com/article/2026/04/15/luke-combs-time100-interview-the-way-i-am/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/luke-combs-time100-interview-the-way-i-am/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Lucy Feldman]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -667,6 +700,7 @@
             <title><![CDATA[How to Watch the TIME100 Gala Red Carpet Livestream]]></title>
             <link>https://time.com/article/2026/04/15/time100-gala-red-carpet-livestream/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/time100-gala-red-carpet-livestream/</guid>
+            <category><![CDATA[TIME100]]></category>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
