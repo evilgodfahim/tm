@@ -4,54 +4,54 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 15:02:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 16:46:17 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 15:02:14 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 16:46:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Fri, 24 Apr 2026 15:02:14 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 16:46:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[At TIME100 Summit, Executives Confront AI’s Threat to Entry-Level Jobs]]></title>
             <link>https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</guid>
             <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 15:02:14 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 16:46:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MrBeast Does It Like No Other Creator]]></title>
             <link>https://time.com/collection/time100-summit-gala/2026/mr-beast-creator-economy/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/mr-beast-creator-economy/</guid>
             <dc:creator><![CDATA[Connor Greene]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 15:02:14 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 16:46:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Fri, 24 Apr 2026 15:02:14 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 16:46:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Fri, 24 Apr 2026 15:02:14 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 16:46:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Fri, 24 Apr 2026 15:02:14 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 16:46:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Fri, 24 Apr 2026 15:02:14 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 16:46:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Soldier Charged With Insider Trading on Polymarket]]></title>
@@ -80,6 +80,13 @@
             <link>https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/</guid>
             <dc:creator><![CDATA[Nikita Ostrovsky]]></dc:creator>
+            <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is the U.S. Trying to Suspend Spain From NATO?]]></title>
+            <link>https://time.com/article/2026/04/24/united-states-spain-nato-suspension-efforts-pentagon-email/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/24/united-states-spain-nato-suspension-efforts-pentagon-email/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -298,6 +305,13 @@
             <link>https://time.com/article/2026/04/21/meat-dairy-industry-sustainability-greenwashing-study/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/meat-dairy-industry-sustainability-greenwashing-study/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The True Story Behind 'I Swear']]></title>
+            <link>https://time.com/article/2026/04/21/i-swear-true-story-john-davidson/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/21/i-swear-true-story-john-davidson/</guid>
+            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -580,7 +594,6 @@
             <title><![CDATA[Wagner Moura Wants to Tell You the Truth]]></title>
             <link>https://time.com/article/2026/04/15/wagner-moura-time100-interview-secret-agent/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/wagner-moura-time100-interview-secret-agent/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -639,6 +652,7 @@
             <title><![CDATA[How to Watch the TIME100 Gala Red Carpet Livestream]]></title>
             <link>https://time.com/article/2026/04/15/time100-gala-red-carpet-livestream/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/time100-gala-red-carpet-livestream/</guid>
+            <category><![CDATA[TIME100]]></category>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
