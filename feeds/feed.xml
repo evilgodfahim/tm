@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 10:59:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 11:59:42 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 10:59:39 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 11:59:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Soldier Charged With Insider Trading on Polymarket]]></title>
-            <description><![CDATA[The special forces specialist allegedly profited more than $400,000 after betting on the capture of Venezuelan President Nicolas Maduro, an operation he was involved in.]]></description>
             <link>https://time.com/article/2026/04/24/soldier-charged-insider-trading-polymarket-van-dyke-maduro-capture-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/24/soldier-charged-insider-trading-polymarket-van-dyke-maduro-capture-trump/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
@@ -21,51 +20,50 @@
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Fri, 24 Apr 2026 10:59:39 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 11:59:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[At TIME100 Summit, Executives Confront AI’s Threat to Entry-Level Jobs]]></title>
             <link>https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</guid>
             <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 10:59:39 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 11:59:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MrBeast Does It Like No Other Creator]]></title>
             <link>https://time.com/collection/time100-summit-gala/2026/mr-beast-creator-economy/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/mr-beast-creator-economy/</guid>
             <dc:creator><![CDATA[Connor Greene]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 10:59:39 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 11:59:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Fri, 24 Apr 2026 10:59:39 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 11:59:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Fri, 24 Apr 2026 10:59:39 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 11:59:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Fri, 24 Apr 2026 10:59:39 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 11:59:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Fri, 24 Apr 2026 10:59:39 GMT</pubDate>
+            <pubDate>Fri, 24 Apr 2026 11:59:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Could Italy Replace Iran in the World Cup?]]></title>
             <link>https://time.com/article/2026/04/23/iran-italy-world-cup-us-war-soccer-diplomacy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/iran-italy-world-cup-us-war-soccer-diplomacy/</guid>
-            <category><![CDATA[Sports]]></category>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -79,7 +77,7 @@
             <description><![CDATA[As the U.S. continues its blockade, Cubans wonder what President Trump’s ‘Donroe Doctrine’ means for the future of the Caribbean island.]]></description>
             <link>https://time.com/article/2026/04/23/the-cuba-question/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/the-cuba-question/</guid>
-            <category><![CDATA[Cuba]]></category>
+            <dc:creator><![CDATA[AJ Hess]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +91,7 @@
             <title><![CDATA[Republicans Criticize Trump's Floated Bailout for Spirit Airlines]]></title>
             <link>https://time.com/article/2026/04/23/trump-administration-spirit-airlines-bailout-republicans-react-against/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/trump-administration-spirit-airlines-bailout-republicans-react-against/</guid>
-            <category><![CDATA[Politics]]></category>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -107,7 +105,7 @@
             <title><![CDATA[The Two Republicans Who Broke Ranks as GOP Clears Path for ICE Funding]]></title>
             <link>https://time.com/article/2026/04/23/republicans-who-broke-ranks-as-gop-clears-path-for-ice-funding/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/republicans-who-broke-ranks-as-gop-clears-path-for-ice-funding/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -115,6 +113,13 @@
             <link>https://time.com/article/2026/04/23/cortisol-myths-debunked-stress-hormone-facts/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/cortisol-myths-debunked-stress-hormone-facts/</guid>
             <category><![CDATA[Health]]></category>
+            <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: Charlize Theron in 'Apex']]></title>
+            <link>https://time.com/article/2026/04/23/apex-review-charlize-theron/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/23/apex-review-charlize-theron/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -242,7 +247,6 @@
             <title><![CDATA[Breaking Down the Chilling Ending of 'Unchosen']]></title>
             <link>https://time.com/article/2026/04/21/unchosen-netflix-ending/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/unchosen-netflix-ending/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Isabella Wandermurem]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -540,6 +544,7 @@
             <title><![CDATA[Nikki Glaser Is Saying Yes to It All]]></title>
             <link>https://time.com/article/2026/04/15/nikki-glaser-time100-interview-good-girl/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/nikki-glaser-time100-interview-good-girl/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
