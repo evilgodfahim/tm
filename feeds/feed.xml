@@ -4,10 +4,41 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Apr 2026 10:54:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 12:17:04 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Apr 2026 10:54:53 GMT</pubDate>
+        <pubDate>Mon, 27 Apr 2026 12:17:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[At TIME100 Summit, Executives Confront AI’s Threat to Entry-Level Jobs]]></title>
+            <link>https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</link>
+            <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</guid>
+            <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 12:17:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zohran Mamdani]]></title>
+            <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
+            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
+            <pubDate>Mon, 27 Apr 2026 12:17:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dolores Huerta]]></title>
+            <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
+            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
+            <pubDate>Mon, 27 Apr 2026 12:17:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alysa Liu]]></title>
+            <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
+            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
+            <pubDate>Mon, 27 Apr 2026 12:17:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Noah Wyle]]></title>
+            <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
+            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
+            <pubDate>Mon, 27 Apr 2026 12:17:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump Insists White House Correspondents’ Dinner Will Be Rescheduled]]></title>
             <description><![CDATA[After a shooting disrupted the gala, the President is pushing for a do-over, though it’s unclear if the White House Correspondents’ Association will be able to.]]></description>
@@ -17,35 +48,18 @@
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[At TIME100 Summit, Executives Confront AI’s Threat to Entry-Level Jobs]]></title>
-            <link>https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</link>
-            <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</guid>
-            <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2026 10:54:53 GMT</pubDate>
+            <title><![CDATA[How Queen Elizabeth II’s Historic Address to Congress Set the Stage for Charles]]></title>
+            <link>https://time.com/article/2026/04/27/king-charles-congress-speech-queen-elizabeth-address-1991/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/27/king-charles-congress-speech-queen-elizabeth-address-1991/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Zohran Mamdani]]></title>
-            <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
-            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Mon, 27 Apr 2026 10:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dolores Huerta]]></title>
-            <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
-            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Mon, 27 Apr 2026 10:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alysa Liu]]></title>
-            <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
-            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Mon, 27 Apr 2026 10:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Noah Wyle]]></title>
-            <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
-            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Mon, 27 Apr 2026 10:54:53 GMT</pubDate>
+            <title><![CDATA[Should You Trust Your Gut Feeing—Or Is It Anxiety?]]></title>
+            <link>https://time.com/article/2026/04/27/should-you-trust-your-gut-feeing-or-is-it-anxiety/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/27/should-you-trust-your-gut-feeing-or-is-it-anxiety/</guid>
+            <dc:creator><![CDATA[Kathleen Felton]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What We Know About Cole Tomas Allen, the Suspected WHCA Dinner Shooter]]></title>
@@ -58,14 +72,12 @@
             <title><![CDATA[Why We Should Agree to Agree]]></title>
             <link>https://time.com/article/2026/04/26/why-we-should-agree-to-agree/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/26/why-we-should-agree-to-agree/</guid>
-            <category><![CDATA[Ideas]]></category>
             <pubDate>Sun, 26 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Argentina Reignites Dispute With U.K. Over the Falkland Islands]]></title>
             <link>https://time.com/article/2026/04/25/falkland-islands-javier-milei-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/25/falkland-islands-javier-milei-trump/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Sat, 25 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -145,6 +157,7 @@
             <title><![CDATA[Why U.K. Lawmakers Have Called for King Charles’ Visit to the U.S. to Be Canceled]]></title>
             <link>https://time.com/article/2026/04/24/uk-lawmakers-king-charles-us-visit-canceled-calls-trump-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/24/uk-lawmakers-king-charles-us-visit-canceled-calls-trump-iran-war/</guid>
+            <category><![CDATA[World]]></category>
             <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -352,7 +365,6 @@
             <title><![CDATA[A Few Minutes of Coloring Can Erase Your Stress]]></title>
             <link>https://time.com/article/2026/04/21/coloring-stress-relief-benefits/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/coloring-stress-relief-benefits/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -410,7 +422,7 @@
             <title><![CDATA[These Are the Civilians Who Have Been Killed in the Iran War]]></title>
             <link>https://time.com/article/2026/04/21/iran-war-civilians-killed/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/iran-war-civilians-killed/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid, Nandika Chatterjee and Richard Hall]]></dc:creator>
+            <category><![CDATA[World]]></category>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -470,7 +482,13 @@
             <title><![CDATA[The Sobering Truth About Rare Earths]]></title>
             <link>https://time.com/article/2026/04/20/trump-s-push-to-break-china-s-dominance-of-critical-rare-earth-minerals/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/20/trump-s-push-to-break-china-s-dominance-of-critical-rare-earth-minerals/</guid>
-            <category><![CDATA[World]]></category>
+            <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Allyson Felix Is Planning Her Comeback]]></title>
+            <link>https://time.com/article/2026/04/20/allyson-felix-comeback-olympics-2028/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/20/allyson-felix-comeback-olympics-2028/</guid>
+            <category><![CDATA[Sports]]></category>
             <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
