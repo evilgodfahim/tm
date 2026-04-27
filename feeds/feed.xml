@@ -4,47 +4,46 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Apr 2026 12:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 16:27:38 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Apr 2026 12:17:04 GMT</pubDate>
+        <pubDate>Mon, 27 Apr 2026 16:27:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[At TIME100 Summit, Executives Confront AI’s Threat to Entry-Level Jobs]]></title>
             <link>https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</guid>
             <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2026 12:17:03 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 16:27:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Mon, 27 Apr 2026 12:17:03 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 16:27:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Mon, 27 Apr 2026 12:17:03 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 16:27:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Mon, 27 Apr 2026 12:17:03 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 16:27:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Mon, 27 Apr 2026 12:17:03 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 16:27:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump Insists White House Correspondents’ Dinner Will Be Rescheduled]]></title>
-            <description><![CDATA[After a shooting disrupted the gala, the President is pushing for a do-over, though it’s unclear if the White House Correspondents’ Association will be able to.]]></description>
             <link>https://time.com/article/2026/04/27/trump-white-house-correspondents-dinner-shooting-reschedule-weijia-jiang-security/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/27/trump-white-house-correspondents-dinner-shooting-reschedule-weijia-jiang-security/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <category><![CDATA[U.S.]]></category>
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -59,6 +58,42 @@
             <link>https://time.com/article/2026/04/27/should-you-trust-your-gut-feeing-or-is-it-anxiety/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/27/should-you-trust-your-gut-feeing-or-is-it-anxiety/</guid>
             <dc:creator><![CDATA[Kathleen Felton]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Unexpected Ways AI Can Transform Surgery]]></title>
+            <description><![CDATA[Surgery is not a single moment in an operating room. It's a journey that AI has barely touched.]]></description>
+            <link>https://time.com/article/2026/04/27/unexpected-ways-ai-can-transform-surgery/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/27/unexpected-ways-ai-can-transform-surgery/</guid>
+            <dc:creator><![CDATA[Nandan Lad and Murali Doraiswamy]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Queen Elizabeth II Said to Bush During the Last British Monarch U.S. State Visit]]></title>
+            <link>https://time.com/article/2026/04/27/queen-elizabeth-state-visit-president-bush-gaffe-king-charles-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/27/queen-elizabeth-state-visit-president-bush-gaffe-king-charles-trump/</guid>
+            <category><![CDATA[U.S.]]></category>
+            <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 10 Most Influential Wellness Companies of 2026]]></title>
+            <link>https://time.com/article/2026/04/27/time100-companies-wellness/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/27/time100-companies-wellness/</guid>
+            <category><![CDATA[Business]]></category>
+            <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should You Trust Your Gut Feeling—Or Is It Anxiety?]]></title>
+            <link>https://time.com/article/2026/04/27/should-you-trust-your-gut-feeling-or-is-it-anxiety/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/27/should-you-trust-your-gut-feeling-or-is-it-anxiety/</guid>
+            <dc:creator><![CDATA[Kathleen Felton]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why False Claims Seem Truer the More You Hear Them]]></title>
+            <link>https://time.com/article/2026/04/27/why-false-claims-seem-truer-the-more-you-hear-them/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/27/why-false-claims-seem-truer-the-more-you-hear-them/</guid>
+            <dc:creator><![CDATA[Markham Heid]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -84,7 +119,6 @@
             <title><![CDATA[Trump Cancels Iran Peace Talks at Last Minute: 'We Have All the Cards']]></title>
             <link>https://time.com/article/2026/04/25/trump-iran-peace-talks-canceled/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/25/trump-iran-peace-talks-canceled/</guid>
-            <category><![CDATA[U.S.]]></category>
             <pubDate>Sat, 25 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -131,7 +165,7 @@
             <title><![CDATA['Too Dangerous to Release' Is Becoming AI's New Normal]]></title>
             <link>https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/</guid>
-            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[Nikita Ostrovsky]]></dc:creator>
             <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -157,7 +191,6 @@
             <title><![CDATA[Why U.K. Lawmakers Have Called for King Charles’ Visit to the U.S. to Be Canceled]]></title>
             <link>https://time.com/article/2026/04/24/uk-lawmakers-king-charles-us-visit-canceled-calls-trump-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/24/uk-lawmakers-king-charles-us-visit-canceled-calls-trump-iran-war/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -219,6 +252,7 @@
             <title><![CDATA[8 Signs You’re the Problem in Your Arguments]]></title>
             <link>https://time.com/article/2026/04/23/signs-youre-the-problem-in-arguments-how-to-fix/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/signs-youre-the-problem-in-arguments-how-to-fix/</guid>
+            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -232,6 +266,7 @@
             <title><![CDATA[9 Myths About the 'Stress Hormone' Cortisol]]></title>
             <link>https://time.com/article/2026/04/23/cortisol-myths-debunked-stress-hormone-facts/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/cortisol-myths-debunked-stress-hormone-facts/</guid>
+            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -385,7 +420,6 @@
             <title><![CDATA[Robert F. Kennedy Jr. Defends Spending Cuts to Health Agencies]]></title>
             <link>https://time.com/article/2026/04/21/robert-f-kennedy-jr-testifies-senate-subcommittee-lower-spending-health-care/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/robert-f-kennedy-jr-testifies-senate-subcommittee-lower-spending-health-care/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -442,7 +476,6 @@
             <title><![CDATA[Are You Losing Muscle? Here's How to Get It Back]]></title>
             <link>https://time.com/article/2026/04/20/how-to-tell-if-you-are-losing-muscle/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/20/how-to-tell-if-you-are-losing-muscle/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -802,6 +835,7 @@
             <title><![CDATA[How AI Can Beat Cancer]]></title>
             <link>https://time.com/article/2026/04/15/how-ai-can-beat-cancer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/how-ai-can-beat-cancer/</guid>
+            <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Cyriac Roeding]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -1041,7 +1075,6 @@
             <title><![CDATA[Universities Must Reinvent Themselves for the Intelligent Age]]></title>
             <link>https://time.com/article/2026/04/13/universities-must-reinvent-themselves-for-the-intelligent-age/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/13/universities-must-reinvent-themselves-for-the-intelligent-age/</guid>
-            <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Klaus Schwab]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
         </item>
