@@ -4,46 +4,61 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Apr 2026 08:07:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 10:54:53 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Apr 2026 08:07:41 GMT</pubDate>
+        <pubDate>Mon, 27 Apr 2026 10:54:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump Insists White House Correspondents’ Dinner Will Be Rescheduled]]></title>
+            <description><![CDATA[After a shooting disrupted the gala, the President is pushing for a do-over, though it’s unclear if the White House Correspondents’ Association will be able to.]]></description>
+            <link>https://time.com/article/2026/04/27/trump-white-house-correspondents-dinner-shooting-reschedule-weijia-jiang-security/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/27/trump-white-house-correspondents-dinner-shooting-reschedule-weijia-jiang-security/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[At TIME100 Summit, Executives Confront AI’s Threat to Entry-Level Jobs]]></title>
             <link>https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</guid>
             <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2026 08:07:41 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 10:54:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Mon, 27 Apr 2026 08:07:40 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 10:54:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Mon, 27 Apr 2026 08:07:40 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 10:54:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Mon, 27 Apr 2026 08:07:40 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 10:54:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Mon, 27 Apr 2026 08:07:40 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 10:54:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What We Know About Cole Tomas Allen, the Suspected WHCA Dinner Shooter]]></title>
             <link>https://time.com/article/2026/04/26/cole-tomas-allen-whca-shooting/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/26/cole-tomas-allen-whca-shooting/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why We Should Agree to Agree]]></title>
+            <link>https://time.com/article/2026/04/26/why-we-should-agree-to-agree/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/26/why-we-should-agree-to-agree/</guid>
+            <category><![CDATA[Ideas]]></category>
             <pubDate>Sun, 26 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -97,14 +112,14 @@
             <title><![CDATA[What to Know About Trump’s Reclassification of Medical Marijuana]]></title>
             <link>https://time.com/article/2026/04/24/trump-reclassification-medical-marijuana/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/24/trump-reclassification-medical-marijuana/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <category><![CDATA[Health]]></category>
             <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Too Dangerous to Release' Is Becoming AI's New Normal]]></title>
             <link>https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/</guid>
-            <dc:creator><![CDATA[Nikita Ostrovsky]]></dc:creator>
+            <category><![CDATA[Business]]></category>
             <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -130,7 +145,6 @@
             <title><![CDATA[Why U.K. Lawmakers Have Called for King Charles’ Visit to the U.S. to Be Canceled]]></title>
             <link>https://time.com/article/2026/04/24/uk-lawmakers-king-charles-us-visit-canceled-calls-trump-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/24/uk-lawmakers-king-charles-us-visit-canceled-calls-trump-iran-war/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -148,6 +162,13 @@
             <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A New Generation of Climate Leaders Is Our Last Hope]]></title>
+            <link>https://time.com/article/2026/04/24/a-new-generation-of-climate-leaders-are-our-last-hope/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/24/a-new-generation-of-climate-leaders-are-our-last-hope/</guid>
+            <category><![CDATA[Ideas]]></category>
+            <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Could Italy Replace Iran in the World Cup?]]></title>
             <link>https://time.com/article/2026/04/23/iran-italy-world-cup-us-war-soccer-diplomacy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/iran-italy-world-cup-us-war-soccer-diplomacy/</guid>
@@ -161,9 +182,10 @@
         </item>
         <item>
             <title><![CDATA[The Cuba Question]]></title>
+            <description><![CDATA[As the U.S. continues its blockade, Cubans wonder what President Trump’s ‘Donroe Doctrine’ means for the future of the Caribbean island.]]></description>
             <link>https://time.com/article/2026/04/23/the-cuba-question/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/the-cuba-question/</guid>
-            <dc:creator><![CDATA[AJ Hess]]></dc:creator>
+            <category><![CDATA[Cuba]]></category>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -211,7 +233,7 @@
             <title><![CDATA[What Michael Jackson’s Cultural Dominance Reveals About Us]]></title>
             <link>https://time.com/article/2026/04/23/michael-jackson-biopic/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/michael-jackson-biopic/</guid>
-            <dc:creator><![CDATA[Steven Gray]]></dc:creator>
+            <category><![CDATA[Entertainment]]></category>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -232,7 +254,6 @@
             <title><![CDATA[What to Know About the U.K.’s Generational Smoking Ban]]></title>
             <link>https://time.com/article/2026/04/22/generational-smoking-ban-uk-sale-2009/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/22/generational-smoking-ban-uk-sale-2009/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -292,7 +313,6 @@
             <title><![CDATA[Review: 'Michael' Is a Not-So-Regal Biopic]]></title>
             <link>https://time.com/article/2026/04/21/michael-jackson-biopic-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/michael-jackson-biopic-review/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -312,7 +332,6 @@
             <title><![CDATA[A Muslim Faith Leader on the Failures That Led to the Iran War, and What Comes Next]]></title>
             <link>https://time.com/article/2026/04/21/a-muslim-faith-leader-on-the-failures-that-led-to-the-iran-war-and-what-comes-next/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/a-muslim-faith-leader-on-the-failures-that-led-to-the-iran-war-and-what-comes-next/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -391,7 +410,7 @@
             <title><![CDATA[These Are the Civilians Who Have Been Killed in the Iran War]]></title>
             <link>https://time.com/article/2026/04/21/iran-war-civilians-killed/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/iran-war-civilians-killed/</guid>
-            <category><![CDATA[World]]></category>
+            <dc:creator><![CDATA[Rebecca Schneid, Nandika Chatterjee and Richard Hall]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -419,7 +438,6 @@
             <title><![CDATA[Why U.K. Prime Minister Keir Starmer Is Facing Growing Calls to Resign]]></title>
             <link>https://time.com/article/2026/04/20/why-uk-prime-minister-keir-starmer-is-facing-growing-calls-to-resign/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/20/why-uk-prime-minister-keir-starmer-is-facing-growing-calls-to-resign/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -446,6 +464,13 @@
             <link>https://time.com/article/2026/04/20/when-no-one-was-looking-ohio-became-a-swing-state-again/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/20/when-no-one-was-looking-ohio-became-a-swing-state-again/</guid>
             <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Sobering Truth About Rare Earths]]></title>
+            <link>https://time.com/article/2026/04/20/trump-s-push-to-break-china-s-dominance-of-critical-rare-earth-minerals/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/20/trump-s-push-to-break-china-s-dominance-of-critical-rare-earth-minerals/</guid>
+            <category><![CDATA[World]]></category>
             <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
