@@ -4,51 +4,50 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 17:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 21:01:01 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Apr 2026 17:40:30 GMT</pubDate>
+        <pubDate>Tue, 28 Apr 2026 21:01:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[At TIME100 Summit, Executives Confront AI’s Threat to Entry-Level Jobs]]></title>
             <link>https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</guid>
             <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 17:40:30 GMT</pubDate>
+            <pubDate>Tue, 28 Apr 2026 21:01:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Fraught History Between Trump and Kimmel, Revisited]]></title>
             <link>https://time.com/7318768/trump-kimmel-feud-history-fired-threats-epstein-row/</link>
             <guid isPermaLink="true">https://time.com/7318768/trump-kimmel-feud-history-fired-threats-epstein-row/</guid>
             <dc:creator><![CDATA[Callum Sutherland and Olivia-Anne Cleary]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 17:40:30 GMT</pubDate>
+            <pubDate>Tue, 28 Apr 2026 21:01:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Tue, 28 Apr 2026 17:40:30 GMT</pubDate>
+            <pubDate>Tue, 28 Apr 2026 21:01:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Tue, 28 Apr 2026 17:40:30 GMT</pubDate>
+            <pubDate>Tue, 28 Apr 2026 21:01:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Tue, 28 Apr 2026 17:40:30 GMT</pubDate>
+            <pubDate>Tue, 28 Apr 2026 21:01:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Tue, 28 Apr 2026 17:40:30 GMT</pubDate>
+            <pubDate>Tue, 28 Apr 2026 21:01:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JB Pritzker May Be Running for More Than Governor]]></title>
-            <description><![CDATA[The Illinois Democrat takes aim at a third term, Trump, and perhaps the presidency.]]></description>
             <link>https://time.com/article/2026/04/28/jb-pritzker-trump-presidency-2028/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/28/jb-pritzker-trump-presidency-2028/</guid>
             <dc:creator><![CDATA[Julia Terruso]]></dc:creator>
@@ -58,7 +57,6 @@
             <title><![CDATA[Jimmy Kimmel Speaks Out After Melania Trump ‘Widow’ Joke Criticism]]></title>
             <link>https://time.com/article/2026/04/28/jimmy-kimmel-melania-trump-widow-joke-fired-response/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/28/jimmy-kimmel-melania-trump-widow-joke-fired-response/</guid>
-            <category><![CDATA[U.S.]]></category>
             <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -108,7 +106,22 @@
             <title><![CDATA[Meet the New 'Creative Director' of Infowars, Maybe]]></title>
             <link>https://time.com/article/2026/04/28/tim-heidecker-infowars-the-onion-alex-jones/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/28/tim-heidecker-infowars-the-onion-alex-jones/</guid>
-            <dc:creator><![CDATA[Richard Hall]]></dc:creator>
+            <category><![CDATA[U.S.]]></category>
+            <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Democrats Explore Suing Trump Over Iran War]]></title>
+            <description><![CDATA[Multiple Democrats tell TIME they may take Trump to court if he wages war in Iran past Friday's 60-day deadline.]]></description>
+            <link>https://time.com/article/2026/04/28/exclusive-democrats-explore-suing-trump-if-congress-doesn-t-authorize-iran-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/28/exclusive-democrats-explore-suing-trump-if-congress-doesn-t-authorize-iran-war/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Says Iran Has Told Him It's In a 'State of Collapse' Amid Peace Talks Stalemate]]></title>
+            <link>https://time.com/article/2026/04/28/trump-iran-war-update-peace-proposal-strait-of-hormuz-conflict/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/28/trump-iran-war-update-peace-proposal-strait-of-hormuz-conflict/</guid>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -191,7 +204,6 @@
             <title><![CDATA[Suspect in WHCA Dinner Shooting Charged With Attempted Assassination of Trump]]></title>
             <link>https://time.com/article/2026/04/27/cole-tomas-allen-charged-whca-dinner-shooting/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/27/cole-tomas-allen-charged-whca-dinner-shooting/</guid>
-            <category><![CDATA[U.S.]]></category>
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -214,6 +226,13 @@
             <link>https://time.com/article/2026/04/27/ai-more-sustainable-future/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/27/ai-more-sustainable-future/</guid>
             <dc:creator><![CDATA[Jennifer Jordan-Saifi]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The FBI Is Quietly Spying on Americans. The FISA Fight Could Stop It]]></title>
+            <link>https://time.com/article/2026/04/27/fisa-fbi-spying-surveillance-fisa-court-congress-wyden/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/27/fisa-fbi-spying-surveillance-fisa-court-congress-wyden/</guid>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -651,7 +670,6 @@
             <title><![CDATA[Allyson Felix Is Planning Her Comeback]]></title>
             <link>https://time.com/article/2026/04/20/allyson-felix-comeback-olympics-2028/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/20/allyson-felix-comeback-olympics-2028/</guid>
-            <category><![CDATA[Sports]]></category>
             <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
