@@ -4,40 +4,69 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 08:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 12:22:14 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Apr 2026 08:09:37 GMT</pubDate>
+        <pubDate>Tue, 28 Apr 2026 12:22:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[At TIME100 Summit, Executives Confront AI’s Threat to Entry-Level Jobs]]></title>
             <link>https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</guid>
             <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 08:09:37 GMT</pubDate>
+            <pubDate>Tue, 28 Apr 2026 12:22:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Tue, 28 Apr 2026 08:09:37 GMT</pubDate>
+            <pubDate>Tue, 28 Apr 2026 12:22:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Tue, 28 Apr 2026 08:09:37 GMT</pubDate>
+            <pubDate>Tue, 28 Apr 2026 12:22:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Tue, 28 Apr 2026 08:09:37 GMT</pubDate>
+            <pubDate>Tue, 28 Apr 2026 12:22:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Tue, 28 Apr 2026 08:09:37 GMT</pubDate>
+            <pubDate>Tue, 28 Apr 2026 12:22:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Fraught History Between Trump and Kimmel, Revisited]]></title>
+            <link>https://time.com/7318768/trump-kimmel-feud-history-fired-threats-epstein-row/</link>
+            <guid isPermaLink="true">https://time.com/7318768/trump-kimmel-feud-history-fired-threats-epstein-row/</guid>
+            <dc:creator><![CDATA[Callum Sutherland and Olivia-Anne Cleary]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 12:22:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JB Pritzker May Be Running for More Than Governor]]></title>
+            <description><![CDATA[The Illinois Democrat takes aim at a third term, Trump, and perhaps the presidency.]]></description>
+            <link>https://time.com/article/2026/04/28/jb-pritzker-trump-presidency-2028/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/28/jb-pritzker-trump-presidency-2028/</guid>
+            <dc:creator><![CDATA[Julia Terruso]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jimmy Kimmel Speaks Out After Melania Trump ‘Widow’ Joke Criticism]]></title>
+            <link>https://time.com/article/2026/04/28/jimmy-kimmel-melania-trump-widow-joke-fired-response/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/28/jimmy-kimmel-melania-trump-widow-joke-fired-response/</guid>
+            <category><![CDATA[U.S.]]></category>
+            <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Elizabeth Strout Gets Inside People's Minds]]></title>
+            <link>https://time.com/article/2026/04/28/elizabeth-strout-the-things-we-never-say-interview/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/28/elizabeth-strout-the-things-we-never-say-interview/</guid>
+            <dc:creator><![CDATA[Belinda Luscombe]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump Insists White House Correspondents’ Dinner Will Be Rescheduled]]></title>
@@ -70,7 +99,6 @@
             <title><![CDATA[What Queen Elizabeth II Said to Bush During the Last British Monarch U.S. State Visit]]></title>
             <link>https://time.com/article/2026/04/27/queen-elizabeth-state-visit-president-bush-gaffe-king-charles-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/27/queen-elizabeth-state-visit-president-bush-gaffe-king-charles-trump/</guid>
-            <category><![CDATA[U.S.]]></category>
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -91,29 +119,41 @@
             <title><![CDATA[Why False Claims Seem Truer the More You Hear Them]]></title>
             <link>https://time.com/article/2026/04/27/why-false-claims-seem-truer-the-more-you-hear-them/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/27/why-false-claims-seem-truer-the-more-you-hear-them/</guid>
-            <dc:creator><![CDATA[Markham Heid]]></dc:creator>
+            <category><![CDATA[Health]]></category>
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[King Charles and Queen Camilla Greeted by President Trump at the White House]]></title>
+            <title><![CDATA[The Most Memorable Photos of King Charles' State Visit to the U.S So Far]]></title>
             <description><![CDATA[The trip is set to “celebrate the historic connections and the modern bilateral relationship” between the U.K. and U.S., but it comes as the alliance is under great strain.]]></description>
             <link>https://time.com/article/2026/04/27/king-charles-queen-camilla-state-visit-america-white-house-trump-photos/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/27/king-charles-queen-camilla-state-visit-america-white-house-trump-photos/</guid>
-            <dc:creator><![CDATA[Olivia-Anne Cleary and Callum Sutherland]]></dc:creator>
+            <category><![CDATA[Royal Family]]></category>
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Democrats Have Pulled Ahead in the Redistricting War. Will Florida Change That?]]></title>
             <link>https://time.com/article/2026/04/27/redistricting-florida-desantis-midterms/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/27/redistricting-florida-desantis-midterms/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What You Can Do If Your Flight Is Canceled Amid the Jet Fuel Crisis]]></title>
             <link>https://time.com/article/2026/04/27/flight-cancellations-prices-jet-fuel-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/27/flight-cancellations-prices-jet-fuel-iran-war/</guid>
-            <category><![CDATA[World]]></category>
+            <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suspect in WHCA Dinner Shooting Charged With Attempted Assassination of Trump]]></title>
+            <link>https://time.com/article/2026/04/27/cole-tomas-allen-charged-whca-dinner-shooting/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/27/cole-tomas-allen-charged-whca-dinner-shooting/</guid>
+            <category><![CDATA[U.S.]]></category>
+            <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 Weird Signs You're Sleep-Deprived]]></title>
+            <link>https://time.com/article/2026/04/27/sleep-deprivation-hidden-signs-symptoms/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/27/sleep-deprivation-hidden-signs-symptoms/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -217,6 +257,7 @@
             <title><![CDATA[Breaking Down the Ending of Horror K-Drama 'If Wishes Could Kill']]></title>
             <link>https://time.com/article/2026/04/24/if-wishes-could-kill-ending/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/24/if-wishes-could-kill-ending/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
             <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -251,7 +292,6 @@
             <description><![CDATA[As the U.S. continues its blockade, Cubans wonder what President Trump’s ‘Donroe Doctrine’ means for the future of the Caribbean island.]]></description>
             <link>https://time.com/article/2026/04/23/the-cuba-question/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/the-cuba-question/</guid>
-            <category><![CDATA[Cuba]]></category>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -294,6 +334,7 @@
             <title><![CDATA[Review: Charlize Theron in 'Apex']]></title>
             <link>https://time.com/article/2026/04/23/apex-review-charlize-theron/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/apex-review-charlize-theron/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -412,7 +453,6 @@
             <title><![CDATA[What to Know About Trump’s Psychedelics Executive Order]]></title>
             <link>https://time.com/article/2026/04/21/trump-psychedelics-executive-order-what-to-know/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/trump-psychedelics-executive-order-what-to-know/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -755,7 +795,6 @@
             <title><![CDATA[Nikki Glaser Is Saying Yes to It All]]></title>
             <link>https://time.com/article/2026/04/15/nikki-glaser-time100-interview-good-girl/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/nikki-glaser-time100-interview-good-girl/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -827,7 +866,6 @@
             <title><![CDATA[How to Watch the TIME100 Gala Red Carpet Livestream]]></title>
             <link>https://time.com/article/2026/04/15/time100-gala-red-carpet-livestream/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/time100-gala-red-carpet-livestream/</guid>
-            <category><![CDATA[TIME100]]></category>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
