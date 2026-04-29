@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Apr 2026 15:05:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 17:19:03 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Apr 2026 15:05:08 GMT</pubDate>
+        <pubDate>Wed, 29 Apr 2026 17:19:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[At TIME100 Summit, Executives Confront AI’s Threat to Entry-Level Jobs]]></title>
@@ -14,38 +14,37 @@
             <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</guid>
             <category><![CDATA[TIME100]]></category>
             <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 15:05:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Fraught History Between Trump and Kimmel, Revisited]]></title>
-            <link>https://time.com/7318768/trump-kimmel-feud-history-fired-threats-epstein-row/</link>
-            <guid isPermaLink="true">https://time.com/7318768/trump-kimmel-feud-history-fired-threats-epstein-row/</guid>
-            <category><![CDATA[Politics]]></category>
-            <dc:creator><![CDATA[Callum Sutherland and Olivia-Anne Cleary]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 15:05:08 GMT</pubDate>
+            <pubDate>Wed, 29 Apr 2026 17:19:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Wed, 29 Apr 2026 15:05:08 GMT</pubDate>
+            <pubDate>Wed, 29 Apr 2026 17:19:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Wed, 29 Apr 2026 15:05:08 GMT</pubDate>
+            <pubDate>Wed, 29 Apr 2026 17:19:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Wed, 29 Apr 2026 15:05:08 GMT</pubDate>
+            <pubDate>Wed, 29 Apr 2026 17:19:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
+            <pubDate>Wed, 29 Apr 2026 17:19:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Fraught History Between Trump and Kimmel, Revisited]]></title>
+            <link>https://time.com/7318768/trump-kimmel-feud-history-fired-threats-epstein-row/</link>
+            <guid isPermaLink="true">https://time.com/7318768/trump-kimmel-feud-history-fired-threats-epstein-row/</guid>
+            <dc:creator><![CDATA[Callum Sutherland and Olivia-Anne Cleary]]></dc:creator>
             <pubDate>Wed, 29 Apr 2026 15:05:08 GMT</pubDate>
         </item>
         <item>
@@ -85,6 +84,13 @@
             <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Swap In Just One Meatless Meal a Week for an Easy Climate Win]]></title>
+            <link>https://time.com/article/2026/04/29/climate-impact-one-weekly-vegetarian-meal/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/29/climate-impact-one-weekly-vegetarian-meal/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[JB Pritzker May Be Running for More Than Governor]]></title>
             <link>https://time.com/article/2026/04/28/jb-pritzker-trump-presidency-2028/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/28/jb-pritzker-trump-presidency-2028/</guid>
@@ -101,7 +107,6 @@
             <title><![CDATA[How Elizabeth Strout Gets Inside People's Minds]]></title>
             <link>https://time.com/article/2026/04/28/elizabeth-strout-the-things-we-never-say-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/28/elizabeth-strout-the-things-we-never-say-interview/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Belinda Luscombe]]></dc:creator>
             <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -187,6 +192,7 @@
             <title><![CDATA[The True Story Behind Should I Marry a Murderer?]]></title>
             <link>https://time.com/article/2026/04/28/should-i-marry-a-murderer-true-story/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/28/should-i-marry-a-murderer-true-story/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
             <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -297,7 +303,6 @@
             <title><![CDATA[The FBI Is Quietly Spying on Americans. The FISA Fight Could Stop It]]></title>
             <link>https://time.com/article/2026/04/27/fisa-fbi-spying-surveillance-fisa-court-congress-wyden/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/27/fisa-fbi-spying-surveillance-fisa-court-congress-wyden/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -403,6 +408,7 @@
             <title><![CDATA[Countries Want To Create a Path To Ditch Fossil Fuels]]></title>
             <link>https://time.com/article/2026/04/24/why-countries-are-attending-fossil-fuel-transition-summit/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/24/why-countries-are-attending-fossil-fuel-transition-summit/</guid>
+            <category><![CDATA[Climate]]></category>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -517,6 +523,7 @@
             <title><![CDATA['Widow's Bay' Is Fun But Pointless: Review]]></title>
             <link>https://time.com/article/2026/04/23/widows-bay-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/widows-bay-review/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -863,6 +870,13 @@
             <title><![CDATA[The Danger of Surrendering Your Financial Independence in a Relationship]]></title>
             <link>https://time.com/article/2026/04/17/the-danger-of-surrendering-your-financial-independence-in-a-relationship/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/17/the-danger-of-surrendering-your-financial-independence-in-a-relationship/</guid>
+            <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Supreme Court Ruling Weakens Major Provision of Voting Rights Act]]></title>
+            <link>https://time.com/article/2026/04/17/supreme-court-voting-rights-act-Louisiana/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/17/supreme-court-voting-rights-act-Louisiana/</guid>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1215,7 +1229,6 @@
             <title><![CDATA[What Percentage of Americans Worry About Climate Change?]]></title>
             <link>https://time.com/article/2026/04/14/us-climate-concern-gallup-polling/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/14/us-climate-concern-gallup-polling/</guid>
-            <category><![CDATA[Climate]]></category>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
         </item>
