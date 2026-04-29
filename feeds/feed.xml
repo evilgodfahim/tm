@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Apr 2026 19:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 22:49:21 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Apr 2026 19:11:15 GMT</pubDate>
+        <pubDate>Wed, 29 Apr 2026 22:49:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[At TIME100 Summit, Executives Confront AI’s Threat to Entry-Level Jobs]]></title>
@@ -14,31 +14,31 @@
             <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</guid>
             <category><![CDATA[TIME100]]></category>
             <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 19:11:15 GMT</pubDate>
+            <pubDate>Wed, 29 Apr 2026 22:49:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Wed, 29 Apr 2026 19:11:15 GMT</pubDate>
+            <pubDate>Wed, 29 Apr 2026 22:49:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Wed, 29 Apr 2026 19:11:15 GMT</pubDate>
+            <pubDate>Wed, 29 Apr 2026 22:49:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Wed, 29 Apr 2026 19:11:15 GMT</pubDate>
+            <pubDate>Wed, 29 Apr 2026 22:49:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Wed, 29 Apr 2026 19:11:15 GMT</pubDate>
+            <pubDate>Wed, 29 Apr 2026 22:49:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Fraught History Between Trump and Kimmel, Revisited]]></title>
@@ -51,7 +51,7 @@
             <title><![CDATA[Former FBI Director James Comey Indicted Over Alleged Trump Threat]]></title>
             <link>https://time.com/article/2026/04/29/james-comey-fbi-director-indictment-seashell-threat-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/29/james-comey-fbi-director-indictment-seashell-threat-trump/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -70,7 +70,6 @@
         </item>
         <item>
             <title><![CDATA[Buckingham Palace Responds After Trump Claims King ‘Agrees’ With Him on Iran]]></title>
-            <description><![CDATA["Charles agrees with me, even more than I do," said President Trump at the White House state dinner.]]></description>
             <link>https://time.com/article/2026/04/29/trump-king-charles-iran-war-claim-buckingham-palace-response/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/29/trump-king-charles-iran-war-claim-buckingham-palace-response/</guid>
             <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
@@ -80,7 +79,7 @@
             <title><![CDATA[Democrats Criticize Plan for Trump's Face to Appear on Some U.S. Passports]]></title>
             <link>https://time.com/article/2026/04/29/trump-us-passports-face-limited-edition-democrats-backlash/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/29/trump-us-passports-face-limited-edition-democrats-backlash/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -95,6 +94,28 @@
             <link>https://time.com/article/2026/04/29/the-devil-wears-prada-2-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/29/the-devil-wears-prada-2-review/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Democrats Accuse Hegseth of Misleading Public on Iran War]]></title>
+            <description><![CDATA[It was the first time Hegseth faced direct, sustained questioning over the war]]></description>
+            <link>https://time.com/article/2026/04/29/in-hostile-hearing-democrats-accuse-hegseth-of-misleading-trump-and-country-on-iran-war-progress/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/29/in-hostile-hearing-democrats-accuse-hegseth-of-misleading-trump-and-country-on-iran-war-progress/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bondi to Testify in House Epstein Probe Next Month]]></title>
+            <link>https://time.com/article/2026/04/29/bondi-epstein-files-house-oversight-committee-deposition/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/29/bondi-epstein-files-house-oversight-committee-deposition/</guid>
+            <category><![CDATA[Politics]]></category>
+            <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Supreme Court is Dangerously Broken. Here’s How to Fix It]]></title>
+            <link>https://time.com/article/2026/04/29/the-supreme-court-is-dangerously-broken-here-s-how-to-fix-it/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/29/the-supreme-court-is-dangerously-broken-here-s-how-to-fix-it/</guid>
+            <dc:creator><![CDATA[Miriam Rosenbaum]]></dc:creator>
             <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -158,6 +179,7 @@
             <link>https://time.com/article/2026/04/28/tim-heidecker-infowars-the-onion-alex-jones/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/28/tim-heidecker-infowars-the-onion-alex-jones/</guid>
             <category><![CDATA[U.S.]]></category>
+            <dc:creator><![CDATA[Richard Hall]]></dc:creator>
             <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -171,7 +193,6 @@
             <title><![CDATA[Trump Says Iran Has Told Him It's In a 'State of Collapse' Amid Peace Talks Stalemate]]></title>
             <link>https://time.com/article/2026/04/28/trump-iran-war-update-peace-proposal-strait-of-hormuz-conflict/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/28/trump-iran-war-update-peace-proposal-strait-of-hormuz-conflict/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -201,6 +222,13 @@
             <guid isPermaLink="true">https://time.com/article/2026/04/28/should-i-marry-a-murderer-true-story/</guid>
             <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We Don’t Need to End Citizens United to Rein in Super PACs]]></title>
+            <link>https://time.com/article/2026/04/28/we-don-t-need-to-end-citizens-united-to-rein-in-superpacs/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/28/we-don-t-need-to-end-citizens-united-to-rein-in-superpacs/</guid>
+            <dc:creator><![CDATA[Lawrence Lessig]]></dc:creator>
             <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -883,7 +911,7 @@
             <title><![CDATA[Supreme Court Ruling Weakens Major Provision of Voting Rights Act]]></title>
             <link>https://time.com/article/2026/04/17/supreme-court-voting-rights-act-Louisiana/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/17/supreme-court-voting-rights-act-Louisiana/</guid>
-            <category><![CDATA[Politics]]></category>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
