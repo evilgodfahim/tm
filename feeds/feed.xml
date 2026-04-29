@@ -4,10 +4,50 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Apr 2026 10:48:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 12:12:01 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Apr 2026 10:48:15 GMT</pubDate>
+        <pubDate>Wed, 29 Apr 2026 12:12:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[At TIME100 Summit, Executives Confront AI’s Threat to Entry-Level Jobs]]></title>
+            <link>https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</link>
+            <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</guid>
+            <category><![CDATA[TIME100]]></category>
+            <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 12:12:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Fraught History Between Trump and Kimmel, Revisited]]></title>
+            <link>https://time.com/7318768/trump-kimmel-feud-history-fired-threats-epstein-row/</link>
+            <guid isPermaLink="true">https://time.com/7318768/trump-kimmel-feud-history-fired-threats-epstein-row/</guid>
+            <category><![CDATA[Politics]]></category>
+            <dc:creator><![CDATA[Callum Sutherland and Olivia-Anne Cleary]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 12:12:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zohran Mamdani]]></title>
+            <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
+            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
+            <pubDate>Wed, 29 Apr 2026 12:12:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dolores Huerta]]></title>
+            <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
+            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
+            <pubDate>Wed, 29 Apr 2026 12:12:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alysa Liu]]></title>
+            <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
+            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
+            <pubDate>Wed, 29 Apr 2026 12:12:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Noah Wyle]]></title>
+            <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
+            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
+            <pubDate>Wed, 29 Apr 2026 12:12:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Former FBI Director James Comey Indicted Over Alleged Trump Threat]]></title>
             <link>https://time.com/article/2026/04/29/james-comey-fbi-director-indictment-seashell-threat-trump/</link>
@@ -23,44 +63,11 @@
             <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[At TIME100 Summit, Executives Confront AI’s Threat to Entry-Level Jobs]]></title>
-            <link>https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</link>
-            <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</guid>
-            <category><![CDATA[TIME100]]></category>
-            <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 10:48:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Fraught History Between Trump and Kimmel, Revisited]]></title>
-            <link>https://time.com/7318768/trump-kimmel-feud-history-fired-threats-epstein-row/</link>
-            <guid isPermaLink="true">https://time.com/7318768/trump-kimmel-feud-history-fired-threats-epstein-row/</guid>
-            <category><![CDATA[Politics]]></category>
-            <dc:creator><![CDATA[Callum Sutherland and Olivia-Anne Cleary]]></dc:creator>
-            <pubDate>Wed, 29 Apr 2026 10:48:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zohran Mamdani]]></title>
-            <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
-            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Wed, 29 Apr 2026 10:48:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dolores Huerta]]></title>
-            <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
-            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Wed, 29 Apr 2026 10:48:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alysa Liu]]></title>
-            <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
-            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Wed, 29 Apr 2026 10:48:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Noah Wyle]]></title>
-            <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
-            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Wed, 29 Apr 2026 10:48:14 GMT</pubDate>
+            <title><![CDATA[10 Tricks of Great Listeners]]></title>
+            <link>https://time.com/article/2026/04/29/how-to-be-a-better-listener/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/29/how-to-be-a-better-listener/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JB Pritzker May Be Running for More Than Governor]]></title>
@@ -101,6 +108,7 @@
             <title><![CDATA[The Number of Words You Say in a Day Is Shrinking]]></title>
             <link>https://time.com/article/2026/04/28/people-say-fewer-words-per-day/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/28/people-say-fewer-words-per-day/</guid>
+            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Markham Heid]]></dc:creator>
             <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -460,7 +468,6 @@
             <title><![CDATA[9 Myths About the 'Stress Hormone' Cortisol]]></title>
             <link>https://time.com/article/2026/04/23/cortisol-myths-debunked-stress-hormone-facts/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/cortisol-myths-debunked-stress-hormone-facts/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -468,7 +475,6 @@
             <title><![CDATA[Review: Charlize Theron in 'Apex']]></title>
             <link>https://time.com/article/2026/04/23/apex-review-charlize-theron/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/apex-review-charlize-theron/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -484,6 +490,13 @@
             <link>https://time.com/article/2026/04/23/reconsidering-michael-jackson/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/reconsidering-michael-jackson/</guid>
             <dc:creator><![CDATA[Steven Gray]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Widow's Bay' Is Fun But Pointless: Review]]></title>
+            <link>https://time.com/article/2026/04/23/widows-bay-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/23/widows-bay-review/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -642,6 +655,7 @@
             <title><![CDATA[The True Story Behind 'I Swear']]></title>
             <link>https://time.com/article/2026/04/21/i-swear-true-story-john-davidson/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/i-swear-true-story-john-davidson/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
