@@ -4,41 +4,53 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 08:06:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 12:09:53 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 08:06:19 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2026 12:09:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[TIME Earth Awards | 2026]]></title>
+            <link>https://time.com/collection/earth-awards/2026/</link>
+            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
+            <pubDate>Thu, 30 Apr 2026 12:09:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[At TIME100 Summit, Executives Confront AI’s Threat to Entry-Level Jobs]]></title>
             <link>https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</guid>
             <category><![CDATA[TIME100]]></category>
             <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Thu, 30 Apr 2026 08:06:19 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 12:09:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TIME for Change]]></title>
+            <link>https://time.com/collection/time-for-change/2026/</link>
+            <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
+            <pubDate>Thu, 30 Apr 2026 12:09:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/zohran-mamdani/</guid>
-            <pubDate>Thu, 30 Apr 2026 08:06:19 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 12:09:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolores Huerta]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/dolores-huerta/</guid>
-            <pubDate>Thu, 30 Apr 2026 08:06:19 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 12:09:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Thu, 30 Apr 2026 08:06:19 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 12:09:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Thu, 30 Apr 2026 08:06:19 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 12:09:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Fraught History Between Trump and Kimmel, Revisited]]></title>
@@ -156,7 +168,6 @@
             <title><![CDATA[The Number of Words You Say in a Day Is Shrinking]]></title>
             <link>https://time.com/article/2026/04/28/people-say-fewer-words-per-day/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/28/people-say-fewer-words-per-day/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Markham Heid]]></dc:creator>
             <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -255,7 +266,6 @@
             <title><![CDATA[The Unexpected Ways AI Can Transform Surgery]]></title>
             <link>https://time.com/article/2026/04/27/unexpected-ways-ai-can-transform-surgery/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/27/unexpected-ways-ai-can-transform-surgery/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Nandan Lad and Murali Doraiswamy]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -276,7 +286,6 @@
             <title><![CDATA[Should You Trust Your Gut Feeling—Or Is It Anxiety?]]></title>
             <link>https://time.com/article/2026/04/27/should-you-trust-your-gut-feeling-or-is-it-anxiety/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/27/should-you-trust-your-gut-feeling-or-is-it-anxiety/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Kathleen Felton]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -316,7 +325,6 @@
             <title><![CDATA[10 Weird Signs You're Sleep-Deprived]]></title>
             <link>https://time.com/article/2026/04/27/sleep-deprivation-hidden-signs-symptoms/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/27/sleep-deprivation-hidden-signs-symptoms/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -338,6 +346,13 @@
             <title><![CDATA[The FBI Is Quietly Spying on Americans. The FISA Fight Could Stop It]]></title>
             <link>https://time.com/article/2026/04/27/fisa-fbi-spying-surveillance-fisa-court-congress-wyden/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/27/fisa-fbi-spying-surveillance-fisa-court-congress-wyden/</guid>
+            <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Best New TV Shows of April 2026]]></title>
+            <link>https://time.com/article/2026/04/27/best-tv-shows-april-2026/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/27/best-tv-shows-april-2026/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -386,12 +401,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/04/25/a-new-generation-of-climate-leaders-are-our-last-hope/</guid>
             <category><![CDATA[Ideas]]></category>
             <pubDate>Sat, 25 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIME Earth Awards | 2026]]></title>
-            <link>https://time.com/collection/earth-awards/2026/</link>
-            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <pubDate>Fri, 24 Apr 2026 18:39:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MrBeast Does It Like No Other Creator]]></title>
@@ -443,7 +452,6 @@
             <title><![CDATA[Countries Want To Create a Path To Ditch Fossil Fuels]]></title>
             <link>https://time.com/article/2026/04/24/why-countries-are-attending-fossil-fuel-transition-summit/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/24/why-countries-are-attending-fossil-fuel-transition-summit/</guid>
-            <category><![CDATA[Climate]]></category>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -477,7 +485,6 @@
             <title><![CDATA['The Testaments' Has an Aunt Lydia Problem]]></title>
             <link>https://time.com/article/2026/04/24/testaments-recap-episode-6-stadium/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/24/testaments-recap-episode-6-stadium/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -552,6 +559,7 @@
             <title><![CDATA[There Is No Redemption Arc in the Real Michael Jackson Story]]></title>
             <link>https://time.com/article/2026/04/23/reconsidering-michael-jackson/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/reconsidering-michael-jackson/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Steven Gray]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -711,7 +719,6 @@
             <title><![CDATA[The Scale of Meat and Dairy Industry Greenwashing]]></title>
             <link>https://time.com/article/2026/04/21/meat-dairy-industry-sustainability-greenwashing-study/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/meat-dairy-industry-sustainability-greenwashing-study/</guid>
-            <category><![CDATA[Climate]]></category>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -864,7 +871,6 @@
             <title><![CDATA[The Energy Lesson Behind Iran’s Control Over the Strait of Hormuz]]></title>
             <link>https://time.com/article/2026/04/17/strait-of-hormuz-oil-price-volatility/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/17/strait-of-hormuz-oil-price-volatility/</guid>
-            <category><![CDATA[Climate]]></category>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -950,7 +956,6 @@
             <title><![CDATA[Trump’s Feud With the U.K. Over North Sea Oil: What to Know]]></title>
             <link>https://time.com/article/2026/04/16/trump-uk-north-sea-oil-energy-crisis/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/16/trump-uk-north-sea-oil-energy-crisis/</guid>
-            <category><![CDATA[Climate]]></category>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -1158,12 +1163,6 @@
             <link>https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/</link>
             <guid isPermaLink="true">https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/</guid>
             <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 18:01:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIME for Change]]></title>
-            <link>https://time.com/collection/time-for-change/2026/</link>
-            <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
             <pubDate>Tue, 14 Apr 2026 18:01:11 GMT</pubDate>
         </item>
         <item>
