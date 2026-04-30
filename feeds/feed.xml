@@ -4,15 +4,15 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 12:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 15:01:27 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 12:09:53 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2026 15:01:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <pubDate>Thu, 30 Apr 2026 12:09:52 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 15:01:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[At TIME100 Summit, Executives Confront AI’s Threat to Entry-Level Jobs]]></title>
@@ -20,13 +20,37 @@
             <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</guid>
             <category><![CDATA[TIME100]]></category>
             <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Thu, 30 Apr 2026 12:09:52 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 15:01:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
             <link>https://time.com/collection/time-for-change/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
-            <pubDate>Thu, 30 Apr 2026 12:09:52 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 15:01:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alysa Liu]]></title>
+            <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
+            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
+            <pubDate>Thu, 30 Apr 2026 15:01:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Noah Wyle]]></title>
+            <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
+            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
+            <pubDate>Thu, 30 Apr 2026 15:01:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sundar Pichai]]></title>
+            <link>https://time.com/collection/time100-most-influential-companies/2026/alphabet/</link>
+            <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/alphabet/</guid>
+            <pubDate>Thu, 30 Apr 2026 15:01:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hailey Bieber]]></title>
+            <link>https://time.com/collection/time100-most-influential-companies/2026/rhode/</link>
+            <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/rhode/</guid>
+            <pubDate>Thu, 30 Apr 2026 15:01:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
@@ -41,16 +65,34 @@
             <pubDate>Thu, 30 Apr 2026 12:09:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Alysa Liu]]></title>
-            <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
-            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Thu, 30 Apr 2026 12:09:52 GMT</pubDate>
+            <title><![CDATA[Trump Lashes Out at Merz After Threatening to Pull Troops From Germany]]></title>
+            <description><![CDATA[The tensions between the two leaders are the latest indication of Europe splintering from the U.S. amid the Iran war.]]></description>
+            <link>https://time.com/article/2026/04/30/trump-germany-threat-troops-removal-merz-row-iran-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/30/trump-germany-threat-troops-removal-merz-row-iran-war/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Noah Wyle]]></title>
-            <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
-            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Thu, 30 Apr 2026 12:09:52 GMT</pubDate>
+            <title><![CDATA[Gov. Janet Mills Ends Senate Bid in Maine]]></title>
+            <link>https://time.com/article/2026/04/30/maine-gov-janet-mills-suspends-senate-campaign-clearing-the-way-for-graham-platner/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/30/maine-gov-janet-mills-suspends-senate-campaign-clearing-the-way-for-graham-platner/</guid>
+            <dc:creator><![CDATA[Julia Terruso]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How We Chose the TIME100 Companies of 2026]]></title>
+            <description><![CDATA[The annual list highlights businesses making an extraordinary impact around the world.]]></description>
+            <link>https://time.com/article/2026/04/30/how-we-chose-time100-companies/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/30/how-we-chose-time100-companies/</guid>
+            <category><![CDATA[TIME100 Companies 2026]]></category>
+            <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[King Charles Spent a Quiet Afternoon at an Urban Farm in Harlem]]></title>
+            <link>https://time.com/article/2026/04/30/king-charles-harlem-grown-new-york/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/30/king-charles-harlem-grown-new-york/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Fraught History Between Trump and Kimmel, Revisited]]></title>
@@ -63,7 +105,6 @@
             <title><![CDATA[Former FBI Director James Comey Indicted Over Alleged Trump Threat]]></title>
             <link>https://time.com/article/2026/04/29/james-comey-fbi-director-indictment-seashell-threat-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/29/james-comey-fbi-director-indictment-seashell-threat-trump/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -84,14 +125,13 @@
             <title><![CDATA[Buckingham Palace Responds After Trump Claims King ‘Agrees’ With Him on Iran]]></title>
             <link>https://time.com/article/2026/04/29/trump-king-charles-iran-war-claim-buckingham-palace-response/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/29/trump-king-charles-iran-war-claim-buckingham-palace-response/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Democrats Criticize Plan for Trump's Face to Appear on Some U.S. Passports]]></title>
             <link>https://time.com/article/2026/04/29/trump-us-passports-face-limited-edition-democrats-backlash/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/29/trump-us-passports-face-limited-edition-democrats-backlash/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -110,17 +150,14 @@
         </item>
         <item>
             <title><![CDATA[Democrats Accuse Hegseth of Misleading Public on Iran War]]></title>
-            <description><![CDATA[It was the first time Hegseth faced direct, sustained questioning over the war]]></description>
             <link>https://time.com/article/2026/04/29/in-hostile-hearing-democrats-accuse-hegseth-of-misleading-trump-and-country-on-iran-war-progress/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/29/in-hostile-hearing-democrats-accuse-hegseth-of-misleading-trump-and-country-on-iran-war-progress/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
             <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bondi to Testify in House Epstein Probe Next Month]]></title>
             <link>https://time.com/article/2026/04/29/bondi-epstein-files-house-oversight-committee-deposition/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/29/bondi-epstein-files-house-oversight-committee-deposition/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -128,6 +165,20 @@
             <link>https://time.com/article/2026/04/29/the-supreme-court-is-dangerously-broken-here-s-how-to-fix-it/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/29/the-supreme-court-is-dangerously-broken-here-s-how-to-fix-it/</guid>
             <dc:creator><![CDATA[Miriam Rosenbaum]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This Blue Antelope May Be Next on the De-Extinction List]]></title>
+            <link>https://time.com/article/2026/04/29/colossal-biosciences-bluebuck/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/29/colossal-biosciences-bluebuck/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Dangerous Shift in Maternal Health Policy]]></title>
+            <link>https://time.com/article/2026/04/29/a-dangerous-shift-in-maternal-health-policy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/29/a-dangerous-shift-in-maternal-health-policy/</guid>
+            <category><![CDATA[Ideas]]></category>
             <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -197,7 +248,6 @@
             <title><![CDATA[Democrats Explore Suing Trump Over Iran War]]></title>
             <link>https://time.com/article/2026/04/28/exclusive-democrats-explore-suing-trump-if-congress-doesn-t-authorize-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/28/exclusive-democrats-explore-suing-trump-if-congress-doesn-t-authorize-iran-war/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -211,7 +261,6 @@
             <description><![CDATA[In a rare royal speech to the United States Congress, King Charles III celebrated the intertwined histories of the two nations but had pointed criticisms for some of Trump’s actions.]]></description>
             <link>https://time.com/article/2026/04/28/king-charles-splits-from-trump-key-issues-congress-address/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/28/king-charles-splits-from-trump-key-issues-congress-address/</guid>
-            <category><![CDATA[Congress]]></category>
             <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -279,7 +328,6 @@
             <title><![CDATA[The 10 Most Influential Wellness Companies of 2026]]></title>
             <link>https://time.com/article/2026/04/27/time100-companies-wellness/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/27/time100-companies-wellness/</guid>
-            <category><![CDATA[Business]]></category>
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -917,7 +965,7 @@
             <title><![CDATA[Supreme Court Ruling Weakens Major Provision of Voting Rights Act]]></title>
             <link>https://time.com/article/2026/04/17/supreme-court-voting-rights-act-Louisiana/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/17/supreme-court-voting-rights-act-Louisiana/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
