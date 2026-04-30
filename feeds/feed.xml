@@ -4,15 +4,15 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 19:07:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 22:43:09 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 19:07:41 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2026 22:43:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <pubDate>Thu, 30 Apr 2026 19:07:41 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 22:43:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[At TIME100 Summit, Executives Confront AI’s Threat to Entry-Level Jobs]]></title>
@@ -20,37 +20,37 @@
             <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</guid>
             <category><![CDATA[TIME100]]></category>
             <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Thu, 30 Apr 2026 19:07:41 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 22:43:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
             <link>https://time.com/collection/time-for-change/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
-            <pubDate>Thu, 30 Apr 2026 19:07:41 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 22:43:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Thu, 30 Apr 2026 19:07:41 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 22:43:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Thu, 30 Apr 2026 19:07:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sundar Pichai]]></title>
-            <link>https://time.com/collection/time100-most-influential-companies/2026/alphabet/</link>
-            <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/alphabet/</guid>
-            <pubDate>Thu, 30 Apr 2026 19:07:41 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 22:43:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hailey Bieber]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/rhode/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/rhode/</guid>
-            <pubDate>Thu, 30 Apr 2026 19:07:41 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 22:43:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sundar Pichai]]></title>
+            <link>https://time.com/collection/time100-most-influential-companies/2026/alphabet/</link>
+            <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/alphabet/</guid>
+            <pubDate>Thu, 30 Apr 2026 22:43:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zohran Mamdani]]></title>
@@ -68,14 +68,13 @@
             <title><![CDATA[Trump Lashes Out at Merz After Threatening to Pull Troops From Germany]]></title>
             <link>https://time.com/article/2026/04/30/trump-germany-threat-troops-removal-merz-row-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/30/trump-germany-threat-troops-removal-merz-row-iran-war/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gov. Janet Mills Ends Senate Bid in Maine]]></title>
             <link>https://time.com/article/2026/04/30/maine-gov-janet-mills-suspends-senate-campaign-clearing-the-way-for-graham-platner/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/30/maine-gov-janet-mills-suspends-senate-campaign-clearing-the-way-for-graham-platner/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -94,8 +93,7 @@
             <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[After 75 Days, the DHS Shutdown Is Set to End]]></title>
-            <description><![CDATA[The House has sent a measure to President Trump's desk that, with his signature, will officially end the longest shutdown in American history.]]></description>
+            <title><![CDATA[After 75 Days, the DHS Shutdown Is Over]]></title>
             <link>https://time.com/article/2026/04/30/dhs-shutdown-funding-bill-house-vote/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/30/dhs-shutdown-funding-bill-house-vote/</guid>
             <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
@@ -120,6 +118,14 @@
             <link>https://time.com/article/2026/04/30/ai-thinking-cognitive-offloading/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/30/ai-thinking-cognitive-offloading/</guid>
             <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
+            <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Senate Rejects Measure to Restrict Iran War Hours Before Key Legal Deadline]]></title>
+            <description><![CDATA[It was the first time Republican Susan Collins voted for the War Powers Resolution, which still failed 50-47.]]></description>
+            <link>https://time.com/article/2026/04/30/senate-rejects-measure-to-curb-iran-war-hours-before-key-legal-deadline/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/30/senate-rejects-measure-to-curb-iran-war-hours-before-key-legal-deadline/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
             <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -206,6 +212,13 @@
             <link>https://time.com/article/2026/04/29/a-dangerous-shift-in-maternal-health-policy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/29/a-dangerous-shift-in-maternal-health-policy/</guid>
             <category><![CDATA[Ideas]]></category>
+            <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s Grip on GOP Faces 3 Big Tests in May]]></title>
+            <link>https://time.com/article/2026/04/29/trump-s-grip-on-gop-faces-3-big-tests-in-may/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/04/29/trump-s-grip-on-gop-faces-3-big-tests-in-may/</guid>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -993,7 +1006,6 @@
             <title><![CDATA[Supreme Court Ruling Weakens Major Provision of Voting Rights Act]]></title>
             <link>https://time.com/article/2026/04/17/supreme-court-voting-rights-act-Louisiana/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/17/supreme-court-voting-rights-act-Louisiana/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
