@@ -4,45 +4,45 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 16:37:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 18:45:08 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 02 May 2026 16:37:47 GMT</pubDate>
+        <pubDate>Sat, 02 May 2026 18:45:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <pubDate>Sat, 02 May 2026 16:37:47 GMT</pubDate>
+            <pubDate>Sat, 02 May 2026 18:45:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
             <link>https://time.com/collection/time-for-change/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
-            <pubDate>Sat, 02 May 2026 16:37:47 GMT</pubDate>
+            <pubDate>Sat, 02 May 2026 18:45:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Sat, 02 May 2026 16:37:47 GMT</pubDate>
+            <pubDate>Sat, 02 May 2026 18:45:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Sat, 02 May 2026 16:37:47 GMT</pubDate>
+            <pubDate>Sat, 02 May 2026 18:45:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hailey Bieber]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/rhode/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/rhode/</guid>
-            <pubDate>Sat, 02 May 2026 16:37:47 GMT</pubDate>
+            <pubDate>Sat, 02 May 2026 18:45:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sundar Pichai]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/alphabet/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/alphabet/</guid>
-            <pubDate>Sat, 02 May 2026 16:37:47 GMT</pubDate>
+            <pubDate>Sat, 02 May 2026 18:45:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[At TIME100 Summit, Executives Confront AI’s Threat to Entry-Level Jobs]]></title>
@@ -50,6 +50,21 @@
             <guid isPermaLink="true">https://time.com/collection/time100-summit-gala/2026/leadership-in-the-age-of-ai/</guid>
             <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
             <pubDate>Sat, 02 May 2026 14:06:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spirit Airlines Shuts Down, Blaming Fuel Crisis Sparked By Iran War]]></title>
+            <description><![CDATA[Republicans blamed the Biden Administration for the closure, but the airline cited rising jet fuel prices, which have skyrocketed since the Iran War began.]]></description>
+            <link>https://time.com/article/2026/05/02/spirit-airlines-shuts-down-iran-war-fuel/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/02/spirit-airlines-shuts-down-iran-war-fuel/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sat, 02 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Says U.S. Navy 'Like Pirates' in Iran Sea Blockade]]></title>
+            <link>https://time.com/article/2026/05/02/trump-pirates-US-navy-iran-blockade/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/02/trump-pirates-US-navy-iran-blockade/</guid>
+            <dc:creator><![CDATA[Richard Hall]]></dc:creator>
+            <pubDate>Sat, 02 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[As the 5-Day Workweek Turns 100, It’s Time for an AI Era Upgrade]]></title>
@@ -62,7 +77,7 @@
             <title><![CDATA[Trump Threatens to Withdraw U.S. Troops From Italy and Spain as Europe Rift Widens]]></title>
             <link>https://time.com/article/2026/05/01/trump-threatens-to-withdraw-us-troops-italy-spain-europe-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/01/trump-threatens-to-withdraw-us-troops-italy-spain-europe-iran-war/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Fri, 01 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -256,7 +271,6 @@
             <title><![CDATA[Trump’s Grip on GOP Faces 3 Big Tests in May]]></title>
             <link>https://time.com/article/2026/04/29/trump-s-grip-on-gop-faces-3-big-tests-in-may/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/29/trump-s-grip-on-gop-faces-3-big-tests-in-may/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
