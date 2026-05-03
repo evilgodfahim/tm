@@ -4,45 +4,59 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 16:39:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 17:39:45 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 16:39:01 GMT</pubDate>
+        <pubDate>Sun, 03 May 2026 17:39:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <pubDate>Sun, 03 May 2026 16:39:01 GMT</pubDate>
+            <pubDate>Sun, 03 May 2026 17:39:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
             <link>https://time.com/collection/time-for-change/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
-            <pubDate>Sun, 03 May 2026 16:39:01 GMT</pubDate>
+            <pubDate>Sun, 03 May 2026 17:39:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Sun, 03 May 2026 16:39:01 GMT</pubDate>
+            <pubDate>Sun, 03 May 2026 17:39:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Sun, 03 May 2026 16:39:01 GMT</pubDate>
+            <pubDate>Sun, 03 May 2026 17:39:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hailey Bieber]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/rhode/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/rhode/</guid>
-            <pubDate>Sun, 03 May 2026 16:39:01 GMT</pubDate>
+            <pubDate>Sun, 03 May 2026 17:39:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sundar Pichai]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/alphabet/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/alphabet/</guid>
-            <pubDate>Sun, 03 May 2026 16:39:01 GMT</pubDate>
+            <pubDate>Sun, 03 May 2026 17:39:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Rise of Antisemitism in the U.K.]]></title>
+            <link>https://time.com/article/2026/05/03/rise-of-antisemitism-in-the-uk-terrorist-incident-government-response/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/03/rise-of-antisemitism-in-the-uk-terrorist-incident-government-response/</guid>
+            <dc:creator><![CDATA[Olivia-Anne Cleary and Callum Sutherland]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The U.S. Military Drawdown in Europe Has Only Just Begun]]></title>
+            <link>https://time.com/article/2026/05/03/us-withdrawal-germany-nato-spain/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/03/us-withdrawal-germany-nato-spain/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[At TIME100 Summit, Executives Confront AI’s Threat to Entry-Level Jobs]]></title>
@@ -63,7 +77,7 @@
             <title><![CDATA[Trump Says U.S. Navy 'Like Pirates' in Iran Sea Blockade]]></title>
             <link>https://time.com/article/2026/05/02/trump-pirates-US-navy-iran-blockade/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/02/trump-pirates-US-navy-iran-blockade/</guid>
-            <dc:creator><![CDATA[Richard Hall]]></dc:creator>
+            <category><![CDATA[Politics]]></category>
             <pubDate>Sat, 02 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -71,6 +85,13 @@
             <link>https://time.com/article/2026/05/02/federal-court-blocks-mailing-of-popular-abortion-pills-across-the-u-s-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/02/federal-court-blocks-mailing-of-popular-abortion-pills-across-the-u-s-/</guid>
             <category><![CDATA[U.S.]]></category>
+            <pubDate>Sat, 02 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Face Value: Why ‘Looksmaxxing’ Is More Than Mewing and Mirrors]]></title>
+            <link>https://time.com/article/2026/05/02/face-value-why-looksmaxxing-is-more-than-hope-and-mirrors/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/02/face-value-why-looksmaxxing-is-more-than-hope-and-mirrors/</guid>
+            <category><![CDATA[Ideas]]></category>
             <pubDate>Sat, 02 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -84,7 +105,6 @@
             <title><![CDATA[Trump Threatens to Withdraw U.S. Troops From Italy and Spain as Europe Rift Widens]]></title>
             <link>https://time.com/article/2026/05/01/trump-threatens-to-withdraw-us-troops-italy-spain-europe-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/01/trump-threatens-to-withdraw-us-troops-italy-spain-europe-iran-war/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Fri, 01 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -112,7 +132,6 @@
             <title><![CDATA[What to Know About the May Day Protests Around the U.S.]]></title>
             <link>https://time.com/article/2026/05/01/may-day-international-workers-day-protests-rallies-marches-us/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/01/may-day-international-workers-day-protests-rallies-marches-us/</guid>
-            <category><![CDATA[U.S.]]></category>
             <pubDate>Fri, 01 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
