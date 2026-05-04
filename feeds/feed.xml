@@ -4,51 +4,66 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 May 2026 10:57:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 15:05:23 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 04 May 2026 10:57:55 GMT</pubDate>
+        <pubDate>Mon, 04 May 2026 15:05:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <pubDate>Mon, 04 May 2026 10:57:54 GMT</pubDate>
+            <pubDate>Mon, 04 May 2026 15:05:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
             <link>https://time.com/collection/time-for-change/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
-            <pubDate>Mon, 04 May 2026 10:57:54 GMT</pubDate>
+            <pubDate>Mon, 04 May 2026 15:05:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Mon, 04 May 2026 10:57:54 GMT</pubDate>
+            <pubDate>Mon, 04 May 2026 15:05:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Mon, 04 May 2026 10:57:54 GMT</pubDate>
+            <pubDate>Mon, 04 May 2026 15:05:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hailey Bieber]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/rhode/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/rhode/</guid>
-            <pubDate>Mon, 04 May 2026 10:57:54 GMT</pubDate>
+            <pubDate>Mon, 04 May 2026 15:05:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sundar Pichai]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/alphabet/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/alphabet/</guid>
-            <pubDate>Mon, 04 May 2026 10:57:54 GMT</pubDate>
+            <pubDate>Mon, 04 May 2026 15:05:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About Trump’s Plan to ‘Guide’ Ships Out of the Strait of Hormuz]]></title>
+            <description><![CDATA[Iran has said any American interference in the Strait will be considered a cease-fire violation.]]></description>
+            <link>https://time.com/article/2026/05/04/strait-hormuz-ships-guide-escort-ceasefire-us-iran-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/04/strait-hormuz-ships-guide-escort-ceasefire-us-iran-trump/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chuck Schumer Urges House and White House to Follow Senate in Prediction-Market Ban]]></title>
+            <link>https://time.com/article/2026/05/04/chuck-schumer-senate-white-house-trump-administration-prediction-markets-bet/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/04/chuck-schumer-senate-white-house-trump-administration-prediction-markets-bet/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Rise of Antisemitism in the U.K.]]></title>
             <link>https://time.com/article/2026/05/03/rise-of-antisemitism-in-the-uk-terrorist-incident-government-response/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/03/rise-of-antisemitism-in-the-uk-terrorist-incident-government-response/</guid>
-            <dc:creator><![CDATA[Olivia-Anne Cleary and Callum Sutherland]]></dc:creator>
+            <category><![CDATA[World]]></category>
             <pubDate>Sun, 03 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
