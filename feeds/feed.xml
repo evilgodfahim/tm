@@ -4,47 +4,47 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 15:31:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 17:15:17 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 05 May 2026 15:31:03 GMT</pubDate>
+        <pubDate>Tue, 05 May 2026 17:15:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Tue, 05 May 2026 15:31:02 GMT</pubDate>
+            <pubDate>Tue, 05 May 2026 17:15:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
             <link>https://time.com/collection/time-for-change/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
             <category><![CDATA[Health]]></category>
-            <pubDate>Tue, 05 May 2026 15:31:02 GMT</pubDate>
+            <pubDate>Tue, 05 May 2026 17:15:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Tue, 05 May 2026 15:31:02 GMT</pubDate>
+            <pubDate>Tue, 05 May 2026 17:15:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Tue, 05 May 2026 15:31:02 GMT</pubDate>
+            <pubDate>Tue, 05 May 2026 17:15:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hailey Bieber]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/rhode/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/rhode/</guid>
-            <pubDate>Tue, 05 May 2026 15:31:02 GMT</pubDate>
+            <pubDate>Tue, 05 May 2026 17:15:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sundar Pichai]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/alphabet/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/alphabet/</guid>
-            <pubDate>Tue, 05 May 2026 15:31:02 GMT</pubDate>
+            <pubDate>Tue, 05 May 2026 17:15:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[U.S. and Iran Trade Attacks, Threatening Cease-Fire: What to Know]]></title>
@@ -68,6 +68,41 @@
             <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hegseth Says Cease-Fire 'Not Over’ Despite Iranian Attacks in Hormuz]]></title>
+            <link>https://time.com/article/2026/05/05/-we-have-not-even-begun-iran-warns-us-after-attacks-in-the-strait-of-hormuz/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/05/-we-have-not-even-begun-iran-warns-us-after-attacks-in-the-strait-of-hormuz/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zelensky Accuses Putin of 'Utter Cynicism' After Energy Plant Strikes]]></title>
+            <link>https://time.com/article/2026/05/05/zelensky-putin-energy-strikes-ceasefire/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/05/zelensky-putin-energy-strikes-ceasefire/</guid>
+            <category><![CDATA[World]]></category>
+            <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the Desert Taught Me About Cinco de Mayo]]></title>
+            <link>https://time.com/article/2026/05/05/what-the-desert-taught-me-about-cinco-de-mayo/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/05/what-the-desert-taught-me-about-cinco-de-mayo/</guid>
+            <dc:creator><![CDATA[Claudia Romo Edelman]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More Flexibility Is Making Us Less Connected]]></title>
+            <link>https://time.com/article/2026/05/05/more-flexibility-is-making-us-less-connected/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/05/more-flexibility-is-making-us-less-connected/</guid>
+            <dc:creator><![CDATA[David Epstein]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Sleep Trick That Actually Quiets a Racing Mind]]></title>
+            <link>https://time.com/article/2026/05/05/cognitive-shuffling-how-to-sleep/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/05/cognitive-shuffling-how-to-sleep/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What to Know About Trump’s Plan to ‘Guide’ Ships Out of the Strait of Hormuz]]></title>
             <link>https://time.com/article/2026/05/04/strait-hormuz-ships-guide-escort-ceasefire-us-iran-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/04/strait-hormuz-ships-guide-escort-ceasefire-us-iran-trump/</guid>
@@ -85,6 +120,7 @@
             <title><![CDATA[6 Questions to Ask Before Starting a Mental-Health Drug]]></title>
             <link>https://time.com/article/2026/05/04/questions-to-ask-your-doctor-before-starting-mental-health-drug/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/04/questions-to-ask-your-doctor-before-starting-mental-health-drug/</guid>
+            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Stacey Colino]]></dc:creator>
             <pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
         </item>
@@ -133,6 +169,13 @@
             <pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Structure of America’s Domestic Violence Crisis]]></title>
+            <link>https://time.com/article/2026/05/04/the-structure-of-america-s-domestic-violence-crisis/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/04/the-structure-of-america-s-domestic-violence-crisis/</guid>
+            <dc:creator><![CDATA[Earl Smith]]></dc:creator>
+            <pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Rise of Antisemitism in the U.K.]]></title>
             <link>https://time.com/article/2026/05/03/rise-of-antisemitism-in-the-uk-terrorist-incident-government-response/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/03/rise-of-antisemitism-in-the-uk-terrorist-incident-government-response/</guid>
@@ -143,7 +186,6 @@
             <title><![CDATA[The U.S. Military Drawdown in Europe Has Only Just Begun]]></title>
             <link>https://time.com/article/2026/05/03/us-withdrawal-germany-nato-spain/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/03/us-withdrawal-germany-nato-spain/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Sun, 03 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -319,6 +361,7 @@
             <title><![CDATA[If AI Can Model Cells, Science Can Deliver Cures]]></title>
             <link>https://time.com/article/2026/04/29/if-ai-can-model-cells-science-can-deliver-cures/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/29/if-ai-can-model-cells-science-can-deliver-cures/</guid>
+            <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Priscilla Chan]]></dc:creator>
             <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -521,6 +564,7 @@
             <title><![CDATA[A Must-See 'Lord of the Flies' Miniseries]]></title>
             <link>https://time.com/article/2026/04/28/lord-of-the-flies-review-netflix/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/28/lord-of-the-flies-review-netflix/</guid>
+            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -843,7 +887,6 @@
             <title><![CDATA[There Is No Redemption Arc in the Real Michael Jackson Story]]></title>
             <link>https://time.com/article/2026/04/23/reconsidering-michael-jackson/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/reconsidering-michael-jackson/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Steven Gray]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
