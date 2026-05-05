@@ -4,47 +4,61 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 May 2026 23:44:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 11:13:20 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 04 May 2026 23:44:26 GMT</pubDate>
+        <pubDate>Tue, 05 May 2026 11:13:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[U.S. and Iran Trade Attacks, Threatening Cease-Fire: What to Know]]></title>
+            <link>https://time.com/article/2026/05/05/iran-us-war-ceasefire-attacks-trump-strait-hormuz-explainer-latest/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/05/iran-us-war-ceasefire-attacks-trump-strait-hormuz-explainer-latest/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Secret Service Shooting Near White House: What to Know]]></title>
+            <link>https://time.com/article/2026/05/05/secret-service-shooting-white-house-washington-monument/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/05/secret-service-shooting-white-house-washington-monument/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
             <category><![CDATA[Climate]]></category>
-            <pubDate>Mon, 04 May 2026 23:44:26 GMT</pubDate>
+            <pubDate>Tue, 05 May 2026 11:13:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
             <link>https://time.com/collection/time-for-change/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
             <category><![CDATA[Health]]></category>
-            <pubDate>Mon, 04 May 2026 23:44:26 GMT</pubDate>
+            <pubDate>Tue, 05 May 2026 11:13:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Mon, 04 May 2026 23:44:26 GMT</pubDate>
+            <pubDate>Tue, 05 May 2026 11:13:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Mon, 04 May 2026 23:44:26 GMT</pubDate>
+            <pubDate>Tue, 05 May 2026 11:13:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hailey Bieber]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/rhode/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/rhode/</guid>
-            <pubDate>Mon, 04 May 2026 23:44:26 GMT</pubDate>
+            <pubDate>Tue, 05 May 2026 11:13:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sundar Pichai]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/alphabet/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/alphabet/</guid>
-            <pubDate>Mon, 04 May 2026 23:44:26 GMT</pubDate>
+            <pubDate>Tue, 05 May 2026 11:13:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What to Know About Trump’s Plan to ‘Guide’ Ships Out of the Strait of Hormuz]]></title>
@@ -107,6 +121,7 @@
             <title><![CDATA[The Rise of Antisemitism in the U.K.]]></title>
             <link>https://time.com/article/2026/05/03/rise-of-antisemitism-in-the-uk-terrorist-incident-government-response/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/03/rise-of-antisemitism-in-the-uk-terrorist-incident-government-response/</guid>
+            <category><![CDATA[World]]></category>
             <pubDate>Sun, 03 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -805,6 +820,7 @@
             <link>https://time.com/article/2026/04/23/michael-jackson-biopic/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/michael-jackson-biopic/</guid>
             <category><![CDATA[Entertainment]]></category>
+            <dc:creator><![CDATA[Steven Gray]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
