@@ -4,40 +4,53 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 08:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 10:58:22 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 May 2026 08:09:49 GMT</pubDate>
+        <pubDate>Wed, 06 May 2026 10:58:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump Pauses ‘Project Freedom’ in Hope of Deal With Iran]]></title>
+            <link>https://time.com/article/2026/05/06/trump-pauses-project-freedom-in-hope-of-deal-with-iran/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/06/trump-pauses-project-freedom-in-hope-of-deal-with-iran/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are We Entering the Age of Data Nihilism?]]></title>
+            <link>https://time.com/article/2026/05/06/are-we-entering-the-age-of-data-nihilism-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/06/are-we-entering-the-age-of-data-nihilism-/</guid>
+            <dc:creator><![CDATA[Alice Xiang]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <category><![CDATA[Climate]]></category>
-            <pubDate>Wed, 06 May 2026 08:09:49 GMT</pubDate>
+            <pubDate>Wed, 06 May 2026 10:58:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Wed, 06 May 2026 08:09:49 GMT</pubDate>
+            <pubDate>Wed, 06 May 2026 10:58:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Wed, 06 May 2026 08:09:49 GMT</pubDate>
+            <pubDate>Wed, 06 May 2026 10:58:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hailey Bieber]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/rhode/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/rhode/</guid>
-            <pubDate>Wed, 06 May 2026 08:09:49 GMT</pubDate>
+            <pubDate>Wed, 06 May 2026 10:58:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sundar Pichai]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/alphabet/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/alphabet/</guid>
-            <pubDate>Wed, 06 May 2026 08:09:49 GMT</pubDate>
+            <pubDate>Wed, 06 May 2026 10:58:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
@@ -63,7 +76,6 @@
             <title><![CDATA[We’re Living Longer But Getting Lonelier. Here’s What Can Help]]></title>
             <link>https://time.com/article/2026/05/05/longevity-nation-book-excerpt-michael-clinton/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/05/longevity-nation-book-excerpt-michael-clinton/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Michael Clinton]]></dc:creator>
             <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
         </item>
@@ -78,7 +90,6 @@
             <title><![CDATA[Zelensky Accuses Putin of 'Utter Cynicism' After Energy Plant Strikes]]></title>
             <link>https://time.com/article/2026/05/05/zelensky-putin-energy-strikes-ceasefire/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/05/zelensky-putin-energy-strikes-ceasefire/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -127,14 +138,12 @@
             <title><![CDATA[Republicans Look to Build Their Redistricting War Advantage in Southern States]]></title>
             <link>https://time.com/article/2026/05/05/republicans-redistricting-supreme-court-voting-rights-act-louisiana-alabama-tennessee/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/05/republicans-redistricting-supreme-court-voting-rights-act-louisiana-alabama-tennessee/</guid>
-            <category><![CDATA[Politics]]></category>
             <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Albertans Could Soon Vote on Whether to Separate From Canada. Here’s What to Know]]></title>
             <link>https://time.com/article/2026/05/05/alberta-canada-separatist-movement-referendum/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/05/alberta-canada-separatist-movement-referendum/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -167,7 +176,6 @@
             <title><![CDATA[5 Blood Tests You Might Not Be Getting at Your Annual Physical]]></title>
             <link>https://time.com/article/2026/05/04/blood-tests-annual-physical/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/04/blood-tests-annual-physical/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Matt Fuchs]]></dc:creator>
             <pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
         </item>
@@ -218,7 +226,6 @@
             <title><![CDATA[The Rise of Antisemitism in the U.K.]]></title>
             <link>https://time.com/article/2026/05/03/rise-of-antisemitism-in-the-uk-terrorist-incident-government-response/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/03/rise-of-antisemitism-in-the-uk-terrorist-incident-government-response/</guid>
-            <category><![CDATA[World]]></category>
             <pubDate>Sun, 03 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -258,7 +265,6 @@
             <title><![CDATA[Face Value: Why ‘Looksmaxxing’ Is More Than Mewing and Mirrors]]></title>
             <link>https://time.com/article/2026/05/02/face-value-why-looksmaxxing-is-more-than-hope-and-mirrors/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/02/face-value-why-looksmaxxing-is-more-than-hope-and-mirrors/</guid>
-            <category><![CDATA[Ideas]]></category>
             <pubDate>Sat, 02 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -337,14 +343,12 @@
             <description><![CDATA[The annual list highlights businesses making an extraordinary impact around the world.]]></description>
             <link>https://time.com/article/2026/04/30/how-we-chose-time100-companies/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/30/how-we-chose-time100-companies/</guid>
-            <category><![CDATA[TIME100 Companies 2026]]></category>
             <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[King Charles Spent a Quiet Afternoon at an Urban Farm in Harlem]]></title>
             <link>https://time.com/article/2026/04/30/king-charles-harlem-grown-new-york/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/30/king-charles-harlem-grown-new-york/</guid>
-            <category><![CDATA[World]]></category>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -364,7 +368,6 @@
             <title><![CDATA[The CDC's New Messaging May Be Damaging Trust in Vaccines]]></title>
             <link>https://time.com/article/2026/04/30/cdc-vaccine-autism-trust/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/30/cdc-vaccine-autism-trust/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
             <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -400,7 +403,6 @@
             <title><![CDATA[If AI Can Model Cells, Science Can Deliver Cures]]></title>
             <link>https://time.com/article/2026/04/29/if-ai-can-model-cells-science-can-deliver-cures/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/29/if-ai-can-model-cells-science-can-deliver-cures/</guid>
-            <category><![CDATA[Ideas]]></category>
             <dc:creator><![CDATA[Priscilla Chan]]></dc:creator>
             <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -434,7 +436,6 @@
             <title><![CDATA[Review: The Devil Wears Prada 2]]></title>
             <link>https://time.com/article/2026/04/29/the-devil-wears-prada-2-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/29/the-devil-wears-prada-2-review/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -461,7 +462,6 @@
             <title><![CDATA[This Blue Antelope May Be Next on the De-Extinction List]]></title>
             <link>https://time.com/article/2026/04/29/colossal-biosciences-bluebuck/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/29/colossal-biosciences-bluebuck/</guid>
-            <category><![CDATA[Science]]></category>
             <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -561,7 +561,6 @@
             <title><![CDATA[Musk and Altman Head to Court]]></title>
             <link>https://time.com/article/2026/04/28/elon-musk-and-sam-altman-head-to-court/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/28/elon-musk-and-sam-altman-head-to-court/</guid>
-            <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
             <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -589,7 +588,6 @@
             <title><![CDATA['Hokum' Filmmaker Damian McCarthy on that Mind-Bending Ending]]></title>
             <link>https://time.com/article/2026/04/28/hokum-ending-damian-mccarthy-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/28/hokum-ending-damian-mccarthy-interview/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -604,7 +602,6 @@
             <title><![CDATA[A Must-See 'Lord of the Flies' Miniseries]]></title>
             <link>https://time.com/article/2026/04/28/lord-of-the-flies-review-netflix/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/28/lord-of-the-flies-review-netflix/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -632,7 +629,6 @@
             <title><![CDATA[The Unexpected Ways AI Can Transform Surgery]]></title>
             <link>https://time.com/article/2026/04/27/unexpected-ways-ai-can-transform-surgery/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/27/unexpected-ways-ai-can-transform-surgery/</guid>
-            <category><![CDATA[Health]]></category>
             <dc:creator><![CDATA[Nandan Lad and Murali Doraiswamy]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -718,7 +714,6 @@
             <title><![CDATA[The Best New TV Shows of April 2026]]></title>
             <link>https://time.com/article/2026/04/27/best-tv-shows-april-2026/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/27/best-tv-shows-april-2026/</guid>
-            <category><![CDATA[Entertainment]]></category>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -766,7 +761,6 @@
             <title><![CDATA[A New Generation of Climate Leaders Is Our Last Hope]]></title>
             <link>https://time.com/article/2026/04/25/a-new-generation-of-climate-leaders-are-our-last-hope/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/25/a-new-generation-of-climate-leaders-are-our-last-hope/</guid>
-            <category><![CDATA[Ideas]]></category>
             <pubDate>Sat, 25 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -792,14 +786,12 @@
             <title><![CDATA[What to Know About Trump’s Reclassification of Medical Marijuana]]></title>
             <link>https://time.com/article/2026/04/24/trump-reclassification-medical-marijuana/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/24/trump-reclassification-medical-marijuana/</guid>
-            <category><![CDATA[Health]]></category>
             <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Too Dangerous to Release' Is Becoming AI's New Normal]]></title>
             <link>https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/</guid>
-            <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Nikita Ostrovsky]]></dc:creator>
             <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
         </item>
@@ -3308,19 +3300,6 @@
             <link>https://time.com/article/2026/03/19/trump-iran-war-set-to-boost-profits-for-these-defense-contractors/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/19/trump-iran-war-set-to-boost-profits-for-these-defense-contractors/</guid>
             <pubDate>Thu, 19 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dolores Huerta]]></title>
-            <link>https://time.com/article/2026/03/18/dolores-huerta-cesar-chavez-allegations-united-farm-workers/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/18/dolores-huerta-cesar-chavez-allegations-united-farm-workers/</guid>
-            <pubDate>Wed, 18 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Is the Strait of Hormuz and Why Does Trump Want to Blockade It?]]></title>
-            <description><![CDATA[Here’s what to know about the Strait of Hormuz, Trump’s attempt to blockade it, and the impact the continued disruption is having on the global economy.]]></description>
-            <link>https://time.com/article/2026/03/17/what-is-the-strait-of-hormuz-global-trade-oil-flow-iran-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/17/what-is-the-strait-of-hormuz-global-trade-oil-flow-iran-war/</guid>
-            <pubDate>Tue, 17 Mar 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
