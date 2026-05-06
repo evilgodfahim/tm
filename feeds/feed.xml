@@ -4,39 +4,39 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 15:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 17:23:34 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 May 2026 15:24:05 GMT</pubDate>
+        <pubDate>Wed, 06 May 2026 17:23:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <pubDate>Wed, 06 May 2026 15:24:05 GMT</pubDate>
+            <pubDate>Wed, 06 May 2026 17:23:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Wed, 06 May 2026 15:24:05 GMT</pubDate>
+            <pubDate>Wed, 06 May 2026 17:23:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Wed, 06 May 2026 15:24:05 GMT</pubDate>
+            <pubDate>Wed, 06 May 2026 17:23:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hailey Bieber]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/rhode/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/rhode/</guid>
-            <pubDate>Wed, 06 May 2026 15:24:05 GMT</pubDate>
+            <pubDate>Wed, 06 May 2026 17:23:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sundar Pichai]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/alphabet/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/alphabet/</guid>
-            <pubDate>Wed, 06 May 2026 15:24:05 GMT</pubDate>
+            <pubDate>Wed, 06 May 2026 17:23:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump Pauses ‘Project Freedom’ in Hope of Deal With Iran]]></title>
@@ -57,6 +57,48 @@
             <link>https://time.com/article/2026/05/06/what-doctors-want-you-to-know-about-your-colonoscopy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/06/what-doctors-want-you-to-know-about-your-colonoscopy/</guid>
             <dc:creator><![CDATA[Holly Burns]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Trump 'Counterterrorism' Plan Targets Cartels, Antifa]]></title>
+            <description><![CDATA[The Administration is expanding its definition of terrorism to include drug cartels and loosely organized far-left movements.]]></description>
+            <link>https://time.com/article/2026/05/06/trump-new-counterterrorism-strategy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/06/trump-new-counterterrorism-strategy/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ted Turner, Founder of CNN, Dies Aged 87]]></title>
+            <link>https://time.com/article/2026/05/06/ted-turner-cnn-founder-dies/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/06/ted-turner-cnn-founder-dies/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spanish Islands Refuse To Take Hantavirus Ship]]></title>
+            <link>https://time.com/article/2026/05/06/spanish-islands-refuse-to-take-hantavirus-ship-as-latest-patient-arrives-in-hospital/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/06/spanish-islands-refuse-to-take-hantavirus-ship-as-latest-patient-arrives-in-hospital/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Makes Indiana Republicans Pay for Opposing Redistricting]]></title>
+            <link>https://time.com/article/2026/05/06/indiana-elections-redistricting-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/06/indiana-elections-redistricting-trump/</guid>
+            <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Trump Gets Wrong About Preservation]]></title>
+            <link>https://time.com/article/2026/05/06/what-trump-gets-wrong-about-preservation/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/06/what-trump-gets-wrong-about-preservation/</guid>
+            <dc:creator><![CDATA[Israel Melendez Ayala]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5 Tips to Get Useful Health Answers from AI Chatbots]]></title>
+            <link>https://time.com/article/2026/05/06/how-to-ask-ai-chatbots-smarter-health-questions/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/06/how-to-ask-ai-chatbots-smarter-health-questions/</guid>
+            <dc:creator><![CDATA[Sudheesha Perera and Murali Doraiswamy]]></dc:creator>
             <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -195,7 +237,6 @@
         </item>
         <item>
             <title><![CDATA[What to Know About Hantavirus]]></title>
-            <description><![CDATA[Three people are dead and three others are sick in a presumed outbreak aboard a cruise ship.]]></description>
             <link>https://time.com/article/2026/05/04/hantavirus-outbreak-cruise-ship/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/04/hantavirus-outbreak-cruise-ship/</guid>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
@@ -3262,45 +3303,6 @@
             <link>https://time.com/article/2026/03/23/ice-airports-homan-duffy-trump-administration/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/23/ice-airports-homan-duffy-trump-administration/</guid>
             <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Poised to Skip CPAC For First Time in a Decade]]></title>
-            <link>https://time.com/article/2026/03/23/trump-poised-to-skip-cpac-for-first-time-in-a-decade/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/23/trump-poised-to-skip-cpac-for-first-time-in-a-decade/</guid>
-            <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Indigenous Partnership Behind New York City's New Hydropower Deal]]></title>
-            <link>https://time.com/article/2026/03/23/first-nations-hydropower-new-york-city/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/23/first-nations-hydropower-new-york-city/</guid>
-            <dc:creator><![CDATA[Petala Ironcloud]]></dc:creator>
-            <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The WNBA is Taking Off. What Took So Long?]]></title>
-            <link>https://time.com/article/2026/03/23/the-wnba-is-taking-off-what-took-so-long-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/23/the-wnba-is-taking-off-what-took-so-long-/</guid>
-            <dc:creator><![CDATA[Keia Clarke]]></dc:creator>
-            <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the SAVE America Act Hurts Disabled Voters]]></title>
-            <link>https://time.com/article/2026/03/23/how-the-save-america-act-hurts-disabled-voters/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/23/how-the-save-america-act-hurts-disabled-voters/</guid>
-            <dc:creator><![CDATA[Naomi Hess]]></dc:creator>
-            <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AT&T CEO John Stankey on AI, Return-to-Office Mandates, and Surveillance Law]]></title>
-            <link>https://time.com/article/2026/03/22/at-t-ceo-john-stankey-on-ai-the-return-to-offices-and-surveillance-law/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/22/at-t-ceo-john-stankey-on-ai-the-return-to-offices-and-surveillance-law/</guid>
-            <pubDate>Sun, 22 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is China Sitting Out the War on Iran]]></title>
-            <link>https://time.com/article/2026/03/20/china-america-trump-xi-war-iran/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/20/china-america-trump-xi-war-iran/</guid>
-            <pubDate>Fri, 20 Mar 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
