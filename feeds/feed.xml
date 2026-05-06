@@ -4,39 +4,39 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 12:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 15:24:05 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 May 2026 12:27:23 GMT</pubDate>
+        <pubDate>Wed, 06 May 2026 15:24:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <pubDate>Wed, 06 May 2026 12:27:23 GMT</pubDate>
+            <pubDate>Wed, 06 May 2026 15:24:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Wed, 06 May 2026 12:27:23 GMT</pubDate>
+            <pubDate>Wed, 06 May 2026 15:24:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Wed, 06 May 2026 12:27:23 GMT</pubDate>
+            <pubDate>Wed, 06 May 2026 15:24:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hailey Bieber]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/rhode/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/rhode/</guid>
-            <pubDate>Wed, 06 May 2026 12:27:23 GMT</pubDate>
+            <pubDate>Wed, 06 May 2026 15:24:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sundar Pichai]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/alphabet/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/alphabet/</guid>
-            <pubDate>Wed, 06 May 2026 12:27:23 GMT</pubDate>
+            <pubDate>Wed, 06 May 2026 15:24:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump Pauses ‘Project Freedom’ in Hope of Deal With Iran]]></title>
@@ -50,6 +50,13 @@
             <link>https://time.com/article/2026/05/06/are-we-entering-the-age-of-data-nihilism-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/06/are-we-entering-the-age-of-data-nihilism-/</guid>
             <dc:creator><![CDATA[Alice Xiang]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[8 Things Doctors Want You to Know Before Your Colonoscopy]]></title>
+            <link>https://time.com/article/2026/05/06/what-doctors-want-you-to-know-about-your-colonoscopy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/06/what-doctors-want-you-to-know-about-your-colonoscopy/</guid>
+            <dc:creator><![CDATA[Holly Burns]]></dc:creator>
             <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3293,12 +3300,6 @@
             <title><![CDATA[Why is China Sitting Out the War on Iran]]></title>
             <link>https://time.com/article/2026/03/20/china-america-trump-xi-war-iran/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/20/china-america-trump-xi-war-iran/</guid>
-            <pubDate>Fri, 20 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Something Very Bad' Takes Too Long to Happen]]></title>
-            <link>https://time.com/article/2026/03/20/something-very-is-going-to-happen-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/20/something-very-is-going-to-happen-review/</guid>
             <pubDate>Fri, 20 Mar 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
