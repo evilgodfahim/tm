@@ -4,10 +4,40 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 10:58:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 12:27:23 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 May 2026 10:58:22 GMT</pubDate>
+        <pubDate>Wed, 06 May 2026 12:27:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[TIME Earth Awards | 2026]]></title>
+            <link>https://time.com/collection/earth-awards/2026/</link>
+            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
+            <pubDate>Wed, 06 May 2026 12:27:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alysa Liu]]></title>
+            <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
+            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
+            <pubDate>Wed, 06 May 2026 12:27:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Noah Wyle]]></title>
+            <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
+            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
+            <pubDate>Wed, 06 May 2026 12:27:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hailey Bieber]]></title>
+            <link>https://time.com/collection/time100-most-influential-companies/2026/rhode/</link>
+            <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/rhode/</guid>
+            <pubDate>Wed, 06 May 2026 12:27:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sundar Pichai]]></title>
+            <link>https://time.com/collection/time100-most-influential-companies/2026/alphabet/</link>
+            <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/alphabet/</guid>
+            <pubDate>Wed, 06 May 2026 12:27:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump Pauses ‘Project Freedom’ in Hope of Deal With Iran]]></title>
             <link>https://time.com/article/2026/05/06/trump-pauses-project-freedom-in-hope-of-deal-with-iran/</link>
@@ -21,36 +51,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/05/06/are-we-entering-the-age-of-data-nihilism-/</guid>
             <dc:creator><![CDATA[Alice Xiang]]></dc:creator>
             <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIME Earth Awards | 2026]]></title>
-            <link>https://time.com/collection/earth-awards/2026/</link>
-            <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <pubDate>Wed, 06 May 2026 10:58:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alysa Liu]]></title>
-            <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
-            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Wed, 06 May 2026 10:58:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Noah Wyle]]></title>
-            <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
-            <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Wed, 06 May 2026 10:58:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hailey Bieber]]></title>
-            <link>https://time.com/collection/time100-most-influential-companies/2026/rhode/</link>
-            <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/rhode/</guid>
-            <pubDate>Wed, 06 May 2026 10:58:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sundar Pichai]]></title>
-            <link>https://time.com/collection/time100-most-influential-companies/2026/alphabet/</link>
-            <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/alphabet/</guid>
-            <pubDate>Wed, 06 May 2026 10:58:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TIME for Change]]></title>
@@ -312,6 +312,13 @@
             <link>https://time.com/article/2026/05/01/new-on-netflix-may-2026/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/01/new-on-netflix-may-2026/</guid>
             <dc:creator><![CDATA[TIME Staff]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['The Other Bennet Sister': A Janeite's Delight]]></title>
+            <link>https://time.com/article/2026/05/01/the-other-bennet-sister-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/01/the-other-bennet-sister-review/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Fri, 01 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3293,13 +3300,6 @@
             <link>https://time.com/article/2026/03/20/something-very-is-going-to-happen-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/20/something-very-is-going-to-happen-review/</guid>
             <pubDate>Fri, 20 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[6 Defense Contractors Poised to Profit From the Iran War]]></title>
-            <description><![CDATA[The costly conflict is accelerating a shift in weaponry the Pentagon has pursued for years]]></description>
-            <link>https://time.com/article/2026/03/19/trump-iran-war-set-to-boost-profits-for-these-defense-contractors/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/19/trump-iran-war-set-to-boost-profits-for-these-defense-contractors/</guid>
-            <pubDate>Thu, 19 Mar 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
