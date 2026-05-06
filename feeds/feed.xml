@@ -4,39 +4,39 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 21:03:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 22:40:57 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 May 2026 21:03:51 GMT</pubDate>
+        <pubDate>Wed, 06 May 2026 22:40:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <pubDate>Wed, 06 May 2026 21:03:51 GMT</pubDate>
+            <pubDate>Wed, 06 May 2026 22:40:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Wed, 06 May 2026 21:03:51 GMT</pubDate>
+            <pubDate>Wed, 06 May 2026 22:40:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Wed, 06 May 2026 21:03:51 GMT</pubDate>
+            <pubDate>Wed, 06 May 2026 22:40:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hailey Bieber]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/rhode/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/rhode/</guid>
-            <pubDate>Wed, 06 May 2026 21:03:51 GMT</pubDate>
+            <pubDate>Wed, 06 May 2026 22:40:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sundar Pichai]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/alphabet/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/alphabet/</guid>
-            <pubDate>Wed, 06 May 2026 21:03:51 GMT</pubDate>
+            <pubDate>Wed, 06 May 2026 22:40:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump Pauses ‘Project Freedom’ in Hope of Deal With Iran]]></title>
@@ -105,6 +105,13 @@
             <title><![CDATA[Pope Leo Rejects Trump’s Nuclear Claims and Tells His Critics To Speak ‘Truthfully’]]></title>
             <link>https://time.com/article/2026/05/06/pope-leo-nuclear-weapons-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/06/pope-leo-nuclear-weapons-trump/</guid>
+            <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Margaret Atwood on 'The Testaments' and Trad Wives]]></title>
+            <link>https://time.com/article/2026/05/06/magaret-atwood-the-testaments/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/06/magaret-atwood-the-testaments/</guid>
+            <dc:creator><![CDATA[Shannon Carlin]]></dc:creator>
             <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3296,12 +3303,6 @@
             <title><![CDATA[What to Know About Hawaii's Catastrophic Flooding, and How to Help]]></title>
             <link>https://time.com/article/2026/03/23/hawaii-flooding-storms-damage-how-to-help/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/23/hawaii-flooding-storms-damage-how-to-help/</guid>
-            <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About the Air Canada Jet Collision]]></title>
-            <link>https://time.com/article/2026/03/23/air-canada-plane-collision-laguardia-new-york-fatalities-investigation/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/23/air-canada-plane-collision-laguardia-new-york-fatalities-investigation/</guid>
             <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
