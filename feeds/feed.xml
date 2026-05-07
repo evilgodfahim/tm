@@ -4,39 +4,61 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 May 2026 08:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2026 11:02:22 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 May 2026 08:18:11 GMT</pubDate>
+        <pubDate>Thu, 07 May 2026 11:02:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[U.S. and Iran Offer Mixed Messages on Deal to End War]]></title>
+            <description><![CDATA[Trump said the war with Iran will be over “quickly.” But it’s unclear if Iran will accept the reported deal’s terms, some of which it has publicly derided.]]></description>
+            <link>https://time.com/article/2026/05/07/us-iran-war-deal-mou-axios-report-negotiations-strait-nuclear/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/07/us-iran-war-deal-mou-axios-report-negotiations-strait-nuclear/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Trump’s China Trip Is Set Up to Fail]]></title>
+            <link>https://time.com/article/2026/05/07/trump-xi-china-meeting-what-to-expect/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/07/trump-xi-china-meeting-what-to-expect/</guid>
+            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Countries Are Linked to the Hantavirus Outbreak?]]></title>
+            <link>https://time.com/article/2026/05/07/countries-hantavirus-hondius-cruise-ship/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/07/countries-hantavirus-hondius-cruise-ship/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <pubDate>Thu, 07 May 2026 08:18:11 GMT</pubDate>
+            <pubDate>Thu, 07 May 2026 11:02:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Thu, 07 May 2026 08:18:11 GMT</pubDate>
+            <pubDate>Thu, 07 May 2026 11:02:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Thu, 07 May 2026 08:18:11 GMT</pubDate>
+            <pubDate>Thu, 07 May 2026 11:02:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hailey Bieber]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/rhode/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/rhode/</guid>
-            <pubDate>Thu, 07 May 2026 08:18:11 GMT</pubDate>
+            <pubDate>Thu, 07 May 2026 11:02:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sundar Pichai]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/alphabet/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/alphabet/</guid>
-            <pubDate>Thu, 07 May 2026 08:18:11 GMT</pubDate>
+            <pubDate>Thu, 07 May 2026 11:02:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump Pauses ‘Project Freedom’ in Hope of Deal With Iran]]></title>
@@ -61,17 +83,14 @@
         </item>
         <item>
             <title><![CDATA[New Trump 'Counterterrorism' Plan Targets Cartels, Antifa]]></title>
-            <description><![CDATA[The Administration is expanding its definition of terrorism to include drug cartels and loosely organized far-left movements.]]></description>
             <link>https://time.com/article/2026/05/06/trump-new-counterterrorism-strategy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/06/trump-new-counterterrorism-strategy/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
             <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ted Turner, Founder of CNN, Dies Aged 87]]></title>
             <link>https://time.com/article/2026/05/06/ted-turner-cnn-founder-dies/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/06/ted-turner-cnn-founder-dies/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -111,7 +130,12 @@
             <title><![CDATA[Margaret Atwood on 'The Testaments' and Trad Wives]]></title>
             <link>https://time.com/article/2026/05/06/magaret-atwood-the-testaments/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/06/magaret-atwood-the-testaments/</guid>
-            <dc:creator><![CDATA[Shannon Carlin]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s White House Ballroom Keeps Growing in Size and Cost]]></title>
+            <link>https://time.com/article/2026/05/06/trump-s-white-house-ballroom-keeps-growing-in-size-and-cost/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/06/trump-s-white-house-ballroom-keeps-growing-in-size-and-cost/</guid>
             <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3278,31 +3302,6 @@
             <title><![CDATA[Markwayne Mullin Confirmed as Homeland Security Secretary]]></title>
             <link>https://time.com/article/2026/03/23/mullin-dhs-confirmed-senate-shutdown-noem-tsa-ice/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/23/mullin-dhs-confirmed-senate-shutdown-noem-tsa-ice/</guid>
-            <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TSA Workers Outraged by ICE Agents at Airports]]></title>
-            <link>https://time.com/article/2026/03/23/tsa-agents-ice-airports-trump-dhs-reactions/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/23/tsa-agents-ice-airports-trump-dhs-reactions/</guid>
-            <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Postpones Strikes on Iranian Power Plants]]></title>
-            <link>https://time.com/article/2026/03/23/trump-postpones-strikes-iranian-power-plants-iran-threatens-persian-gulf/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/23/trump-postpones-strikes-iranian-power-plants-iran-threatens-persian-gulf/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
-            <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranians Alarmed by Trump’s Threat to Strike Power Plants]]></title>
-            <link>https://time.com/article/2026/03/23/iranians-react-trump-threat-strike-power-plants/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/23/iranians-react-trump-threat-strike-power-plants/</guid>
-            <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About Hawaii's Catastrophic Flooding, and How to Help]]></title>
-            <link>https://time.com/article/2026/03/23/hawaii-flooding-storms-damage-how-to-help/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/23/hawaii-flooding-storms-damage-how-to-help/</guid>
             <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
