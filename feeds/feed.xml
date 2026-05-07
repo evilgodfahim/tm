@@ -4,39 +4,39 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 May 2026 19:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2026 21:59:31 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 May 2026 19:27:30 GMT</pubDate>
+        <pubDate>Thu, 07 May 2026 21:59:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <pubDate>Thu, 07 May 2026 19:27:30 GMT</pubDate>
+            <pubDate>Thu, 07 May 2026 21:59:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Thu, 07 May 2026 19:27:30 GMT</pubDate>
+            <pubDate>Thu, 07 May 2026 21:59:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Thu, 07 May 2026 19:27:30 GMT</pubDate>
+            <pubDate>Thu, 07 May 2026 21:59:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hailey Bieber]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/rhode/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/rhode/</guid>
-            <pubDate>Thu, 07 May 2026 19:27:30 GMT</pubDate>
+            <pubDate>Thu, 07 May 2026 21:59:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sundar Pichai]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/alphabet/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/alphabet/</guid>
-            <pubDate>Thu, 07 May 2026 19:27:30 GMT</pubDate>
+            <pubDate>Thu, 07 May 2026 21:59:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[U.S. and Iran Offer Mixed Messages on Deal to End War]]></title>
@@ -106,6 +106,27 @@
             <link>https://time.com/article/2026/05/07/airborne-microplastics-climate-health-impact/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/07/airborne-microplastics-climate-health-impact/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Hantavirus Outbreak Is Serious. But It's No COVID, Health Officials Say]]></title>
+            <link>https://time.com/article/2026/05/07/hantavirus-outbreak-andes-virus-not-covid/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/07/hantavirus-outbreak-andes-virus-not-covid/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Twisty Ending of 'The Chestnut Man: Hide and Seek']]></title>
+            <link>https://time.com/article/2026/05/07/the-chestnut-man-ending-netflix/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/07/the-chestnut-man-ending-netflix/</guid>
+            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[At 100, David Attenborough Is Nature’s Most Trusted Voice]]></title>
+            <link>https://time.com/article/2026/05/07/david-attenborough-100-birthday-prince-harry/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/07/david-attenborough-100-birthday-prince-harry/</guid>
+            <dc:creator><![CDATA[Prince Harry, Duke of Sussex]]></dc:creator>
             <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3286,25 +3307,6 @@
             <title><![CDATA[Zelensky Accuses Russia of Providing Intelligence to Iran]]></title>
             <link>https://time.com/article/2026/03/24/zelensky-accuses-russia-intelligence-sharing-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/24/zelensky-accuses-russia-intelligence-sharing-iran-war/</guid>
-            <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I Served in Baghdad. Trump is Repeating the Mistakes of Iraq.]]></title>
-            <link>https://time.com/article/2026/03/24/iran-war-trump-mistake-iraq-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/24/iran-war-trump-mistake-iraq-/</guid>
-            <dc:creator><![CDATA[Frederic Wehrey]]></dc:creator>
-            <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The U.S. Is Deploying Marines to the Middle East. Here’s What They Could Be Used For]]></title>
-            <link>https://time.com/article/2026/03/24/marines-deployed-iran-war-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/24/marines-deployed-iran-war-trump/</guid>
-            <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Are Airport Wait Times So Long?]]></title>
-            <link>https://time.com/article/2026/03/24/airport-wait-times-security-lines-tsa-ice-dhs-shutdown/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/24/airport-wait-times-security-lines-tsa-ice-dhs-shutdown/</guid>
             <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
