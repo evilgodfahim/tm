@@ -4,43 +4,42 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 May 2026 16:00:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2026 17:51:23 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 May 2026 16:00:25 GMT</pubDate>
+        <pubDate>Thu, 07 May 2026 17:51:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
             <guid isPermaLink="true">https://time.com/collection/earth-awards/2026/</guid>
-            <pubDate>Thu, 07 May 2026 16:00:25 GMT</pubDate>
+            <pubDate>Thu, 07 May 2026 17:51:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alysa Liu]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/alysa-liu/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/alysa-liu/</guid>
-            <pubDate>Thu, 07 May 2026 16:00:25 GMT</pubDate>
+            <pubDate>Thu, 07 May 2026 17:51:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noah Wyle]]></title>
             <link>https://time.com/collection/100-most-influential-people/2026/noah-wyle/</link>
             <guid isPermaLink="true">https://time.com/collection/100-most-influential-people/2026/noah-wyle/</guid>
-            <pubDate>Thu, 07 May 2026 16:00:25 GMT</pubDate>
+            <pubDate>Thu, 07 May 2026 17:51:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hailey Bieber]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/rhode/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/rhode/</guid>
-            <pubDate>Thu, 07 May 2026 16:00:25 GMT</pubDate>
+            <pubDate>Thu, 07 May 2026 17:51:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sundar Pichai]]></title>
             <link>https://time.com/collection/time100-most-influential-companies/2026/alphabet/</link>
             <guid isPermaLink="true">https://time.com/collection/time100-most-influential-companies/2026/alphabet/</guid>
-            <pubDate>Thu, 07 May 2026 16:00:25 GMT</pubDate>
+            <pubDate>Thu, 07 May 2026 17:51:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[U.S. and Iran Offer Mixed Messages on Deal to End War]]></title>
-            <description><![CDATA[Trump said the war with Iran will be over “quickly.” But it’s unclear if Iran will accept the reported deal’s terms, some of which it has publicly derided.]]></description>
             <link>https://time.com/article/2026/05/07/us-iran-war-deal-mou-axios-report-negotiations-strait-nuclear/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/07/us-iran-war-deal-mou-axios-report-negotiations-strait-nuclear/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
@@ -92,6 +91,21 @@
             <link>https://time.com/article/2026/05/07/benefit-of-aging-fewer-regrets/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/07/benefit-of-aging-fewer-regrets/</guid>
             <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rubio Attempts to Mend Relationship with Pope Leo Following Feud with Trump]]></title>
+            <description><![CDATA[Rubio arrived in the Vatican on a key diplomatic mission just days after Trump accused Leo of “endangering Catholics."]]></description>
+            <link>https://time.com/article/2026/05/07/rubio-attempts-to-mend-relationship-with-pope-leo-following-feud-with-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/07/rubio-attempts-to-mend-relationship-with-pope-leo-following-feud-with-trump/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Do I Need to Worry About Airborne Microplastics?]]></title>
+            <link>https://time.com/article/2026/05/07/airborne-microplastics-climate-health-impact/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/07/airborne-microplastics-climate-health-impact/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -311,7 +325,6 @@
             <title><![CDATA[What to Know About Hantavirus]]></title>
             <link>https://time.com/article/2026/05/04/hantavirus-outbreak-cruise-ship/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/04/hantavirus-outbreak-cruise-ship/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3292,19 +3305,6 @@
             <title><![CDATA[Why Are Airport Wait Times So Long?]]></title>
             <link>https://time.com/article/2026/03/24/airport-wait-times-security-lines-tsa-ice-dhs-shutdown/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/24/airport-wait-times-security-lines-tsa-ice-dhs-shutdown/</guid>
-            <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who Is Replacing Markwayne Mullin in the Senate?]]></title>
-            <link>https://time.com/article/2026/03/24/markwayne-mullin-senate-oklahoma-alan-armstrong/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/24/markwayne-mullin-senate-oklahoma-alan-armstrong/</guid>
-            <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Conservative Case for Protecting the Environment]]></title>
-            <link>https://time.com/article/2026/03/24/the-conservative-case-for-protecting-the-environment/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/24/the-conservative-case-for-protecting-the-environment/</guid>
-            <dc:creator><![CDATA[Matthew Roling]]></dc:creator>
             <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
