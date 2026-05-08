@@ -116,10 +116,11 @@ function isLikelyTimeArticleLink(link) {
 
   // Accept:
   // 1) /article/YYYY/MM/DD/slug/
-  // 2) /collection/.../story/
-  // 3) /7383185/slug/ style pages
-  // 4) absolute versions of the above
-  return /time\.com\/(?:article\/\d{4}\/\d{2}\/\d{2}\/|collection\/|[0-9]{6,}\/)/.test(link);
+  // 2) /7383185/slug/ style pages
+  // 3) absolute versions of the above
+  // Excluded: /collection/... pages
+  if (/time\.com\/collection\//.test(link)) return false;
+  return /time\.com\/(?:article\/\d{4}\/\d{2}\/\d{2}\/|[0-9]{6,}\/)/.test(link);
 }
 
 // ===== SCRAPE TIME.COM ARTICLES =====
