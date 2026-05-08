@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 11:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 19:06:13 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 May 2026 11:04:15 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 19:06:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[‘Just a Love Tap’: U.S. Insists Cease-Fire With Iran Is Holding Despite Attacks]]></title>
@@ -20,7 +20,6 @@
             <title><![CDATA[What to Know About the Canvas Cyberattack]]></title>
             <link>https://time.com/article/2026/05/08/canvas-cyber-attack-shinyhunters-hack-what-to-know/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/08/canvas-cyber-attack-shinyhunters-hack-what-to-know/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -28,6 +27,33 @@
             <link>https://time.com/article/2026/05/08/david-attenborough-turns-100/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/08/david-attenborough-turns-100/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[States Monitoring Hantavirus Ship Passengers as Latest Case Reported]]></title>
+            <link>https://time.com/article/2026/05/08/several-u-s-states-monitoring-cruise-passengers-as-latest-hantavirus-case-reported/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/08/several-u-s-states-monitoring-cruise-passengers-as-latest-hantavirus-case-reported/</guid>
+            <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Manage Your Health Anxiety About Hantavirus]]></title>
+            <link>https://time.com/article/2026/05/08/why-hantavirus-fears-are-triggering-post-covid-anxiety/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/08/why-hantavirus-fears-are-triggering-post-covid-anxiety/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 Cancer-Prevention Habits Oncologists Do Every Day]]></title>
+            <link>https://time.com/article/2026/05/08/oncologists-cancer-prevention-habits/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/08/oncologists-cancer-prevention-habits/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GE Vernova’s Boom Isn’t Just About Gas Turbines]]></title>
+            <link>https://time.com/article/2026/05/08/ge-vernova-energy-future/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/08/ge-vernova-energy-future/</guid>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -119,7 +145,6 @@
             <title><![CDATA[Rubio Attempts to Mend Relationship with Pope Leo Following Feud with Trump]]></title>
             <link>https://time.com/article/2026/05/07/rubio-attempts-to-mend-relationship-with-pope-leo-following-feud-with-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/07/rubio-attempts-to-mend-relationship-with-pope-leo-following-feud-with-trump/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -155,6 +180,13 @@
             <link>https://time.com/article/2026/05/07/senator-susan-collins-essential-tremor-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/07/senator-susan-collins-essential-tremor-explained/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Narges Mohammadi in Critical Condition in Iranian Custody, Family Says]]></title>
+            <link>https://time.com/article/2026/05/07/nobel-peace-prize-laureate-narges-mohammadi-at-risk-of-dying-in-captivity-family-says/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/07/nobel-peace-prize-laureate-narges-mohammadi-at-risk-of-dying-in-captivity-family-says/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -234,6 +266,13 @@
             <title><![CDATA[Trump’s White House Ballroom Keeps Growing in Size and Cost]]></title>
             <link>https://time.com/article/2026/05/06/trump-s-white-house-ballroom-keeps-growing-in-size-and-cost/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/06/trump-s-white-house-ballroom-keeps-growing-in-size-and-cost/</guid>
+            <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Robot (Sort of) Made Me Lunch]]></title>
+            <link>https://time.com/article/2026/05/06/robot-ai-food-restaurant-kaikaku/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/06/robot-ai-food-restaurant-kaikaku/</guid>
+            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
             <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -402,6 +441,13 @@
             <link>https://time.com/article/2026/05/04/the-structure-of-america-s-domestic-violence-crisis/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/04/the-structure-of-america-s-domestic-violence-crisis/</guid>
             <dc:creator><![CDATA[Earl Smith]]></dc:creator>
+            <pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Karl Urban Quietly Conquered Geekdom]]></title>
+            <link>https://time.com/article/2026/05/04/karl-urban-interview-the-boys-mortal-kombat-2/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/04/karl-urban-interview-the-boys-mortal-kombat-2/</guid>
+            <dc:creator><![CDATA[James Grebey]]></dc:creator>
             <pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3265,52 +3311,6 @@
             <link>https://time.com/article/2026/03/25/openai-chatgpt-model-spec-document/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/25/openai-chatgpt-model-spec-document/</guid>
             <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America’s Confusing Relationship with Mutual Aid]]></title>
-            <link>https://time.com/article/2026/03/25/america-s-confusing-relationship-with-mutual-aid/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/25/america-s-confusing-relationship-with-mutual-aid/</guid>
-            <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Is Fibermaxxing, and Is It Safe?]]></title>
-            <link>https://time.com/article/2026/03/25/what-fibermaxxing-gets-wrong-about-fiber/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/25/what-fibermaxxing-gets-wrong-about-fiber/</guid>
-            <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Phosphorus Paradox]]></title>
-            <link>https://time.com/article/2026/03/25/the-phosphorus-paradox/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/25/the-phosphorus-paradox/</guid>
-            <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ballet Isn't Dead, But Timothée Chalamet Might Have a Point]]></title>
-            <link>https://time.com/7383265/timothee-chalamet-ballet-opera/</link>
-            <guid isPermaLink="true">https://time.com/7383265/timothee-chalamet-ballet-opera/</guid>
-            <dc:creator><![CDATA[TIME Staff]]></dc:creator>
-            <pubDate>Tue, 24 Mar 2026 17:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Without Science, America’s Prosperity Is At Risk]]></title>
-            <link>https://time.com/7382995/science-scientific-method-us/</link>
-            <guid isPermaLink="true">https://time.com/7382995/science-scientific-method-us/</guid>
-            <dc:creator><![CDATA[TIME Staff]]></dc:creator>
-            <pubDate>Tue, 24 Mar 2026 17:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Cybersecurity Threats Are Growing]]></title>
-            <link>https://time.com/7382979/cybersecurity-threats-are-growing/</link>
-            <guid isPermaLink="true">https://time.com/7382979/cybersecurity-threats-are-growing/</guid>
-            <dc:creator><![CDATA[TIME Staff]]></dc:creator>
-            <pubDate>Tue, 24 Mar 2026 17:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Profits Took Over American Politics]]></title>
-            <link>https://time.com/7383185/profits-took-over-american-politics/</link>
-            <guid isPermaLink="true">https://time.com/7383185/profits-took-over-american-politics/</guid>
-            <dc:creator><![CDATA[TIME Staff]]></dc:creator>
-            <pubDate>Tue, 24 Mar 2026 17:00:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
