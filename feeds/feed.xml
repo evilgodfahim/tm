@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 19:06:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 20:50:09 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 May 2026 19:06:13 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 20:50:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[‘Just a Love Tap’: U.S. Insists Cease-Fire With Iran Is Holding Despite Attacks]]></title>
-            <description><![CDATA[Trump appears keen to reach a deal to end the war, which is unpopular with Americans, as he deploys both pressure and diplomacy, analysts say.]]></description>
             <link>https://time.com/article/2026/05/08/us-iran-war-strait-hormuz-attacks-cease-fire-trump-deal/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/08/us-iran-war-strait-hormuz-attacks-cease-fire-trump-deal/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
@@ -54,6 +53,33 @@
             <link>https://time.com/article/2026/05/08/ge-vernova-energy-future/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/08/ge-vernova-energy-future/</guid>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Celebrates Virginia Redistricting Ruling]]></title>
+            <description><![CDATA[Virginia’s top court blocked Democrats’ redistricting plan, preserving GOP advantages ahead of the midterm elections.]]></description>
+            <link>https://time.com/article/2026/05/08/trump-declares-huge-win-after-virginia-supreme-court-rejects-redistricting-referendum/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/08/trump-declares-huge-win-after-virginia-supreme-court-rejects-redistricting-referendum/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fresh Setback for Trump's Tariffs as He Threatens Europe With 'Much Higher' Levy]]></title>
+            <link>https://time.com/article/2026/05/08/fresh-setback-for-trump-s-tariffs-as-he-threatens-europe-with-much-higher-levy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/08/fresh-setback-for-trump-s-tariffs-as-he-threatens-europe-with-much-higher-levy/</guid>
+            <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Ally Farage Gains in U.K. Local Elections]]></title>
+            <link>https://time.com/article/2026/05/08/trump-ally-nigel-farage-makes-gains-in-u-k-elections-as-starmer-s-future-draws-uncertainty/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/08/trump-ally-nigel-farage-makes-gains-in-u-k-elections-as-starmer-s-future-draws-uncertainty/</guid>
+            <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Remarkably Bright Creatures' Is a Sweet, if Slight, Melodrama with an Eight-Armed Star]]></title>
+            <link>https://time.com/article/2026/05/08/remarkably-bright-creatures-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/08/remarkably-bright-creatures-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -186,7 +212,19 @@
             <title><![CDATA[Narges Mohammadi in Critical Condition in Iranian Custody, Family Says]]></title>
             <link>https://time.com/article/2026/05/07/nobel-peace-prize-laureate-narges-mohammadi-at-risk-of-dying-in-captivity-family-says/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/07/nobel-peace-prize-laureate-narges-mohammadi-at-risk-of-dying-in-captivity-family-says/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Do Animals Have Civilizations?]]></title>
+            <description><![CDATA[Animals maintain complex cultures, communication systems, infrastructure, and intergenerational knowledge, writes Ryan Huling.]]></description>
+            <link>https://time.com/article/2026/05/07/do-animals-have-civilizations/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/07/do-animals-have-civilizations/</guid>
+            <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Obama’s Presidential ‘Library’ May Be the Last Normal One]]></title>
+            <link>https://time.com/article/2026/05/07/obama-presidential-library-may-be-the-last-normal-one/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/07/obama-presidential-library-may-be-the-last-normal-one/</guid>
             <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3270,47 +3308,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/03/26/new-on-netflix-april-2026/</guid>
             <dc:creator><![CDATA[TIME Staff]]></dc:creator>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does Microneedling Work—And Is It Safe?]]></title>
-            <link>https://time.com/article/2026/03/26/does-microneedling-work-is-it-safe/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/26/does-microneedling-work-is-it-safe/</guid>
-            <dc:creator><![CDATA[Erica Sweeney]]></dc:creator>
-            <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TSA Funding Shortage Traps Passengers in Long Airport Lines]]></title>
-            <link>https://time.com/article/2026/03/25/tsa-long-lines-airports/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/25/tsa-long-lines-airports/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
-            <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About Trump’s 15-Point Peace Plan After Iran’s Rejection]]></title>
-            <description><![CDATA[Iran has rejected a U.S.-backed 15-point peace proposal aimed at ending the conflict. Here is what we know about the plan.]]></description>
-            <link>https://time.com/article/2026/03/25/trump-peace-proposal-us-iran-war-israel-pakistan/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/25/trump-peace-proposal-us-iran-war-israel-pakistan/</guid>
-            <dc:creator><![CDATA[Chad de Guzman and Chantelle Lee]]></dc:creator>
-            <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Lone Republican Who Voted In Support of Limiting Trump's War Powers on Iran]]></title>
-            <link>https://time.com/article/2026/03/25/republican-rand-paul-voted-against-iran-war-powers-resolution/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/25/republican-rand-paul-voted-against-iran-war-powers-resolution/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
-            <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet Emily Gregory, the Democrat Who Flipped Trump’s Mar-a-Lago District]]></title>
-            <link>https://time.com/article/2026/03/25/emily-gregory-mar-a-lago-trump-district-florida-state-house/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/25/emily-gregory-mar-a-lago-trump-district-florida-state-house/</guid>
-            <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How OpenAI Decides What ChatGPT Should—and Shouldn’t—Do]]></title>
-            <link>https://time.com/article/2026/03/25/openai-chatgpt-model-spec-document/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/25/openai-chatgpt-model-spec-document/</guid>
-            <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
