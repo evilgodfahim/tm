@@ -4,10 +4,32 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 09:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 11:04:15 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 May 2026 09:06:40 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 11:04:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘Just a Love Tap’: U.S. Insists Cease-Fire With Iran Is Holding Despite Attacks]]></title>
+            <description><![CDATA[Trump appears keen to reach a deal to end the war, which is unpopular with Americans, as he deploys both pressure and diplomacy, analysts say.]]></description>
+            <link>https://time.com/article/2026/05/08/us-iran-war-strait-hormuz-attacks-cease-fire-trump-deal/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/08/us-iran-war-strait-hormuz-attacks-cease-fire-trump-deal/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About the Canvas Cyberattack]]></title>
+            <link>https://time.com/article/2026/05/08/canvas-cyber-attack-shinyhunters-hack-what-to-know/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/08/canvas-cyber-attack-shinyhunters-hack-what-to-know/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[David Attenborough at 100: A Life Telling Nature's Story]]></title>
+            <link>https://time.com/article/2026/05/08/david-attenborough-turns-100/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/08/david-attenborough-turns-100/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TIME Earth Awards | 2026]]></title>
             <link>https://time.com/collection/earth-awards/2026/</link>
@@ -95,7 +117,6 @@
         </item>
         <item>
             <title><![CDATA[Rubio Attempts to Mend Relationship with Pope Leo Following Feud with Trump]]></title>
-            <description><![CDATA[Rubio arrived in the Vatican on a key diplomatic mission just days after Trump accused Leo of “endangering Catholics."]]></description>
             <link>https://time.com/article/2026/05/07/rubio-attempts-to-mend-relationship-with-pope-leo-following-feud-with-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/07/rubio-attempts-to-mend-relationship-with-pope-leo-following-feud-with-trump/</guid>
             <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
@@ -3290,25 +3311,6 @@
             <guid isPermaLink="true">https://time.com/7383185/profits-took-over-american-politics/</guid>
             <dc:creator><![CDATA[TIME Staff]]></dc:creator>
             <pubDate>Tue, 24 Mar 2026 17:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['No Kings' Protests May Draw Largest Anti-Trump Crowd Ever]]></title>
-            <description><![CDATA[Trump has the highest disapproval rating of any President at this point in his presidency in this century.]]></description>
-            <link>https://time.com/article/2026/03/24/no-kings-protests-march-28-biggest-anti-trump-crowds-ever/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/24/no-kings-protests-march-28-biggest-anti-trump-crowds-ever/</guid>
-            <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who Is Mohammed-Baqer Qalibaf?]]></title>
-            <link>https://time.com/article/2026/03/24/iran-war-mohammed-baqer-qalibaf-leader-biography-tehran-mayor-speaker/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/24/iran-war-mohammed-baqer-qalibaf-leader-biography-tehran-mayor-speaker/</guid>
-            <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran Vows to Fight 'Until Complete Victory']]></title>
-            <link>https://time.com/article/2026/03/24/iran-israel-trade-strikes-trump-war-peace-talks-disputed/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/24/iran-israel-trade-strikes-trump-war-peace-talks-disputed/</guid>
-            <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
