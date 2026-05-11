@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 02:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 06:30:15 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 02:14:26 GMT</pubDate>
+        <pubDate>Mon, 11 May 2026 06:30:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The True Story Behind 'Under the Bridge']]></title>
+            <link>https://time.com/6968076/under-the-bridge-hulu-true-story/</link>
+            <guid isPermaLink="true">https://time.com/6968076/under-the-bridge-hulu-true-story/</guid>
+            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 06:30:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Putin Marks Pared-Down Victory Day Parade in Moscow After Zelensky Gives ‘Permission’]]></title>
             <link>https://time.com/article/2026/05/09/putin-victory-parade-moscow-zelensky-permission/</link>
@@ -3300,12 +3307,6 @@
             <link>https://time.com/article/2026/03/26/ai-slop-is-threatening-musicians-can-tech-companies-stem-the-tide-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/26/ai-slop-is-threatening-musicians-can-tech-companies-stem-the-tide-/</guid>
             <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
-            <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Olympics Committee Bans Transgender Athletes From Women's Events]]></title>
-            <link>https://time.com/article/2026/03/26/olympics-ban-transgender-athletes-womens-events-policy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/26/olympics-ban-transgender-athletes-womens-events-policy/</guid>
             <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
