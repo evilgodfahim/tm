@@ -4,20 +4,19 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 20:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 21:59:10 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 20:27:46 GMT</pubDate>
+        <pubDate>Mon, 11 May 2026 21:59:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The True Story Behind 'Under the Bridge']]></title>
             <link>https://time.com/6968076/under-the-bridge-hulu-true-story/</link>
             <guid isPermaLink="true">https://time.com/6968076/under-the-bridge-hulu-true-story/</guid>
             <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 20:27:46 GMT</pubDate>
+            <pubDate>Mon, 11 May 2026 21:59:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sexual Misconduct Allegations in Congress Grow Amid Epstein Probe]]></title>
-            <description><![CDATA[The scrutiny under Congress is the most intense since the height of the #MeToo movement]]></description>
             <link>https://time.com/article/2026/05/11/congress-sexual-misconduct-epstein-metoo/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/11/congress-sexual-misconduct-epstein-metoo/</guid>
             <dc:creator><![CDATA[Nik Popli]]></dc:creator>
@@ -51,7 +50,6 @@
         </item>
         <item>
             <title><![CDATA[How AI Is Transforming the Redistricting Fight]]></title>
-            <description><![CDATA[Experts say A.I. algorithms, which can draw and analyze millions of possible maps for a given state, are used by both sides in redistricting fights.]]></description>
             <link>https://time.com/article/2026/05/11/ai-redistricting-gerrymander-congressional-map-district-midterm-election/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/11/ai-redistricting-gerrymander-congressional-map-district-midterm-election/</guid>
             <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
@@ -60,6 +58,7 @@
             <title><![CDATA[What Leaders Get Wrong About the ROI of AI]]></title>
             <link>https://time.com/article/2026/05/11/what-leaders-get-wrong-about-the-roi-of-ai/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/11/what-leaders-get-wrong-about-the-roi-of-ai/</guid>
+            <dc:creator><![CDATA[Katy George]]></dc:creator>
             <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -72,14 +71,33 @@
             <title><![CDATA[The Long-Term Measles Complication Most People Don't Know About]]></title>
             <link>https://time.com/article/2026/05/11/measles-complication-immune-system/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/11/measles-complication-immune-system/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is Colon Hydrotherapy Safe?]]></title>
             <link>https://time.com/article/2026/05/11/what-is-colon-hydrotherapy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/11/what-is-colon-hydrotherapy/</guid>
-            <dc:creator><![CDATA[Erica Sweeney]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside America’s Only Federal Quarantine Unit for Hantavirus Cruise Passengers]]></title>
+            <description><![CDATA[Nebraska Medicine’s CEO explains how the U.S. is monitoring and containing passengers exposed to Andes hantavirus.]]></description>
+            <link>https://time.com/article/2026/05/11/hantavirus-andes-cruise-ship-passengers-quarantine-nebraska/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/11/hantavirus-andes-cruise-ship-passengers-quarantine-nebraska/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Pentagon Just Released Its UFO Files. Here's What's Inside]]></title>
+            <description><![CDATA[More than 170 accounts and videos reveal never-before-known UFO sightings.]]></description>
+            <link>https://time.com/article/2026/05/11/whats-inside-new-government-ufo-files/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/11/whats-inside-new-government-ufo-files/</guid>
+            <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colonies in Collision: What Some Allied Leaders Get Wrong About Trump]]></title>
+            <link>https://time.com/article/2026/05/11/what-allied-leaders-get-wrong-about-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/11/what-allied-leaders-get-wrong-about-trump/</guid>
             <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3290,25 +3308,6 @@
             <link>https://time.com/article/2026/03/27/-a-joke-house-republicans-reject-senate-s-dhs-funding-deal/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/27/-a-joke-house-republicans-reject-senate-s-dhs-funding-deal/</guid>
             <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All the Things Trump Has Put His Name and Face on as President]]></title>
-            <link>https://time.com/article/2026/03/27/trump-name-face-signature-currency-government-buildings-programs/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/27/trump-name-face-signature-currency-government-buildings-programs/</guid>
-            <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 12 New Books You Should Read in April]]></title>
-            <link>https://time.com/article/2026/03/27/best-books-april-2026/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/27/best-books-april-2026/</guid>
-            <dc:creator><![CDATA[Hamilton Cain]]></dc:creator>
-            <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX's Gwynne Shotwell Aims to Put AI on the Moon]]></title>
-            <link>https://time.com/article/2026/03/26/gwynne-shotwell-profile/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/26/gwynne-shotwell-profile/</guid>
-            <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
