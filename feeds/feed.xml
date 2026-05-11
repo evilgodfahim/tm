@@ -4,16 +4,16 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 21:59:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 22:55:43 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 21:59:10 GMT</pubDate>
+        <pubDate>Mon, 11 May 2026 22:55:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The True Story Behind 'Under the Bridge']]></title>
             <link>https://time.com/6968076/under-the-bridge-hulu-true-story/</link>
             <guid isPermaLink="true">https://time.com/6968076/under-the-bridge-hulu-true-story/</guid>
             <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 21:59:09 GMT</pubDate>
+            <pubDate>Mon, 11 May 2026 22:55:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sexual Misconduct Allegations in Congress Grow Amid Epstein Probe]]></title>
@@ -98,6 +98,12 @@
             <title><![CDATA[Colonies in Collision: What Some Allied Leaders Get Wrong About Trump]]></title>
             <link>https://time.com/article/2026/05/11/what-allied-leaders-get-wrong-about-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/11/what-allied-leaders-get-wrong-about-trump/</guid>
+            <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Millions of Americans Could Be Owed COVID-Era Tax Refunds]]></title>
+            <link>https://time.com/article/2026/05/11/tax-refunds-covid-pandemic-penalties-interest/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/11/tax-refunds-covid-pandemic-penalties-interest/</guid>
             <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3301,12 +3307,6 @@
             <link>https://time.com/article/2026/03/27/tsa-pay-dhs-shutdown-trump-order-airport-wait-times-lines/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/27/tsa-pay-dhs-shutdown-trump-order-airport-wait-times-lines/</guid>
             <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
-            <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['A Joke': House Republicans Reject Senate's DHS Funding Deal]]></title>
-            <link>https://time.com/article/2026/03/27/-a-joke-house-republicans-reject-senate-s-dhs-funding-deal/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/27/-a-joke-house-republicans-reject-senate-s-dhs-funding-deal/</guid>
             <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
