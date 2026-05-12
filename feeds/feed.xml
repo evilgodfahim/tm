@@ -4,14 +4,36 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 12 May 2026 11:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 13:58:39 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 12 May 2026 11:13:54 GMT</pubDate>
+        <pubDate>Tue, 12 May 2026 13:58:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Christopher Nolan's The Odyssey Is a Dream]]></title>
+            <description><![CDATA[Inside the Oscar-winning director's most epic movie yet]]></description>
             <link>https://time.com/article/2026/05/12/christopher-nolan-odyssey-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/12/christopher-nolan-odyssey-interview/</guid>
+            <pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vance or Rubio? Trump Discusses 2028 Presidential Ticket at White House]]></title>
+            <description><![CDATA[Trump's remarks come after months of him suggesting that he might seek a third term.]]></description>
+            <link>https://time.com/article/2026/05/12/vance-rubio-2028-presidential-ticket-trump-comments/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/12/vance-rubio-2028-presidential-ticket-trump-comments/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[California Mayor Resigns, Admitting to Being an Agent for China]]></title>
+            <link>https://time.com/article/2026/05/12/arcadia-california-mayor-eileen-wang-agent-china/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/12/arcadia-california-mayor-eileen-wang-agent-china/</guid>
+            <pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former YouTube CEO Susan Wojcicki Died From Lung Cancer in 2024. Her Family Is Trying to Find Out Why]]></title>
+            <link>https://time.com/article/2026/05/12/susan-wojcicki-foundation-lung-cancer-early-detection/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/12/susan-wojcicki-foundation-lung-cancer-early-detection/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -57,6 +79,7 @@
             <title><![CDATA[How AI Is Transforming the Redistricting Fight]]></title>
             <link>https://time.com/article/2026/05/11/ai-redistricting-gerrymander-congressional-map-district-midterm-election/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/11/ai-redistricting-gerrymander-congressional-map-district-midterm-election/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -87,7 +110,6 @@
         </item>
         <item>
             <title><![CDATA[Inside America’s Only Federal Quarantine Unit for Hantavirus Cruise Passengers]]></title>
-            <description><![CDATA[Nebraska Medicine’s CEO explains how the U.S. is monitoring and containing passengers exposed to Andes hantavirus.]]></description>
             <link>https://time.com/article/2026/05/11/hantavirus-andes-cruise-ship-passengers-quarantine-nebraska/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/11/hantavirus-andes-cruise-ship-passengers-quarantine-nebraska/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
@@ -110,6 +132,12 @@
             <title><![CDATA[Millions of Americans Could Be Owed COVID-Era Tax Refunds]]></title>
             <link>https://time.com/article/2026/05/11/tax-refunds-covid-pandemic-penalties-interest/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/11/tax-refunds-covid-pandemic-penalties-interest/</guid>
+            <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TIME Launches Daily Digital Games]]></title>
+            <link>https://time.com/article/2026/05/11/time-launches-daily-digital-games/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/11/time-launches-daily-digital-games/</guid>
             <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -256,7 +284,6 @@
             <title><![CDATA[Why Trump’s China Trip Is Set Up to Fail]]></title>
             <link>https://time.com/article/2026/05/07/trump-xi-china-meeting-what-to-expect/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/07/trump-xi-china-meeting-what-to-expect/</guid>
-            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
             <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3284,31 +3311,6 @@
             <link>https://time.com/article/2026/03/28/who-built-the-empire-state-building-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/28/who-built-the-empire-state-building-/</guid>
             <pubDate>Sat, 28 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Senate Reaches DHS Funding Deal After Trump Agrees to Fund TSA]]></title>
-            <link>https://time.com/article/2026/03/27/senate-dhs-shutdown-deal-ice-tsa-funding-trump-republicans/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/27/senate-dhs-shutdown-deal-ice-tsa-funding-trump-republicans/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
-            <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How War With Iran Could Lead to More Nuclear Weapons Around the World]]></title>
-            <link>https://time.com/article/2026/03/27/us-iran-war-nuclear-weapons-proliferation-deterrent-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/27/us-iran-war-nuclear-weapons-proliferation-deterrent-trump/</guid>
-            <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel Vows to ‘Intensify and Expand’ Strikes Against Iran]]></title>
-            <link>https://time.com/article/2026/03/27/israel-vows-to-intensify-and-expand-strikes-against-iran-as-tehran-warns-civilians-near-u-s-targets-to-evacuate/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/27/israel-vows-to-intensify-and-expand-strikes-against-iran-as-tehran-warns-civilians-near-u-s-targets-to-evacuate/</guid>
-            <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Take a Break. You Just Might Learn Something]]></title>
-            <link>https://time.com/article/2026/03/27/take-a-break-new-information-brain/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/27/take-a-break-new-information-brain/</guid>
-            <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
