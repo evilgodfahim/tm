@@ -4,10 +4,16 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 12 May 2026 08:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 11:13:54 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 12 May 2026 08:42:43 GMT</pubDate>
+        <pubDate>Tue, 12 May 2026 11:13:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Christopher Nolan's The Odyssey Is a Dream]]></title>
+            <link>https://time.com/article/2026/05/12/christopher-nolan-odyssey-interview/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/12/christopher-nolan-odyssey-interview/</guid>
+            <pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The True Story Behind 'Under the Bridge']]></title>
             <link>https://time.com/6968076/under-the-bridge-hulu-true-story/</link>
@@ -17,9 +23,9 @@
         </item>
         <item>
             <title><![CDATA[Sexual Misconduct Allegations in Congress Grow Amid Epstein Probe]]></title>
+            <description><![CDATA[The scrutiny under Congress is the most intense since the height of the #MeToo movement]]></description>
             <link>https://time.com/article/2026/05/11/congress-sexual-misconduct-epstein-metoo/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/11/congress-sexual-misconduct-epstein-metoo/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
             <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -61,9 +67,10 @@
             <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[British PM Starmer Battles With Growing Calls to Resign]]></title>
+            <title><![CDATA[Starmer Says He Will Not Resign as Dozens in His Own Party Urge Him to Step Down]]></title>
             <link>https://time.com/article/2026/05/11/starmer-facing-calls-to-resign-election-losses-backlash/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/11/starmer-facing-calls-to-resign-election-losses-backlash/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3301,13 +3308,6 @@
             <title><![CDATA[Take a Break. You Just Might Learn Something]]></title>
             <link>https://time.com/article/2026/03/27/take-a-break-new-information-brain/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/27/take-a-break-new-information-brain/</guid>
-            <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The TSA Says Most Agents Have Been Paid. Will It End the Airport Crisis?]]></title>
-            <link>https://time.com/article/2026/03/27/tsa-pay-dhs-shutdown-trump-order-airport-wait-times-lines/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/27/tsa-pay-dhs-shutdown-trump-order-airport-wait-times-lines/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
