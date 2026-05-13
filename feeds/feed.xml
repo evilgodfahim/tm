@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 May 2026 06:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 09:36:45 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 May 2026 06:19:15 GMT</pubDate>
+        <pubDate>Wed, 13 May 2026 09:36:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Christopher Nolan's The Odyssey Is a Dream]]></title>
@@ -3260,6 +3260,7 @@
             <title><![CDATA[It's Going to Be a Bad Tick Season. Here's How to Protect Yourself]]></title>
             <link>https://time.com/article/2026/03/30/bad-tick-season-how-to-prevent-lyme-disease/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/30/bad-tick-season-how-to-prevent-lyme-disease/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3297,6 +3298,7 @@
             <title><![CDATA[Just Minutes of Hard Exercise May Slash Your Risk for Diseases, Study Says]]></title>
             <link>https://time.com/article/2026/03/30/vigorous-exercise-reduced-risk-diseases/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/30/vigorous-exercise-reduced-risk-diseases/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
