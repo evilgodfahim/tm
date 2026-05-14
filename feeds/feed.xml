@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 13:48:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 16:06:14 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 May 2026 13:48:16 GMT</pubDate>
+        <pubDate>Thu, 14 May 2026 16:06:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How Nicki Minaj Went MAGA]]></title>
@@ -36,6 +36,18 @@
             <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Prince Harry Warns of 'Deeply Troubling' Rise of Antisemitism in U.K.]]></title>
+            <link>https://time.com/article/2026/05/14/prince-harry-warning-rise-of-antisemitism-united-kingdom/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/14/prince-harry-warning-rise-of-antisemitism-united-kingdom/</guid>
+            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Senator at the Center of the Philippines’ Senate Chaos: What to Know]]></title>
+            <link>https://time.com/article/2026/05/14/philippines-senate-shooting-ronald-bato-dela-rosa-drug-war-duterte-icc-arrest/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/14/philippines-senate-shooting-ronald-bato-dela-rosa-drug-war-duterte-icc-arrest/</guid>
+            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[China First: As Trump Meets Xi, How Beijing Sees the World Now]]></title>
             <description><![CDATA[What China seeks is not the abrupt unravelling of American power, but the space to expand its own capabilities without provoking overwhelming resistance.]]></description>
             <link>https://time.com/article/2026/05/13/china-first-trump-xi-beijing-summit/</link>
@@ -59,7 +71,6 @@
             <title><![CDATA[The Secret to Ending Arguments Faster]]></title>
             <link>https://time.com/article/2026/05/13/empathy-exercises-therapists-recommend-conflict/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/13/empathy-exercises-therapists-recommend-conflict/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -73,6 +84,19 @@
             <link>https://time.com/article/2026/05/13/iran-war-vote-senate-murkowski-closest-vote-yet/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/13/iran-war-vote-senate-murkowski-closest-vote-yet/</guid>
             <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did Zohran Mamdani's New Budget Really Eliminate New York City’s Deficit?]]></title>
+            <link>https://time.com/article/2026/05/13/zohran-mamdani-new-york-city-deficit-budget-funding/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/13/zohran-mamdani-new-york-city-deficit-budget-funding/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This Is Where Inflation Is Biting the Hardest for Americans]]></title>
+            <link>https://time.com/article/2026/05/13/inflation-gas-prices-food-tariffs-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/13/inflation-gas-prices-food-tariffs-trump/</guid>
             <pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -113,7 +137,6 @@
             <title><![CDATA[Who Could Replace Starmer as Prime Minister? Here Are the Top Contenders]]></title>
             <link>https://time.com/article/2026/05/12/who-could-replace-keir-starmer-as-prime-minister-uk-contenders/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/12/who-could-replace-keir-starmer-as-prime-minister-uk-contenders/</guid>
-            <dc:creator><![CDATA[Callum Sutherland and Olivia-Anne Cleary]]></dc:creator>
             <pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3289,33 +3312,6 @@
             <title><![CDATA['The Drama' Is a Bleak Comedy With No Payoff]]></title>
             <link>https://time.com/article/2026/03/31/the-drama-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/31/the-drama-review/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America Needs Reproductive Health Leave]]></title>
-            <link>https://time.com/article/2026/03/31/america-needs-reproductive-health-leave/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/31/america-needs-reproductive-health-leave/</guid>
-            <dc:creator><![CDATA[Yassamin Ansari]]></dc:creator>
-            <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Eat for Better Heart Health]]></title>
-            <link>https://time.com/article/2026/03/31/what-to-eat-heart-health-diet-guidelines/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/31/what-to-eat-heart-health-diet-guidelines/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
-            <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dan Levy's Netflix Comedy 'Big Mistakes': Review]]></title>
-            <link>https://time.com/article/2026/03/31/big-mistakes-review-netflix/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/31/big-mistakes-review-netflix/</guid>
-            <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Quiet Risk Taking of Michelle Pfeiffer]]></title>
-            <link>https://time.com/article/2026/03/31/michelle-pfeiffer-interview-margos-got-money-troubles/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/31/michelle-pfeiffer-interview-margos-got-money-troubles/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
         </item>
