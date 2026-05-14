@@ -4,15 +4,35 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 11:45:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 13:48:16 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 May 2026 11:45:38 GMT</pubDate>
+        <pubDate>Thu, 14 May 2026 13:48:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How Nicki Minaj Went MAGA]]></title>
             <link>https://time.com/article/2026/05/14/nicki-minaj-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/14/nicki-minaj-trump/</guid>
             <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TIME100 Philanthropy: The People Shaping Giving in 2026]]></title>
+            <description><![CDATA[The new leaders in philanthropy, many of whom are accustomed to great success in their own fields, are eager to see impact and see it now.]]></description>
+            <link>https://time.com/article/2026/05/14/time100-philanthropy-the-people-shaping-giving/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/14/time100-philanthropy-the-people-shaping-giving/</guid>
+            <dc:creator><![CDATA[Sam Jacobs]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Danger of Screens Taking Over Our Lives]]></title>
+            <link>https://time.com/article/2026/05/14/the-danger-of-screens-taking-over-our-lives/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/14/the-danger-of-screens-taking-over-our-lives/</guid>
+            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. Waives Visa Bonds for World Cup Ticketholders From Some Countries]]></title>
+            <link>https://time.com/article/2026/05/14/fifa-world-cup-us-visa-bonds-waiver-immigration-ice/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/14/fifa-world-cup-us-visa-bonds-waiver-immigration-ice/</guid>
             <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -46,12 +66,10 @@
             <title><![CDATA['Netflix Watches You': Lawsuit Accuses Streaming Giant of Spying on Users]]></title>
             <link>https://time.com/article/2026/05/13/netflix-spying-on-users-lawsuit-claims-texas-allegations/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/13/netflix-spying-on-users-lawsuit-claims-texas-allegations/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[3 Republicans Join Democrats in Closest Senate Vote Yet to Halt Iran War]]></title>
-            <description><![CDATA[It was the first time Republican Senator Lisa Murkowski voted for the War Powers measure.]]></description>
             <link>https://time.com/article/2026/05/13/iran-war-vote-senate-murkowski-closest-vote-yet/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/13/iran-war-vote-senate-murkowski-closest-vote-yet/</guid>
             <dc:creator><![CDATA[Nik Popli]]></dc:creator>
@@ -95,7 +113,7 @@
             <title><![CDATA[Who Could Replace Starmer as Prime Minister? Here Are the Top Contenders]]></title>
             <link>https://time.com/article/2026/05/12/who-could-replace-keir-starmer-as-prime-minister-uk-contenders/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/12/who-could-replace-keir-starmer-as-prime-minister-uk-contenders/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <dc:creator><![CDATA[Callum Sutherland and Olivia-Anne Cleary]]></dc:creator>
             <pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3300,24 +3318,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/03/31/michelle-pfeiffer-interview-margos-got-money-troubles/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Official Says ICE Could Stay at Airports Even as TSA Gets Paid]]></title>
-            <link>https://time.com/article/2026/03/30/tom-homan-ice-airports-tsa-agents-pay-wait-times-lines/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/30/tom-homan-ice-airports-tsa-agents-pay-wait-times-lines/</guid>
-            <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here's What Trump Has Said About Seizing Iran's Key Oil Hub Kharg Island]]></title>
-            <link>https://time.com/article/2026/03/30/trump-comments-about-seizing-iran-kharg-island-oil-hub/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/30/trump-comments-about-seizing-iran-kharg-island-oil-hub/</guid>
-            <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Seems to Embrace ‘Regime Change’ in Iran]]></title>
-            <link>https://time.com/article/2026/03/30/trump-regime-change-iran/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/30/trump-regime-change-iran/</guid>
-            <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
