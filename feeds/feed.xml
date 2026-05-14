@@ -4,15 +4,15 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 18:29:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 20:24:01 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 May 2026 18:29:58 GMT</pubDate>
+        <pubDate>Thu, 14 May 2026 20:24:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How Nicki Minaj Went MAGA]]></title>
+            <description><![CDATA[The rapper is the cornerstone of a Trump plan to turn celebrity surrogates into cultural currency]]></description>
             <link>https://time.com/article/2026/05/14/nicki-minaj-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/14/nicki-minaj-trump/</guid>
-            <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
             <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -76,6 +76,40 @@
             <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Xi Warns Trump Over Taiwan During High-Stakes China Summit]]></title>
+            <link>https://time.com/article/2026/05/14/xi-warns-trump-over-taiwan-during-high-stakes-china-summit/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/14/xi-warns-trump-over-taiwan-during-high-stakes-china-summit/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s China Visit: Most Memorable Photos]]></title>
+            <link>https://time.com/article/2026/05/14/trump-visit-china-taiwan-photos/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/14/trump-visit-china-taiwan-photos/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet Wes Streeting, a Lead Contender to Replace Starmer and Vocal Trump Critic]]></title>
+            <link>https://time.com/article/2026/05/14/wes-streeting-new-prime-minister-potential-starmer-replacement-bio/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/14/wes-streeting-new-prime-minister-potential-starmer-replacement-bio/</guid>
+            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Brain Processes Language Under Anesthesia]]></title>
+            <link>https://time.com/article/2026/05/14/anesthesia-brain-processes-language/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/14/anesthesia-brain-processes-language/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Is New York Breaking Its Climate Promises?]]></title>
+            <link>https://time.com/article/2026/05/14/new-york-climate-law-rollback/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/14/new-york-climate-law-rollback/</guid>
+            <dc:creator><![CDATA[Vanessa Fajans-Turner and Ayana Elizabeth Johnson]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[China First: As Trump Meets Xi, How Beijing Sees the World Now]]></title>
             <description><![CDATA[What China seeks is not the abrupt unravelling of American power, but the space to expand its own capabilities without provoking overwhelming resistance.]]></description>
             <link>https://time.com/article/2026/05/13/china-first-trump-xi-beijing-summit/</link>
@@ -118,7 +152,6 @@
             <title><![CDATA[Did Zohran Mamdani's New Budget Really Eliminate New York City’s Deficit?]]></title>
             <link>https://time.com/article/2026/05/13/zohran-mamdani-new-york-city-deficit-budget-funding/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/13/zohran-mamdani-new-york-city-deficit-budget-funding/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3281,38 +3314,6 @@
             <link>https://time.com/article/2026/03/31/gas-prices-us-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/03/31/gas-prices-us-iran-war/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
-            <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI Alone Won't Take Your Job. Someone Using AI Will]]></title>
-            <link>https://time.com/article/2026/03/31/ai-alone-won-t-take-your-job-someone-using-ai-will/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/31/ai-alone-won-t-take-your-job-someone-using-ai-will/</guid>
-            <dc:creator><![CDATA[Ryan Roslansky and Aneesh Raman]]></dc:creator>
-            <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hegseth Says U.S. Will 'Negotiate With Bombs' Until Iran Cease-Fire Deal Is Reached]]></title>
-            <link>https://time.com/article/2026/03/31/hegseth-says-us-will-negotiate-with-bombs-until-iran-cease-fire-deal/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/31/hegseth-says-us-will-negotiate-with-bombs-until-iran-cease-fire-deal/</guid>
-            <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet the 'God Squad,' the U.S.'s Powerful Endangered Species Panel]]></title>
-            <link>https://time.com/article/2026/03/31/endangered-species-protections-commitee-gulf-of-mexico-oil-gas-drilling/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/31/endangered-species-protections-commitee-gulf-of-mexico-oil-gas-drilling/</guid>
-            <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Is in Freefall. Democrats Still Might Blow It]]></title>
-            <link>https://time.com/article/2026/03/31/trump-polling-democrats-midterm-elections/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/31/trump-polling-democrats-midterm-elections/</guid>
-            <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Climate Benefit of Ditching Next-Day Delivery]]></title>
-            <link>https://time.com/article/2026/03/31/slower-shipping-climate-benefit/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/03/31/slower-shipping-climate-benefit/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
