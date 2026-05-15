@@ -4,12 +4,13 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 May 2026 11:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 13:45:26 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 15 May 2026 11:48:51 GMT</pubDate>
+        <pubDate>Fri, 15 May 2026 13:45:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump’s China Trip Underscores How Power Has Shifted East]]></title>
+            <description><![CDATA[The U.S. President painted the trip as a success, but he appeared on the backfoot in Beijing.]]></description>
             <link>https://time.com/article/2026/05/15/trump-xi-us-china-summit-analysis/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/15/trump-xi-us-china-summit-analysis/</guid>
             <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
@@ -30,6 +31,13 @@
             <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How A.I. Was the Elephant in the Room at the Trump-Xi Summit]]></title>
+            <link>https://time.com/article/2026/05/15/trump-xi-us-china-summit-ai-semiconductor-chips/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/15/trump-xi-us-china-summit-ai-semiconductor-chips/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How Nicki Minaj Went MAGA]]></title>
             <link>https://time.com/article/2026/05/14/nicki-minaj-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/14/nicki-minaj-trump/</guid>
@@ -37,10 +45,8 @@
         </item>
         <item>
             <title><![CDATA[TIME100 Philanthropy: The People Shaping Giving in 2026]]></title>
-            <description><![CDATA[The new leaders in philanthropy, many of whom are accustomed to great success in their own fields, are eager to see impact and see it now.]]></description>
             <link>https://time.com/article/2026/05/14/time100-philanthropy-the-people-shaping-giving/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/14/time100-philanthropy-the-people-shaping-giving/</guid>
-            <dc:creator><![CDATA[Sam Jacobs]]></dc:creator>
             <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3307,13 +3313,6 @@
             <title><![CDATA[KitKat Ramps Up Efforts to Locate 400,000 Stolen Candy Bars]]></title>
             <link>https://time.com/article/2026/04/01/kit-kat-chocolate-bars-stolen-heist-tracker/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/01/kit-kat-chocolate-bars-stolen-heist-tracker/</guid>
-            <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bruce Springsteen in Minneapolis]]></title>
-            <link>https://time.com/article/2026/04/01/bruce-springsteen-minneapolis-concert/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/01/bruce-springsteen-minneapolis-concert/</guid>
-            <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
