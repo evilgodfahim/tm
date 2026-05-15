@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 May 2026 13:45:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 15:57:51 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 15 May 2026 13:45:26 GMT</pubDate>
+        <pubDate>Fri, 15 May 2026 15:57:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump’s China Trip Underscores How Power Has Shifted East]]></title>
@@ -35,6 +35,19 @@
             <link>https://time.com/article/2026/05/15/trump-xi-us-china-summit-ai-semiconductor-chips/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/15/trump-xi-us-china-summit-ai-semiconductor-chips/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Defends Giant Golden Statue of Himself Amid Much Debate]]></title>
+            <link>https://time.com/article/2026/05/15/trump-gold-statue-controversy-comments-history/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/15/trump-gold-statue-controversy-comments-history/</guid>
+            <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[12 Habits Orthopedic Surgeons Swear By]]></title>
+            <link>https://time.com/article/2026/05/15/orthopedic-surgeons-healthy-aging-habits/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/15/orthopedic-surgeons-healthy-aging-habits/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -198,6 +211,13 @@
             <title><![CDATA[This Is Where Inflation Is Biting the Hardest for Americans]]></title>
             <link>https://time.com/article/2026/05/13/inflation-gas-prices-food-tariffs-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/13/inflation-gas-prices-food-tariffs-trump/</guid>
+            <pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Is God Is' Tells a Brash and Darkly Funny Revenge Tale]]></title>
+            <link>https://time.com/article/2026/05/13/is-god-is-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/13/is-god-is-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3292,27 +3312,6 @@
             <title><![CDATA[Iranian President Pens Open Letter to American People]]></title>
             <link>https://time.com/article/2026/04/01/iran-war-president-open-letter-american-people/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/01/iran-war-president-open-letter-american-people/</guid>
-            <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Artemis II Has Launched. Here's Everything You Need to Know]]></title>
-            <description><![CDATA[TIME spoke to Congresspeople, scientists, and more about NASA's 10-day lunar mission.]]></description>
-            <link>https://time.com/article/2026/04/01/artemis-ii-moon-launch-what-to-know/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/01/artemis-ii-moon-launch-what-to-know/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NASA’s Historic Lunar Mission Launch, in Photos]]></title>
-            <description><![CDATA[The best pictures from NASA’s Artemis II launch as four astronauts begin a historic journey around the moon after 53 years.]]></description>
-            <link>https://time.com/article/2026/04/01/artemis-launch-best-photos/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/01/artemis-launch-best-photos/</guid>
-            <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KitKat Ramps Up Efforts to Locate 400,000 Stolen Candy Bars]]></title>
-            <link>https://time.com/article/2026/04/01/kit-kat-chocolate-bars-stolen-heist-tracker/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/01/kit-kat-chocolate-bars-stolen-heist-tracker/</guid>
             <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
