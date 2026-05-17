@@ -4,10 +4,31 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 18:55:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 20:02:24 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 17 May 2026 18:55:38 GMT</pubDate>
+        <pubDate>Sun, 17 May 2026 20:02:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[WHO Declares Global Emergency Over Ebola Strain With No Vaccine]]></title>
+            <description><![CDATA[The rare Bundibugyo strain, with no approved vaccine or treatment, has killed nearly 90 people and reached Congo's capital, Kampala, and beyond.]]></description>
+            <link>https://time.com/article/2026/05/17/who-global-emergency-ebola-Bundibugyo/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/17/who-global-emergency-ebola-Bundibugyo/</guid>
+            <dc:creator><![CDATA[Nandika Chatterjee]]></dc:creator>
+            <pubDate>Sun, 17 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zelensky Hails Ukraine's Growing Drone Capability After Massive Moscow Strike]]></title>
+            <link>https://time.com/article/2026/05/17/ukraine-drone-moscow-zelenksy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/17/ukraine-drone-moscow-zelenksy/</guid>
+            <dc:creator><![CDATA[Nandika Chatterjee]]></dc:creator>
+            <pubDate>Sun, 17 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump's Flip on China Angers MAGA Supporters]]></title>
+            <link>https://time.com/article/2026/05/17/Chinese-farmland-trump-students/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/17/Chinese-farmland-trump-students/</guid>
+            <pubDate>Sun, 17 May 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump Leaves U.S. Support for Taiwan Uncertain After Beijing Visit]]></title>
             <link>https://time.com/article/2026/05/16/trump-taiwan-us-support-china/</link>
@@ -42,10 +63,8 @@
         </item>
         <item>
             <title><![CDATA[Trump’s China Trip Underscores How Power Has Shifted East]]></title>
-            <description><![CDATA[The U.S. President painted the trip as a success, but he appeared on the backfoot in Beijing.]]></description>
             <link>https://time.com/article/2026/05/15/trump-xi-us-china-summit-analysis/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/15/trump-xi-us-china-summit-analysis/</guid>
-            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
             <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -134,7 +153,6 @@
             <title><![CDATA[Embattled Louisiana Sen. Bill Cassidy Loses Primary]]></title>
             <link>https://time.com/article/2026/05/15/cassidy-louisiana-senate-republican-primary-trump-letlow-fleming/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/15/cassidy-louisiana-senate-republican-primary-trump-letlow-fleming/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3294,27 +3312,6 @@
             <link>https://time.com/article/2026/04/02/how-to-increase-us-fertility-rates/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/02/how-to-increase-us-fertility-rates/</guid>
             <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Finale of Tell Me Lies]]></title>
-            <link>https://time.com/7379246/tell-me-lies-ending-explained/</link>
-            <guid isPermaLink="true">https://time.com/7379246/tell-me-lies-ending-explained/</guid>
-            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 19:54:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 1 Small Change to Reset Your Sleep]]></title>
-            <link>https://time.com/7382327/sleep-consistency-wake-up-time/</link>
-            <guid isPermaLink="true">https://time.com/7382327/sleep-consistency-wake-up-time/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 19:54:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Approach Someone You Think May Have an Eating Disorder]]></title>
-            <link>https://time.com/7382180/how-to-talk-about-eating-disorders/</link>
-            <guid isPermaLink="true">https://time.com/7382180/how-to-talk-about-eating-disorders/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Wed, 01 Apr 2026 18:49:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
