@@ -4,10 +4,30 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 May 2026 10:59:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 14:31:40 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 18 May 2026 10:59:28 GMT</pubDate>
+        <pubDate>Mon, 18 May 2026 14:31:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Republicans Saw Georgia as a Top Pickup. Now It’s a Mess]]></title>
+            <link>https://time.com/article/2026/05/18/georgia-republicans-brace-for-bruising-senate-runoff-in-key-2026-battleground/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/18/georgia-republicans-brace-for-bruising-senate-runoff-in-key-2026-battleground/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why America Can’t Walk Away from the Gulf Economies]]></title>
+            <link>https://time.com/article/2026/05/18/america-saudi-arabia-gulf-economies/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/18/america-saudi-arabia-gulf-economies/</guid>
+            <dc:creator><![CDATA[Daniel Benaim and Elisa Ewers]]></dc:creator>
+            <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About the Long Island Rail Road Strike]]></title>
+            <link>https://time.com/article/2026/05/18/long-island-rail-road-lirr-strike-new-york-hochul-trump-explainer/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/18/long-island-rail-road-lirr-strike-new-york-hochul-trump-explainer/</guid>
+            <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[WHO Declares Global Emergency Over Ebola Strain With No Vaccine]]></title>
             <description><![CDATA[The rare Bundibugyo strain, with no approved vaccine or treatment, has killed nearly 90 people.]]></description>
@@ -20,7 +40,6 @@
             <title><![CDATA[Zelensky Hails Ukraine's Growing Drone Capability After Massive Moscow Strike]]></title>
             <link>https://time.com/article/2026/05/17/ukraine-drone-moscow-zelenksy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/17/ukraine-drone-moscow-zelenksy/</guid>
-            <dc:creator><![CDATA[Nandika Chatterjee]]></dc:creator>
             <pubDate>Sun, 17 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -78,7 +97,6 @@
             <title><![CDATA[Shutting Down USAID Led to a Rise in Global Violence, Study Says]]></title>
             <link>https://time.com/article/2026/05/15/usaid-shutdown-rise-global-violence/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/15/usaid-shutdown-rise-global-violence/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
             <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -156,6 +174,19 @@
             <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Next ICE Director Will Need More Than Loyalty to Trump, Former ICE Officials Say]]></title>
+            <link>https://time.com/article/2026/05/15/ICE-Director-David-Venturella-DHS-Mullin-immigration/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/15/ICE-Director-David-Venturella-DHS-Mullin-immigration/</guid>
+            <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cannes Review: 'Paper Tiger']]></title>
+            <link>https://time.com/article/2026/05/15/paper-tiger-review-cannes/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/15/paper-tiger-review-cannes/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How Nicki Minaj Went MAGA]]></title>
             <link>https://time.com/article/2026/05/14/nicki-minaj-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/14/nicki-minaj-trump/</guid>
@@ -163,6 +194,7 @@
         </item>
         <item>
             <title><![CDATA[TIME100 Philanthropy: The People Shaping Giving in 2026]]></title>
+            <description><![CDATA[The new leaders in philanthropy, many of whom are accustomed to great success in their own fields, are eager to see impact and see it now.]]></description>
             <link>https://time.com/article/2026/05/14/time100-philanthropy-the-people-shaping-giving/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/14/time100-philanthropy-the-people-shaping-giving/</guid>
             <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
@@ -766,6 +798,7 @@
             <title><![CDATA[Who Decides What Greatness Tastes Like?]]></title>
             <link>https://time.com/article/2026/05/07/who-decides-what-greatness-tastes-like/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/07/who-decides-what-greatness-tastes-like/</guid>
+            <dc:creator><![CDATA[Vikas Khanna]]></dc:creator>
             <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3281,36 +3314,6 @@
             <link>https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/</guid>
             <dc:creator><![CDATA[Renée DiResta]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who Has Trump Fired in His Second Term?]]></title>
-            <link>https://time.com/article/2026/04/02/who-has-trump-fired-the-high-ranking-officials-replaced-in-the-president-s-second-term/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/02/who-has-trump-fired-the-high-ranking-officials-replaced-in-the-president-s-second-term/</guid>
-            <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who Is Todd Blanche, the New Acting Attorney General?]]></title>
-            <link>https://time.com/article/2026/04/02/who-is-todd-blanche-trump-s-former-lawyer-and-the-new-acting-attorney-general-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/02/who-is-todd-blanche-trump-s-former-lawyer-and-the-new-acting-attorney-general-/</guid>
-            <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump and the Venezuela Model of Compliant Autocracy]]></title>
-            <link>https://time.com/article/2026/04/02/trump-and-the-venezuela-model-of-autocracy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/02/trump-and-the-venezuela-model-of-autocracy/</guid>
-            <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will the Strait of Hormuz Sink NATO?]]></title>
-            <link>https://time.com/article/2026/04/02/will-the-strait-of-hormuz-sink-nato-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/02/will-the-strait-of-hormuz-sink-nato-/</guid>
-            <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Increase U.S. Fertility Rates]]></title>
-            <link>https://time.com/article/2026/04/02/how-to-increase-us-fertility-rates/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/02/how-to-increase-us-fertility-rates/</guid>
             <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
