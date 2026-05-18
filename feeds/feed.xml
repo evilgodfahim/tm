@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 May 2026 14:31:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 17:26:41 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 18 May 2026 14:31:40 GMT</pubDate>
+        <pubDate>Mon, 18 May 2026 17:26:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Republicans Saw Georgia as a Top Pickup. Now It’s a Mess]]></title>
@@ -26,6 +26,19 @@
             <title><![CDATA[What to Know About the Long Island Rail Road Strike]]></title>
             <link>https://time.com/article/2026/05/18/long-island-rail-road-lirr-strike-new-york-hochul-trump-explainer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/18/long-island-rail-road-lirr-strike-new-york-hochul-trump-explainer/</guid>
+            <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Marjorie Taylor Greene Warns of ‘Political Revolution’ in America If Trump Sends Troops to Iran]]></title>
+            <link>https://time.com/article/2026/05/18/american-political-revolution-over-iran-marjorie-taylor-greene-warns-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/18/american-political-revolution-over-iran-marjorie-taylor-greene-warns-trump/</guid>
+            <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We're Getting Closer to a Blood Test for Lung Cancer]]></title>
+            <link>https://time.com/article/2026/05/18/lung-cancer-blood-test/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/18/lung-cancer-blood-test/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3301,19 +3314,6 @@
             <description><![CDATA[Facing political backlash, global economic shock, and the looming midterms, the President still doesn't want to get out of Iran without declaring victory.]]></description>
             <link>https://time.com/article/2026/04/02/trump-iran-off-ramp/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/02/trump-iran-off-ramp/</guid>
-            <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Is Trying to Nationalize Elections. States Won’t Let Him]]></title>
-            <link>https://time.com/article/2026/04/02/trump-is-trying-to-nationalize-elections-states-won-t-let-him/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/02/trump-is-trying-to-nationalize-elections-states-won-t-let-him/</guid>
-            <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The New Age of AI Propaganda]]></title>
-            <link>https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/</guid>
-            <dc:creator><![CDATA[Renée DiResta]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
