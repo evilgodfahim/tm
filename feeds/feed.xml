@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 May 2026 20:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2026 22:08:09 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 19 May 2026 20:25:33 GMT</pubDate>
+        <pubDate>Tue, 19 May 2026 22:08:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Race to Build a Virtual Human Cell]]></title>
@@ -19,6 +19,7 @@
             <title><![CDATA[Trump 'Concerned' About Ebola as Deaths in Congo Rise]]></title>
             <link>https://time.com/article/2026/05/19/trump-concerned-ebola-outbreak-american-tests-positive-cases-deaths-rise/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/19/trump-concerned-ebola-outbreak-american-tests-positive-cases-deaths-rise/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -87,6 +88,25 @@
             <link>https://time.com/article/2026/05/19/vance-defends-1-8-anti-weaponization-fund/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/19/vance-defends-1-8-anti-weaponization-fund/</guid>
             <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.K. Police Investigating Child Sex Abuse Allegations Linked to Epstein Files]]></title>
+            <link>https://time.com/article/2026/05/19/police-investigating-abuse-allegations-epstein-files-uk/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/19/police-investigating-abuse-allegations-epstein-files-uk/</guid>
+            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lawmaker Warns of 'Global Food Crisis,' Urges Immediate Reopening for Strait of Hormuz]]></title>
+            <link>https://time.com/article/2026/05/19/global-food-crisis-concerns-strait-of-hormuz-iran-trade-choke-hold/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/19/global-food-crisis-concerns-strait-of-hormuz-iran-trade-choke-hold/</guid>
+            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Musk’s Failed OpenAI Lawsuit Underscores xAI’s Struggles]]></title>
+            <link>https://time.com/article/2026/05/19/elon-musk-openai-trial-xai-jury-verdict/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/19/elon-musk-openai-trial-xai-jury-verdict/</guid>
+            <dc:creator><![CDATA[Nikita Ostrovsky]]></dc:creator>
             <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -448,6 +468,13 @@
             <link>https://time.com/article/2026/05/14/nature-connection-positive-body-image/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/14/nature-connection-positive-body-image/</guid>
             <dc:creator><![CDATA[Kyla Mandel]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: Pedro Almodovar’s 'Bitter Christmas']]></title>
+            <link>https://time.com/article/2026/05/14/bitter-christmas-review-cannes/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/14/bitter-christmas-review-cannes/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3285,32 +3312,6 @@
             <title><![CDATA[A Long Gulf War Can Starve the World. A Hormuz Transit Deal Could Save Millions.]]></title>
             <link>https://time.com/article/2026/04/03/gulf-war-food-crisis-asia-africa-hormuz-transit-deal-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/03/gulf-war-food-crisis-asia-africa-hormuz-transit-deal-/</guid>
-            <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Brain Health the Next Healthcare Frontier?]]></title>
-            <link>https://time.com/article/2026/04/03/is-brain-health-the-next-healthcare-frontier-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/03/is-brain-health-the-next-healthcare-frontier-/</guid>
-            <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Story Behind 'The Truth and Tragedy of Moriah Wilson']]></title>
-            <link>https://time.com/article/2026/04/03/the-story-behind-the-truth-and-tragedy-of-moriah-wilson/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/03/the-story-behind-the-truth-and-tragedy-of-moriah-wilson/</guid>
-            <dc:creator><![CDATA[Isadora Wandermurem]]></dc:creator>
-            <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[These Agencies Are Still Being Impacted by the DHS Shutdown]]></title>
-            <link>https://time.com/article/2026/04/03/dhs-shutdown-funding-impacts-cybersecurity-terrorism-disasters-immigration/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/03/dhs-shutdown-funding-impacts-cybersecurity-terrorism-disasters-immigration/</guid>
-            <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Ending of 'The Drama']]></title>
-            <link>https://time.com/article/2026/04/03/the-drama-ending-explained/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/03/the-drama-ending-explained/</guid>
-            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
