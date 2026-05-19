@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 May 2026 18:54:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2026 20:25:33 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 19 May 2026 18:54:55 GMT</pubDate>
+        <pubDate>Tue, 19 May 2026 20:25:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Race to Build a Virtual Human Cell]]></title>
@@ -79,6 +79,14 @@
             <link>https://time.com/article/2026/05/19/new-sunscreen-ingredient-bemotrizinol-fda/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/19/new-sunscreen-ingredient-bemotrizinol-fda/</guid>
             <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vance Defends Possible DOJ Payouts to Jan. 6 Rioters]]></title>
+            <description><![CDATA[The Vice President said a $1.8 billion fund could potentially go to those who attacked police]]></description>
+            <link>https://time.com/article/2026/05/19/vance-defends-1-8-anti-weaponization-fund/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/19/vance-defends-1-8-anti-weaponization-fund/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
             <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3303,13 +3311,6 @@
             <link>https://time.com/article/2026/04/03/the-drama-ending-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/03/the-drama-ending-explained/</guid>
             <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
-            <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Thrilling Ending of 'Bloodhounds' Season 2]]></title>
-            <link>https://time.com/article/2026/04/03/bloodhounds-season-2-netflix-ending/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/03/bloodhounds-season-2-netflix-ending/</guid>
-            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
             <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
