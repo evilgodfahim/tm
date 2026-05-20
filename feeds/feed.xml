@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 May 2026 19:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 21:44:07 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 May 2026 19:15:02 GMT</pubDate>
+        <pubDate>Wed, 20 May 2026 21:44:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Putin, Following Trump, Visits the World’s Center Stage]]></title>
@@ -39,6 +39,19 @@
             <link>https://time.com/article/2026/05/20/is-it-bad-to-use-laptop-right-on-your-lap/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/20/is-it-bad-to-use-laptop-right-on-your-lap/</guid>
             <dc:creator><![CDATA[Matt Fuchs]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. Troop Withdrawals From Europe Won't Hurt Defenses, Says NATO Chief]]></title>
+            <link>https://time.com/article/2026/05/20/us-troops-leaving-europe-rift-nato-mark-rutte-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/20/us-troops-leaving-europe-rift-nato-mark-rutte-trump/</guid>
+            <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Brutal Series Finale of 'The Boys']]></title>
+            <link>https://time.com/article/2026/05/20/the-boys-series-finale/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/20/the-boys-series-finale/</guid>
+            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
             <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3306,18 +3319,6 @@
             <link>https://time.com/article/2026/04/07/why-people-gossip-benefits-science/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/why-people-gossip-benefits-science/</guid>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 Questions We Have After Euphoria's Season 3 Premiere]]></title>
-            <link>https://time.com/article/2026/04/07/euphoria-season-3-premiere-questions/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/07/euphoria-season-3-premiere-questions/</guid>
-            <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About the 25th Amendment as Lawmakers Call for Trump’s Removal]]></title>
-            <link>https://time.com/article/2026/04/06/25th-amendment-constitution-trump-war-iran-threat-insanity/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/06/25th-amendment-constitution-trump-war-iran-threat-insanity/</guid>
-            <pubDate>Mon, 06 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
