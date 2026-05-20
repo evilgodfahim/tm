@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 May 2026 23:55:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 02:36:15 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 19 May 2026 23:55:52 GMT</pubDate>
+        <pubDate>Wed, 20 May 2026 02:36:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Race to Build a Virtual Human Cell]]></title>
@@ -84,7 +84,6 @@
         </item>
         <item>
             <title><![CDATA[Vance Defends Possible DOJ Payouts to Jan. 6 Rioters]]></title>
-            <description><![CDATA[The Vice President said a $1.8 billion fund could potentially go to those who attacked police]]></description>
             <link>https://time.com/article/2026/05/19/vance-defends-1-8-anti-weaponization-fund/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/19/vance-defends-1-8-anti-weaponization-fund/</guid>
             <dc:creator><![CDATA[Nik Popli]]></dc:creator>
@@ -118,6 +117,14 @@
             <title><![CDATA[San Diego Mosque Attack Comes Amid Rising Islamophobia]]></title>
             <link>https://time.com/article/2026/05/19/san-diego-mosque-attack-comes-amid-rising-islamophobia/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/19/san-diego-mosque-attack-comes-amid-rising-islamophobia/</guid>
+            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rep. Thomas Massie Loses Primary to Trump-Backed Challenger]]></title>
+            <description><![CDATA[The result is a victory for the President, underscoring the strength of his influence over the Republican party]]></description>
+            <link>https://time.com/article/2026/05/19/massie-trump-kentucky-house-republican-primary-gallrein/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/19/massie-trump-kentucky-house-republican-primary-gallrein/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3306,12 +3313,6 @@
             <link>https://time.com/article/2026/04/05/trump-power-plants-iran-hormuz/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/05/trump-power-plants-iran-hormuz/</guid>
             <pubDate>Sun, 05 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Claimed Total Control of Iran's Airspace. Then Two Warplanes Were Downed]]></title>
-            <link>https://time.com/article/2026/04/04/f-15-shot-down-iran-search/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/04/f-15-shot-down-iran-search/</guid>
-            <pubDate>Sat, 04 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
