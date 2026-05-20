@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 May 2026 10:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 13:32:58 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 May 2026 10:20:12 GMT</pubDate>
+        <pubDate>Wed, 20 May 2026 13:32:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Putin, Following Trump, Visits the World’s Center Stage]]></title>
@@ -19,7 +19,13 @@
             <title><![CDATA[Georgia Republicans Head to Runoffs for Senate and Governor Races]]></title>
             <link>https://time.com/article/2026/05/20/georgia-governor-senate-primary-election-results-bottoms-ossoff-republican-runoff/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/20/georgia-governor-senate-primary-election-results-bottoms-ossoff-republican-runoff/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Moves to Tighten Banking Access for Non-Citizens]]></title>
+            <link>https://time.com/article/2026/05/20/trump-executive-order-immigration-banking-access-non-citizens-itin/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/20/trump-executive-order-immigration-banking-access-non-citizens-itin/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -33,7 +39,6 @@
             <title><![CDATA[Trump 'Concerned' About Ebola as Deaths in Congo Rise]]></title>
             <link>https://time.com/article/2026/05/19/trump-concerned-ebola-outbreak-american-tests-positive-cases-deaths-rise/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/19/trump-concerned-ebola-outbreak-american-tests-positive-cases-deaths-rise/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -80,6 +85,7 @@
             <title><![CDATA[Bedazzle Something. It's Good for Your Mental Health]]></title>
             <link>https://time.com/article/2026/05/19/bedazzling-mental-health-benefits/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/19/bedazzling-mental-health-benefits/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -136,16 +142,30 @@
         </item>
         <item>
             <title><![CDATA[Rep. Thomas Massie Loses Primary to Trump-Backed Challenger]]></title>
+            <description><![CDATA[The result is a victory for the President, underscoring the strength of his influence over the Republican party]]></description>
             <link>https://time.com/article/2026/05/19/massie-trump-kentucky-house-republican-primary-gallrein/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/19/massie-trump-kentucky-house-republican-primary-gallrein/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chris Rabb Scores Big Win for Progressives in Pennsylvania]]></title>
-            <description><![CDATA[Rabb won the primary in the most Democratic U.S. House district in the country.]]></description>
             <link>https://time.com/article/2026/05/19/chris-rabb-pennsylvania-third-house-district-democratic-primary-election-results/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/19/chris-rabb-pennsylvania-third-house-district-democratic-primary-election-results/</guid>
-            <dc:creator><![CDATA[Julia Terruso]]></dc:creator>
+            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why America and China are Codependent Superpowers]]></title>
+            <link>https://time.com/article/2026/05/19/trump-xi-america-china-economy-rivalry-superpowers/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/19/trump-xi-america-china-economy-rivalry-superpowers/</guid>
+            <dc:creator><![CDATA[Neil Shearing]]></dc:creator>
+            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Trump and Xi Traded a New Cold War for a Cold Peace]]></title>
+            <link>https://time.com/article/2026/05/19/trump-xi-beijing-new-cold-war-cold-peace/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/19/trump-xi-beijing-new-cold-war-cold-peace/</guid>
+            <dc:creator><![CDATA[Lyle Goldstein]]></dc:creator>
             <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3296,25 +3316,6 @@
             <title><![CDATA[What We Know About Kim Jong Un’s Teenage Daughter and Possible Heir]]></title>
             <link>https://time.com/article/2026/04/06/kim-jong-un-daughter-kim-ju-ae-north-korea-heir/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/06/kim-jong-un-daughter-kim-ju-ae-north-korea-heir/</guid>
-            <pubDate>Mon, 06 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet Steve Hilton, Who Trump Is Endorsing for California Governor]]></title>
-            <link>https://time.com/article/2026/04/06/steve-hilton-california-governor-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/06/steve-hilton-california-governor-trump/</guid>
-            <pubDate>Mon, 06 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are the Long Airport Waits Over?]]></title>
-            <link>https://time.com/article/2026/04/06/airport-waits-tsa-dhs-shutdown-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/06/airport-waits-tsa-dhs-shutdown-trump/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
-            <pubDate>Mon, 06 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Artemis II Is About To Fly Around the Far Side of the Moon]]></title>
-            <link>https://time.com/article/2026/04/06/artemis-ii-far-side-moon-historic-record/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/06/artemis-ii-far-side-moon-historic-record/</guid>
             <pubDate>Mon, 06 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
