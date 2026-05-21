@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 May 2026 18:54:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 20:46:53 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 May 2026 18:54:07 GMT</pubDate>
+        <pubDate>Thu, 21 May 2026 20:46:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[In Defense of Saying Hello]]></title>
@@ -45,7 +45,6 @@
             <title><![CDATA[Who Is Elizabeth MacDonough—and Why Is Trump Pushing for Her to Be Fired?]]></title>
             <link>https://time.com/article/2026/05/21/trump-demands-republicans-fire-senate-parliamentarian-elizabeth-macdonough/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/21/trump-demands-republicans-fire-senate-parliamentarian-elizabeth-macdonough/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -53,6 +52,20 @@
             <link>https://time.com/article/2026/05/21/state-leaders-must-prepare-for-an-ai-storm/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/21/state-leaders-must-prepare-for-an-ai-storm/</guid>
             <dc:creator><![CDATA[Eric Holcomb]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Key Takeaways From the Release of Files Related to Former Prince Andrew]]></title>
+            <link>https://time.com/article/2026/05/21/government-releases-confidential-files-prince-andrew-trade-envoy-key-revelations/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/21/government-releases-confidential-files-prince-andrew-trade-envoy-key-revelations/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Public Battle With Graves' Disease Nearly Destroyed Me]]></title>
+            <link>https://time.com/article/2026/05/21/graves-disease-erin-moriarty-essay/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/21/graves-disease-erin-moriarty-essay/</guid>
+            <dc:creator><![CDATA[Erin Moriarty]]></dc:creator>
             <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -271,6 +284,13 @@
             <link>https://time.com/article/2026/05/19/trump-xi-beijing-new-cold-war-cold-peace/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/19/trump-xi-beijing-new-cold-war-cold-peace/</guid>
             <dc:creator><![CDATA[Lyle Goldstein]]></dc:creator>
+            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['The Boroughs' Ending, Explained]]></title>
+            <link>https://time.com/article/2026/05/19/the-boroughs-ending-explained/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/19/the-boroughs-ending-explained/</guid>
+            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3298,26 +3318,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/04/08/leaving-nato-would-be-national-self-sabotage/</guid>
             <dc:creator><![CDATA[Tim Kaine]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['The Miniature Wife' Is Surprisingly Wonderful]]></title>
-            <link>https://time.com/article/2026/04/08/miniature-wife-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/08/miniature-wife-review/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About the Bab El-Mandeb Strait—and Why It's So Important]]></title>
-            <description><![CDATA[As the fragile U.S.-Iran cease-fire is being tested by reports of Tehran's continued chokehold on the Strait of Hormuz, concern is mounting over another critical maritime chokepoint.]]></description>
-            <link>https://time.com/article/2026/04/08/bab-el-mandeb-strait-iran-houthis-threat-trade-hormuz-war-ceasefire/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/08/bab-el-mandeb-strait-iran-houthis-threat-trade-hormuz-war-ceasefire/</guid>
-            <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Democrats Cast Shutdown as a Win. But What Did They Actually Get?]]></title>
-            <link>https://time.com/article/2026/04/07/democrats-insist-they-won-the-shutdown-fight-some-aren-t-convinced/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/07/democrats-insist-they-won-the-shutdown-fight-some-aren-t-convinced/</guid>
-            <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
