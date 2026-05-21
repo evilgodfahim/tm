@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 May 2026 06:44:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 10:32:58 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 May 2026 06:44:09 GMT</pubDate>
+        <pubDate>Thu, 21 May 2026 10:32:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Putin, Following Trump, Visits the World’s Center Stage]]></title>
@@ -573,6 +573,13 @@
             <title><![CDATA['Maximum Pleasure Guaranteed' Is Indeed a Joy]]></title>
             <link>https://time.com/article/2026/05/14/maximum-pleasure-guaranteed-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/14/maximum-pleasure-guaranteed-review/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stranger Things Happen in 'The Boroughs']]></title>
+            <link>https://time.com/article/2026/05/14/the-boroughs-review-netflix/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/14/the-boroughs-review-netflix/</guid>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
         </item>
@@ -3312,12 +3319,6 @@
             <title><![CDATA[Republican Clay Fuller Wins Election to Replace Marjorie Taylor Greene in Georgia]]></title>
             <link>https://time.com/article/2026/04/07/clay-fuller-special-election-marjorie-taylor-greene-georgia/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/clay-fuller-special-election-marjorie-taylor-greene-georgia/</guid>
-            <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Trump Losing Support Among Young MAGA Voters?]]></title>
-            <link>https://time.com/article/2026/04/07/Iran-war-Trump-MAGA-youth-vote-midterm/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/07/Iran-war-Trump-MAGA-youth-vote-midterm/</guid>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
