@@ -4,10 +4,16 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 May 2026 10:32:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 13:56:36 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 May 2026 10:32:58 GMT</pubDate>
+        <pubDate>Thu, 21 May 2026 13:56:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[In Defense of Saying Hello]]></title>
+            <link>https://time.com/article/2026/05/21/in-defense-of-saying-hello/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/21/in-defense-of-saying-hello/</guid>
+            <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Putin, Following Trump, Visits the World’s Center Stage]]></title>
             <link>https://time.com/article/2026/05/20/putin-xi-china-center-stage-diplomacy-analysis/</link>
@@ -58,6 +64,14 @@
             <title><![CDATA[Google Shifts to AI Search, Heralding Major Change in How People Use the Internet]]></title>
             <link>https://time.com/article/2026/05/20/google-search-ai-internet/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/20/google-search-ai-internet/</guid>
+            <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside Graham Platner's Controversial Rise]]></title>
+            <description><![CDATA[The Democrats' hopes in November hinge on the scandal-plagued Senate candidate]]></description>
+            <link>https://time.com/article/2026/05/20/graham-platner-profile/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/20/graham-platner-profile/</guid>
+            <dc:creator><![CDATA[Julia Terruso]]></dc:creator>
             <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3306,19 +3320,6 @@
             <link>https://time.com/article/2026/04/07/trump-iran-war-threat-steps-back/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/trump-iran-war-threat-steps-back/</guid>
             <dc:creator><![CDATA[Nik Popli and Philip Wang]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Significance of The Artemis II Moon Photos]]></title>
-            <description><![CDATA[The crew of Artemis II just captured a series of dazzling images of the Earth and moon.]]></description>
-            <link>https://time.com/article/2026/04/07/artemis-ii-moon-earth-photos/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/07/artemis-ii-moon-earth-photos/</guid>
-            <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Republican Clay Fuller Wins Election to Replace Marjorie Taylor Greene in Georgia]]></title>
-            <link>https://time.com/article/2026/04/07/clay-fuller-special-election-marjorie-taylor-greene-georgia/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/07/clay-fuller-special-election-marjorie-taylor-greene-georgia/</guid>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
