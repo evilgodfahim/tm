@@ -4,14 +4,42 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 May 2026 13:56:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 16:36:25 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 May 2026 13:56:36 GMT</pubDate>
+        <pubDate>Thu, 21 May 2026 16:36:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[In Defense of Saying Hello]]></title>
             <link>https://time.com/article/2026/05/21/in-defense-of-saying-hello/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/21/in-defense-of-saying-hello/</guid>
+            <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spencer Pratt Is Running Trump’s Playbook—and Trump Approves]]></title>
+            <link>https://time.com/article/2026/05/21/spencer-pratt-trump-los-angeles-mayor-endorsement/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/21/spencer-pratt-trump-los-angeles-mayor-endorsement/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tributes Pour In for Former Congressman Barney Frank]]></title>
+            <link>https://time.com/article/2026/05/21/barney-frank-death-obituary-tributes/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/21/barney-frank-death-obituary-tributes/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Next-Generation Drug Causes Dramatic Weight Loss]]></title>
+            <link>https://time.com/article/2026/05/21/eli-lilly-new-weight-loss-drug/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/21/eli-lilly-new-weight-loss-drug/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[11 Signs You're the Problem in Your Friendships]]></title>
+            <link>https://time.com/article/2026/05/21/are-you-the-problem-in-your-friendships/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/21/are-you-the-problem-in-your-friendships/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -37,14 +65,12 @@
             <title><![CDATA[Democrats Criticize Trump After He Dismisses Soaring Gas Prices as ‘Peanuts’]]></title>
             <link>https://time.com/article/2026/05/20/democrats-criticize-trump-dismissing-soaring-gas-prices-iran-war-fallout/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/20/democrats-criticize-trump-dismissing-soaring-gas-prices-iran-war-fallout/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is It Bad to Use a Laptop on Your Lap?]]></title>
             <link>https://time.com/article/2026/05/20/is-it-bad-to-use-laptop-right-on-your-lap/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/20/is-it-bad-to-use-laptop-right-on-your-lap/</guid>
-            <dc:creator><![CDATA[Matt Fuchs]]></dc:creator>
             <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -57,7 +83,6 @@
             <title><![CDATA[Breaking Down the Brutal Series Finale of 'The Boys']]></title>
             <link>https://time.com/article/2026/05/20/the-boys-series-finale/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/20/the-boys-series-finale/</guid>
-            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
             <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -72,6 +97,19 @@
             <link>https://time.com/article/2026/05/20/graham-platner-profile/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/20/graham-platner-profile/</guid>
             <dc:creator><![CDATA[Julia Terruso]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Truth About Donald Trump’s Sanity]]></title>
+            <link>https://time.com/article/2026/05/20/the-truth-about-donald-trump-s-sanity/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/20/the-truth-about-donald-trump-s-sanity/</guid>
+            <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The New Star Wars Doesn't Bode Well for the Franchise]]></title>
+            <description><![CDATA[The first Star Wars movie in seven years chose the path of a cute green alien over the sophisticated storytelling of 'Andor.']]></description>
+            <link>https://time.com/article/2026/05/20/the-mandalorian-and-grogu-star-wars-franchise-andor/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/20/the-mandalorian-and-grogu-star-wars-franchise-andor/</guid>
             <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -97,6 +135,7 @@
             <title><![CDATA[Stephen Colbert Made the Hard Parts of Being Human Watchable]]></title>
             <link>https://time.com/article/2026/05/19/stephen-colbert-made-hard-parts-being-human-watchable/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/19/stephen-colbert-made-hard-parts-being-human-watchable/</guid>
+            <dc:creator><![CDATA[Rebecca Soffer]]></dc:creator>
             <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -297,6 +336,7 @@
             <title><![CDATA[How Boots Riley Made a ‘Feel-Good’ Movie About Capitalist Exploitation]]></title>
             <link>https://time.com/article/2026/05/18/boots-riley-interview-i-love-boosters/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/18/boots-riley-interview-i-love-boosters/</guid>
+            <dc:creator><![CDATA[Matthew Jacobs]]></dc:creator>
             <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -594,7 +634,6 @@
             <title><![CDATA[Stranger Things Happen in 'The Boroughs']]></title>
             <link>https://time.com/article/2026/05/14/the-boroughs-review-netflix/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/14/the-boroughs-review-netflix/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3277,49 +3316,6 @@
             <link>https://time.com/article/2026/04/07/trump-warns-whole-civilization-will-die-if-iran-misses-deadline/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/07/trump-warns-whole-civilization-will-die-if-iran-misses-deadline/</guid>
             <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘A Perfect Storm’: How AI Is Transforming the Global Scam Industry]]></title>
-            <link>https://time.com/article/2026/04/07/-a-perfect-storm-how-ai-is-transforming-the-global-scam-industry/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/07/-a-perfect-storm-how-ai-is-transforming-the-global-scam-industry/</guid>
-            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI Helped Spark a Quantum Breakthrough. The World 'Is Not Prepared']]></title>
-            <link>https://time.com/article/2026/04/07/ai-quantum-computing-advance/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/07/ai-quantum-computing-advance/</guid>
-            <dc:creator><![CDATA[Nikita Ostrovsky]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The True Story Behind 'Untold: Chess Mates']]></title>
-            <link>https://time.com/article/2026/04/07/true-story-behind-untold-chess-mates/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/07/true-story-behind-untold-chess-mates/</guid>
-            <dc:creator><![CDATA[Rory Doherty]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Would Trump’s Threatened Attacks on Iran’s Infrastructure Be a War Crime?]]></title>
-            <link>https://time.com/article/2026/04/07/trump-iran-threats-war-crimes/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/07/trump-iran-threats-war-crimes/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Democrats Demand GOP Leaders End Recess to Stop Trump's Iran War]]></title>
-            <link>https://time.com/article/2026/04/07/democrats-demand-gop-leaders-end-recess-to-stop-trump-s-iran-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/07/democrats-demand-gop-leaders-end-recess-to-stop-trump-s-iran-war/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hegseth Says Trump is “A President of Peace” After He Threatens to Wipe Out Iran]]></title>
-            <description><![CDATA[Trump pauses planned strikes after accepting a two-week ceasefire proposal with Iran tied to reopening the Strait of Hormuz.]]></description>
-            <link>https://time.com/article/2026/04/07/trump-iran-war-threat-steps-back/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/07/trump-iran-war-threat-steps-back/</guid>
-            <dc:creator><![CDATA[Nik Popli and Philip Wang]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
