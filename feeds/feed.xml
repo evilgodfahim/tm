@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 May 2026 13:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 16:17:29 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 May 2026 13:24:50 GMT</pubDate>
+        <pubDate>Fri, 22 May 2026 16:17:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Two Men Charged Under A.I.-Revenge Porn Law: What to Know]]></title>
@@ -18,7 +18,26 @@
             <title><![CDATA[The Ebola and Hantavirus Outbreaks Offer an Ominous Warning]]></title>
             <link>https://time.com/article/2026/05/22/the-ebola-and-hantavirus-outbreaks-offer-an-ominous-warning/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/22/the-ebola-and-hantavirus-outbreaks-offer-an-ominous-warning/</guid>
-            <dc:creator><![CDATA[Neil Vora]]></dc:creator>
+            <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Democrats Criticize House Republicans for Abruptly Canceling War Powers Vote]]></title>
+            <link>https://time.com/article/2026/05/22/democrats-criticize-house-republicans-for-canceling-war-powers-vote-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/22/democrats-criticize-house-republicans-for-canceling-war-powers-vote-trump/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carney Says Alberta Is ‘Essential’ to Canada After Separation Vote Announcement]]></title>
+            <link>https://time.com/article/2026/05/22/carney-canada-alberta-separation-vote-referendum-response/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/22/carney-canada-alberta-separation-vote-referendum-response/</guid>
+            <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colbert's Long Goodbye]]></title>
+            <link>https://time.com/article/2026/05/22/colbert-late-show-finale-legacy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/22/colbert-late-show-finale-legacy/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -31,7 +50,6 @@
             <title><![CDATA[Spencer Pratt Is Running Trump’s Playbook—and Trump Approves]]></title>
             <link>https://time.com/article/2026/05/21/spencer-pratt-trump-los-angeles-mayor-endorsement/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/21/spencer-pratt-trump-los-angeles-mayor-endorsement/</guid>
-            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
             <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -148,6 +166,7 @@
             <title><![CDATA[The Truth About Donald Trump’s Sanity]]></title>
             <link>https://time.com/article/2026/05/20/the-truth-about-donald-trump-s-sanity/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/20/the-truth-about-donald-trump-s-sanity/</guid>
+            <dc:creator><![CDATA[Jeffrey Sonnenfeld]]></dc:creator>
             <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -162,6 +181,13 @@
             <link>https://time.com/article/2026/05/20/illness-is-not-a-personal-failure/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/20/illness-is-not-a-personal-failure/</guid>
             <dc:creator><![CDATA[Tom Levenson]]></dc:creator>
+            <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[For Tom Hanks, World War II Will Never Be Over]]></title>
+            <link>https://time.com/article/2026/05/20/world-war-ii-with-tom-hanks-interview/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/20/world-war-ii-with-tom-hanks-interview/</guid>
+            <dc:creator><![CDATA[Katie Sanders]]></dc:creator>
             <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3289,33 +3315,6 @@
             <link>https://time.com/article/2026/04/08/white-house-strait-of-hormuz-closure-would-be-completely-unacceptable-under-ceasefire/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/08/white-house-strait-of-hormuz-closure-would-be-completely-unacceptable-under-ceasefire/</guid>
             <dc:creator><![CDATA[Brian Bennett]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can the Iran Ceasefire Last? We Asked 3 Experts]]></title>
-            <link>https://time.com/article/2026/04/08/we-asked-3-experts-where-the-iran-war-goes-from-here/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/08/we-asked-3-experts-where-the-iran-war-goes-from-here/</guid>
-            <dc:creator><![CDATA[Brian Bennett]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About Iran’s Ceasefire Proposal as Peace Talks Approach]]></title>
-            <link>https://time.com/article/2026/04/08/iran-us-ceasefire-proposal-talks/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/08/iran-us-ceasefire-proposal-talks/</guid>
-            <dc:creator><![CDATA[Connor Greene and Rebecca Schneid]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why We Predicted Trump’s Iran Ceasefire]]></title>
-            <link>https://time.com/article/2026/04/08/why-we-predicted-trump-s-iran-ceasefire/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/08/why-we-predicted-trump-s-iran-ceasefire/</guid>
-            <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The True Story Behind 'Trust Me: The False Prophet']]></title>
-            <link>https://time.com/article/2026/04/08/trust-me-the-false-prophet-true-story/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/08/trust-me-the-false-prophet-true-story/</guid>
-            <dc:creator><![CDATA[Isabella Wandermurem]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
