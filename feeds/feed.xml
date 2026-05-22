@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 May 2026 16:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 18:29:27 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 May 2026 16:17:29 GMT</pubDate>
+        <pubDate>Fri, 22 May 2026 18:29:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Singapore’s Climate Pragmatism Is a Glimpse Into the Future]]></title>
+            <link>https://time.com/article/2026/05/23/ecosperity-singapore-climate-action/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/23/ecosperity-singapore-climate-action/</guid>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Two Men Charged Under A.I.-Revenge Porn Law: What to Know]]></title>
             <link>https://time.com/article/2026/05/22/ai-deepfake-revenge-porn-take-it-down-act-law/</link>
@@ -38,6 +45,13 @@
             <link>https://time.com/article/2026/05/22/colbert-late-show-finale-legacy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/22/colbert-late-show-finale-legacy/</guid>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Tale of Two Anthropics]]></title>
+            <link>https://time.com/article/2026/05/22/anthropic-claude-code-jack-clark-ai-safety/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/22/anthropic-claude-code-jack-clark-ai-safety/</guid>
+            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
             <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3301,20 +3315,6 @@
             <link>https://time.com/article/2026/04/08/cease-fire-deal-iran-reactions/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/08/cease-fire-deal-iran-reactions/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Handmaid's Tale' Sequel 'The Testaments': TV Review]]></title>
-            <link>https://time.com/article/2026/04/08/the-testaments-review-hulu/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/08/the-testaments-review-hulu/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strait of Hormuz Closure 'Unacceptable' Under Ceasefire, Leavitt Says]]></title>
-            <link>https://time.com/article/2026/04/08/white-house-strait-of-hormuz-closure-would-be-completely-unacceptable-under-ceasefire/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/08/white-house-strait-of-hormuz-closure-would-be-completely-unacceptable-under-ceasefire/</guid>
-            <dc:creator><![CDATA[Brian Bennett]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
