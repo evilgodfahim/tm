@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 May 2026 06:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 10:18:13 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 May 2026 06:41:25 GMT</pubDate>
+        <pubDate>Fri, 22 May 2026 10:18:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Two Men Charged Under A.I.-Revenge Porn Law: What to Know]]></title>
+            <link>https://time.com/article/2026/05/22/ai-deepfake-revenge-porn-take-it-down-act-law/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/22/ai-deepfake-revenge-porn-take-it-down-act-law/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In Defense of Saying Hello]]></title>
             <link>https://time.com/article/2026/05/21/in-defense-of-saying-hello/</link>
@@ -3310,13 +3317,6 @@
             <link>https://time.com/article/2026/04/08/big-mistakes-ending-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/08/big-mistakes-ending-explained/</guid>
             <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Iran War Is Driving More People To Consider EVs]]></title>
-            <link>https://time.com/article/2026/04/08/how-the-iran-war-is-pushing-more-people-to-buy-evs/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/08/how-the-iran-war-is-pushing-more-people-to-buy-evs/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
