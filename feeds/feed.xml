@@ -4,10 +4,18 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2026 16:58:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 17:58:01 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 24 May 2026 16:58:28 GMT</pubDate>
+        <pubDate>Sun, 24 May 2026 17:58:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Russia Hits Kyiv With One of Heaviest Bombardments Since War Began]]></title>
+            <description><![CDATA[The attack included the launch of an advanced ballistic Oreshnik missile, which is capable of carrying nuclear warheads.]]></description>
+            <link>https://time.com/article/2026/05/24/kyiv-Oreshnik-missile-strikes-zelensky-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/24/kyiv-Oreshnik-missile-strikes-zelensky-/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sun, 24 May 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Singapore’s Climate Pragmatism Is a Glimpse Into the Future]]></title>
             <link>https://time.com/article/2026/05/23/ecosperity-singapore-climate-action/</link>
@@ -24,7 +32,6 @@
         </item>
         <item>
             <title><![CDATA[Trump Says U.S. and Iran Are Getting Close To Deal]]></title>
-            <description><![CDATA[Trump says a deal is close, but warned that he would resume the war if negotiations fail.]]></description>
             <link>https://time.com/article/2026/05/23/iran-war-deal-news-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/23/iran-war-deal-news-trump/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
@@ -80,7 +87,6 @@
             <title><![CDATA[Gabbard Resigns as Trump's Director of National Intelligence]]></title>
             <link>https://time.com/article/2026/05/22/tulsi-gabbard-to-resign-as-trump-s-director-of-national-intelligence/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/22/tulsi-gabbard-to-resign-as-trump-s-director-of-national-intelligence/</guid>
-            <dc:creator><![CDATA[Brian Bennett]]></dc:creator>
             <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3306,13 +3312,6 @@
             <link>https://time.com/article/2026/04/09/the-christophers-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/the-christophers-review/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Dubai Will Abide]]></title>
-            <link>https://time.com/article/2026/04/09/iran-war-dubai-survive-abide/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/09/iran-war-dubai-survive-abide/</guid>
-            <dc:creator><![CDATA[Bobby Ghosh]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
