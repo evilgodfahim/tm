@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 May 2026 23:50:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 02:29:29 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 May 2026 23:50:56 GMT</pubDate>
+        <pubDate>Sun, 24 May 2026 02:29:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Singapore’s Climate Pragmatism Is a Glimpse Into the Future]]></title>
@@ -19,6 +19,13 @@
             <title><![CDATA[Green Card Changes Could Force Hundreds of Thousands to Leave U.S.]]></title>
             <link>https://time.com/article/2026/05/23/green-card-changes-trump-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/23/green-card-changes-trump-explained/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Says U.S. and Iran Are Getting Close To Deal]]></title>
+            <link>https://time.com/article/2026/05/23/iran-war-deal-news-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/23/iran-war-deal-news-trump/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sat, 23 May 2026 12:00:00 GMT</pubDate>
         </item>
@@ -3307,13 +3314,6 @@
             <link>https://time.com/article/2026/04/09/america-moral-injury-pandemic/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/america-moral-injury-pandemic/</guid>
             <dc:creator><![CDATA[Michael Valdovinos]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netflix Shark Thriller 'Thrash' Can't Pick a Lane]]></title>
-            <link>https://time.com/article/2026/04/09/thrash-netflix/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/09/thrash-netflix/</guid>
-            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
