@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2026 11:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 13:03:13 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 24 May 2026 11:08:19 GMT</pubDate>
+        <pubDate>Sun, 24 May 2026 13:03:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Singapore’s Climate Pragmatism Is a Glimpse Into the Future]]></title>
@@ -24,9 +24,16 @@
         </item>
         <item>
             <title><![CDATA[Trump Says U.S. and Iran Are Getting Close To Deal]]></title>
+            <description><![CDATA[Trump says a deal is close, but warned that he would resume the war if negotiations fail.]]></description>
             <link>https://time.com/article/2026/05/23/iran-war-deal-news-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/23/iran-war-deal-news-trump/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From China to Iran, Putin’s Power in a Multipolar World]]></title>
+            <link>https://time.com/article/2026/05/23/war-in-iran-oil-prices-russia-putin/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/23/war-in-iran-oil-prices-russia-putin/</guid>
             <pubDate>Sat, 23 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -71,7 +78,6 @@
         </item>
         <item>
             <title><![CDATA[Gabbard Resigns as Trump's Director of National Intelligence]]></title>
-            <description><![CDATA[Gabbard cited her husband's cancer diagnosis, but differed with others in the Administration on Iran.]]></description>
             <link>https://time.com/article/2026/05/22/tulsi-gabbard-to-resign-as-trump-s-director-of-national-intelligence/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/22/tulsi-gabbard-to-resign-as-trump-s-director-of-national-intelligence/</guid>
             <dc:creator><![CDATA[Brian Bennett]]></dc:creator>
@@ -3307,13 +3313,6 @@
             <link>https://time.com/article/2026/04/09/iran-war-dubai-survive-abide/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/iran-war-dubai-survive-abide/</guid>
             <dc:creator><![CDATA[Bobby Ghosh]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America’s Moral Injury Pandemic]]></title>
-            <link>https://time.com/article/2026/04/09/america-moral-injury-pandemic/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/09/america-moral-injury-pandemic/</guid>
-            <dc:creator><![CDATA[Michael Valdovinos]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
