@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 25 May 2026 17:00:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 May 2026 18:27:00 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 25 May 2026 17:00:41 GMT</pubDate>
+        <pubDate>Mon, 25 May 2026 18:27:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[European Countries Condemn Israeli Minister Over Alleged Mistreatment of Flotilla Activists]]></title>
@@ -35,6 +35,12 @@
             <link>https://time.com/article/2026/05/24/garden-grove-chemical-tank-explosion-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/24/garden-grove-chemical-tank-explosion-/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sun, 24 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Species of Tiny Blue Octopus Discovered]]></title>
+            <link>https://time.com/article/2026/05/24/new-species-blue-octopus/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/24/new-species-blue-octopus/</guid>
             <pubDate>Sun, 24 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -111,6 +117,13 @@
             <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[As the U.S. Celebrates 250 Years, Time for American Whiskey to Take a Bow]]></title>
+            <description><![CDATA[American whiskey is winning record prices and new respect as collectors bet on its history, rarity and cultural cachet.]]></description>
+            <link>https://time.com/article/2026/05/22/usa-250-anniversary-american-whiskey/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/22/usa-250-anniversary-american-whiskey/</guid>
+            <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[In Defense of Saying Hello]]></title>
             <link>https://time.com/article/2026/05/21/in-defense-of-saying-hello/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/21/in-defense-of-saying-hello/</guid>
@@ -165,6 +178,7 @@
             <title><![CDATA[My Public Battle With Graves' Disease Nearly Destroyed Me]]></title>
             <link>https://time.com/article/2026/05/21/graves-disease-erin-moriarty-essay/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/21/graves-disease-erin-moriarty-essay/</guid>
+            <dc:creator><![CDATA[Erin Moriarty]]></dc:creator>
             <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -215,6 +229,7 @@
             <title><![CDATA[Breaking Down the Brutal Series Finale of 'The Boys']]></title>
             <link>https://time.com/article/2026/05/20/the-boys-series-finale/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/20/the-boys-series-finale/</guid>
+            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
             <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -239,7 +254,6 @@
         </item>
         <item>
             <title><![CDATA[The New Star Wars Doesn't Bode Well for the Franchise]]></title>
-            <description><![CDATA[The first Star Wars movie in seven years chose the path of a cute green alien over the sophisticated storytelling of 'Andor.']]></description>
             <link>https://time.com/article/2026/05/20/the-mandalorian-and-grogu-star-wars-franchise-andor/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/20/the-mandalorian-and-grogu-star-wars-franchise-andor/</guid>
             <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
@@ -3300,19 +3314,6 @@
             <link>https://time.com/article/2026/04/09/pam-bondi-jeffrey-epstein-house-oversight-testimony/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/pam-bondi-jeffrey-epstein-house-oversight-testimony/</guid>
             <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Calls to Impeach Trump Collide With Wary Democratic Leaders]]></title>
-            <link>https://time.com/article/2026/04/09/calls-to-impeach-trump-collide-with-reluctant-democratic-leadership/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/09/calls-to-impeach-trump-collide-with-reluctant-democratic-leadership/</guid>
-            <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Women’s Brains Can Help Unleash a $1 Trillion Opportunity]]></title>
-            <link>https://time.com/article/2026/04/09/womens-brains-are-a-1-trillion-opportunity/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/09/womens-brains-are-a-1-trillion-opportunity/</guid>
-            <dc:creator><![CDATA[Lisa Mosconi]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
