@@ -4,10 +4,24 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 25 May 2026 07:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 May 2026 11:44:52 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 25 May 2026 07:04:50 GMT</pubDate>
+        <pubDate>Mon, 25 May 2026 11:44:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[European Countries Condemn Israeli Minister Over Alleged Mistreatment of Flotilla Activists]]></title>
+            <link>https://time.com/article/2026/05/25/israel-europe-france-poland-italy-ben-gvir-sanctions-gaza-flotilla/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/25/israel-europe-france-poland-italy-ben-gvir-sanctions-gaza-flotilla/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Mon, 25 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About Türkiye’s Deepening Democratic Crisis]]></title>
+            <link>https://time.com/article/2026/05/25/turkiye-democracy-crisis-chp-erdogan-explainers/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/25/turkiye-democracy-crisis-chp-erdogan-explainers/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Mon, 25 May 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Russia Hits Kyiv With One of Heaviest Bombardments Since War Began]]></title>
             <description><![CDATA[The attack included the launch of an advanced ballistic Oreshnik missile, which is capable of carrying nuclear warheads.]]></description>
@@ -38,6 +52,7 @@
         </item>
         <item>
             <title><![CDATA[Trump Says U.S. and Iran Are Getting Close To Deal]]></title>
+            <description><![CDATA[Trump says a deal is close, but warned that he would resume the war if negotiations fail.]]></description>
             <link>https://time.com/article/2026/05/23/iran-war-deal-news-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/23/iran-war-deal-news-trump/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
@@ -3298,19 +3313,6 @@
             <link>https://time.com/article/2026/04/09/womens-brains-are-a-1-trillion-opportunity/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/womens-brains-are-a-1-trillion-opportunity/</guid>
             <dc:creator><![CDATA[Lisa Mosconi]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Hungarian Leader Viktor Orbán, an Icon of the Far Right, About to Be Ousted by Voters?]]></title>
-            <link>https://time.com/article/2026/04/09/viktor-orban-hungary-election-peter-magyar/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/09/viktor-orban-hungary-election-peter-magyar/</guid>
-            <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Not Even Keanu Reeves Can Breathe Life Into the Painfully Unfunny 'Outcome']]></title>
-            <link>https://time.com/article/2026/04/09/outcome-movie-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/09/outcome-movie-review/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
