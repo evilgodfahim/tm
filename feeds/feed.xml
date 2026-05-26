@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 May 2026 13:49:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 17:22:11 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 May 2026 13:49:33 GMT</pubDate>
+        <pubDate>Tue, 26 May 2026 17:22:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What to Know About Protests at New Jersey ICE Facility]]></title>
-            <description><![CDATA[A detention facility in New Jersey has become the latest site of clashes between ICE and protesters as detainees stage a hunger strike.]]></description>
             <link>https://time.com/article/2026/05/26/delaney-hall-ice-protests-new-jersey-dhs-geo-group-hunger-strike/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/26/delaney-hall-ice-protests-new-jersey-dhs-geo-group-hunger-strike/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
@@ -21,6 +20,20 @@
             <link>https://time.com/article/2026/05/26/abraham-accords-trump-peace-deal-us-israel-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/26/abraham-accords-trump-peace-deal-us-israel-iran-war/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Global Oil Prices Rise as Fresh U.S. Strikes on Iran Cast Shadow Over Peace Deal]]></title>
+            <description><![CDATA[The fresh strikes from the U.S., and the warning Iran issued in return, have brought renewed instability to the markets.]]></description>
+            <link>https://time.com/article/2026/05/26/us-iran-new-strikes-global-oil-prices-rise-peace-deal-talks-jeopardy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/26/us-iran-new-strikes-global-oil-prices-rise-peace-deal-talks-jeopardy/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI Tools Are Transforming Muslim Worship]]></title>
+            <link>https://time.com/article/2026/05/26/ai-muslim-worship/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/26/ai-muslim-worship/</guid>
             <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -42,7 +55,6 @@
             <title><![CDATA[Pope Leo Uses First Major Papal Text to Warn About Dangers of AI]]></title>
             <link>https://time.com/article/2026/05/25/pope-leo-encyclical-ai-magnifica-humanitas/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/25/pope-leo-encyclical-ai-magnifica-humanitas/</guid>
-            <dc:creator><![CDATA[Nandika Chatterjee]]></dc:creator>
             <pubDate>Mon, 25 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -152,6 +164,7 @@
             <title><![CDATA[In Defense of Saying Hello]]></title>
             <link>https://time.com/article/2026/05/21/in-defense-of-saying-hello/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/21/in-defense-of-saying-hello/</guid>
+            <dc:creator><![CDATA[Stacey Lee]]></dc:creator>
             <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3300,18 +3313,6 @@
             <title><![CDATA[If Cease-Fire Holds, How Soon Could Gas Prices Come Down?]]></title>
             <link>https://time.com/article/2026/04/09/oil-gas-commodity-prices-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/oil-gas-commodity-prices-iran-war/</guid>
-            <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[By Hosting U.S.-Iran Talks, Pakistan Eyes an Unlikely Rebrand as Peace Broker]]></title>
-            <link>https://time.com/article/2026/04/09/by-hosting-u-s--iran-talks-pakistan-eyes-an-unlikely-rebrand-as-peace-broker/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/09/by-hosting-u-s--iran-talks-pakistan-eyes-an-unlikely-rebrand-as-peace-broker/</guid>
-            <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Threatens 'Bigger and Stronger' Attacks If Iran Doesn’t Comply]]></title>
-            <link>https://time.com/article/2026/04/09/trump-threatens-stronger-attacks-if-iran-doesnt-comply-with-real-ceasefire-agreement/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/09/trump-threatens-stronger-attacks-if-iran-doesnt-comply-with-real-ceasefire-agreement/</guid>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
