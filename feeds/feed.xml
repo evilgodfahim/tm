@@ -4,15 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 May 2026 19:57:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 21:42:57 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 May 2026 19:57:45 GMT</pubDate>
+        <pubDate>Tue, 26 May 2026 21:42:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What to Know About Protests at New Jersey ICE Facility]]></title>
             <link>https://time.com/article/2026/05/26/delaney-hall-ice-protests-new-jersey-dhs-geo-group-hunger-strike/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/26/delaney-hall-ice-protests-new-jersey-dhs-geo-group-hunger-strike/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -52,6 +51,26 @@
             <title><![CDATA[Cannes Proves the Movie Star Isn’t Dead]]></title>
             <link>https://time.com/article/2026/05/26/cannes-internatonal-movie-stars-hollywood/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/26/cannes-internatonal-movie-stars-hollywood/</guid>
+            <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About the Trump Administration's Proposal for Government-Wide NDAs]]></title>
+            <link>https://time.com/article/2026/05/26/trump-administration-federal-workers-ndas/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/26/trump-administration-federal-workers-ndas/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sam Altman Says AI 'Jobs Apocalypse’ Probably Won’t Happen. What Changed?]]></title>
+            <link>https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Pope Leo’s Call to ‘Disarm’ AI Clashes With Trump’s Tech-First Agenda]]></title>
+            <link>https://time.com/article/2026/05/26/pope-leo-ai-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/26/pope-leo-ai-trump/</guid>
             <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3292,26 +3311,6 @@
             <title><![CDATA[What to Know About the U.S. Postal Service’s ‘Severe Financial Crisis’]]></title>
             <link>https://time.com/article/2026/04/10/usps-pension-contributions-mail-stamp-prices/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/10/usps-pension-contributions-mail-stamp-prices/</guid>
-            <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is a Super El Niño Coming in 2026?]]></title>
-            <link>https://time.com/article/2026/04/10/super-el-nino-2026-what-to-know/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/10/super-el-nino-2026-what-to-know/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How NASA Achieved the Historic Artemis II Splashdown]]></title>
-            <link>https://time.com/article/2026/04/10/artemis-ii-historic-splashdown/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/10/artemis-ii-historic-splashdown/</guid>
-            <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['The Pitt' Season 2 Finale: Robby's Fate]]></title>
-            <link>https://time.com/article/2026/04/10/the-pitt-season-2-finale-robby/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/10/the-pitt-season-2-finale-robby/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
