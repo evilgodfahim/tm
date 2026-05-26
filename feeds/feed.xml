@@ -4,10 +4,25 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 May 2026 06:40:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 13:49:33 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 May 2026 06:40:24 GMT</pubDate>
+        <pubDate>Tue, 26 May 2026 13:49:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What to Know About Protests at New Jersey ICE Facility]]></title>
+            <description><![CDATA[A detention facility in New Jersey has become the latest site of clashes between ICE and protesters as detainees stage a hunger strike.]]></description>
+            <link>https://time.com/article/2026/05/26/delaney-hall-ice-protests-new-jersey-dhs-geo-group-hunger-strike/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/26/delaney-hall-ice-protests-new-jersey-dhs-geo-group-hunger-strike/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About the Abraham Accords as Trump Seeks Iran Deal]]></title>
+            <link>https://time.com/article/2026/05/26/abraham-accords-trump-peace-deal-us-israel-iran-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/26/abraham-accords-trump-peace-deal-us-israel-iran-war/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[European Countries Condemn Israeli Minister Over Alleged Mistreatment of Flotilla Activists]]></title>
             <link>https://time.com/article/2026/05/25/israel-europe-france-poland-italy-ben-gvir-sanctions-gaza-flotilla/</link>
@@ -38,10 +53,8 @@
         </item>
         <item>
             <title><![CDATA[Russia Hits Kyiv With One of Heaviest Bombardments Since War Began]]></title>
-            <description><![CDATA[The attack included the launch of an advanced ballistic Oreshnik missile, which is capable of carrying nuclear warheads.]]></description>
             <link>https://time.com/article/2026/05/24/kyiv-Oreshnik-missile-strikes-zelensky-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/24/kyiv-Oreshnik-missile-strikes-zelensky-/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sun, 24 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3239,7 +3252,6 @@
         </item>
         <item>
             <title><![CDATA[Israel's War Against Lebanon, Explained]]></title>
-            <description><![CDATA[As concerns mount that Israel’s parallel war with Lebanon could jeopardize progress in U.S.-Iran negotiations, here’s what to know about the conflict, its key players, and the steeped history behind the clashes.]]></description>
             <link>https://time.com/article/2026/04/10/israels-hezbollah-lebanon-war-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/10/israels-hezbollah-lebanon-war-explained/</guid>
             <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
@@ -3300,19 +3312,6 @@
             <title><![CDATA[Trump Threatens 'Bigger and Stronger' Attacks If Iran Doesn’t Comply]]></title>
             <link>https://time.com/article/2026/04/09/trump-threatens-stronger-attacks-if-iran-doesnt-comply-with-real-ceasefire-agreement/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/09/trump-threatens-stronger-attacks-if-iran-doesnt-comply-with-real-ceasefire-agreement/</guid>
-            <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Melania Trump Says Lies Linking Her to Jeffrey Epstein ‘Need to End’]]></title>
-            <link>https://time.com/article/2026/04/09/melania-trump-says-lies-linking-her-to-jeffrey-epstein-need-to-end-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/09/melania-trump-says-lies-linking-her-to-jeffrey-epstein-need-to-end-/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
-            <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[American Men Are Set to Be Automatically Registered for the Draft]]></title>
-            <link>https://time.com/article/2026/04/09/us-men-automatic-military-draft-change/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/09/us-men-automatic-military-draft-change/</guid>
             <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
