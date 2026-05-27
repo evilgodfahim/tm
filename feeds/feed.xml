@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 May 2026 23:02:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 02:37:19 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 May 2026 23:02:38 GMT</pubDate>
+        <pubDate>Wed, 27 May 2026 02:37:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What to Know About Protests at New Jersey ICE Facility]]></title>
@@ -35,7 +35,6 @@
         </item>
         <item>
             <title><![CDATA[UFC's Dana White Is at the Peak of His Powers]]></title>
-            <description><![CDATA[How he took the organization from the fringes to the White House]]></description>
             <link>https://time.com/article/2026/05/26/dana-white-ufc-white-house-fight-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/26/dana-white-ufc-white-house-fight-interview/</guid>
             <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
@@ -57,20 +56,34 @@
             <title><![CDATA[What to Know About the Trump Administration's Proposal for Government-Wide NDAs]]></title>
             <link>https://time.com/article/2026/05/26/trump-administration-federal-workers-ndas/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/26/trump-administration-federal-workers-ndas/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sam Altman Says AI 'Jobs Apocalypse’ Probably Won’t Happen. What Changed?]]></title>
             <link>https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Pope Leo’s Call to ‘Disarm’ AI Clashes With Trump’s Tech-First Agenda]]></title>
             <link>https://time.com/article/2026/05/26/pope-leo-ai-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/26/pope-leo-ai-trump/</guid>
+            <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paxton Beats Cornyn—and Creates a Texas-Sized Headache for Republicans]]></title>
+            <description><![CDATA[Some Republicans expect ensuring Paxton wins in Texas will cost $250 million]]></description>
+            <link>https://time.com/article/2026/05/26/paxton-defeats-cornyn-trump-texas-talarico/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/26/paxton-defeats-cornyn-trump-texas-talarico/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Presidents’ Medical Information Isn’t a Matter of Public Record]]></title>
+            <link>https://time.com/article/2026/05/26/trump-physical-walter-reed-president-medical-records-public/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/26/trump-physical-walter-reed-president-medical-records-public/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3299,18 +3312,6 @@
             <link>https://time.com/article/2026/04/10/jp-morgan-climate-tipping-points-risk/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/10/jp-morgan-climate-tipping-points-risk/</guid>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel's War Against Lebanon, Explained]]></title>
-            <link>https://time.com/article/2026/04/10/israels-hezbollah-lebanon-war-explained/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/10/israels-hezbollah-lebanon-war-explained/</guid>
-            <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About the U.S. Postal Service’s ‘Severe Financial Crisis’]]></title>
-            <link>https://time.com/article/2026/04/10/usps-pension-contributions-mail-stamp-prices/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/10/usps-pension-contributions-mail-stamp-prices/</guid>
             <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
