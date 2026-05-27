@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 May 2026 20:02:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 22:26:00 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 May 2026 20:02:33 GMT</pubDate>
+        <pubDate>Wed, 27 May 2026 22:26:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Iran Did Not Win the Meme War]]></title>
@@ -31,13 +31,31 @@
             <title><![CDATA[The Best Science-Backed Way to Wash Your Hair]]></title>
             <link>https://time.com/article/2026/05/27/best-science-backed-way-to-wash-your-hair/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/27/best-science-backed-way-to-wash-your-hair/</guid>
-            <dc:creator><![CDATA[Erica Sweeney]]></dc:creator>
             <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DHS Threatens to Stop International Flight Processing in Sanctuary Cities]]></title>
             <link>https://time.com/article/2026/05/27/dhs-international-flight-processing-sanctuary-city-airports-mullin/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/27/dhs-international-flight-processing-sanctuary-city-airports-mullin/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Your Complete Guide to the 2026 FIFA World Cup]]></title>
+            <link>https://time.com/article/2026/05/27/fifa-world-cup-2026-complete-guide/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/27/fifa-world-cup-2026-complete-guide/</guid>
+            <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Ceasefire Alone Won’t Solve Lebanon’s Mental Health Crisis]]></title>
+            <link>https://time.com/article/2026/05/27/a-ceasefire-alone-won-t-solve-lebanon-s-mental-health-crisis/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/27/a-ceasefire-alone-won-t-solve-lebanon-s-mental-health-crisis/</guid>
+            <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Corporate Corruption Is so Common]]></title>
+            <link>https://time.com/article/2026/05/27/why-corporate-corruption-is-so-common/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/27/why-corporate-corruption-is-so-common/</guid>
             <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -63,6 +81,7 @@
             <title><![CDATA[AI Tools Are Transforming Muslim Worship]]></title>
             <link>https://time.com/article/2026/05/26/ai-muslim-worship/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/26/ai-muslim-worship/</guid>
+            <dc:creator><![CDATA[Andrew R. Chow and Juwayriah Wright]]></dc:creator>
             <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -82,6 +101,7 @@
             <title><![CDATA[Cannes Proves the Movie Star Isn’t Dead]]></title>
             <link>https://time.com/article/2026/05/26/cannes-internatonal-movie-stars-hollywood/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/26/cannes-internatonal-movie-stars-hollywood/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -94,6 +114,7 @@
             <title><![CDATA[Sam Altman Says AI 'Jobs Apocalypse’ Probably Won’t Happen. What Changed?]]></title>
             <link>https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -258,7 +279,6 @@
             <title><![CDATA[How Trump’s War With Iran Is Giving Somali Pirates an Opening]]></title>
             <link>https://time.com/article/2026/05/22/how-trump-s-war-with-iran-is-giving-somali-pirates-an-opening/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/22/how-trump-s-war-with-iran-is-giving-somali-pirates-an-opening/</guid>
-            <dc:creator><![CDATA[Luke McGee]]></dc:creator>
             <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -396,6 +416,7 @@
             <title><![CDATA[The New Star Wars Doesn't Bode Well for the Franchise]]></title>
             <link>https://time.com/article/2026/05/20/the-mandalorian-and-grogu-star-wars-franchise-andor/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/20/the-mandalorian-and-grogu-star-wars-franchise-andor/</guid>
+            <dc:creator><![CDATA[James Grebey]]></dc:creator>
             <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -948,7 +969,6 @@
             <title><![CDATA[When Did On-Screen Weddings Get So Bleak?]]></title>
             <link>https://time.com/article/2026/05/14/testaments-finale-red-wedding-season/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/14/testaments-finale-red-wedding-season/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3290,25 +3310,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/04/12/medicaid-cuts-could-force-more-kids-to-become-caregivers/</guid>
             <dc:creator><![CDATA[Lisa McCarty]]></dc:creator>
             <pubDate>Sun, 12 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eric Swalwell Ends California Governor Bid]]></title>
-            <link>https://time.com/article/2026/04/12/eric-swalwell-sexual-misconduct-allegations/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/12/eric-swalwell-sexual-misconduct-allegations/</guid>
-            <pubDate>Sun, 12 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. and Iran Fail To Reach Deal on Ending War After Marathon Talks]]></title>
-            <link>https://time.com/article/2026/04/11/strait-of-hormuz-iran-peace-talks/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/11/strait-of-hormuz-iran-peace-talks/</guid>
-            <dc:creator><![CDATA[Richard Hall and Nandika Chatterjee]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Trump’s Triumphal Arch Stacks Up Against Others Around the World]]></title>
-            <link>https://time.com/article/2026/04/11/how-trump-s-proposed-triumphal-arch-stacks-up-against-others-around-the-world/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/11/how-trump-s-proposed-triumphal-arch-stacks-up-against-others-around-the-world/</guid>
-            <pubDate>Sat, 11 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
