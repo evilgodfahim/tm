@@ -4,10 +4,16 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 May 2026 06:56:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 10:52:31 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 May 2026 06:56:25 GMT</pubDate>
+        <pubDate>Wed, 27 May 2026 10:52:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran Did Not Win the Meme War]]></title>
+            <link>https://time.com/article/2026/05/27/iran-america-trump-meme-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/27/iran-america-trump-meme-war/</guid>
+            <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What to Know About Protests at New Jersey ICE Facility]]></title>
             <link>https://time.com/article/2026/05/26/delaney-hall-ice-protests-new-jersey-dhs-geo-group-hunger-strike/</link>
@@ -62,13 +68,13 @@
             <title><![CDATA[Sam Altman Says AI 'Jobs Apocalypse’ Probably Won’t Happen. What Changed?]]></title>
             <link>https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Pope Leo’s Call to ‘Disarm’ AI Clashes With Trump’s Tech-First Agenda]]></title>
             <link>https://time.com/article/2026/05/26/pope-leo-ai-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/26/pope-leo-ai-trump/</guid>
-            <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
             <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -130,6 +136,12 @@
             <title><![CDATA[New Species of Tiny Blue Octopus Discovered]]></title>
             <link>https://time.com/article/2026/05/24/new-species-blue-octopus/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/24/new-species-blue-octopus/</guid>
+            <pubDate>Sun, 24 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why World Cup Ticket Prices Are So High]]></title>
+            <link>https://time.com/article/2026/05/24/why-2026-world-cup-ticket-prices-are-so-high/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/24/why-2026-world-cup-ticket-prices-are-so-high/</guid>
             <pubDate>Sun, 24 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -208,6 +220,13 @@
             <description><![CDATA[American whiskey is winning record prices and new respect as collectors bet on its history, rarity and cultural cachet.]]></description>
             <link>https://time.com/article/2026/05/22/usa-250-anniversary-american-whiskey/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/22/usa-250-anniversary-american-whiskey/</guid>
+            <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Trump’s War With Iran Is Giving Somali Pirates an Opening]]></title>
+            <link>https://time.com/article/2026/05/22/how-trump-s-war-with-iran-is-giving-somali-pirates-an-opening/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/22/how-trump-s-war-with-iran-is-giving-somali-pirates-an-opening/</guid>
+            <dc:creator><![CDATA[Luke McGee]]></dc:creator>
             <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3291,27 +3310,6 @@
             <link>https://time.com/article/2026/04/10/euphoria-season-3-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/10/euphoria-season-3-review/</guid>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America’s Cost-of-Living Crisis Is Really a Pay Crisis]]></title>
-            <link>https://time.com/article/2026/04/10/america-cost-of-living-pay-crisis/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/10/america-cost-of-living-pay-crisis/</guid>
-            <dc:creator><![CDATA[Arindrajit Dube]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['You, Me & Tuscany' Delivers Everything It Promises]]></title>
-            <link>https://time.com/article/2026/04/10/you-me-tuscany-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/10/you-me-tuscany-review/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[J.P. Morgan Is Thinking About Climate Tipping Points]]></title>
-            <link>https://time.com/article/2026/04/10/jp-morgan-climate-tipping-points-risk/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/10/jp-morgan-climate-tipping-points-risk/</guid>
-            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
