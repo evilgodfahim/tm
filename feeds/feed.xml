@@ -4,14 +4,34 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 May 2026 10:52:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 17:53:01 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 May 2026 10:52:31 GMT</pubDate>
+        <pubDate>Wed, 27 May 2026 17:53:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Iran Did Not Win the Meme War]]></title>
             <link>https://time.com/article/2026/05/27/iran-america-trump-meme-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/27/iran-america-trump-meme-war/</guid>
+            <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Biden Is Suing the DOJ—and What Trump Has Said About It]]></title>
+            <link>https://time.com/article/2026/05/27/why-biden-is-suing-the-department-of-justice-trump-response-lawsuit/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/27/why-biden-is-suing-the-department-of-justice-trump-response-lawsuit/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why We Need to Tax AI]]></title>
+            <link>https://time.com/article/2026/05/27/why-we-need-to-tax-ai/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/27/why-we-need-to-tax-ai/</guid>
+            <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Best Science-Backed Way to Wash Your Hair]]></title>
+            <link>https://time.com/article/2026/05/27/best-science-backed-way-to-wash-your-hair/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/27/best-science-backed-way-to-wash-your-hair/</guid>
+            <dc:creator><![CDATA[Erica Sweeney]]></dc:creator>
             <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -41,9 +61,9 @@
         </item>
         <item>
             <title><![CDATA[UFC's Dana White Is at the Peak of His Powers]]></title>
+            <description><![CDATA[How he took the organization from the fringes to the White House]]></description>
             <link>https://time.com/article/2026/05/26/dana-white-ufc-white-house-fight-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/26/dana-white-ufc-white-house-fight-interview/</guid>
-            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
             <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +88,13 @@
             <title><![CDATA[Sam Altman Says AI 'Jobs Apocalypse’ Probably Won’t Happen. What Changed?]]></title>
             <link>https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Pope Leo’s Call to ‘Disarm’ AI Clashes With Trump’s Tech-First Agenda]]></title>
             <link>https://time.com/article/2026/05/26/pope-leo-ai-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/26/pope-leo-ai-trump/</guid>
+            <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
             <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -90,6 +110,12 @@
             <link>https://time.com/article/2026/05/26/trump-physical-walter-reed-president-medical-records-public/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/26/trump-physical-walter-reed-president-medical-records-public/</guid>
             <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why an Ice Cream Cone is an Easy Environmental Win]]></title>
+            <link>https://time.com/article/2026/05/26/ice-cream-cone-cup-plastic-environment/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/26/ice-cream-cone-cup-plastic-environment/</guid>
             <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -909,6 +935,13 @@
             <title><![CDATA[Stranger Things Happen in 'The Boroughs']]></title>
             <link>https://time.com/article/2026/05/14/the-boroughs-review-netflix/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/14/the-boroughs-review-netflix/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When Did On-Screen Weddings Get So Bleak?]]></title>
+            <link>https://time.com/article/2026/05/14/testaments-finale-red-wedding-season/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/14/testaments-finale-red-wedding-season/</guid>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
         </item>
@@ -3277,40 +3310,6 @@
             <guid isPermaLink="true">https://time.com/7371832/looks-like-ai-writing-online-insult/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 15:42:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[White House Reportedly Warns Staff Against Insider Trading]]></title>
-            <link>https://time.com/article/2026/04/10/white-house-oil-prediction-markets-polymarket-bets-insider-trading-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/10/white-house-oil-prediction-markets-polymarket-bets-insider-trading-war/</guid>
-            <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['The Audacity' Is a Sharp Tech Satire]]></title>
-            <link>https://time.com/article/2026/04/10/the-audacity-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/10/the-audacity-review/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What ‘Emotional Flooding’ Really Means]]></title>
-            <link>https://time.com/article/2026/04/10/what-is-emotional-flooding/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/10/what-is-emotional-flooding/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starmer Says He's 'Fed Up' With Trump as Europe Splinters From U.S. Over Iran]]></title>
-            <link>https://time.com/article/2026/04/10/european-leaders-criticize-trump-over-iran-war-starmer-energy-prices/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/10/european-leaders-criticize-trump-over-iran-war-starmer-energy-prices/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Euphoria' Returns, Older But Not Wiser]]></title>
-            <link>https://time.com/article/2026/04/10/euphoria-season-3-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/10/euphoria-season-3-review/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
