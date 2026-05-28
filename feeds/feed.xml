@@ -4,10 +4,25 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 May 2026 06:44:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2026 10:46:08 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 28 May 2026 06:44:56 GMT</pubDate>
+        <pubDate>Thu, 28 May 2026 10:46:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump Threatens to ‘Blow Up’ Oman Over Strait of Hormuz]]></title>
+            <description><![CDATA[The President warned Oman against partnering with Iran to charge fees through the waterway as prospects of a peace deal appear to dim.]]></description>
+            <link>https://time.com/article/2026/05/28/us-iran-oman-trump-war-threat-strait-hormuz-peace-deal/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/28/us-iran-oman-trump-war-threat-strait-hormuz-peace-deal/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DOJ Launches Investigation Into Trump Accuser E. Jean Carroll]]></title>
+            <link>https://time.com/article/2026/05/28/e-jean-carroll-trump-justice-department-criminal-investigation/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/28/e-jean-carroll-trump-justice-department-criminal-investigation/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Iran Did Not Win the Meme War]]></title>
             <link>https://time.com/article/2026/05/27/iran-america-trump-meme-war/</link>
@@ -56,6 +71,13 @@
             <title><![CDATA[Why Corporate Corruption Is so Common]]></title>
             <link>https://time.com/article/2026/05/27/why-corporate-corruption-is-so-common/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/27/why-corporate-corruption-is-so-common/</guid>
+            <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Android Users Should Know About Google's $135 Million Settlement]]></title>
+            <link>https://time.com/article/2026/05/27/google-android-settlement-payment/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/27/google-android-settlement-payment/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3289,27 +3311,6 @@
             <guid isPermaLink="true">https://time.com/7382151/china-dominates-the-physical-ai-race/</guid>
             <dc:creator><![CDATA[Eric Schmidt and Selina Xu]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 07:10:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Says U.S. Will Blockade Strait of Hormuz]]></title>
-            <link>https://time.com/article/2026/04/12/trump-blockade-strait-of-hormuz-iran/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/12/trump-blockade-strait-of-hormuz-iran/</guid>
-            <dc:creator><![CDATA[Nandika Chatterjee and Miranda Jeyaretnam]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hungary’s Viktor Orbán Ousted by Voters After 16 Years In Power]]></title>
-            <link>https://time.com/article/2026/04/12/viktor-orban-election-loss-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/12/viktor-orban-election-loss-trump/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Medicaid Cuts Could Force More Kids to Become Caregivers]]></title>
-            <link>https://time.com/article/2026/04/12/medicaid-cuts-could-force-more-kids-to-become-caregivers/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/12/medicaid-cuts-could-force-more-kids-to-become-caregivers/</guid>
-            <dc:creator><![CDATA[Lisa McCarty]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
