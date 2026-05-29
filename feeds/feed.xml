@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 May 2026 12:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 16:37:10 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 29 May 2026 12:42:21 GMT</pubDate>
+        <pubDate>Fri, 29 May 2026 16:37:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Treasury Prepares to Put Trump on a $250 Bill]]></title>
-            <description><![CDATA[The move, to mark the U.S. Semiquincentennial with a commemorative note featuring the President, would require legislation to allow for a living person to appear on paper currency.]]></description>
             <link>https://time.com/article/2026/05/29/trump-250-dollar-bill-treasury-currency-congress-semiquincentennial/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/29/trump-250-dollar-bill-treasury-currency-congress-semiquincentennial/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
@@ -20,7 +19,14 @@
             <title><![CDATA[Artists Withdraw From Semiquincentennial Concerts]]></title>
             <link>https://time.com/article/2026/05/29/great-america-state-fair-america-250-artists-concert-pull-out-young-mc-martina-mcbride/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/29/great-america-state-fair-america-250-artists-concert-pull-out-young-mc-martina-mcbride/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jeff Bezos' Blue Origin Rocket Explodes Into Flames on Launch Pad]]></title>
+            <description><![CDATA[Footage of the incident shows the rocket erupting into a massive fireball, sending towering flames and thick smoke into the night sky.]]></description>
+            <link>https://time.com/article/2026/05/29/jeff-bezos-blue-origin-rocket-explodes-launch-pad-video-response/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/29/jeff-bezos-blue-origin-rocket-explodes-launch-pad-video-response/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3306,12 +3312,6 @@
             <guid isPermaLink="true">https://time.com/7379564/ai-emotional-intelligence-support-bots/</guid>
             <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 16:55:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the Iran-U.S. Peace Talks Failed]]></title>
-            <link>https://time.com/article/2026/04/13/iran-US-peace-talks-islamabad-war-nuclear/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/13/iran-US-peace-talks-islamabad-war-nuclear/</guid>
-            <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
