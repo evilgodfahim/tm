@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 May 2026 19:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 21:45:55 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 29 May 2026 19:28:04 GMT</pubDate>
+        <pubDate>Fri, 29 May 2026 21:45:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Treasury Prepares to Put Trump on a $250 Bill]]></title>
@@ -23,7 +23,6 @@
         </item>
         <item>
             <title><![CDATA[Jeff Bezos' Blue Origin Rocket Explodes Into Flames on Launch Pad]]></title>
-            <description><![CDATA[Footage of the incident shows the rocket erupting into a massive fireball, sending towering flames and thick smoke into the night sky.]]></description>
             <link>https://time.com/article/2026/05/29/jeff-bezos-blue-origin-rocket-explodes-launch-pad-video-response/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/29/jeff-bezos-blue-origin-rocket-explodes-launch-pad-video-response/</guid>
             <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
@@ -68,6 +67,40 @@
             <link>https://time.com/article/2026/05/29/iea-investment-report-electrification/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/29/iea-investment-report-electrification/</guid>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
+            <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bondi Stonewalls Questions About Trump as She Defends DOJ’s Handling of the Epstein Files]]></title>
+            <description><![CDATA[Former Attorney General Pam Bondi on Friday refused to answer questions regarding Trump’s involvement in the Administration’s handling of investigations in a "combative" interview.]]></description>
+            <link>https://time.com/article/2026/05/29/Bondi-Epstein-interview-Trump-DOJ-Todd-Blanche-House-Congress/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/29/Bondi-Epstein-interview-Trump-DOJ-Todd-Blanche-House-Congress/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here's What to Expect From the Three World Cup Opening Ceremonies]]></title>
+            <link>https://time.com/article/2026/05/29/world-cup-2026-opening-ceremonies-performers-usa-mexico-canada-fifa/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/29/world-cup-2026-opening-ceremonies-performers-usa-mexico-canada-fifa/</guid>
+            <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Best See This Weekend’s Rare Blue Micromoon]]></title>
+            <link>https://time.com/article/2026/05/29/blue-micromoon-may-2026/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/29/blue-micromoon-may-2026/</guid>
+            <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kenya Blocks U.S. Plan for an Ebola Facility for Americans]]></title>
+            <link>https://time.com/article/2026/05/29/kenya-blocks-us-plan-for-ebola-facility-for-americans/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/29/kenya-blocks-us-plan-for-ebola-facility-for-americans/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: Paul Rudd in 'Power Ballad']]></title>
+            <link>https://time.com/article/2026/05/29/power-ballad-movie-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/29/power-ballad-movie-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -141,7 +174,6 @@
             <title><![CDATA[Who Will Run for President in 2028? What Potential Contenders Have Said]]></title>
             <link>https://time.com/article/2026/05/28/2028-election-president-contenders-who-running-polls/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/28/2028-election-president-contenders-who-running-polls/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -222,6 +254,13 @@
             <link>https://time.com/article/2026/05/27/what-america-s-fastest-growing-cities-tell-us-about-the-future/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/27/what-america-s-fastest-growing-cities-tell-us-about-the-future/</guid>
             <dc:creator><![CDATA[John Hope Bryant]]></dc:creator>
+            <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Backrooms' Ending, Explained]]></title>
+            <link>https://time.com/article/2026/05/27/backrooms-movie-ending-explained/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/27/backrooms-movie-ending-explained/</guid>
+            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3271,46 +3310,6 @@
             <link>https://time.com/article/2026/04/14/should-i-take-CoQ10-supplement/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/14/should-i-take-CoQ10-supplement/</guid>
             <dc:creator><![CDATA[Stacey Colino]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.K.'s Top Economic Official Berates Trump for Entering Iran War Without 'Clear Exit Plan']]></title>
-            <link>https://time.com/article/2026/04/14/uk-economic-official-berates-trump-iran-war-no-exit-plan/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/14/uk-economic-official-berates-trump-iran-war-no-exit-plan/</guid>
-            <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two New Drugs Offer Hope for Pancreatic Cancer]]></title>
-            <link>https://time.com/article/2026/04/14/new-promise-for-treating-pancreatic-cancer/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/14/new-promise-for-treating-pancreatic-cancer/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Republicans Face Big Test on Iran War as 60-Day Deadline Looms]]></title>
-            <link>https://time.com/article/2026/04/14/republicans-face-crucial-test-on-iran-war-as-60-day-deadline-looms/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/14/republicans-face-crucial-test-on-iran-war-as-60-day-deadline-looms/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Mother Mary' Is Arty, Self-Conscious, and a Total Slog]]></title>
-            <link>https://time.com/article/2026/04/14/mother-mary-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/14/mother-mary-review/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A New AI Tool Could Transform How We Diagnose Genetic Diseases]]></title>
-            <link>https://time.com/article/2026/04/14/ai-disease-genetic-mayo-clinic-goodfire/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/14/ai-disease-genetic-mayo-clinic-goodfire/</guid>
-            <dc:creator><![CDATA[Nikita Ostrovsky]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Will Happen to Eric Swalwell and Tony Gonzales’ House Seats?]]></title>
-            <link>https://time.com/article/2026/04/14/eric-swalwell-tony-gonzales-house-seats-replacements-special-election/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/14/eric-swalwell-tony-gonzales-house-seats-replacements-special-election/</guid>
             <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
