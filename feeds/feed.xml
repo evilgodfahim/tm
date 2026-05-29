@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 May 2026 22:27:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 00:04:06 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 28 May 2026 22:27:18 GMT</pubDate>
+        <pubDate>Fri, 29 May 2026 00:04:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump Threatens to ‘Blow Up’ Oman Over Strait of Hormuz]]></title>
@@ -67,13 +67,19 @@
             <title><![CDATA[House Democrats to Introduce Bill to Block Trump’s Triumphal Arch]]></title>
             <link>https://time.com/article/2026/05/28/trump-arch-plans-democrat-legislation-construction-projects-backlash/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/28/trump-arch-plans-democrat-legislation-construction-projects-backlash/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Newsom Signs Bill to Safeguard California Elections, Citing Trump Concerns]]></title>
             <link>https://time.com/article/2026/05/28/newsom-california-primary-election-security-bill-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/28/newsom-california-primary-election-security-bill-trump/</guid>
+            <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who Will Run for President in 2028? What Potential Contenders Have Said]]></title>
+            <link>https://time.com/article/2026/05/28/2028-election-president-contenders-who-running-polls/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/28/2028-election-president-contenders-who-running-polls/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3305,12 +3311,6 @@
             <link>https://time.com/article/2026/04/13/why-its-hard-to-reach-your-doctor-how-to-get-a-response/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/13/why-its-hard-to-reach-your-doctor-how-to-get-a-response/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Key Obstacles to Israel-Lebanon Talks Over Hezbollah]]></title>
-            <link>https://time.com/article/2026/04/13/the-key-obstacles-to-israel-lebanon-talks-over-hezbollah/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/13/the-key-obstacles-to-israel-lebanon-talks-over-hezbollah/</guid>
             <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
