@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 31 May 2026 19:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 20:50:38 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 31 May 2026 19:22:18 GMT</pubDate>
+        <pubDate>Sun, 31 May 2026 20:50:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Chemical Disasters Strike as Trump Seeks to Roll Back Safety Rules]]></title>
@@ -14,6 +14,13 @@
             <link>https://time.com/article/2026/05/31/garden-grove-washington-chemical-accident-EPA-regulations-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/31/garden-grove-washington-chemical-accident-EPA-regulations-/</guid>
             <dc:creator><![CDATA[Rebecca Schneid and Richard Hall]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s Name Won’t Be Coming off the Kennedy Center Just Yet, Despite Court Order]]></title>
+            <link>https://time.com/article/2026/05/31/burgum-says-trump-s-name-won-t-be-taken-off-kennedy-center-after-judges-ruling/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/31/burgum-says-trump-s-name-won-t-be-taken-off-kennedy-center-after-judges-ruling/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sun, 31 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -27,7 +34,6 @@
             <title><![CDATA[Trump's Doctor Says He's in 'Excellent Health,' Urges Weight Loss]]></title>
             <link>https://time.com/article/2026/05/30/trump-medical-report-health-overweight-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/30/trump-medical-report-health-overweight-/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sat, 30 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1288,10 +1294,9 @@
             <pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Christopher Nolan's The Odyssey Is a Dream]]></title>
+            <title><![CDATA[Christopher Nolan]]></title>
             <link>https://time.com/article/2026/05/12/christopher-nolan-odyssey-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/12/christopher-nolan-odyssey-interview/</guid>
-            <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
             <pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3302,13 +3307,6 @@
             <link>https://time.com/article/2026/04/14/trump-jesus-christ-ai-image-backlash/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/14/trump-jesus-christ-ai-image-backlash/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Agency in the Age of AI]]></title>
-            <link>https://time.com/article/2026/04/14/agency-in-the-age-of-ai/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/14/agency-in-the-age-of-ai/</guid>
-            <dc:creator><![CDATA[John Palfrey]]></dc:creator>
             <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
