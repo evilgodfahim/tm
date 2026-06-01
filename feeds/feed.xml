@@ -4,10 +4,24 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Jun 2026 04:09:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 10:11:45 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Jun 2026 04:09:09 GMT</pubDate>
+        <pubDate>Mon, 01 Jun 2026 10:11:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Inside the Epic and Dark White Lotus Season 3]]></title>
+            <link>https://time.com/7208849/the-white-lotus-season-3-mike-white-cast-interview/</link>
+            <guid isPermaLink="true">https://time.com/7208849/the-white-lotus-season-3-mike-white-cast-interview/</guid>
+            <dc:creator><![CDATA[Judy Berman and Charlie Campbell]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 10:11:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chronic Lyme Is Finally in the Spotlight]]></title>
+            <link>https://time.com/6974403/chronic-lyme-disease-research/</link>
+            <guid isPermaLink="true">https://time.com/6974403/chronic-lyme-disease-research/</guid>
+            <dc:creator><![CDATA[Jamie Ducharme]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 10:11:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chemical Disasters Strike as Trump Seeks to Roll Back Safety Rules]]></title>
             <description><![CDATA[Two major incidents at chemical plants in one week have intensified scrutiny of the Trump Administration's push to gut chemical safety regulations.]]></description>
@@ -3295,19 +3309,6 @@
             <guid isPermaLink="true">https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/</guid>
             <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
             <pubDate>Tue, 14 Apr 2026 18:01:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Officials Considering Second Round of U.S.-Iran Talks]]></title>
-            <link>https://time.com/article/2026/04/14/us-iran-talks-war-ceasefire-trump-nuclear-enrichment-strait-hormuz/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/14/us-iran-talks-war-ceasefire-trump-nuclear-enrichment-strait-hormuz/</guid>
-            <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Explains Away Post Likening Himself to Jesus]]></title>
-            <link>https://time.com/article/2026/04/14/trump-jesus-christ-ai-image-backlash/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/14/trump-jesus-christ-ai-image-backlash/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
