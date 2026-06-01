@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Jun 2026 20:50:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 22:57:06 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Jun 2026 20:50:46 GMT</pubDate>
+        <pubDate>Mon, 01 Jun 2026 22:57:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Inside the Epic and Dark White Lotus Season 3]]></title>
@@ -34,7 +34,6 @@
             <title><![CDATA[How Does California’s ‘Jungle Primary’ Work?]]></title>
             <link>https://time.com/article/2026/06/01/california-governor-primary-jungle-top-two/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/01/california-governor-primary-jungle-top-two/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -53,6 +52,7 @@
             <title><![CDATA[To Be a Better Negotiator, Learn How to Give a Little]]></title>
             <link>https://time.com/article/2026/06/01/to-be-a-better-negotiator-learn-how-to-give-a-little/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/01/to-be-a-better-negotiator-learn-how-to-give-a-little/</guid>
+            <dc:creator><![CDATA[Attia Qureshi]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -91,6 +91,19 @@
             <link>https://time.com/article/2026/06/01/bring-me-the-beauties-true-story-eternal-values/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/01/bring-me-the-beauties-true-story-eternal-values/</guid>
             <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Senate Democrats Plan to Permanently Block Trump’s ‘Anti-Weaponization’ Fund]]></title>
+            <link>https://time.com/article/2026/06/01/trump-anti-weaponization-fund-doj-senate-democrats-schumer/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/01/trump-anti-weaponization-fund-doj-senate-democrats-schumer/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Key Takeaways From U.K.'s Release of Mandelson Files—and How Trump Is Mentioned]]></title>
+            <link>https://time.com/article/2026/06/01/peter-mandelson-files-ambassador-to-us-epstein-fallout-trump-revelations/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/01/peter-mandelson-files-ambassador-to-us-epstein-fallout-trump-revelations/</guid>
             <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3293,19 +3306,6 @@
             <title><![CDATA[Senate Blocks Iran War Powers Resolution for Fourth Time]]></title>
             <link>https://time.com/article/2026/04/15/senate-blocks-iran-war-powers-resolution-for-fourth-time/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/senate-blocks-iran-war-powers-resolution-for-fourth-time/</guid>
-            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Super-Rich Come to Washington Pleading to Pay More in Taxes]]></title>
-            <link>https://time.com/article/2026/04/15/-it-beats-pitchfork-rebellions-and-the-guillotine-why-these-super-rich-americans-are-asking-for-higher-taxes/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/15/-it-beats-pitchfork-rebellions-and-the-guillotine-why-these-super-rich-americans-are-asking-for-higher-taxes/</guid>
-            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Watch the TIME100 Gala Red Carpet Livestream]]></title>
-            <link>https://time.com/article/2026/04/15/time100-gala-red-carpet-livestream/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/15/time100-gala-red-carpet-livestream/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
