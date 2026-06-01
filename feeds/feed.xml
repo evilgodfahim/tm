@@ -4,23 +4,69 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Jun 2026 10:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 16:33:01 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Jun 2026 10:11:45 GMT</pubDate>
+        <pubDate>Mon, 01 Jun 2026 16:33:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Inside the Epic and Dark White Lotus Season 3]]></title>
             <link>https://time.com/7208849/the-white-lotus-season-3-mike-white-cast-interview/</link>
             <guid isPermaLink="true">https://time.com/7208849/the-white-lotus-season-3-mike-white-cast-interview/</guid>
             <dc:creator><![CDATA[Judy Berman and Charlie Campbell]]></dc:creator>
-            <pubDate>Mon, 01 Jun 2026 10:11:45 GMT</pubDate>
+            <pubDate>Mon, 01 Jun 2026 16:33:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chronic Lyme Is Finally in the Spotlight]]></title>
             <link>https://time.com/6974403/chronic-lyme-disease-research/</link>
             <guid isPermaLink="true">https://time.com/6974403/chronic-lyme-disease-research/</guid>
             <dc:creator><![CDATA[Jamie Ducharme]]></dc:creator>
-            <pubDate>Mon, 01 Jun 2026 10:11:45 GMT</pubDate>
+            <pubDate>Mon, 01 Jun 2026 16:33:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. and Iran Exchange Renewed Fire as Trump Claims ‘All Will Work Out Well']]></title>
+            <description><![CDATA[The fresh trading of strikes comes amid stalled progress in the peace deal negotiations between Washington and Tehran.]]></description>
+            <link>https://time.com/article/2026/06/01/us-iran-trade-fresh-strikes-peace-talks-president-trump-warning/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/01/us-iran-trade-fresh-strikes-peace-talks-president-trump-warning/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Does California’s ‘Jungle Primary’ Work?]]></title>
+            <link>https://time.com/article/2026/06/01/california-governor-primary-jungle-top-two/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/01/california-governor-primary-jungle-top-two/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colombia Presidential Election Heads to Run-Off: What to Know]]></title>
+            <link>https://time.com/article/2026/06/01/colombia-elections-explainer-abelardo-de-la-espriella-ivan-cepeda-runoff/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/01/colombia-elections-explainer-abelardo-de-la-espriella-ivan-cepeda-runoff/</guid>
+            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Boulder Tragedy One Year Later]]></title>
+            <link>https://time.com/article/2026/06/01/the-boulder-tragedy-one-year-later/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/01/the-boulder-tragedy-one-year-later/</guid>
+            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[To Be a Better Negotiator, Learn How to Give a Little]]></title>
+            <link>https://time.com/article/2026/06/01/to-be-a-better-negotiator-learn-how-to-give-a-little/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/01/to-be-a-better-negotiator-learn-how-to-give-a-little/</guid>
+            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Japan Wins in Every World Cup]]></title>
+            <link>https://time.com/article/2026/06/01/world-cup-japan-soft-power-cleanup/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/01/world-cup-japan-soft-power-cleanup/</guid>
+            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Not Suitable for Work': TV Review]]></title>
+            <link>https://time.com/article/2026/06/01/not-suitable-for-work-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/01/not-suitable-for-work-review/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chemical Disasters Strike as Trump Seeks to Roll Back Safety Rules]]></title>
@@ -3262,53 +3308,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/04/15/how-ai-can-beat-cancer/</guid>
             <dc:creator><![CDATA[Cyriac Roeding]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Diplomats Fear Trump's Iran Envoys Are Making Things Worse]]></title>
-            <link>https://time.com/article/2026/04/15/diplomats-fear-trump-iran-envoys-kushner-witkoff-nuclear/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/15/diplomats-fear-trump-iran-envoys-kushner-witkoff-nuclear/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Trump’s Strait of Hormuz Blockade May Be a Gift to China]]></title>
-            <link>https://time.com/article/2026/04/15/why-trump-s-strait-of-hormuz-blockade-may-be-a-gift-to-china/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/15/why-trump-s-strait-of-hormuz-blockade-may-be-a-gift-to-china/</guid>
-            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[House Democrats Move to Impeach Defense Secretary Hegseth]]></title>
-            <link>https://time.com/article/2026/04/15/hegseth-impeachment-resolution-democrats-house/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/15/hegseth-impeachment-resolution-democrats-house/</guid>
-            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Letting AI Do Your Work Erodes Your Confidence]]></title>
-            <link>https://time.com/article/2026/04/15/how-ai-use-affects-confidence-thinking-study/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/15/how-ai-use-affects-confidence-thinking-study/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 Predictions for 'The Pitt' Season 3]]></title>
-            <link>https://time.com/article/2026/04/15/5-the-pitt-season-3-predictions/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/15/5-the-pitt-season-3-predictions/</guid>
-            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stop Saying 'You're So Strong']]></title>
-            <link>https://time.com/article/2026/04/15/what-to-say-to-someone-grieving/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/15/what-to-say-to-someone-grieving/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exclusive: Anthropic Drops Flagship Safety Pledge]]></title>
-            <link>https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/</link>
-            <guid isPermaLink="true">https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/</guid>
-            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
-            <pubDate>Tue, 14 Apr 2026 18:01:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
