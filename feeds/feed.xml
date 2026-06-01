@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Jun 2026 16:33:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 20:50:46 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Jun 2026 16:33:01 GMT</pubDate>
+        <pubDate>Mon, 01 Jun 2026 20:50:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Inside the Epic and Dark White Lotus Season 3]]></title>
@@ -23,8 +23,8 @@
             <pubDate>Mon, 01 Jun 2026 16:33:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[U.S. and Iran Exchange Renewed Fire as Trump Claims ‘All Will Work Out Well']]></title>
-            <description><![CDATA[The fresh trading of strikes comes amid stalled progress in the peace deal negotiations between Washington and Tehran.]]></description>
+            <title><![CDATA[Trump Says He ‘Couldn’t Care Less’ if Peace Talks with Iran Fall Apart]]></title>
+            <description><![CDATA[The President later suggested, however, that talks were continuing at a “rapid pace.”]]></description>
             <link>https://time.com/article/2026/06/01/us-iran-trade-fresh-strikes-peace-talks-president-trump-warning/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/01/us-iran-trade-fresh-strikes-peace-talks-president-trump-warning/</guid>
             <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
@@ -65,7 +65,32 @@
             <title><![CDATA['Not Suitable for Work': TV Review]]></title>
             <link>https://time.com/article/2026/06/01/not-suitable-for-work-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/01/not-suitable-for-work-review/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About Rubisco, the Most Abundant Protein on Earth]]></title>
+            <link>https://time.com/article/2026/06/01/what-is-rubisco-abundant-protein-earth/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/01/what-is-rubisco-abundant-protein-earth/</guid>
+            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Curiosity Makes Me a Better Parent]]></title>
+            <link>https://time.com/article/2026/06/01/curiosity-makes-me-a-better-parent/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/01/curiosity-makes-me-a-better-parent/</guid>
+            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rarely Seen Photos of Marilyn Monroe]]></title>
+            <link>https://time.com/article/2026/06/01/marilyn-monroe/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/01/marilyn-monroe/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The True Story Behind 'Bring Me the Beauties']]></title>
+            <link>https://time.com/article/2026/06/01/bring-me-the-beauties-true-story-eternal-values/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/01/bring-me-the-beauties-true-story-eternal-values/</guid>
+            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3281,32 +3306,6 @@
             <link>https://time.com/article/2026/04/15/time100-gala-red-carpet-livestream/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/time100-gala-red-carpet-livestream/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Takes Step Closer to Popular Vote for Presidential Elections as Virginia Joins Compact]]></title>
-            <link>https://time.com/article/2026/04/15/popular-vote-state-compact-virginia-spanberger-electoral-college/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/15/popular-vote-state-compact-virginia-spanberger-electoral-college/</guid>
-            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Love Is War in 'Beef' Season 2: Review]]></title>
-            <link>https://time.com/article/2026/04/15/beef-season-2-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/15/beef-season-2-review/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Finale of Beef Season 2]]></title>
-            <link>https://time.com/article/2026/04/15/beef-season-2-finale-ending-explained/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/15/beef-season-2-finale-ending-explained/</guid>
-            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How AI Can Beat Cancer]]></title>
-            <link>https://time.com/article/2026/04/15/how-ai-can-beat-cancer/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/15/how-ai-can-beat-cancer/</guid>
-            <dc:creator><![CDATA[Cyriac Roeding]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
