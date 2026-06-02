@@ -4,10 +4,18 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Jun 2026 10:06:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jun 2026 14:44:48 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 02 Jun 2026 10:06:47 GMT</pubDate>
+        <pubDate>Tue, 02 Jun 2026 14:44:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump Reportedly Calls Netanyahu ‘Crazy,’ Pushes Israeli Leader to Back Down on Beirut Attack]]></title>
+            <description><![CDATA[Israel’s hostilities against Hezbollah, despite a ceasefire agreement, threatened to upend U.S. efforts toward a peace pact with Iran.]]></description>
+            <link>https://time.com/article/2026/06/02/trump-netanyahu-crazy-lebanon-hezbollah-ceasefire-iran-us-peace-deal/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/02/trump-netanyahu-crazy-lebanon-hezbollah-ceasefire-iran-us-peace-deal/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inside the Epic and Dark White Lotus Season 3]]></title>
             <link>https://time.com/7208849/the-white-lotus-season-3-mike-white-cast-interview/</link>
@@ -46,6 +54,7 @@
             <title><![CDATA[The Boulder Tragedy One Year Later]]></title>
             <link>https://time.com/article/2026/06/01/the-boulder-tragedy-one-year-later/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/01/the-boulder-tragedy-one-year-later/</guid>
+            <dc:creator><![CDATA[Susan Rona]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -59,6 +68,7 @@
             <title><![CDATA[What Japan Wins in Every World Cup]]></title>
             <link>https://time.com/article/2026/06/01/world-cup-japan-soft-power-cleanup/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/01/world-cup-japan-soft-power-cleanup/</guid>
+            <dc:creator><![CDATA[Bobby Ghosh]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -104,6 +114,18 @@
             <title><![CDATA[Key Takeaways From U.K.'s Release of Mandelson Files—and How Trump Is Mentioned]]></title>
             <link>https://time.com/article/2026/06/01/peter-mandelson-files-ambassador-to-us-epstein-fallout-trump-revelations/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/01/peter-mandelson-files-ambassador-to-us-epstein-fallout-trump-revelations/</guid>
+            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Search for Extraterrestrial Life May Be Flawed]]></title>
+            <link>https://time.com/article/2026/06/01/scientists-overlooking-signs-of-extraterrestrial-life-study/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/01/scientists-overlooking-signs-of-extraterrestrial-life-study/</guid>
+            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About Patagonia's Lawsuit Against Pattie Gonia]]></title>
+            <link>https://time.com/article/2026/06/01/patagonia-pattie-gonia-trademark-lawsuit-what-to-know/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/01/patagonia-pattie-gonia-trademark-lawsuit-what-to-know/</guid>
             <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -238,6 +260,12 @@
             <title><![CDATA[Blue Origin Explosion Will Set Back NASA's Moon Mission]]></title>
             <link>https://time.com/article/2026/05/29/blue-origin-rocket-explosion-nasa-moon/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/29/blue-origin-rocket-explosion-nasa-moon/</guid>
+            <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['The Vampire Lestat': TV Review]]></title>
+            <link>https://time.com/article/2026/05/29/the-vampire-lestat-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/05/29/the-vampire-lestat-review/</guid>
             <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3281,31 +3309,6 @@
             <title><![CDATA[War on Iran Could Lead to Global Recession, IMF Warns]]></title>
             <link>https://time.com/article/2026/04/15/imf-global-recession-war-us-israel-iran-energy-hormuz/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/imf-global-recession-war-us-israel-iran-energy-hormuz/</guid>
-            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s Hormuz Blockade Puts U.S. Forces on High Alert]]></title>
-            <description><![CDATA[Trump has declined to rule out deploying ground troops into Iran, where a fragile ceasefire could lapse within days]]></description>
-            <link>https://time.com/article/2026/04/15/amid-trump-s-blockade-threat-of-escalation-leaves-thousands-of-u-s-forces-on-high-alert/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/15/amid-trump-s-blockade-threat-of-escalation-leaves-thousands-of-u-s-forces-on-high-alert/</guid>
-            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About the Latest Allegations Against Eric Swalwell]]></title>
-            <link>https://time.com/article/2026/04/15/eric-swalwell-accusation-sexual-misconduct-rape/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/15/eric-swalwell-accusation-sexual-misconduct-rape/</guid>
-            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Says Iran War 'Close to Over,' Hints at Possible Deadline]]></title>
-            <link>https://time.com/article/2026/04/15/trump-iran-war-ending-fox-news/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/15/trump-iran-war-ending-fox-news/</guid>
-            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Senate Blocks Iran War Powers Resolution for Fourth Time]]></title>
-            <link>https://time.com/article/2026/04/15/senate-blocks-iran-war-powers-resolution-for-fourth-time/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/15/senate-blocks-iran-war-powers-resolution-for-fourth-time/</guid>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
