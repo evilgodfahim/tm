@@ -4,16 +4,16 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Jun 2026 18:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jun 2026 21:42:45 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 02 Jun 2026 18:33:23 GMT</pubDate>
+        <pubDate>Tue, 02 Jun 2026 21:42:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Trump Reportedly Calls Netanyahu ‘Crazy,’ Pushes Israeli Leader to Back Down on Beirut Attack]]></title>
-            <description><![CDATA[Israel’s hostilities against Hezbollah, despite a ceasefire agreement, threatened to upend U.S. efforts toward a peace pact with Iran.]]></description>
+            <title><![CDATA[Trump Says It's Time 'One Way or Another' for Iran to Make a Deal]]></title>
+            <description><![CDATA["You’ve been doing this for 47 years, and it cannot be allowed to go on any longer," said the U.S. President.]]></description>
             <link>https://time.com/article/2026/06/02/trump-netanyahu-crazy-lebanon-hezbollah-ceasefire-iran-us-peace-deal/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/02/trump-netanyahu-crazy-lebanon-hezbollah-ceasefire-iran-us-peace-deal/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <dc:creator><![CDATA[Chad de Guzman and Tiago Ventura]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -28,6 +28,18 @@
             <link>https://time.com/article/2026/06/02/to-save-democracy-we-need-to-reimagine-the-economy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/02/to-save-democracy-we-need-to-reimagine-the-economy/</guid>
             <dc:creator><![CDATA[Sarita Gupta]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who Is Bill Pulte, Trump’s New Acting Director of National Intelligence?]]></title>
+            <link>https://time.com/article/2026/06/02/bill-pulte-acting-director-of-national-intelligence-trump-gabbard/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/02/bill-pulte-acting-director-of-national-intelligence-trump-gabbard/</guid>
+            <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[White House Correspondents' Dinner Rescheduled After Shooting, With Trump Again Set to Speak]]></title>
+            <link>https://time.com/article/2026/06/02/white-house-correspondents-dinner-rescheduled-shooting-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/02/white-house-correspondents-dinner-rescheduled-shooting-trump/</guid>
             <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3296,20 +3308,6 @@
             <link>https://time.com/article/2026/04/15/zoe-saldana-time100-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/15/zoe-saldana-time100-interview/</guid>
             <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wagner Moura Wants to Tell You the Truth]]></title>
-            <link>https://time.com/article/2026/04/15/wagner-moura-time100-interview-secret-agent/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/15/wagner-moura-time100-interview-secret-agent/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Luke Combs Refuses to Believe You Don’t Like Country Music]]></title>
-            <link>https://time.com/article/2026/04/15/luke-combs-time100-interview-the-way-i-am/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/15/luke-combs-time100-interview-the-way-i-am/</guid>
-            <dc:creator><![CDATA[Lucy Feldman]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
