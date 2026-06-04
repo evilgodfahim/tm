@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jun 2026 13:54:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 16:46:13 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Jun 2026 13:54:20 GMT</pubDate>
+        <pubDate>Thu, 04 Jun 2026 16:46:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[House Votes to Restrain Trump’s Iran War Powers in Bipartisan Rebuke]]></title>
@@ -20,7 +20,6 @@
             <title><![CDATA[Trump Makes It Easier to Fire Thousands of Federal Workers]]></title>
             <link>https://time.com/article/2026/06/04/trump-executive-order-schedule-policy-career-classification-fire-federal-workers-at-will/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/04/trump-executive-order-schedule-policy-career-classification-fire-federal-workers-at-will/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -33,21 +32,39 @@
             <title><![CDATA[How to Know Whether to Greet Someone With a Hug, Handshake, or Wave]]></title>
             <link>https://time.com/article/2026/06/04/how-to-greet-someone-hug-handshake-wave/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/04/how-to-greet-someone-hug-handshake-wave/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This 1 Question Will Change How You Use Your Phone]]></title>
             <link>https://time.com/article/2026/06/04/michael-becka-essay/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/04/michael-becka-essay/</guid>
-            <dc:creator><![CDATA[Michael Becka]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[These Strange A.I. Videos Boosted Spencer Pratt's Campaign—and May Be the Future of Politics]]></title>
             <link>https://time.com/article/2026/06/04/-these-strange-a-i-videos-boosted-spencer-pratt-s-campaign-and-may-be-the-future-of-politics-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/04/-these-strange-a-i-videos-boosted-spencer-pratt-s-campaign-and-may-be-the-future-of-politics-/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside New York's 12th Congressional District Primary]]></title>
+            <link>https://time.com/article/2026/06/04/the-chaotic-race-to-represent-manhattan/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/04/the-chaotic-race-to-represent-manhattan/</guid>
+            <dc:creator><![CDATA[Julia Terruso]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Accuses California Democrats of ‘Cheating’ Over Pace of Vote Counts]]></title>
+            <link>https://time.com/article/2026/06/04/trump-california-democrats-cheating-accusations-election-pace-of-vote-counts/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/04/trump-california-democrats-cheating-accusations-election-pace-of-vote-counts/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why My Family Left Iowa]]></title>
+            <link>https://time.com/article/2026/06/04/why-my-family-left-iowa/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/04/why-my-family-left-iowa/</guid>
+            <dc:creator><![CDATA[Andrea Uptmor]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -67,6 +84,7 @@
             <title><![CDATA[Why Poland Has Been Left ‘Dazed and Confused’ by the Trump Administration]]></title>
             <link>https://time.com/article/2026/06/03/poland-left-dazed-and-confused-by-trump-administration/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/03/poland-left-dazed-and-confused-by-trump-administration/</guid>
+            <dc:creator><![CDATA[Thomas Nagorski]]></dc:creator>
             <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -86,6 +104,7 @@
             <title><![CDATA[To Quit Smoking, I Started Hiking]]></title>
             <link>https://time.com/article/2026/06/03/to-quit-smoking-i-started-hiking/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/03/to-quit-smoking-i-started-hiking/</guid>
+            <dc:creator><![CDATA[Kimberly McCreight]]></dc:creator>
             <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -105,7 +124,6 @@
             <title><![CDATA[How Zach Lahn Overcame a Trump-Backed Rival in Iowa]]></title>
             <link>https://time.com/article/2026/06/03/how-zach-lahn-overcame-a-trump-backed-opponent-in-iowa/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/03/how-zach-lahn-overcame-a-trump-backed-opponent-in-iowa/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
             <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -136,9 +154,9 @@
         </item>
         <item>
             <title><![CDATA[Inside the AI Boom's Arctic Outpost]]></title>
+            <description><![CDATA[Above the Arctic Circle, Nscale is turning a remote Norwegian valley into one of Europe’s largest AI data centers.]]></description>
             <link>https://time.com/article/2026/06/03/ai-norway-nscale-data-center/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/03/ai-norway-nscale-data-center/</guid>
-            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
             <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -146,6 +164,13 @@
             <link>https://time.com/article/2026/06/03/carbon-emissions-2026-fifa-world-cup/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/03/carbon-emissions-2026-fifa-world-cup/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What The Next 250 Years of American Justice Should Look Like]]></title>
+            <link>https://time.com/article/2026/06/03/what-the-next-250-years-of-american-justice-should-look-like/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/03/what-the-next-250-years-of-american-justice-should-look-like/</guid>
+            <dc:creator><![CDATA[Ana Zamora]]></dc:creator>
             <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -253,6 +278,7 @@
             <title><![CDATA['Not Suitable for Work': TV Review]]></title>
             <link>https://time.com/article/2026/06/01/not-suitable-for-work-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/01/not-suitable-for-work-review/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -312,7 +338,6 @@
             <title><![CDATA[The True Story Behind the Murder of Rachel Nickell]]></title>
             <link>https://time.com/article/2026/06/01/rachel-nickell-true-story-the-witness-netflix/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/01/rachel-nickell-true-story-the-witness-netflix/</guid>
-            <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -453,6 +478,7 @@
             <title><![CDATA['The Vampire Lestat': TV Review]]></title>
             <link>https://time.com/article/2026/05/29/the-vampire-lestat-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/29/the-vampire-lestat-review/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3286,32 +3312,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/04/18/welcome-to-the-second-gilded-age/</guid>
             <dc:creator><![CDATA[Mordecai Kurz]]></dc:creator>
             <pubDate>Sat, 18 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How U.S. Businesses Can Apply for Tariff Refunds]]></title>
-            <link>https://time.com/article/2026/04/17/tariff-refund-cbp-import-duties-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/17/tariff-refund-cbp-import-duties-trump/</guid>
-            <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Admin Cracks Down on Visas of People Working for ‘Adversaries’]]></title>
-            <link>https://time.com/article/2026/04/17/state-department-expands-visa-restriction-policy-against-those-working-for-u-s-adversaries-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/17/state-department-expands-visa-restriction-policy-against-those-working-for-u-s-adversaries-/</guid>
-            <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Nominates Dr. Erica Schwartz as CDC Director]]></title>
-            <link>https://time.com/article/2026/04/17/trump-nominates-erica-schwartz-new-cdc-director/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/17/trump-nominates-erica-schwartz-new-cdc-director/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
-            <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nancy Wexler Looks Back on a Life Spent Unraveling the Mystery of Huntington’s Disease]]></title>
-            <link>https://time.com/article/2026/04/17/huntingtons-disease-pioneer-nancy-wexler-memoir/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/17/huntingtons-disease-pioneer-nancy-wexler-memoir/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
-            <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
