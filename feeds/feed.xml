@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jun 2026 19:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 21:25:04 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Jun 2026 19:14:22 GMT</pubDate>
+        <pubDate>Thu, 04 Jun 2026 21:25:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[House Votes to Restrain Trump’s Iran War Powers in Bipartisan Rebuke]]></title>
-            <description><![CDATA[Four Republicans in the House joined Democrats to vote to limit Trump’s war powers against Iran, advancing the measure to the Senate.]]></description>
             <link>https://time.com/article/2026/06/04/trump-iran-war-powers-resolution-house-republicans/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/04/trump-iran-war-powers-resolution-house-republicans/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
@@ -26,6 +25,7 @@
             <title><![CDATA[Melinda French Gates Is Donating $215 Million to Women’s Health]]></title>
             <link>https://time.com/article/2026/06/04/melinda-french-gates-pivotal-womens-health-midlife/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/04/melinda-french-gates-pivotal-womens-health-midlife/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -57,7 +57,6 @@
             <title><![CDATA[Trump Accuses California Democrats of ‘Cheating’ Over Pace of Vote Counts]]></title>
             <link>https://time.com/article/2026/06/04/trump-california-democrats-cheating-accusations-election-pace-of-vote-counts/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/04/trump-california-democrats-cheating-accusations-election-pace-of-vote-counts/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -65,6 +64,14 @@
             <link>https://time.com/article/2026/06/04/why-my-family-left-iowa/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/04/why-my-family-left-iowa/</guid>
             <dc:creator><![CDATA[Andrea Uptmor]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel and Hezbollah Trade Fresh Strikes as Militant Group Rejects Cease-Fire Plan]]></title>
+            <description><![CDATA[The rejected cease-fire agreement and the continued exchanging of fire between Israel and the Hezbollah militant group in Lebanon casts a shadow over the progress of U.S.-Iran peace negotiations.]]></description>
+            <link>https://time.com/article/2026/06/04/hezbollah-rejects-israel-lebanon-ceasefire-agreement-strikes/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/04/hezbollah-rejects-israel-lebanon-ceasefire-agreement-strikes/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3304,13 +3311,6 @@
             <title><![CDATA[This Halal Beauty Company Boss Has Big Ambitions]]></title>
             <link>https://time.com/article/2026/04/18/Sari-Chairunnisa-paragon-corp-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/18/Sari-Chairunnisa-paragon-corp-interview/</guid>
-            <pubDate>Sat, 18 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to the Second Gilded Age]]></title>
-            <link>https://time.com/article/2026/04/18/welcome-to-the-second-gilded-age/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/18/welcome-to-the-second-gilded-age/</guid>
-            <dc:creator><![CDATA[Mordecai Kurz]]></dc:creator>
             <pubDate>Sat, 18 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
