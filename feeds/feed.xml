@@ -4,10 +4,52 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jun 2026 07:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 13:54:20 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Jun 2026 07:17:02 GMT</pubDate>
+        <pubDate>Thu, 04 Jun 2026 13:54:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[House Votes to Restrain Trump’s Iran War Powers in Bipartisan Rebuke]]></title>
+            <description><![CDATA[Four Republicans in the House joined Democrats to vote to limit Trump’s war powers against Iran, advancing the measure to the Senate.]]></description>
+            <link>https://time.com/article/2026/06/04/trump-iran-war-powers-resolution-house-republicans/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/04/trump-iran-war-powers-resolution-house-republicans/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Makes It Easier to Fire Thousands of Federal Workers]]></title>
+            <link>https://time.com/article/2026/06/04/trump-executive-order-schedule-policy-career-classification-fire-federal-workers-at-will/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/04/trump-executive-order-schedule-policy-career-classification-fire-federal-workers-at-will/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Melinda French Gates Is Donating $215 Million to Women’s Health]]></title>
+            <link>https://time.com/article/2026/06/04/melinda-french-gates-pivotal-womens-health-midlife/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/04/melinda-french-gates-pivotal-womens-health-midlife/</guid>
+            <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Know Whether to Greet Someone With a Hug, Handshake, or Wave]]></title>
+            <link>https://time.com/article/2026/06/04/how-to-greet-someone-hug-handshake-wave/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/04/how-to-greet-someone-hug-handshake-wave/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This 1 Question Will Change How You Use Your Phone]]></title>
+            <link>https://time.com/article/2026/06/04/michael-becka-essay/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/04/michael-becka-essay/</guid>
+            <dc:creator><![CDATA[Michael Becka]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[These Strange A.I. Videos Boosted Spencer Pratt's Campaign—and May Be the Future of Politics]]></title>
+            <link>https://time.com/article/2026/06/04/-these-strange-a-i-videos-boosted-spencer-pratt-s-campaign-and-may-be-the-future-of-politics-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/04/-these-strange-a-i-videos-boosted-spencer-pratt-s-campaign-and-may-be-the-future-of-politics-/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump Admin Scraps $1.8 Billion ‘Anti-Weaponization Fund’ After Backlash]]></title>
             <link>https://time.com/article/2026/06/03/trump-doj-anti-weaponization-fund-j6-blanche-irs-tax-audit/</link>
@@ -61,7 +103,6 @@
         </item>
         <item>
             <title><![CDATA[How Zach Lahn Overcame a Trump-Backed Rival in Iowa]]></title>
-            <description><![CDATA[Lahn harnessed an Iowa backlash to corporate agriculture and Big Pharma]]></description>
             <link>https://time.com/article/2026/06/03/how-zach-lahn-overcame-a-trump-backed-opponent-in-iowa/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/03/how-zach-lahn-overcame-a-trump-backed-opponent-in-iowa/</guid>
             <dc:creator><![CDATA[Nik Popli]]></dc:creator>
@@ -71,7 +112,6 @@
             <title><![CDATA[Anti-AIPAC Surgeon Adam Hamawy Likely Headed to Congress]]></title>
             <link>https://time.com/article/2026/06/03/adam-hamawy-gaza-doctor-new-jersey-democratic-primary-election-congress/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/03/adam-hamawy-gaza-doctor-new-jersey-democratic-primary-election-congress/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -92,6 +132,20 @@
             <title><![CDATA[Protests Erupt as U.K. Police Face Criticism Over Handcuffed Student’s Murder]]></title>
             <link>https://time.com/article/2026/06/03/uk-violent-protests-student-murder-police-response-sikh-community-fearful/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/03/uk-violent-protests-student-murder-police-response-sikh-community-fearful/</guid>
+            <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside the AI Boom's Arctic Outpost]]></title>
+            <link>https://time.com/article/2026/06/03/ai-norway-nscale-data-center/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/03/ai-norway-nscale-data-center/</guid>
+            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Will the Carbon Footprint of the 2026 FIFA World Cup Be?]]></title>
+            <link>https://time.com/article/2026/06/03/carbon-emissions-2026-fifa-world-cup/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/03/carbon-emissions-2026-fifa-world-cup/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -252,6 +306,13 @@
             <link>https://time.com/article/2026/06/01/patagonia-pattie-gonia-trademark-lawsuit-what-to-know/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/01/patagonia-pattie-gonia-trademark-lawsuit-what-to-know/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The True Story Behind the Murder of Rachel Nickell]]></title>
+            <link>https://time.com/article/2026/06/01/rachel-nickell-true-story-the-witness-netflix/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/01/rachel-nickell-true-story-the-witness-netflix/</guid>
+            <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3251,64 +3312,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/04/17/huntingtons-disease-pioneer-nancy-wexler-memoir/</guid>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Energy Lesson Behind Iran’s Control Over the Strait of Hormuz]]></title>
-            <link>https://time.com/article/2026/04/17/strait-of-hormuz-oil-price-volatility/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/17/strait-of-hormuz-oil-price-volatility/</guid>
-            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
-            <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What We Know About the Military Complex Being Built Beneath the White House]]></title>
-            <link>https://time.com/article/2026/04/17/white-house-military-complex-bunker-trump-ballroom/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/17/white-house-military-complex-bunker-trump-ballroom/</guid>
-            <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[May Bob Odenkirk Always Have as Much Fun as He's Having in Normal]]></title>
-            <link>https://time.com/article/2026/04/17/normal-movie-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/17/normal-movie-review/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the Government Is Making Chicago O’Hare Airport Cut Flights]]></title>
-            <link>https://time.com/article/2026/04/17/chicago-ohare-airport-flight-cuts-faa-transportation-department/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/17/chicago-ohare-airport-flight-cuts-faa-transportation-department/</guid>
-            <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How American Schools Can Address Political Polarization]]></title>
-            <link>https://time.com/article/2026/04/17/how-american-schools-can-address-political-polarization/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/17/how-american-schools-can-address-political-polarization/</guid>
-            <dc:creator><![CDATA[Deborah Kenny]]></dc:creator>
-            <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Modern Dating Is Making Us Less Secure]]></title>
-            <link>https://time.com/article/2026/04/17/modern-dating-is-making-us-less-secure/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/17/modern-dating-is-making-us-less-secure/</guid>
-            <dc:creator><![CDATA[Amir Levine]]></dc:creator>
-            <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Danger of Surrendering Your Financial Independence in a Relationship]]></title>
-            <link>https://time.com/article/2026/04/17/the-danger-of-surrendering-your-financial-independence-in-a-relationship/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/17/the-danger-of-surrendering-your-financial-independence-in-a-relationship/</guid>
-            <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Supreme Court Ruling Weakens Major Provision of Voting Rights Act]]></title>
-            <link>https://time.com/article/2026/04/17/supreme-court-voting-rights-act-Louisiana/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/17/supreme-court-voting-rights-act-Louisiana/</guid>
-            <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Live Nation Verdict May Affect Ticket Prices]]></title>
-            <link>https://time.com/article/2026/04/16/live-nation-federal-antitrust-verdict-explainer/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/16/live-nation-federal-antitrust-verdict-explainer/</guid>
-            <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
