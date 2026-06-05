@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Jun 2026 13:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 16:26:47 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Jun 2026 13:49:02 GMT</pubDate>
+        <pubDate>Fri, 05 Jun 2026 16:26:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[18 House Republicans Defy Party Leadership to Help Pass Pro-Ukraine Bill]]></title>
@@ -20,7 +20,6 @@
             <title><![CDATA[Kennedy Center Starts Removing Trump References]]></title>
             <link>https://time.com/article/2026/06/05/kennedy-center-staff-remove-trump-name-court-ruling/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/05/kennedy-center-staff-remove-trump-name-court-ruling/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -28,6 +27,20 @@
             <link>https://time.com/article/2026/06/05/ai-is-already-shaping-who-we-are/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/05/ai-is-already-shaping-who-we-are/</guid>
             <dc:creator><![CDATA[Laura Manley]]></dc:creator>
+            <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet the Republicans Who Voted to Block Trump’s White House Ballroom]]></title>
+            <link>https://time.com/article/2026/06/05/republicans-vote-to-block-trump-white-house-ballroom/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/05/republicans-vote-to-block-trump-white-house-ballroom/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does The Future of Climate Resilience Lie Beneath Our Feet?]]></title>
+            <link>https://time.com/article/2026/06/05/does-the-future-of-climate-resilience-lie-beneath-our-feet/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/05/does-the-future-of-climate-resilience-lie-beneath-our-feet/</guid>
+            <dc:creator><![CDATA[Susan Gardner]]></dc:creator>
             <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -91,10 +104,8 @@
         </item>
         <item>
             <title><![CDATA[Israel and Hezbollah Trade Fresh Strikes as Militant Group Rejects Cease-Fire Plan]]></title>
-            <description><![CDATA[The rejected cease-fire agreement and the continued exchanging of fire between Israel and the Hezbollah militant group in Lebanon casts a shadow over the progress of U.S.-Iran peace negotiations.]]></description>
             <link>https://time.com/article/2026/06/04/hezbollah-rejects-israel-lebanon-ceasefire-agreement-strikes/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/04/hezbollah-rejects-israel-lebanon-ceasefire-agreement-strikes/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3300,19 +3311,6 @@
             <title><![CDATA[Trump’s Labor Secretary Lori Chavez-DeRemer Resigns]]></title>
             <link>https://time.com/article/2026/04/20/labor-secretary-lori-chavez-deremer-out-trump-administration/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/20/labor-secretary-lori-chavez-deremer-out-trump-administration/</guid>
-            <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Ohio Became a Swing State Again]]></title>
-            <link>https://time.com/article/2026/04/20/when-no-one-was-looking-ohio-became-a-swing-state-again/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/20/when-no-one-was-looking-ohio-became-a-swing-state-again/</guid>
-            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
-            <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Sobering Truth About Rare Earths]]></title>
-            <link>https://time.com/article/2026/04/20/trump-s-push-to-break-china-s-dominance-of-critical-rare-earth-minerals/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/20/trump-s-push-to-break-china-s-dominance-of-critical-rare-earth-minerals/</guid>
             <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
