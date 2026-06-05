@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Jun 2026 10:50:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 13:49:02 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Jun 2026 10:50:31 GMT</pubDate>
+        <pubDate>Fri, 05 Jun 2026 13:49:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[18 House Republicans Defy Party Leadership to Help Pass Pro-Ukraine Bill]]></title>
@@ -21,6 +21,13 @@
             <link>https://time.com/article/2026/06/05/kennedy-center-staff-remove-trump-name-court-ruling/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/05/kennedy-center-staff-remove-trump-name-court-ruling/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI Is Already Shaping Who We Are]]></title>
+            <link>https://time.com/article/2026/06/05/ai-is-already-shaping-who-we-are/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/05/ai-is-already-shaping-who-we-are/</guid>
+            <dc:creator><![CDATA[Laura Manley]]></dc:creator>
             <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -253,6 +260,13 @@
             <link>https://time.com/article/2026/06/02/your-friends-and-neighbors-season-2-finale-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/02/your-friends-and-neighbors-season-2-finale-explained/</guid>
             <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Javier Bardem Saves a Bloated 'Cape Fear']]></title>
+            <link>https://time.com/article/2026/06/02/cape-fear-apple-review-javier-bardem/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/02/cape-fear-apple-review-javier-bardem/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3300,20 +3314,6 @@
             <link>https://time.com/article/2026/04/20/trump-s-push-to-break-china-s-dominance-of-critical-rare-earth-minerals/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/20/trump-s-push-to-break-china-s-dominance-of-critical-rare-earth-minerals/</guid>
             <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Allyson Felix Is Planning Her Comeback]]></title>
-            <link>https://time.com/article/2026/04/20/allyson-felix-comeback-olympics-2028/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/20/allyson-felix-comeback-olympics-2028/</guid>
-            <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Seizes Iranian Cargo Ship Amid Peace Talk Standoff]]></title>
-            <description><![CDATA[Iran vowed to retaliate after Trump said the U.S. blew a hole in an Iranian tanker as the cease-fire between the two countries is set to soon end.]]></description>
-            <link>https://time.com/article/2026/04/19/trump-accuses-iran-of-total-violation-as-strait-of-hormuz-remains-shut/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/19/trump-accuses-iran-of-total-violation-as-strait-of-hormuz-remains-shut/</guid>
-            <dc:creator><![CDATA[Gemma Fox, Nik Popli and Miranda Jeyaretnam]]></dc:creator>
-            <pubDate>Sun, 19 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
