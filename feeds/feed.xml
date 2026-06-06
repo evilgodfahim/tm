@@ -4,15 +4,22 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Jun 2026 11:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jun 2026 13:10:48 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 06 Jun 2026 11:18:18 GMT</pubDate>
+        <pubDate>Sat, 06 Jun 2026 13:10:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why AI Agents Are the Next Great Technological Transformation]]></title>
             <link>https://time.com/article/2026/06/06/why-ai-agents-are-the-next-great-technological-transformation/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/06/why-ai-agents-are-the-next-great-technological-transformation/</guid>
             <dc:creator><![CDATA[Cristiano Amon]]></dc:creator>
+            <pubDate>Sat, 06 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pope Leo Arrives in Spain for First Major European Trip as Pontiff. Here's What to Know]]></title>
+            <link>https://time.com/article/2026/06/06/pope-leo-spain-trip-schedule-francis-legacy-migrants-war-political-backdrop/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/06/pope-leo-spain-trip-schedule-francis-legacy-migrants-war-political-backdrop/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Sat, 06 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3305,13 +3312,6 @@
             <title><![CDATA[Louisiana Shooting Kills 8 Children: What to Know]]></title>
             <link>https://time.com/article/2026/04/20/louisiana-shooting-shreveport-shamar-elkins/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/20/louisiana-shooting-shreveport-shamar-elkins/</guid>
-            <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tehran Says ‘No Decision Yet’ on Joining Peace Talks Citing Distrust of Washington]]></title>
-            <link>https://time.com/article/2026/04/20/iran-us-peace-talks-stalemate-strait-of-hormuz-trump-threats/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/20/iran-us-peace-talks-stalemate-strait-of-hormuz-trump-threats/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
