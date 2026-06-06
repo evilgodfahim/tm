@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Jun 2026 19:06:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jun 2026 20:55:02 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 06 Jun 2026 19:06:28 GMT</pubDate>
+        <pubDate>Sat, 06 Jun 2026 20:55:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why AI Agents Are the Next Great Technological Transformation]]></title>
@@ -30,8 +30,15 @@
             <pubDate>Sat, 06 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hegseth Uses D-Day Anniversary Speech to Attack European Immigration Policies]]></title>
+            <description><![CDATA[Hegseth used the traditionally solemn occasion to attack European leaders on immigration.]]></description>
+            <link>https://time.com/article/2026/06/06/hegseth-d-day-speech-immigration/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/06/hegseth-d-day-speech-immigration/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sat, 06 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[18 House Republicans Defy Party Leadership to Help Pass Pro-Ukraine Bill]]></title>
-            <description><![CDATA[Though it still needs Senate approval, the bill’s passage is a significant show of defiance against President Trump and GOP leadership.]]></description>
             <link>https://time.com/article/2026/06/05/house-republicans-bipartisan-ukraine-support-act-aid-russia-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/05/house-republicans-bipartisan-ukraine-support-act-aid-russia-trump/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
@@ -3307,12 +3314,6 @@
             <link>https://time.com/article/2026/04/21/i-swear-true-story-john-davidson/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/i-swear-true-story-john-davidson/</guid>
             <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[These Are the Civilians Who Have Been Killed in the Iran War]]></title>
-            <link>https://time.com/article/2026/04/21/iran-war-civilians-killed/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/21/iran-war-civilians-killed/</guid>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
