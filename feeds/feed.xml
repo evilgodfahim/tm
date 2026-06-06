@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Jun 2026 17:02:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jun 2026 19:06:28 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 06 Jun 2026 17:02:05 GMT</pubDate>
+        <pubDate>Sat, 06 Jun 2026 19:06:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why AI Agents Are the Next Great Technological Transformation]]></title>
@@ -20,6 +20,13 @@
             <link>https://time.com/article/2026/06/06/pope-leo-spain-trip-schedule-francis-legacy-migrants-war-political-backdrop/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/06/pope-leo-spain-trip-schedule-francis-legacy-migrants-war-political-backdrop/</guid>
             <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Sat, 06 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Do Climate Disasters Fuel Anti-Establishment Politicians Like Spencer Pratt?]]></title>
+            <link>https://time.com/article/2026/06/06/spencer-pratt-anti-establishment-climate-politics/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/06/spencer-pratt-anti-establishment-climate-politics/</guid>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Sat, 06 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3307,12 +3314,6 @@
             <link>https://time.com/article/2026/04/21/iran-war-civilians-killed/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/iran-war-civilians-killed/</guid>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Louisiana Shooting Kills 8 Children: What to Know]]></title>
-            <link>https://time.com/article/2026/04/20/louisiana-shooting-shreveport-shamar-elkins/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/20/louisiana-shooting-shreveport-shamar-elkins/</guid>
-            <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
