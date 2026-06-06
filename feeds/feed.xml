@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Jun 2026 22:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jun 2026 00:00:13 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Jun 2026 22:10:17 GMT</pubDate>
+        <pubDate>Sat, 06 Jun 2026 00:00:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[18 House Republicans Defy Party Leadership to Help Pass Pro-Ukraine Bill]]></title>
@@ -50,6 +50,25 @@
             <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Trump Announces ‘Rally to End All Rallies’ After Artists Pull Out of 250th Anniversary Concerts]]></title>
+            <link>https://time.com/article/2026/06/05/trump-rally-america-250th-anniversary-performers/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/05/trump-rally-america-250th-anniversary-performers/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tech Billionaires Have Poured Historic Sums Into California Races. Is It Paying Off?]]></title>
+            <link>https://time.com/article/2026/06/05/california-primary-election-governor-house-tech-campaign-spending/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/05/california-primary-election-governor-house-tech-campaign-spending/</guid>
+            <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About the Jared Kushner–Backed Luxury Resort Drawing Protests in Albania]]></title>
+            <link>https://time.com/article/2026/06/05/jared-kushner-backed-luxury-resort-albania-protests/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/05/jared-kushner-backed-luxury-resort-albania-protests/</guid>
+            <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[House Votes to Restrain Trump’s Iran War Powers in Bipartisan Rebuke]]></title>
             <link>https://time.com/article/2026/06/04/trump-iran-war-powers-resolution-house-republicans/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/04/trump-iran-war-powers-resolution-house-republicans/</guid>
@@ -85,6 +104,7 @@
             <title><![CDATA[These Strange A.I. Videos Boosted Spencer Pratt's Campaign—and May Be the Future of Politics]]></title>
             <link>https://time.com/article/2026/06/04/-these-strange-a-i-videos-boosted-spencer-pratt-s-campaign-and-may-be-the-future-of-politics-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/04/-these-strange-a-i-videos-boosted-spencer-pratt-s-campaign-and-may-be-the-future-of-politics-/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3292,25 +3312,6 @@
             <link>https://time.com/article/2026/04/20/how-to-tell-if-you-are-losing-muscle/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/20/how-to-tell-if-you-are-losing-muscle/</guid>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
-            <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why U.K. Prime Minister Keir Starmer Is Facing Growing Calls to Resign]]></title>
-            <link>https://time.com/article/2026/04/20/why-uk-prime-minister-keir-starmer-is-facing-growing-calls-to-resign/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/20/why-uk-prime-minister-keir-starmer-is-facing-growing-calls-to-resign/</guid>
-            <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 Longevity Lessons You Can Learn from LeBron James]]></title>
-            <link>https://time.com/article/2026/04/20/lebron-james-longevity-workout-recovery-strategies/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/20/lebron-james-longevity-workout-recovery-strategies/</guid>
-            <dc:creator><![CDATA[Matt Fuchs]]></dc:creator>
-            <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Administration Begins Refunding Tariffs. What You Need to Know]]></title>
-            <link>https://time.com/article/2026/04/20/trump-administration-begins-refunding-tariffs-what-you-need-to-know/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/20/trump-administration-begins-refunding-tariffs-what-you-need-to-know/</guid>
             <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
