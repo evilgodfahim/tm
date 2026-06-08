@@ -4,23 +4,23 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Jun 2026 14:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jun 2026 17:44:27 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 08 Jun 2026 14:42:09 GMT</pubDate>
+        <pubDate>Mon, 08 Jun 2026 17:44:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Exclusive: Democrats Map Out Next Stage of Redistricting War]]></title>
-            <description><![CDATA[An internal memo lays out how Democrats could flip key statehouses to gain dozens of House seats before 2028.]]></description>
             <link>https://time.com/article/2026/06/08/exclusive-democrats-set-in-motion-plan-to-redraw-house-districts-in-as-many-as-13-states/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/08/exclusive-democrats-set-in-motion-plan-to-redraw-house-districts-in-as-many-as-13-states/</guid>
             <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
             <pubDate>Mon, 08 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Israel and Iran Renew Direct Hostilities]]></title>
+            <title><![CDATA[Netanyahu Says Israel Has Halted Strikes, But Warns It Will Respond Forcefully If Fire Resumes]]></title>
+            <description><![CDATA[Israel and Iran exchanged strikes late Sunday and early Monday, marking the biggest escalation in direct fighting since the U.S.-Iran cease-fire took hold in April.]]></description>
             <link>https://time.com/article/2026/06/08/israel-iran-war-direct-attacks-latest-ceasefire-trump-netanyahu-lebanon/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/08/israel-iran-war-direct-attacks-latest-ceasefire-trump-netanyahu-lebanon/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <dc:creator><![CDATA[Miranda Jeyaretnam and Callum Sutherland]]></dc:creator>
             <pubDate>Mon, 08 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -52,6 +52,12 @@
             <title><![CDATA[Stonewall’s Legacy Can’t Be Taken for Granted]]></title>
             <link>https://time.com/article/2026/06/08/stonewall-s-legacy-can-t-be-taken-for-granted/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/08/stonewall-s-legacy-can-t-be-taken-for-granted/</guid>
+            <pubDate>Mon, 08 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Collagen Supplements Can Really Do for Your Skin and Joints]]></title>
+            <link>https://time.com/article/2026/06/08/collagen-supplements-skin-joints/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/08/collagen-supplements-skin-joints/</guid>
             <pubDate>Mon, 08 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -88,6 +94,13 @@
             <link>https://time.com/article/2026/06/06/hegseth-d-day-speech-immigration/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/06/hegseth-d-day-speech-immigration/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sat, 06 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Madre Tierra: Indigenous Environmental Defenders in Latin America Are Fighting For Their Land]]></title>
+            <link>https://time.com/article/2026/06/06/mining-forest-fires-cartels-indigenous-communities-mexico-bolivia/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/06/mining-forest-fires-cartels-indigenous-communities-mexico-bolivia/</guid>
+            <dc:creator><![CDATA[Jhanisse Vaca Daza]]></dc:creator>
             <pubDate>Sat, 06 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -507,6 +520,7 @@
             <title><![CDATA[The True Story Behind the Murder of Rachel Nickell]]></title>
             <link>https://time.com/article/2026/06/01/rachel-nickell-true-story-the-witness-netflix/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/01/rachel-nickell-true-story-the-witness-netflix/</guid>
+            <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3300,19 +3314,6 @@
             <title><![CDATA[A Muslim Faith Leader on the Failures That Led to the Iran War, and What Comes Next]]></title>
             <link>https://time.com/article/2026/04/21/a-muslim-faith-leader-on-the-failures-that-led-to-the-iran-war-and-what-comes-next/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/21/a-muslim-faith-leader-on-the-failures-that-led-to-the-iran-war-and-what-comes-next/</guid>
-            <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Democratic Rep. Sheila Cherfilus-McCormick Resigns]]></title>
-            <link>https://time.com/article/2026/04/21/rep-sheila-cherfilus-mccormick-resigns-congress-house/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/21/rep-sheila-cherfilus-mccormick-resigns-congress-house/</guid>
-            <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About Trump’s Psychedelics Executive Order]]></title>
-            <link>https://time.com/article/2026/04/21/trump-psychedelics-executive-order-what-to-know/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/21/trump-psychedelics-executive-order-what-to-know/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
