@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Jun 2026 16:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 19:11:19 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 09 Jun 2026 16:26:24 GMT</pubDate>
+        <pubDate>Tue, 09 Jun 2026 19:11:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Judge Throws Out Trump’s $100,000 H-1B Visa Fee]]></title>
@@ -45,9 +45,10 @@
             <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Two Crew Members Rescued as U.S. Army Helicopter Crashes Near Strait of Hormuz]]></title>
+            <title><![CDATA[Trump Says Iran Shot Down U.S. Army Helicopter, Vows to Respond]]></title>
             <link>https://time.com/article/2026/06/09/us-army-helicopter-crashes-near-strait-of-hormuz-crew-drone-rescue/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/09/us-army-helicopter-crashes-near-strait-of-hormuz-crew-drone-rescue/</guid>
+            <dc:creator><![CDATA[Callum Sutherland and Olivia-Anne Cleary]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -68,7 +69,6 @@
             <title><![CDATA[The 6 Best Foods for Brain Health]]></title>
             <link>https://time.com/article/2026/06/09/best-foods-brain-health/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/09/best-foods-brain-health/</guid>
-            <dc:creator><![CDATA[Kathleen Felton]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -76,6 +76,18 @@
             <link>https://time.com/article/2026/06/09/climate-change-ocean-health-un-report/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/09/climate-change-ocean-health-un-report/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FDA Approves the First New Sunscreen Ingredient in 20 Years]]></title>
+            <link>https://time.com/article/2026/06/09/fda-approves-first-new-sunscreen-ingredient-Bemotrizinol/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/09/fda-approves-first-new-sunscreen-ingredient-Bemotrizinol/</guid>
+            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Trump Keeps Exploiting America’s Legal Loopholes]]></title>
+            <link>https://time.com/article/2026/06/09/how-trump-keeps-exploiting-america-s-legal-loopholes/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/09/how-trump-keeps-exploiting-america-s-legal-loopholes/</guid>
             <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -283,6 +295,7 @@
             <title><![CDATA[This 1 Question Will Change How You Use Your Phone]]></title>
             <link>https://time.com/article/2026/06/04/michael-becka-essay/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/04/michael-becka-essay/</guid>
+            <dc:creator><![CDATA[Michael Becka]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3302,20 +3315,6 @@
             <link>https://time.com/article/2026/04/23/apex-review-charlize-theron/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/apex-review-charlize-theron/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Michael Jackson’s Cultural Dominance Reveals About Us]]></title>
-            <link>https://time.com/article/2026/04/23/michael-jackson-biopic/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/23/michael-jackson-biopic/</guid>
-            <dc:creator><![CDATA[Steven Gray]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There Is No Redemption Arc in the Real Michael Jackson Story]]></title>
-            <link>https://time.com/article/2026/04/23/reconsidering-michael-jackson/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/23/reconsidering-michael-jackson/</guid>
-            <dc:creator><![CDATA[Steven Gray]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
