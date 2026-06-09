@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Jun 2026 13:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 16:26:24 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 09 Jun 2026 13:38:46 GMT</pubDate>
+        <pubDate>Tue, 09 Jun 2026 16:26:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Judge Throws Out Trump’s $100,000 H-1B Visa Fee]]></title>
@@ -27,7 +27,7 @@
             <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[America's Top WorkTech Companies of 2026 Methodology]]></title>
+            <title><![CDATA[Methodology for America's Top WorkTech Companies of 2026]]></title>
             <link>https://time.com/article/2026/06/09/america-top-worktech-companies-methodology/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/09/america-top-worktech-companies-methodology/</guid>
             <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
@@ -42,6 +42,40 @@
             <title><![CDATA[Why More People Should Do Pelvic Floor Exercises]]></title>
             <link>https://time.com/article/2026/06/09/who-should-do-pelvic-floor-exercises/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/09/who-should-do-pelvic-floor-exercises/</guid>
+            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two Crew Members Rescued as U.S. Army Helicopter Crashes Near Strait of Hormuz]]></title>
+            <link>https://time.com/article/2026/06/09/us-army-helicopter-crashes-near-strait-of-hormuz-crew-drone-rescue/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/09/us-army-helicopter-crashes-near-strait-of-hormuz-crew-drone-rescue/</guid>
+            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Miscarriage Is Hard Enough Without the Silence]]></title>
+            <link>https://time.com/article/2026/06/09/miscarriage-is-hard-enough-without-the-silence/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/09/miscarriage-is-hard-enough-without-the-silence/</guid>
+            <dc:creator><![CDATA[Dara Kass]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I Helped Write the Refugee Act. Trump is Trampling It]]></title>
+            <link>https://time.com/article/2026/06/09/i-helped-write-the-refugee-act-trump-is-trampling-it/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/09/i-helped-write-the-refugee-act-trump-is-trampling-it/</guid>
+            <dc:creator><![CDATA[Elizabeth Holtzman]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 6 Best Foods for Brain Health]]></title>
+            <link>https://time.com/article/2026/06/09/best-foods-brain-health/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/09/best-foods-brain-health/</guid>
+            <dc:creator><![CDATA[Kathleen Felton]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Ocean's Health Is Deteriorating on Multiple Fronts]]></title>
+            <link>https://time.com/article/2026/06/09/climate-change-ocean-health-un-report/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/09/climate-change-ocean-health-un-report/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -108,6 +142,12 @@
             <link>https://time.com/article/2026/06/08/trump-nba-finals-knicks-spurs-new-york-mamdani/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/08/trump-nba-finals-knicks-spurs-new-york-mamdani/</guid>
             <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Mon, 08 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Homelessness is Falling in California for the First Time in Years]]></title>
+            <link>https://time.com/article/2026/06/08/california-homeless-population-decrease-homelessness-crisis-gavin-newsom/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/08/california-homeless-population-decrease-homelessness-crisis-gavin-newsom/</guid>
             <pubDate>Mon, 08 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3277,45 +3317,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/04/23/reconsidering-michael-jackson/</guid>
             <dc:creator><![CDATA[Steven Gray]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Widow's Bay' Is Fun But Pointless: Review]]></title>
-            <link>https://time.com/article/2026/04/23/widows-bay-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/23/widows-bay-review/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[With ‘Donnyland,’ Ukraine Becomes Latest to Propose Naming Something After Trump]]></title>
-            <link>https://time.com/article/2026/04/22/with-donnyland-ukraine-becomes-latest-to-propose-naming-something-after-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/22/with-donnyland-ukraine-becomes-latest-to-propose-naming-something-after-trump/</guid>
-            <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About the U.K.’s Generational Smoking Ban]]></title>
-            <link>https://time.com/article/2026/04/22/generational-smoking-ban-uk-sale-2009/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/22/generational-smoking-ban-uk-sale-2009/</guid>
-            <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tehran Says It Has Seized Two Ships in Strait of Hormuz After Cease-Fire Extended]]></title>
-            <link>https://time.com/article/2026/04/22/strait-of-hormuz-attacks-vessels-seized-iran-us-war-ceasefire/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/22/strait-of-hormuz-attacks-vessels-seized-iran-us-war-ceasefire/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As Iran War Drags On, Congress Continues to Forgo Oversight Role]]></title>
-            <link>https://time.com/article/2026/04/22/as-iran-war-nears-two-month-congress-continues-to-forgo-oversight-role/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/22/as-iran-war-nears-two-month-congress-continues-to-forgo-oversight-role/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Breakdown of Trump and Tucker Carlson's Alliance]]></title>
-            <link>https://time.com/article/2026/04/22/trump-tucker-carlson-relationship-breakdown-iran-war-split/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/22/trump-tucker-carlson-relationship-breakdown-iran-war-split/</guid>
-            <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
