@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Jun 2026 17:52:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 20:13:55 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 10 Jun 2026 17:52:42 GMT</pubDate>
+        <pubDate>Wed, 10 Jun 2026 20:13:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Social Security Trustees Say Retirement Fund Will Run Out by 2032: What to Know]]></title>
@@ -52,6 +52,20 @@
             <link>https://time.com/article/2026/06/10/having-too-much-money-bad-for-mental-health/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/10/having-too-much-money-bad-for-mental-health/</guid>
             <dc:creator><![CDATA[David H. Rosmarin]]></dc:creator>
+            <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Young People Don’t Need Another Lecture About Phones]]></title>
+            <link>https://time.com/article/2026/06/10/young-people-don-t-need-another-lecture-about-phones/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/10/young-people-don-t-need-another-lecture-about-phones/</guid>
+            <dc:creator><![CDATA[Adam Howard]]></dc:creator>
+            <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Marjane Satrapi Always Defied Convention]]></title>
+            <link>https://time.com/article/2026/06/10/marjane-satrapi-remembrance/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/10/marjane-satrapi-remembrance/</guid>
+            <dc:creator><![CDATA[Joobin Bekhrad]]></dc:creator>
             <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -135,6 +149,7 @@
             <title><![CDATA[How Trump Keeps Exploiting America’s Legal Loopholes]]></title>
             <link>https://time.com/article/2026/06/09/how-trump-keeps-exploiting-america-s-legal-loopholes/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/09/how-trump-keeps-exploiting-america-s-legal-loopholes/</guid>
+            <dc:creator><![CDATA[Jeffrey Sonnenfeld]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3303,19 +3318,6 @@
             <title><![CDATA[Netanyahu Says He Underwent Treatment For Prostate Cancer]]></title>
             <link>https://time.com/article/2026/04/24/netanyahu-prostate-cancer-treatment-israel/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/24/netanyahu-prostate-cancer-treatment-israel/</guid>
-            <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Countries Want To Create a Path To Ditch Fossil Fuels]]></title>
-            <link>https://time.com/article/2026/04/24/why-countries-are-attending-fossil-fuel-transition-summit/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/24/why-countries-are-attending-fossil-fuel-transition-summit/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why U.K. Lawmakers Have Called for King Charles’ Visit to the U.S. to Be Canceled]]></title>
-            <link>https://time.com/article/2026/04/24/uk-lawmakers-king-charles-us-visit-canceled-calls-trump-iran-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/24/uk-lawmakers-king-charles-us-visit-canceled-calls-trump-iran-war/</guid>
             <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
