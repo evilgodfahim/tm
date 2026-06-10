@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Jun 2026 20:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 22:48:12 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 10 Jun 2026 20:13:55 GMT</pubDate>
+        <pubDate>Wed, 10 Jun 2026 22:48:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Social Security Trustees Say Retirement Fund Will Run Out by 2032: What to Know]]></title>
@@ -31,7 +31,6 @@
             <title><![CDATA['Masked Men Burning Families Out of Their Homes': Belfast Protests Erupt After Knife Attack]]></title>
             <link>https://time.com/article/2026/06/10/belfast-protests-erupt-knife-attack-violence-spreads-online-discourse-immigration/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/10/belfast-protests-erupt-knife-attack-violence-spreads-online-discourse-immigration/</guid>
-            <dc:creator><![CDATA[Olivia-Anne Cleary]]></dc:creator>
             <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -66,6 +65,20 @@
             <link>https://time.com/article/2026/06/10/marjane-satrapi-remembrance/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/10/marjane-satrapi-remembrance/</guid>
             <dc:creator><![CDATA[Joobin Bekhrad]]></dc:creator>
+            <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[20 House Republicans Break Ranks to Join Democrats in Passing Pro-Union Bill]]></title>
+            <link>https://time.com/article/2026/06/10/20-house-republicans-break-ranks-pass-democratic-led-labor-bill/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/10/20-house-republicans-break-ranks-pass-democratic-led-labor-bill/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Dramatic Ending of Romance Series 'Every Year After']]></title>
+            <link>https://time.com/article/2026/06/10/every-year-after-finale/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/10/every-year-after-finale/</guid>
+            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
             <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3306,18 +3319,6 @@
             <link>https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/</guid>
             <dc:creator><![CDATA[Nikita Ostrovsky]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the U.S. Trying to Suspend Spain From NATO?]]></title>
-            <link>https://time.com/article/2026/04/24/united-states-spain-nato-suspension-efforts-pentagon-email/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/24/united-states-spain-nato-suspension-efforts-pentagon-email/</guid>
-            <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu Says He Underwent Treatment For Prostate Cancer]]></title>
-            <link>https://time.com/article/2026/04/24/netanyahu-prostate-cancer-treatment-israel/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/24/netanyahu-prostate-cancer-treatment-israel/</guid>
             <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
