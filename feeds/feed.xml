@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Jun 2026 23:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 02:36:39 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 09 Jun 2026 23:13:02 GMT</pubDate>
+        <pubDate>Wed, 10 Jun 2026 02:36:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Judge Throws Out Trump’s $100,000 H-1B Visa Fee]]></title>
@@ -101,6 +101,13 @@
             <link>https://time.com/article/2026/06/09/disclosure-day-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/09/disclosure-day-review/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Graham Platner Wins Maine Primary Despite Multiple Scandals]]></title>
+            <link>https://time.com/article/2026/06/09/maine-democratic-senate-primary-graham-platner-scandals-susan-collins/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/09/maine-democratic-senate-primary-graham-platner-scandals-susan-collins/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3308,12 +3315,6 @@
             <link>https://time.com/article/2026/04/23/signs-youre-the-problem-in-arguments-how-to-fix/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/23/signs-youre-the-problem-in-arguments-how-to-fix/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Two Republicans Who Broke Ranks as GOP Clears Path for ICE Funding]]></title>
-            <link>https://time.com/article/2026/04/23/republicans-who-broke-ranks-as-gop-clears-path-for-ice-funding/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/23/republicans-who-broke-ranks-as-gop-clears-path-for-ice-funding/</guid>
             <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
