@@ -4,16 +4,16 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Jun 2026 14:31:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 18:07:46 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 11 Jun 2026 14:31:23 GMT</pubDate>
+        <pubDate>Thu, 11 Jun 2026 18:07:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Trump Says U.S. Will Be 'Hitting Iran Very Hard Tonight']]></title>
+            <title><![CDATA[Trump Says He Has 'Cancelled' Strikes Against Iran After Threatening 'Very Hard' Attack]]></title>
             <description><![CDATA["We will be taking Kharg Island and other oil infrastructure points, and assume total control of their oil and gas markets," warned the U.S. President, as hostilities flare amid tit-for-tat strikes.]]></description>
             <link>https://time.com/article/2026/06/11/trump-threatens-iran-strikes-oil-infrastructure-takeover/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/11/trump-threatens-iran-strikes-oil-infrastructure-takeover/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <dc:creator><![CDATA[Olivia-Anne Cleary, Tiago Ventura and Callum Sutherland]]></dc:creator>
             <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -40,6 +40,40 @@
             <link>https://time.com/article/2026/06/11/what-working-in-a-grocery-store-taught-me-about-american-inequality/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/11/what-working-in-a-grocery-store-taught-me-about-american-inequality/</guid>
             <dc:creator><![CDATA[Ann Larson]]></dc:creator>
+            <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pentagon Issues Shelter-in-Place Order in Response to 'Hazardous Materials Incident']]></title>
+            <link>https://time.com/article/2026/06/11/pentagon-hazardous-materials-incident/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/11/pentagon-hazardous-materials-incident/</guid>
+            <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Watching Sports Makes People Happy]]></title>
+            <link>https://time.com/article/2026/06/11/why-watching-sports-makes-people-happy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/11/why-watching-sports-makes-people-happy/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[8 Myths About Borderline Personality Disorder]]></title>
+            <link>https://time.com/article/2026/06/11/borderline-personality-disorder-myths-facts/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/11/borderline-personality-disorder-myths-facts/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Fight Better, According to Couples Therapists]]></title>
+            <link>https://time.com/article/2026/06/11/rules-for-fighting-fair-relationship-couples-therapist-advice/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/11/rules-for-fighting-fair-relationship-couples-therapist-advice/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Climate Change Making Your Life More Expensive?]]></title>
+            <link>https://time.com/article/2026/06/11/how-climate-change-is-making-your-life-more-expensive/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/11/how-climate-change-is-making-your-life-more-expensive/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3287,39 +3321,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/04/26/cole-tomas-allen-whca-shooting/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sun, 26 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why We Should Agree to Agree]]></title>
-            <link>https://time.com/article/2026/04/26/why-we-should-agree-to-agree/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/26/why-we-should-agree-to-agree/</guid>
-            <pubDate>Sun, 26 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Cost of Being Different]]></title>
-            <link>https://time.com/article/2026/04/26/the-cost-of-being-different/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/26/the-cost-of-being-different/</guid>
-            <dc:creator><![CDATA[Bozoma Saint John]]></dc:creator>
-            <pubDate>Sun, 26 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Argentina Reignites Dispute With U.K. Over the Falkland Islands]]></title>
-            <link>https://time.com/article/2026/04/25/falkland-islands-javier-milei-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/25/falkland-islands-javier-milei-trump/</guid>
-            <pubDate>Sat, 25 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Cancels Iran Peace Talks at Last Minute: 'We Have All the Cards']]></title>
-            <link>https://time.com/article/2026/04/25/trump-iran-peace-talks-canceled/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/25/trump-iran-peace-talks-canceled/</guid>
-            <pubDate>Sat, 25 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Suspect Detained in Shooting at White House Correspondents' Dinner]]></title>
-            <description><![CDATA[A gunman tried to storm a security checkpoint at the WHCA dinner Saturday, before being apprehended by law enforcement.]]></description>
-            <link>https://time.com/article/2026/04/25/trump-rushed-off-stage-after-shots-fired-at-white-house-correspondents-dinner/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/25/trump-rushed-off-stage-after-shots-fired-at-white-house-correspondents-dinner/</guid>
-            <dc:creator><![CDATA[Richard Hall]]></dc:creator>
-            <pubDate>Sat, 25 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
