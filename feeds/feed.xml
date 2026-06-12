@@ -4,15 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Jun 2026 11:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2026 14:37:32 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 12 Jun 2026 11:36:52 GMT</pubDate>
+        <pubDate>Fri, 12 Jun 2026 14:37:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump Says He Has 'Canceled' Strikes Against Iran After Threatening 'Very Hard' Attack]]></title>
             <link>https://time.com/article/2026/06/11/trump-threatens-iran-strikes-oil-infrastructure-takeover/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/11/trump-threatens-iran-strikes-oil-infrastructure-takeover/</guid>
-            <dc:creator><![CDATA[Olivia-Anne Cleary, Tiago Ventura and Callum Sutherland]]></dc:creator>
             <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -26,10 +25,11 @@
             <title><![CDATA[America’s Teachers Can’t Afford to Teach]]></title>
             <link>https://time.com/article/2026/06/11/america-s-teachers-can-t-afford-to-teach/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/11/america-s-teachers-can-t-afford-to-teach/</guid>
+            <dc:creator><![CDATA[Randi Weingarten]]></dc:creator>
             <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[U.K. Defense Minister John Healey Resigns Over Military Spending Dispute With Starmer]]></title>
+            <title><![CDATA[Top Two U.K. Defense Ministers Resign Over Military Spending Dispute With Starmer]]></title>
             <link>https://time.com/article/2026/06/11/uk-defense-minister-john-healey-resigns-military-spending-dispute-starmer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/11/uk-defense-minister-john-healey-resigns-military-spending-dispute-starmer/</guid>
             <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
@@ -77,7 +77,6 @@
         </item>
         <item>
             <title><![CDATA[Inside the Massive UFC-White House Arena]]></title>
-            <description><![CDATA[The spider-like structure dwarfs the White House and is covered in corporate branding]]></description>
             <link>https://time.com/article/2026/06/11/inside-the-enormous-ufc-structure-built-for-the-white-house-s-fight-night/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/11/inside-the-enormous-ufc-structure-built-for-the-white-house-s-fight-night/</guid>
             <dc:creator><![CDATA[Nik Popli]]></dc:creator>
@@ -87,6 +86,14 @@
             <title><![CDATA[The White House UFC Event Is Costing $60 Million]]></title>
             <link>https://time.com/article/2026/06/11/white-house-ufc-event-cost/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/11/white-house-ufc-event-cost/</guid>
+            <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Congress to Hold Special Gathering in Philadelphia to Mark 250th Anniversary]]></title>
+            <description><![CDATA[Members plan to convene at Independence Hall on July 2 for the historic offsite event]]></description>
+            <link>https://time.com/article/2026/06/11/congress-event-philadelphia-250th-anniversary/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/11/congress-event-philadelphia-250th-anniversary/</guid>
+            <dc:creator><![CDATA[Julia Terruso]]></dc:creator>
             <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3312,13 +3319,6 @@
             <link>https://time.com/article/2026/04/27/trump-s-war-in-iran-is-causing-a-modern-crisis-of-confidence/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/27/trump-s-war-in-iran-is-causing-a-modern-crisis-of-confidence/</guid>
             <dc:creator><![CDATA[Will Johnson]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Column: Let's Use AI to Build a Better World]]></title>
-            <link>https://time.com/article/2026/04/27/ai-more-sustainable-future/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/27/ai-more-sustainable-future/</guid>
-            <dc:creator><![CDATA[Jennifer Jordan-Saifi]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
