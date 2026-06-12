@@ -4,23 +4,22 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Jun 2026 19:55:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2026 21:25:30 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 12 Jun 2026 19:55:21 GMT</pubDate>
+        <pubDate>Fri, 12 Jun 2026 21:25:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Judge Rejects Latest Bid to Keep Trump's Name on Kennedy Center Building]]></title>
-            <description><![CDATA[Amid the setback for Trump allies, workers were seen putting up scaffolding under the building's signage.]]></description>
             <link>https://time.com/article/2026/06/12/trump-s-name-may-stay-on-kennedy-center-past-friday-deadline/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/12/trump-s-name-may-stay-on-kennedy-center-past-friday-deadline/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Fri, 12 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trump Says Iran’s Leaked Peace Deal Terms Have 'No Relation to the Truth']]></title>
+            <title><![CDATA[Ceasefire Deal Within Reach, U.S. and Tehran Say]]></title>
             <link>https://time.com/article/2026/06/12/trump-us-iran-peace-deal-details-timeline-conflicting-reports/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/12/trump-us-iran-peace-deal-details-timeline-conflicting-reports/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <dc:creator><![CDATA[Nik Popli and Callum Sutherland]]></dc:creator>
             <pubDate>Fri, 12 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -42,6 +41,26 @@
             <link>https://time.com/article/2026/06/12/sbti-corporate-climate-progress/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/12/sbti-corporate-climate-progress/</guid>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
+            <pubDate>Fri, 12 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's at Stake for Elon Musk and SpaceX After Blockbuster IPO]]></title>
+            <description><![CDATA[The pressure is on the company—and newly minted trillionaire Elon Musk—to deliver.]]></description>
+            <link>https://time.com/article/2026/06/12/spacex-ipo-elon-musk-trillionaire-whats-at-stake/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/12/spacex-ipo-elon-musk-trillionaire-whats-at-stake/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <pubDate>Fri, 12 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What a U.S. Spy Law’s Expiration Means for Gathering Intelligence Abroad]]></title>
+            <link>https://time.com/article/2026/06/12/what-a-u-s-spy-law-s-expiration-means-for-gathering-intelligence-abroad/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/12/what-a-u-s-spy-law-s-expiration-means-for-gathering-intelligence-abroad/</guid>
+            <pubDate>Fri, 12 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About the States Skipping Trump’s ‘Great American State Fair’]]></title>
+            <link>https://time.com/article/2026/06/12/what-to-know-about-the-states-skipping-trump-s-great-american-state-fair-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/12/what-to-know-about-the-states-skipping-trump-s-great-american-state-fair-/</guid>
             <pubDate>Fri, 12 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3300,26 +3319,6 @@
             <title><![CDATA[What Queen Elizabeth II Said to Bush During the Last British Monarch U.S. State Visit]]></title>
             <link>https://time.com/article/2026/04/27/queen-elizabeth-state-visit-president-bush-gaffe-king-charles-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/27/queen-elizabeth-state-visit-president-bush-gaffe-king-charles-trump/</guid>
-            <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 10 Most Influential Wellness Companies of 2026]]></title>
-            <link>https://time.com/article/2026/04/27/time100-companies-wellness/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/27/time100-companies-wellness/</guid>
-            <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should You Trust Your Gut Feeling—Or Is It Anxiety?]]></title>
-            <link>https://time.com/article/2026/04/27/should-you-trust-your-gut-feeling-or-is-it-anxiety/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/27/should-you-trust-your-gut-feeling-or-is-it-anxiety/</guid>
-            <dc:creator><![CDATA[Kathleen Felton]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why False Claims Seem Truer the More You Hear Them]]></title>
-            <link>https://time.com/article/2026/04/27/why-false-claims-seem-truer-the-more-you-hear-them/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/27/why-false-claims-seem-truer-the-more-you-hear-them/</guid>
-            <dc:creator><![CDATA[Markham Heid]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
