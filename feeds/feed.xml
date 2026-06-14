@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Jun 2026 11:24:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jun 2026 13:41:17 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 14 Jun 2026 11:24:47 GMT</pubDate>
+        <pubDate>Sun, 14 Jun 2026 13:41:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[At the World Cup, America Can Start Dreaming Bigger]]></title>
@@ -20,6 +20,14 @@
             <link>https://time.com/article/2026/06/13/anthropic-fable-mythos-ban-US-security/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/13/anthropic-fable-mythos-ban-US-security/</guid>
             <dc:creator><![CDATA[Richard Hall]]></dc:creator>
+            <pubDate>Sat, 13 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the Knicks' Championship Means to New York]]></title>
+            <description><![CDATA[With their defeat of the San Antonio Spurs, the Knicks clinched their first title since 1973]]></description>
+            <link>https://time.com/article/2026/06/13/new-york-knicks-win-championship/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/13/new-york-knicks-win-championship/</guid>
+            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
             <pubDate>Sat, 13 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -364,7 +372,6 @@
         </item>
         <item>
             <title><![CDATA[Trump's Name Removed From Kennedy Center Building]]></title>
-            <description><![CDATA[The removal of Trump’s name came after a federal judge ordered the Kennedy Center to restore its original name by Friday, June 12.]]></description>
             <link>https://time.com/article/2026/06/09/trump-name-removed-kennedy-center-building/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/09/trump-name-removed-kennedy-center-building/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
@@ -3311,13 +3318,6 @@
             <title><![CDATA[Trump Insists White House Correspondents’ Dinner Will Be Rescheduled]]></title>
             <link>https://time.com/article/2026/04/27/trump-white-house-correspondents-dinner-shooting-reschedule-weijia-jiang-security/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/27/trump-white-house-correspondents-dinner-shooting-reschedule-weijia-jiang-security/</guid>
-            <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Queen Elizabeth II’s Historic Address to Congress Set the Stage for Charles]]></title>
-            <link>https://time.com/article/2026/04/27/king-charles-congress-speech-queen-elizabeth-address-1991/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/27/king-charles-congress-speech-queen-elizabeth-address-1991/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
