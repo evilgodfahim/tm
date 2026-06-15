@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Jun 2026 12:58:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 17:59:01 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 15 Jun 2026 12:58:57 GMT</pubDate>
+        <pubDate>Mon, 15 Jun 2026 17:59:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[UFC Stages Successful White House Fight Night—if Not for Obama Insult]]></title>
@@ -22,6 +22,46 @@
             <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Amy Schumer Opens Up About Years of Endometriosis Pain]]></title>
+            <link>https://time.com/article/2026/06/15/amy-schumer-endometriosis-interview/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/15/amy-schumer-endometriosis-interview/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[America and Iran Have an Agreement. And 60 Days to Prevent the Next War]]></title>
+            <link>https://time.com/article/2026/06/15/america-iran-peace-agreement-prevent-next-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/15/america-iran-peace-agreement-prevent-next-war/</guid>
+            <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The UFC Fight at the White House in Photos]]></title>
+            <description><![CDATA[The view from the South Lawn]]></description>
+            <link>https://time.com/article/2026/06/15/ufc-fight-white-house-freedom-250-photos/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/15/ufc-fight-white-house-freedom-250-photos/</guid>
+            <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Bread Actually Healthy?]]></title>
+            <link>https://time.com/article/2026/06/15/is-bread-actually-healthy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/15/is-bread-actually-healthy/</guid>
+            <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Resurgence of Bracero Logic]]></title>
+            <link>https://time.com/article/2026/06/15/the-resurgence-of-bracero-logic/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/15/the-resurgence-of-bracero-logic/</guid>
+            <dc:creator><![CDATA[Cara A. Kinnally]]></dc:creator>
+            <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[America’s New Critical Minerals Playbook]]></title>
+            <link>https://time.com/article/2026/06/15/america-china-new-critical-minerals-race/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/15/america-china-new-critical-minerals-race/</guid>
+            <dc:creator><![CDATA[Jared Cohen]]></dc:creator>
+            <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Trump Says U.S. and Iran Reach Deal to End War]]></title>
             <description><![CDATA[Trump announced the U.S. would end its naval blockade of the Strait of Hormuz as part of the deal.]]></description>
             <link>https://time.com/article/2026/06/14/iran-peace-talks-israeli-strikes-beirut-trump/</link>
@@ -33,20 +73,19 @@
             <title><![CDATA[At the World Cup, America Can Start Dreaming Bigger]]></title>
             <link>https://time.com/article/2026/06/13/world-cup-US-win-paraguay/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/13/world-cup-US-win-paraguay/</guid>
-            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
             <pubDate>Sat, 13 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anthropic Pulls Its Most Powerful AI Models After U.S. Bars Foreign Access]]></title>
             <link>https://time.com/article/2026/06/13/anthropic-fable-mythos-ban-US-security/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/13/anthropic-fable-mythos-ban-US-security/</guid>
+            <dc:creator><![CDATA[Richard Hall]]></dc:creator>
             <pubDate>Sat, 13 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What the Knicks' Championship Means to New York]]></title>
             <link>https://time.com/article/2026/06/13/new-york-knicks-win-championship/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/13/new-york-knicks-win-championship/</guid>
-            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
             <pubDate>Sat, 13 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -79,7 +118,6 @@
             <title><![CDATA[The Shocking True Story Behind 'Maternal Instinct']]></title>
             <link>https://time.com/article/2026/06/12/maternal-instinct-true-story-netflix/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/12/maternal-instinct-true-story-netflix/</guid>
-            <dc:creator><![CDATA[Isabella Wandermurem]]></dc:creator>
             <pubDate>Fri, 12 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -282,7 +320,6 @@
             <title><![CDATA[Why You's Joe Goldberg Would Be 'Horrified' By the Manosphere]]></title>
             <link>https://time.com/article/2026/06/10/you-first-joe-goldberg/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/10/you-first-joe-goldberg/</guid>
-            <dc:creator><![CDATA[Scarlett Harris]]></dc:creator>
             <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3276,46 +3313,6 @@
             <title><![CDATA[Democrats Explore Suing Trump Over Iran War]]></title>
             <link>https://time.com/article/2026/04/28/exclusive-democrats-explore-suing-trump-if-congress-doesn-t-authorize-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/28/exclusive-democrats-explore-suing-trump-if-congress-doesn-t-authorize-iran-war/</guid>
-            <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Says Iran Has Told Him It's In a 'State of Collapse' Amid Peace Talks Stalemate]]></title>
-            <link>https://time.com/article/2026/04/28/trump-iran-war-update-peace-proposal-strait-of-hormuz-conflict/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/28/trump-iran-war-update-peace-proposal-strait-of-hormuz-conflict/</guid>
-            <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[King Charles Praises U.K.-U.S. Bond But Splits From Trump on Key Issues]]></title>
-            <description><![CDATA[In a rare royal speech to the United States Congress, King Charles III celebrated the intertwined histories of the two nations but had pointed criticisms for some of Trump’s actions.]]></description>
-            <link>https://time.com/article/2026/04/28/king-charles-splits-from-trump-key-issues-congress-address/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/28/king-charles-splits-from-trump-key-issues-congress-address/</guid>
-            <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Musk and Altman Head to Court]]></title>
-            <link>https://time.com/article/2026/04/28/elon-musk-and-sam-altman-head-to-court/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/28/elon-musk-and-sam-altman-head-to-court/</guid>
-            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FCC Orders a Review of ABC’s Broadcast Licenses Amid Trumps’ Kimmel Criticism]]></title>
-            <link>https://time.com/article/2026/04/28/fcc-review-abc-broadcast-licenses-kimmel-trump-disney/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/28/fcc-review-abc-broadcast-licenses-kimmel-trump-disney/</guid>
-            <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The True Story Behind Should I Marry a Murderer?]]></title>
-            <link>https://time.com/article/2026/04/28/should-i-marry-a-murderer-true-story/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/28/should-i-marry-a-murderer-true-story/</guid>
-            <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We Don’t Need to End Citizens United to Rein in Super PACs]]></title>
-            <link>https://time.com/article/2026/04/28/we-don-t-need-to-end-citizens-united-to-rein-in-superpacs/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/28/we-don-t-need-to-end-citizens-united-to-rein-in-superpacs/</guid>
-            <dc:creator><![CDATA[Lawrence Lessig]]></dc:creator>
             <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
