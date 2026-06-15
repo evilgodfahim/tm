@@ -4,15 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Jun 2026 17:59:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 20:47:12 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 15 Jun 2026 17:59:01 GMT</pubDate>
+        <pubDate>Mon, 15 Jun 2026 20:47:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[UFC Stages Successful White House Fight Night—if Not for Obama Insult]]></title>
             <link>https://time.com/article/2026/06/15/ufc-fight-white-house-hokit-obama/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/15/ufc-fight-white-house-hokit-obama/</guid>
-            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
             <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -32,6 +31,7 @@
             <title><![CDATA[America and Iran Have an Agreement. And 60 Days to Prevent the Next War]]></title>
             <link>https://time.com/article/2026/06/15/america-iran-peace-agreement-prevent-next-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/15/america-iran-peace-agreement-prevent-next-war/</guid>
+            <dc:creator><![CDATA[Ali Vaez]]></dc:creator>
             <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -62,11 +62,30 @@
             <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trump Says U.S. and Iran Reach Deal to End War]]></title>
-            <description><![CDATA[Trump announced the U.S. would end its naval blockade of the Strait of Hormuz as part of the deal.]]></description>
+            <title><![CDATA[What to Know About Trump’s Rally to ‘Kick Off’ 250th Anniversary Celebrations]]></title>
+            <link>https://time.com/article/2026/06/15/trump-rally-america-250-anniversary-celebrations/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/15/trump-rally-america-250-anniversary-celebrations/</guid>
+            <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine Is a Step Closer to Joining the European Union. Here’s What to Know]]></title>
+            <link>https://time.com/article/2026/06/15/ukraine-joining-the-european-union-membership-process-negotiations-status/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/15/ukraine-joining-the-european-union-membership-process-negotiations-status/</guid>
+            <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI Doesn't Feel. So Why Does It Have Something Like Emotions?]]></title>
+            <link>https://time.com/article/2026/06/15/ai-minds-consciousness-emotion/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/15/ai-minds-consciousness-emotion/</guid>
+            <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
+            <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. and Iran Sign Deal to Stop Fighting, Reopen Strait]]></title>
+            <description><![CDATA[Trump says the U.S. will end its naval blockade as part of the deal, but many questions remain]]></description>
             <link>https://time.com/article/2026/06/14/iran-peace-talks-israeli-strikes-beirut-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/14/iran-peace-talks-israeli-strikes-beirut-trump/</guid>
-            <dc:creator><![CDATA[Richard Hall]]></dc:creator>
+            <dc:creator><![CDATA[Richard Hall and Nik Popli]]></dc:creator>
             <pubDate>Sun, 14 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -92,6 +111,7 @@
             <title><![CDATA[Why Brexit Still Haunts British Politics]]></title>
             <link>https://time.com/article/2026/06/13/why-brexit-still-haunts-british-politics/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/13/why-brexit-still-haunts-british-politics/</guid>
+            <dc:creator><![CDATA[Anand Menon]]></dc:creator>
             <pubDate>Sat, 13 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3293,26 +3313,6 @@
             <link>https://time.com/article/2026/04/28/antarctica-deep-ocean-warming-study/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/28/antarctica-deep-ocean-warming-study/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Says Americans Have 'No Closer Friends Than the British' During Charles' Visit]]></title>
-            <link>https://time.com/article/2026/04/28/trump-praises-uk-us-relationship-amid-starmer-feud-king-charles-visit/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/28/trump-praises-uk-us-relationship-amid-starmer-feud-king-charles-visit/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet the New 'Creative Director' of Infowars, Maybe]]></title>
-            <link>https://time.com/article/2026/04/28/tim-heidecker-infowars-the-onion-alex-jones/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/28/tim-heidecker-infowars-the-onion-alex-jones/</guid>
-            <dc:creator><![CDATA[Richard Hall]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Democrats Explore Suing Trump Over Iran War]]></title>
-            <link>https://time.com/article/2026/04/28/exclusive-democrats-explore-suing-trump-if-congress-doesn-t-authorize-iran-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/28/exclusive-democrats-explore-suing-trump-if-congress-doesn-t-authorize-iran-war/</guid>
             <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
