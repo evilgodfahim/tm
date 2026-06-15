@@ -4,12 +4,13 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Jun 2026 00:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 06:15:57 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 15 Jun 2026 00:16:02 GMT</pubDate>
+        <pubDate>Mon, 15 Jun 2026 06:15:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump Says U.S. and Iran Reach Deal to End War]]></title>
+            <description><![CDATA[Trump announced the U.S. would end its naval blockade of the Strait of Hormuz as part of the deal.]]></description>
             <link>https://time.com/article/2026/06/14/iran-peace-talks-israeli-strikes-beirut-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/14/iran-peace-talks-israeli-strikes-beirut-trump/</guid>
             <dc:creator><![CDATA[Richard Hall]]></dc:creator>
@@ -30,7 +31,6 @@
         </item>
         <item>
             <title><![CDATA[What the Knicks' Championship Means to New York]]></title>
-            <description><![CDATA[With their defeat of the San Antonio Spurs, the Knicks clinched their first title since 1973]]></description>
             <link>https://time.com/article/2026/06/13/new-york-knicks-win-championship/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/13/new-york-knicks-win-championship/</guid>
             <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
