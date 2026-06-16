@@ -4,10 +4,59 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Jun 2026 12:04:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jun 2026 17:55:29 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 16 Jun 2026 12:04:51 GMT</pubDate>
+        <pubDate>Tue, 16 Jun 2026 17:55:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump Says Netanyahu Has to Be 'More Responsible With Respect to Lebanon']]></title>
+            <description><![CDATA[Speaking at the G7 summit, the President also said the U.S.-Iran peace deal will be made public soon and will rule out a nuclear weapon for Tehran.]]></description>
+            <link>https://time.com/article/2026/06/16/trump-netanyahu-israel-warning-hezbollah-us-iran-peace-deal/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/16/trump-netanyahu-israel-warning-hezbollah-us-iran-peace-deal/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘A Disaster’: Iran’s World Cup Overshadowed by War With Host U.S.]]></title>
+            <link>https://time.com/article/2026/06/16/iran-new-zealand-world-cup-war-us-mexico-taremi-disaster/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/16/iran-new-zealand-world-cup-war-us-mexico-taremi-disaster/</guid>
+            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
+            <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gavin Newsom Says Trump DOJ Is Politically Targeting Him]]></title>
+            <link>https://time.com/article/2026/06/16/gavin-newsom-california-governor-trump-doj-investigation/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/16/gavin-newsom-california-governor-trump-doj-investigation/</guid>
+            <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Fines Alone Won’t Make Social Media Safer For Kids]]></title>
+            <link>https://time.com/article/2026/06/16/why-fines-alone-won-t-make-social-media-safer-for-kids/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/16/why-fines-alone-won-t-make-social-media-safer-for-kids/</guid>
+            <dc:creator><![CDATA[Peter Chapman]]></dc:creator>
+            <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Pain and Promise of Summer Camp]]></title>
+            <link>https://time.com/article/2026/06/16/the-pain-and-promise-of-summer-camp/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/16/the-pain-and-promise-of-summer-camp/</guid>
+            <dc:creator><![CDATA[Rachel Wisniewski]]></dc:creator>
+            <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why You Should Seek Out a Few Minutes of Awe Every Day]]></title>
+            <link>https://time.com/article/2026/06/16/why-awe-improves-health/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/16/why-awe-improves-health/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Feeding Kids Eggs Early in Life Helps Prevent Food Allergy]]></title>
+            <link>https://time.com/article/2026/06/16/prevent-food-allergies-early-exposure-eggs/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/16/prevent-food-allergies-early-exposure-eggs/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UFC Stages Successful White House Fight Night—if Not for Obama Insult]]></title>
             <link>https://time.com/article/2026/06/15/ufc-fight-white-house-hokit-obama/</link>
@@ -827,6 +876,13 @@
             <link>https://time.com/article/2026/06/03/disclosure-day-cast-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/03/disclosure-day-cast-interview/</guid>
             <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[John Early Crosses Over]]></title>
+            <link>https://time.com/article/2026/06/03/john-early-maddies-secret-interview/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/03/john-early-maddies-secret-interview/</guid>
+            <dc:creator><![CDATA[Rich Juzwiak]]></dc:creator>
             <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3260,60 +3316,6 @@
             <link>https://time.com/article/2026/04/29/a-dangerous-shift-in-maternal-health-policy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/29/a-dangerous-shift-in-maternal-health-policy/</guid>
             <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s Grip on GOP Faces 3 Big Tests in May]]></title>
-            <link>https://time.com/article/2026/04/29/trump-s-grip-on-gop-faces-3-big-tests-in-may/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/29/trump-s-grip-on-gop-faces-3-big-tests-in-may/</guid>
-            <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JB Pritzker May Be Running for More Than Governor]]></title>
-            <link>https://time.com/article/2026/04/28/jb-pritzker-trump-presidency-2028/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/28/jb-pritzker-trump-presidency-2028/</guid>
-            <dc:creator><![CDATA[Julia Terruso]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jimmy Kimmel Speaks Out After Melania Trump ‘Widow’ Joke Criticism]]></title>
-            <link>https://time.com/article/2026/04/28/jimmy-kimmel-melania-trump-widow-joke-fired-response/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/28/jimmy-kimmel-melania-trump-widow-joke-fired-response/</guid>
-            <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Elizabeth Strout Gets Inside People's Minds]]></title>
-            <link>https://time.com/article/2026/04/28/elizabeth-strout-the-things-we-never-say-interview/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/28/elizabeth-strout-the-things-we-never-say-interview/</guid>
-            <dc:creator><![CDATA[Belinda Luscombe]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[George Clooney Defends Kimmel After Trump Calls for Late-Night Host to be Fired]]></title>
-            <link>https://time.com/article/2026/04/28/jimmy-kimmel-president-trump-melania-calls-to-be-fired-george-clooney-support/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/28/jimmy-kimmel-president-trump-melania-calls-to-be-fired-george-clooney-support/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Has Gone Wrong With Architecture]]></title>
-            <link>https://time.com/article/2026/04/28/what-has-gone-wrong-with-architecture/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/28/what-has-gone-wrong-with-architecture/</guid>
-            <dc:creator><![CDATA[Arthur Kay]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Number of Words You Say in a Day Is Shrinking]]></title>
-            <link>https://time.com/article/2026/04/28/people-say-fewer-words-per-day/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/28/people-say-fewer-words-per-day/</guid>
-            <dc:creator><![CDATA[Markham Heid]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[For The Past 20 Years Antarctica's Deep Ocean Has Been Heating Up]]></title>
-            <link>https://time.com/article/2026/04/28/antarctica-deep-ocean-warming-study/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/28/antarctica-deep-ocean-warming-study/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
