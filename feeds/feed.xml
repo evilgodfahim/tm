@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Jun 2026 20:01:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jun 2026 22:29:46 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 17 Jun 2026 20:01:37 GMT</pubDate>
+        <pubDate>Wed, 17 Jun 2026 22:29:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[G7 Leaders Call For 'Immediate Cease-Fire' in Lebanon as They Welcome U.S.-Iran Peace Deal]]></title>
@@ -20,12 +20,10 @@
             <title><![CDATA[D.C. Mayor Race Underscores Breakout Year for Democratic Socialists]]></title>
             <link>https://time.com/article/2026/06/17/DC-mayor-race-Janeese-Lewis-George-DSA-democratic-socialists-midterm/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/17/DC-mayor-race-Janeese-Lewis-George-DSA-democratic-socialists-midterm/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Read the Full Text of the 14-Point Agreement Between the U.S. and Iran]]></title>
-            <description><![CDATA[The U.S. released the full text of the agreement it is set to sign with Iran on Friday to begin a 60-day cease-fire and open the Strait of Hormuz.]]></description>
             <link>https://time.com/article/2026/06/17/us-iran-peace-deal-agreement-leaked-draft-text/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/17/us-iran-peace-deal-agreement-leaked-draft-text/</guid>
             <dc:creator><![CDATA[Nik Popli and Tiago Ventura]]></dc:creator>
@@ -54,6 +52,7 @@
         </item>
         <item>
             <title><![CDATA[Trump Champions Peace Agreement, Threatens to Resume Bombing If Iran Doesn't Comply]]></title>
+            <description><![CDATA[In closing remarks at the G7 summit in France, Trump threatened to restart the war if Iran fails to comply with the terms laid out in the 14-point Memorandum of Understanding.]]></description>
             <link>https://time.com/article/2026/06/17/trump-iran-peace-agreement-terms-lebanon-bombing-threat/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/17/trump-iran-peace-agreement-terms-lebanon-bombing-threat/</guid>
             <dc:creator><![CDATA[Olivia-Anne Cleary and Callum Sutherland]]></dc:creator>
@@ -69,14 +68,25 @@
             <title><![CDATA[Why You're Seeing a PA or NP—But Not a Doctor]]></title>
             <link>https://time.com/article/2026/06/17/what-is-pa-np-doctor/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/17/what-is-pa-np-doctor/</guid>
-            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
             <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Breaking Down the Ending of the Widow's Bay Season 1]]></title>
             <link>https://time.com/article/2026/06/17/widows-bay-ending-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/17/widows-bay-ending-explained/</guid>
-            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iranians Welcome a Peace Deal, but Worry About What Comes Next]]></title>
+            <link>https://time.com/article/2026/06/17/iranians-welcome-a-peace-deal-but-fear-what-comes-next/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/17/iranians-welcome-a-peace-deal-but-fear-what-comes-next/</guid>
+            <dc:creator><![CDATA[Kay Armin Serjoie]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frank Wills and the Importance of Ordinary Americans Doing the Right Thing]]></title>
+            <link>https://time.com/article/2026/06/17/frank-wills-and-the-importance-of-ordinary-americans-doing-the-right-thing/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/17/frank-wills-and-the-importance-of-ordinary-americans-doing-the-right-thing/</guid>
             <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -154,6 +164,13 @@
             <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How We Chose the TIME Visionaries]]></title>
+            <description><![CDATA[See how TIME selected its list of leaders helping children and young people reach their full potential.]]></description>
+            <link>https://time.com/article/2026/06/16/how-we-chose-time-visionaries/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/16/how-we-chose-time-visionaries/</guid>
+            <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[UFC Stages Successful White House Fight Night—if Not for Obama Insult]]></title>
             <link>https://time.com/article/2026/06/15/ufc-fight-white-house-hokit-obama/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/15/ufc-fight-white-house-hokit-obama/</guid>
@@ -190,6 +207,7 @@
             <title><![CDATA[Is Bread Actually Healthy?]]></title>
             <link>https://time.com/article/2026/06/15/is-bread-actually-healthy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/15/is-bread-actually-healthy/</guid>
+            <dc:creator><![CDATA[Matt Fuchs]]></dc:creator>
             <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -283,6 +301,7 @@
             <title><![CDATA[The Shocking True Story Behind 'Maternal Instinct']]></title>
             <link>https://time.com/article/2026/06/12/maternal-instinct-true-story-netflix/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/12/maternal-instinct-true-story-netflix/</guid>
+            <dc:creator><![CDATA[Isabella Wandermurem]]></dc:creator>
             <pubDate>Fri, 12 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -485,6 +504,7 @@
             <title><![CDATA[Why You's Joe Goldberg Would Be 'Horrified' By the Manosphere]]></title>
             <link>https://time.com/article/2026/06/10/you-first-joe-goldberg/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/10/you-first-joe-goldberg/</guid>
+            <dc:creator><![CDATA[Scarlett Harris]]></dc:creator>
             <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3299,26 +3319,6 @@
             <title><![CDATA[After 75 Days, the DHS Shutdown Is Over]]></title>
             <link>https://time.com/article/2026/04/30/dhs-shutdown-funding-bill-house-vote/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/30/dhs-shutdown-funding-bill-house-vote/</guid>
-            <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran Vows to Protect Its Nuclear and Missile Capabilities as Oil Prices Hit Four-Year High]]></title>
-            <link>https://time.com/article/2026/04/30/iran-war-nuclear-capabilities-trump-deal-strait-of-hormuz/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/30/iran-war-nuclear-capabilities-trump-deal-strait-of-hormuz/</guid>
-            <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The CDC's New Messaging May Be Damaging Trust in Vaccines]]></title>
-            <link>https://time.com/article/2026/04/30/cdc-vaccine-autism-trust/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/30/cdc-vaccine-autism-trust/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
-            <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are We Losing Our Minds to AI?]]></title>
-            <link>https://time.com/article/2026/04/30/ai-thinking-cognitive-offloading/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/30/ai-thinking-cognitive-offloading/</guid>
-            <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
             <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
