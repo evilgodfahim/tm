@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Jun 2026 10:07:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jun 2026 13:57:18 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 18 Jun 2026 10:07:19 GMT</pubDate>
+        <pubDate>Thu, 18 Jun 2026 13:57:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[G7 Leaders Call For 'Immediate Cease-Fire' in Lebanon as They Welcome U.S.-Iran Peace Deal]]></title>
@@ -505,6 +505,13 @@
             <link>https://time.com/article/2026/06/10/you-first-joe-goldberg/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/10/you-first-joe-goldberg/</guid>
             <dc:creator><![CDATA[Scarlett Harris]]></dc:creator>
+            <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greta Lee on 'Toy Story 5' and Screen Time]]></title>
+            <link>https://time.com/article/2026/06/10/greta-lee-toy-story-5-interview/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/10/greta-lee-toy-story-5-interview/</guid>
+            <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
             <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3313,12 +3320,6 @@
             <link>https://time.com/article/2026/04/30/king-charles-harlem-grown-new-york/</link>
             <guid isPermaLink="true">https://time.com/article/2026/04/30/king-charles-harlem-grown-new-york/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[After 75 Days, the DHS Shutdown Is Over]]></title>
-            <link>https://time.com/article/2026/04/30/dhs-shutdown-funding-bill-house-vote/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/04/30/dhs-shutdown-funding-bill-house-vote/</guid>
             <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
