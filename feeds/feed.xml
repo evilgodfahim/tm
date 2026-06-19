@@ -4,10 +4,45 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Jun 2026 12:49:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jun 2026 15:56:34 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Jun 2026 12:49:51 GMT</pubDate>
+        <pubDate>Fri, 19 Jun 2026 15:56:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Israel and Hezbollah Agree to Cease-Fire, U.S. Official Says]]></title>
+            <description><![CDATA[The development comes after the U.S.-Iran peace talks set to take place in Switzerland on Friday were abruptly postponed.]]></description>
+            <link>https://time.com/article/2026/06/19/israel-hezbollah-ceasefire-us-iran-peace-talks-strikes/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/19/israel-hezbollah-ceasefire-us-iran-peace-talks-strikes/</guid>
+            <dc:creator><![CDATA[Callum Sutherland and Olivia-Anne Cleary]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gas Prices Could Take Months to Return to Pre-War Levels Even After U.S.-Iran Deal]]></title>
+            <link>https://time.com/article/2026/06/19/us-iran-deal-strait-hormuz-shipping-oil-gas-prices/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/19/us-iran-deal-strait-hormuz-shipping-oil-gas-prices/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Is Juneteenth and How Did It Become a Federal Holiday?]]></title>
+            <link>https://time.com/article/2026/06/19/juneteenth-federal-holiday-history/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/19/juneteenth-federal-holiday-history/</guid>
+            <pubDate>Fri, 19 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Ambitious Should You Be?]]></title>
+            <link>https://time.com/article/2026/06/19/how-ambitious-should-you-be/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/19/how-ambitious-should-you-be/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Energy Markets Will Remain Volatile Even After the Iran-U.S. Deal]]></title>
+            <link>https://time.com/article/2026/06/19/trump-iran-deal-energy-market-volatility/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/19/trump-iran-deal-energy-market-volatility/</guid>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hegseth Scolds NATO Allies Over ‘Shameful’ Response to Iran War]]></title>
             <link>https://time.com/article/2026/06/18/hegseth-us-troops-europe-review-nato-allies-criticism-iran-war/</link>
@@ -3292,37 +3327,6 @@
             <link>https://time.com/article/2026/05/02/trump-pirates-US-navy-iran-blockade/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/02/trump-pirates-US-navy-iran-blockade/</guid>
             <pubDate>Sat, 02 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Federal Court Blocks Mailing of Abortion Pill Mifepristone]]></title>
-            <link>https://time.com/article/2026/05/02/federal-court-blocks-mailing-of-popular-abortion-pills-across-the-u-s-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/02/federal-court-blocks-mailing-of-popular-abortion-pills-across-the-u-s-/</guid>
-            <pubDate>Sat, 02 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Face Value: Why ‘Looksmaxxing’ Is More Than Mewing and Mirrors]]></title>
-            <link>https://time.com/article/2026/05/02/face-value-why-looksmaxxing-is-more-than-hope-and-mirrors/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/02/face-value-why-looksmaxxing-is-more-than-hope-and-mirrors/</guid>
-            <pubDate>Sat, 02 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As the 5-Day Workweek Turns 100, It’s Time for an AI Era Upgrade]]></title>
-            <link>https://time.com/article/2026/05/01/as-the-5-day-workweek-turns-100-it-s-time-for-an-ai-era-upgrade/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/01/as-the-5-day-workweek-turns-100-it-s-time-for-an-ai-era-upgrade/</guid>
-            <dc:creator><![CDATA[Jared Lindzon and Joe O’Connor]]></dc:creator>
-            <pubDate>Fri, 01 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Threatens to Withdraw U.S. Troops From Italy and Spain as Europe Rift Widens]]></title>
-            <link>https://time.com/article/2026/05/01/trump-threatens-to-withdraw-us-troops-italy-spain-europe-iran-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/01/trump-threatens-to-withdraw-us-troops-italy-spain-europe-iran-war/</guid>
-            <pubDate>Fri, 01 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Most Urgent Threats to Press Freedom in 2026]]></title>
-            <link>https://time.com/article/2026/05/01/the-most-urgent-threats-to-press-freedom-in-2026/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/01/the-most-urgent-threats-to-press-freedom-in-2026/</guid>
-            <pubDate>Fri, 01 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
