@@ -4,16 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Jun 2026 19:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jun 2026 21:05:42 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 20 Jun 2026 19:11:02 GMT</pubDate>
+        <pubDate>Sat, 20 Jun 2026 21:05:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Fuelling Anxiety: What Gas Prices Tell Us About America and the World]]></title>
-            <description><![CDATA[The war in Iran has showed how the price of gas weighs not just on people’s wallets, but also on our national mind—as it has for decades.]]></description>
             <link>https://time.com/article/2026/06/20/fuelling-anxiety-what-gas-prices-tell-us-about-america-and-the-world/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/20/fuelling-anxiety-what-gas-prices-tell-us-about-america-and-the-world/</guid>
-            <dc:creator><![CDATA[Daniel Yergin]]></dc:creator>
             <pubDate>Sat, 20 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -21,6 +19,13 @@
             <link>https://time.com/article/2026/06/20/the-u-s-men-are-beginning-to-look-like-the-team-we-were-promised/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/20/the-u-s-men-are-beginning-to-look-like-the-team-we-were-promised/</guid>
             <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[For LGBTQ+ People, America's Promise of Refuge Is Fading]]></title>
+            <link>https://time.com/article/2026/06/20/for-lgbtq-people-america-s-promise-of-refuge-is-fading/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/20/for-lgbtq-people-america-s-promise-of-refuge-is-fading/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sat, 20 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -66,6 +71,7 @@
         </item>
         <item>
             <title><![CDATA[The 60-Day Test: What Iran’s Agreement with the United States Really Means]]></title>
+            <description><![CDATA[The United States and Iran will measure each other’s will to implement their agreement and determine whether conditions for something durable exist.]]></description>
             <link>https://time.com/article/2026/06/19/iran-united-states-agreement-nuclear-program-war-israel-lebanon/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/19/iran-united-states-agreement-nuclear-program-war-israel-lebanon/</guid>
             <dc:creator><![CDATA[Hamidreza Azizi]]></dc:creator>
@@ -3320,13 +3326,6 @@
             <link>https://time.com/article/2026/05/04/the-structure-of-america-s-domestic-violence-crisis/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/04/the-structure-of-america-s-domestic-violence-crisis/</guid>
             <dc:creator><![CDATA[Earl Smith]]></dc:creator>
-            <pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Karl Urban Quietly Conquered Geekdom]]></title>
-            <link>https://time.com/article/2026/05/04/karl-urban-interview-the-boys-mortal-kombat-2/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/04/karl-urban-interview-the-boys-mortal-kombat-2/</guid>
-            <dc:creator><![CDATA[James Grebey]]></dc:creator>
             <pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
