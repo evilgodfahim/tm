@@ -4,10 +4,24 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Jun 2026 17:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jun 2026 19:17:00 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Jun 2026 17:19:57 GMT</pubDate>
+        <pubDate>Sun, 21 Jun 2026 19:17:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The U.S.-Iran War: By the Numbers]]></title>
+            <description><![CDATA[As officials meet in Switzerland to negotiate the terms of a tenuous U.S.-Iran accord, and tensions reignite over the Strait of Hormuz, here's a look at what the conflict has already cost.]]></description>
+            <link>https://time.com/article/2026/06/21/the-toll-of-the-u-s--iran-war-by-the-numbers/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/21/the-toll-of-the-u-s--iran-war-by-the-numbers/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sun, 21 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Questions I Never Asked My Father]]></title>
+            <link>https://time.com/article/2026/06/21/the-questions-i-never-asked-my-father/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/21/the-questions-i-never-asked-my-father/</guid>
+            <pubDate>Sun, 21 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fuelling Anxiety: What Gas Prices Tell Us About America and the World]]></title>
             <link>https://time.com/article/2026/06/20/fuelling-anxiety-what-gas-prices-tell-us-about-america-and-the-world/</link>
@@ -71,10 +85,8 @@
         </item>
         <item>
             <title><![CDATA[The 60-Day Test: What Iran’s Agreement with the United States Really Means]]></title>
-            <description><![CDATA[The United States and Iran will measure each other’s will to implement their agreement and determine whether conditions for something durable exist.]]></description>
             <link>https://time.com/article/2026/06/19/iran-united-states-agreement-nuclear-program-war-israel-lebanon/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/19/iran-united-states-agreement-nuclear-program-war-israel-lebanon/</guid>
-            <dc:creator><![CDATA[Hamidreza Azizi]]></dc:creator>
             <pubDate>Fri, 19 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3312,20 +3324,6 @@
             <link>https://time.com/article/2026/05/04/taiwan-china-eswatini-us-tensions-arrive-then-announce-diplomacy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/04/taiwan-china-eswatini-us-tensions-arrive-then-announce-diplomacy/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Snake Bite Revealed How We Can Help Heal the Planet]]></title>
-            <link>https://time.com/article/2026/05/04/natures-echo-thomas-crowther-book-excerpt/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/04/natures-echo-thomas-crowther-book-excerpt/</guid>
-            <dc:creator><![CDATA[Thomas Crowther]]></dc:creator>
-            <pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Structure of America’s Domestic Violence Crisis]]></title>
-            <link>https://time.com/article/2026/05/04/the-structure-of-america-s-domestic-violence-crisis/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/04/the-structure-of-america-s-domestic-violence-crisis/</guid>
-            <dc:creator><![CDATA[Earl Smith]]></dc:creator>
             <pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
