@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Jun 2026 23:02:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2026 02:52:50 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Jun 2026 23:02:11 GMT</pubDate>
+        <pubDate>Mon, 22 Jun 2026 02:52:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The U.S.-Iran War: By the Numbers]]></title>
@@ -249,6 +249,20 @@
             <title><![CDATA[Frank Wills and the Importance of Ordinary Americans Doing the Right Thing]]></title>
             <link>https://time.com/article/2026/06/17/frank-wills-and-the-importance-of-ordinary-americans-doing-the-right-thing/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/17/frank-wills-and-the-importance-of-ordinary-americans-doing-the-right-thing/</guid>
+            <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Crushing 'House of the Dragon' Premiere]]></title>
+            <link>https://time.com/article/2026/06/17/house-of-the-dragon-season-3-episode-1-recap/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/17/house-of-the-dragon-season-3-episode-1-recap/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['House of the Dragon' Season 3 Erases an Important Book Character]]></title>
+            <link>https://time.com/article/2026/06/17/house-of-the-dragon-season-3-premiere-rhaena-sheepstealer-nettles/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/17/house-of-the-dragon-season-3-premiere-rhaena-sheepstealer-nettles/</guid>
+            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3310,20 +3324,6 @@
             <link>https://time.com/article/2026/05/04/hantavirus-outbreak-cruise-ship/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/04/hantavirus-outbreak-cruise-ship/</guid>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
-            <pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Travelers Should Know Following Spirit Airlines’ Demise]]></title>
-            <link>https://time.com/article/2026/05/04/what-travelers-should-know-about-getting-refunds-and-booking-or-rebooking-trips-following-spirit-airlines-demise/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/04/what-travelers-should-know-about-getting-refunds-and-booking-or-rebooking-trips-following-spirit-airlines-demise/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
-            <pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the Taiwanese President’s ‘Arrive Then Announce’ Diplomacy Has Infuriated China]]></title>
-            <link>https://time.com/article/2026/05/04/taiwan-china-eswatini-us-tensions-arrive-then-announce-diplomacy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/04/taiwan-china-eswatini-us-tensions-arrive-then-announce-diplomacy/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
