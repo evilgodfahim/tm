@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Jun 2026 21:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2026 23:12:53 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 22 Jun 2026 21:28:42 GMT</pubDate>
+        <pubDate>Mon, 22 Jun 2026 23:12:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Starmer Resigns as Britain Prepares For Its Seventh Leader in 10 Years]]></title>
@@ -85,6 +85,12 @@
             <title><![CDATA[A Timeline of the U.S.-Iran War]]></title>
             <link>https://time.com/article/2026/06/22/how-did-we-get-here-a-timeline-of-the-u-s--iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/22/how-did-we-get-here-a-timeline-of-the-u-s--iran-war/</guid>
+            <pubDate>Mon, 22 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Administration Moves to Increase the Price Tag for Seeking U.S. Citizenship]]></title>
+            <link>https://time.com/article/2026/06/22/trump-administration-immigration-citizenship-naturalization-application-cost-dhs/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/22/trump-administration-immigration-citizenship-naturalization-application-cost-dhs/</guid>
             <pubDate>Mon, 22 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3317,13 +3323,6 @@
             <link>https://time.com/article/2026/05/05/what-the-desert-taught-me-about-cinco-de-mayo/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/05/what-the-desert-taught-me-about-cinco-de-mayo/</guid>
             <dc:creator><![CDATA[Claudia Romo Edelman]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More Flexibility Is Making Us Less Connected]]></title>
-            <link>https://time.com/article/2026/05/05/more-flexibility-is-making-us-less-connected/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/05/more-flexibility-is-making-us-less-connected/</guid>
-            <dc:creator><![CDATA[David Epstein]]></dc:creator>
             <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
