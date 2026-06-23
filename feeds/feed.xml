@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Jun 2026 10:29:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 13:37:11 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 23 Jun 2026 10:29:05 GMT</pubDate>
+        <pubDate>Tue, 23 Jun 2026 13:37:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What to Know About Europe’s Deadly Heatwave—and How to Stay Safe]]></title>
@@ -21,6 +21,20 @@
             <link>https://time.com/article/2026/06/23/philippines-high-school-shooting-tacloban-age-criminal-responsibility/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/23/philippines-high-school-shooting-tacloban-age-criminal-responsibility/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can the Cold War Teach Us How to Slow Down AI?]]></title>
+            <link>https://time.com/article/2026/06/23/ai-slowdown-cold-war-verification/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/23/ai-slowdown-cold-war-verification/</guid>
+            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rising Seas Are Remaking Reality in This North Carolina Community]]></title>
+            <link>https://time.com/article/2026/06/23/rising-seas-scranton-north-carolina-photography/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/23/rising-seas-scranton-north-carolina-photography/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3311,20 +3325,6 @@
             <link>https://time.com/article/2026/05/05/secret-service-shooting-white-house-washington-monument/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/05/secret-service-shooting-white-house-washington-monument/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We’re Living Longer But Getting Lonelier. Here’s What Can Help]]></title>
-            <link>https://time.com/article/2026/05/05/longevity-nation-book-excerpt-michael-clinton/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/05/longevity-nation-book-excerpt-michael-clinton/</guid>
-            <dc:creator><![CDATA[Michael Clinton]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hegseth Says Cease-Fire 'Not Over’ Despite Iranian Attacks in Hormuz]]></title>
-            <link>https://time.com/article/2026/05/05/-we-have-not-even-begun-iran-warns-us-after-attacks-in-the-strait-of-hormuz/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/05/-we-have-not-even-begun-iran-warns-us-after-attacks-in-the-strait-of-hormuz/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
