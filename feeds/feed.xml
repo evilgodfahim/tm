@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Jun 2026 13:37:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 16:22:06 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 23 Jun 2026 13:37:11 GMT</pubDate>
+        <pubDate>Tue, 23 Jun 2026 16:22:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What to Know About Europe’s Deadly Heatwave—and How to Stay Safe]]></title>
@@ -27,7 +27,6 @@
             <title><![CDATA[Can the Cold War Teach Us How to Slow Down AI?]]></title>
             <link>https://time.com/article/2026/06/23/ai-slowdown-cold-war-verification/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/23/ai-slowdown-cold-war-verification/</guid>
-            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -35,6 +34,51 @@
             <link>https://time.com/article/2026/06/23/rising-seas-scranton-north-carolina-photography/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/23/rising-seas-scranton-north-carolina-photography/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[America: Success or Failure? Both!]]></title>
+            <link>https://time.com/article/2026/06/23/america-success-or-failure-both-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/23/america-success-or-failure-both-/</guid>
+            <dc:creator><![CDATA[Greg Jackson]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Remembering Alan Greenspan: the Fed Chair, Bookkeeper, and Bandleader]]></title>
+            <link>https://time.com/article/2026/06/23/remembering-alan-greenspan-the-fed-chair-bookkeeper-and-bandleader/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/23/remembering-alan-greenspan-the-fed-chair-bookkeeper-and-bandleader/</guid>
+            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World's Most Sustainable Companies of 2026]]></title>
+            <link>https://time.com/article/2026/06/23/worlds-most-sustainable-companies-2026/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/23/worlds-most-sustainable-companies-2026/</guid>
+            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 1-Minute Mental Trick That Makes You Appreciate Your Life]]></title>
+            <link>https://time.com/article/2026/06/23/mental-subtraction-trick-appreciate-your-life/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/23/mental-subtraction-trick-appreciate-your-life/</guid>
+            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[People Are Living Better at the End of Their Lives]]></title>
+            <link>https://time.com/article/2026/06/23/end-of-life-longevity-study/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/23/end-of-life-longevity-study/</guid>
+            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tech Leaders Warn of the Internet’s ‘Largest Social Experiment’]]></title>
+            <link>https://time.com/article/2026/06/23/cannes-pinterest-roundtable/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/23/cannes-pinterest-roundtable/</guid>
+            <dc:creator><![CDATA[Emma Barker Bonomo]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Scientific Case for Reading on Paper, Not Screens]]></title>
+            <link>https://time.com/article/2026/06/23/the-scientific-case-for-reading-on-paper-not-screens/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/23/the-scientific-case-for-reading-on-paper-not-screens/</guid>
+            <dc:creator><![CDATA[Markham Heid]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -81,20 +125,20 @@
             <title><![CDATA[Why You Trust Your Nurse More Than Your Doctor]]></title>
             <link>https://time.com/article/2026/06/22/why-americans-trust-nurses-more-than-doctors/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/22/why-americans-trust-nurses-more-than-doctors/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Mon, 22 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Young People Are Sounding the Alarm on AI. We Should Listen to Them]]></title>
             <link>https://time.com/article/2026/06/22/why-young-people-are-sounding-the-alarm-on-ai/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/22/why-young-people-are-sounding-the-alarm-on-ai/</guid>
+            <dc:creator><![CDATA[Tarika Barrett]]></dc:creator>
             <pubDate>Mon, 22 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vance Touts Progress in Iran Peace Talks as a Skeptical Congress Raises Concerns]]></title>
-            <description><![CDATA[As U.S. negotiations with Iran move forward, a growing number of Republican lawmakers are raising doubts.]]></description>
             <link>https://time.com/article/2026/06/22/jd-vance-donald-trump-iran-peace-talks-congress-nuclear-strait-of-hormuz/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/22/jd-vance-donald-trump-iran-peace-talks-congress-nuclear-strait-of-hormuz/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Mon, 22 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3280,52 +3324,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/05/06/how-to-ask-ai-chatbots-smarter-health-questions/</guid>
             <dc:creator><![CDATA[Sudheesha Perera and Murali Doraiswamy]]></dc:creator>
             <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pope Leo Rejects Trump’s Nuclear Claims and Tells His Critics To Speak ‘Truthfully’]]></title>
-            <link>https://time.com/article/2026/05/06/pope-leo-nuclear-weapons-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/06/pope-leo-nuclear-weapons-trump/</guid>
-            <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Margaret Atwood on 'The Testaments' and Trad Wives]]></title>
-            <link>https://time.com/article/2026/05/06/magaret-atwood-the-testaments/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/06/magaret-atwood-the-testaments/</guid>
-            <dc:creator><![CDATA[Shannon Carlin]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s White House Ballroom Keeps Growing in Size and Cost]]></title>
-            <link>https://time.com/article/2026/05/06/trump-s-white-house-ballroom-keeps-growing-in-size-and-cost/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/06/trump-s-white-house-ballroom-keeps-growing-in-size-and-cost/</guid>
-            <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Robot (Sort of) Made Me Lunch]]></title>
-            <link>https://time.com/article/2026/05/06/robot-ai-food-restaurant-kaikaku/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/06/robot-ai-food-restaurant-kaikaku/</guid>
-            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIME for Change]]></title>
-            <link>https://time.com/collection/time-for-change/2026/</link>
-            <guid isPermaLink="true">https://time.com/collection/time-for-change/2026/</guid>
-            <pubDate>Tue, 05 May 2026 17:15:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. and Iran Trade Attacks, Threatening Cease-Fire: What to Know]]></title>
-            <link>https://time.com/article/2026/05/05/iran-us-war-ceasefire-attacks-trump-strait-hormuz-explainer-latest/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/05/iran-us-war-ceasefire-attacks-trump-strait-hormuz-explainer-latest/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Secret Service Shooting Near White House: What to Know]]></title>
-            <link>https://time.com/article/2026/05/05/secret-service-shooting-white-house-washington-monument/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/05/secret-service-shooting-white-house-washington-monument/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
