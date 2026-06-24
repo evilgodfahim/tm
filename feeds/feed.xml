@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Jun 2026 13:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jun 2026 16:09:44 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 24 Jun 2026 13:12:03 GMT</pubDate>
+        <pubDate>Wed, 24 Jun 2026 16:09:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Mamdani Endorsements Sweep New York Primaries in Blow to Establishment Democrats]]></title>
@@ -14,6 +14,20 @@
             <link>https://time.com/article/2026/06/24/mamdani-new-york-primary-endorsements-election-results-lander-valdez-avila-chevalier-reactions/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/24/mamdani-new-york-primary-endorsements-election-results-lander-valdez-avila-chevalier-reactions/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Wed, 24 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A New $500 Million Fund Is Trying to Eliminate the Common Cold]]></title>
+            <link>https://time.com/article/2026/06/24/500-million-intercept-fund-eliminate-common-cold/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/24/500-million-intercept-fund-eliminate-common-cold/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Wed, 24 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Public-Private Partnerships Will Define Innovation in the AI Era]]></title>
+            <link>https://time.com/article/2026/06/24/public-private-partnerships-will-define-innovation-in-the-ai-era/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/24/public-private-partnerships-will-define-innovation-in-the-ai-era/</guid>
+            <dc:creator><![CDATA[Alois Zwinggi]]></dc:creator>
             <pubDate>Wed, 24 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -52,6 +66,7 @@
             <title><![CDATA[Remembering Alan Greenspan: the Fed Chair, Bookkeeper, and Bandleader]]></title>
             <link>https://time.com/article/2026/06/23/remembering-alan-greenspan-the-fed-chair-bookkeeper-and-bandleader/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/23/remembering-alan-greenspan-the-fed-chair-bookkeeper-and-bandleader/</guid>
+            <dc:creator><![CDATA[John Hope Bryant]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -135,6 +150,20 @@
             <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What Has Andy Burnham, Britain's Likely Next Prime Minister, Said About Trump?]]></title>
+            <link>https://time.com/article/2026/06/23/what-has-andy-burnham-uk-prime-minister-lead-said-about-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/23/what-has-andy-burnham-uk-prime-minister-lead-said-about-trump/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[American Dads Can Help Address the Maternal Mortality Crisis]]></title>
+            <link>https://time.com/article/2026/06/23/american-dads-can-help-address-the-maternal-mortality-crisis/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/23/american-dads-can-help-address-the-maternal-mortality-crisis/</guid>
+            <dc:creator><![CDATA[John Boozman]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Starmer Resigns as Britain Prepares For Its Seventh Leader in 10 Years]]></title>
             <description><![CDATA[Andy Burnham, who on Monday was sworn in as a new Member of Parliament, has confirmed he will stand as a leadership candidate.]]></description>
             <link>https://time.com/article/2026/06/22/uk-prime-minister-keir-starmer-resignation-reports-burnham-leadership-potential/</link>
@@ -205,6 +234,7 @@
             <title><![CDATA[Trump, Iran and the Denial of Defeat]]></title>
             <link>https://time.com/article/2026/06/22/trump-iran-war-denial-of-defeat/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/22/trump-iran-war-denial-of-defeat/</guid>
+            <dc:creator><![CDATA[Jeffrey Sonnenfeld]]></dc:creator>
             <pubDate>Mon, 22 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -217,6 +247,13 @@
             <title><![CDATA[Trump Administration Moves to Increase the Price Tag for Seeking U.S. Citizenship]]></title>
             <link>https://time.com/article/2026/06/22/trump-administration-immigration-citizenship-naturalization-application-cost-dhs/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/22/trump-administration-immigration-citizenship-naturalization-application-cost-dhs/</guid>
+            <pubDate>Mon, 22 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Larry David's History Show Is Dad-Joke Heaven]]></title>
+            <link>https://time.com/article/2026/06/22/life-larry-and-the-pursuit-of-unhappiness-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/22/life-larry-and-the-pursuit-of-unhappiness-review/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Mon, 22 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3291,39 +3328,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/05/07/senator-susan-collins-essential-tremor-explained/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Narges Mohammadi in Critical Condition in Iranian Custody, Family Says]]></title>
-            <link>https://time.com/article/2026/05/07/nobel-peace-prize-laureate-narges-mohammadi-at-risk-of-dying-in-captivity-family-says/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/07/nobel-peace-prize-laureate-narges-mohammadi-at-risk-of-dying-in-captivity-family-says/</guid>
-            <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Do Animals Have Civilizations?]]></title>
-            <description><![CDATA[Animals maintain complex cultures, communication systems, infrastructure, and intergenerational knowledge, writes Ryan Huling.]]></description>
-            <link>https://time.com/article/2026/05/07/do-animals-have-civilizations/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/07/do-animals-have-civilizations/</guid>
-            <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Obama’s Presidential ‘Library’ May Be the Last Normal One]]></title>
-            <link>https://time.com/article/2026/05/07/obama-presidential-library-may-be-the-last-normal-one/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/07/obama-presidential-library-may-be-the-last-normal-one/</guid>
-            <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who Decides What Greatness Tastes Like?]]></title>
-            <link>https://time.com/article/2026/05/07/who-decides-what-greatness-tastes-like/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/07/who-decides-what-greatness-tastes-like/</guid>
-            <dc:creator><![CDATA[Vikas Khanna]]></dc:creator>
-            <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Pauses ‘Project Freedom’ in Hope of Deal With Iran]]></title>
-            <link>https://time.com/article/2026/05/06/trump-pauses-project-freedom-in-hope-of-deal-with-iran/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/06/trump-pauses-project-freedom-in-hope-of-deal-with-iran/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
