@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Jun 2026 23:00:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jun 2026 02:29:21 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 23 Jun 2026 23:00:35 GMT</pubDate>
+        <pubDate>Wed, 24 Jun 2026 02:29:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What to Know About Europe’s Deadly Heatwave—and How to Stay Safe]]></title>
@@ -97,7 +97,6 @@
             <title><![CDATA[Tucker Carlson and Marjorie Taylor Greene Say They Are Done Supporting the Republican Party]]></title>
             <link>https://time.com/article/2026/06/23/tucker-carlson-marjorie-taylor-greene-republican-party-trump-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/23/tucker-carlson-marjorie-taylor-greene-republican-party-trump-iran-war/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -105,6 +104,19 @@
             <link>https://time.com/article/2026/06/23/top-energy-climate-issues-next-uk-prime-minister/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/23/top-energy-climate-issues-next-uk-prime-minister/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About the Landmark Housing Bill Congress Just Passed]]></title>
+            <link>https://time.com/article/2026/06/23/housing-bill-congress-affordability-supply/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/23/housing-bill-congress-affordability-supply/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Five Republican Senators Who Voted Against the Bipartisan Housing Affordability Bill]]></title>
+            <link>https://time.com/article/2026/06/23/housing-bill-congress-senators-voted-against/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/23/housing-bill-congress-senators-voted-against/</guid>
             <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3310,18 +3322,6 @@
             <link>https://time.com/article/2026/05/06/what-doctors-want-you-to-know-about-your-colonoscopy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/06/what-doctors-want-you-to-know-about-your-colonoscopy/</guid>
             <dc:creator><![CDATA[Holly Burns]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Trump 'Counterterrorism' Plan Targets Cartels, Antifa]]></title>
-            <link>https://time.com/article/2026/05/06/trump-new-counterterrorism-strategy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/06/trump-new-counterterrorism-strategy/</guid>
-            <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ted Turner, Founder of CNN, Dies Aged 87]]></title>
-            <link>https://time.com/article/2026/05/06/ted-turner-cnn-founder-dies/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/06/ted-turner-cnn-founder-dies/</guid>
             <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
