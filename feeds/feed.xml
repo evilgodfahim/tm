@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Jun 2026 16:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 19:02:30 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jun 2026 16:16:51 GMT</pubDate>
+        <pubDate>Thu, 25 Jun 2026 19:02:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Two Greatest Opportunities of the AI Economy]]></title>
@@ -19,7 +19,7 @@
             <title><![CDATA[Back-to-Back Quakes Rattle Venezuela: What to Know]]></title>
             <link>https://time.com/article/2026/06/25/venezuela-earthquake-doublet-magnitude-casualties-explainer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/25/venezuela-earthquake-doublet-magnitude-casualties-explainer/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <dc:creator><![CDATA[Chad de Guzman and Connor Greene]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -79,6 +79,32 @@
             <link>https://time.com/article/2026/06/25/bottled-water-sun-plastic/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/25/bottled-water-sun-plastic/</guid>
             <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Postal Service Plans Not to Deliver Mail Ballots to States Unless They Hand Over Voter Data]]></title>
+            <link>https://time.com/article/2026/06/25/postal-service-not-to-deliver-mail-ballots-to-states-unless-they-hand-over-voter-data/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/25/postal-service-not-to-deliver-mail-ballots-to-states-unless-they-hand-over-voter-data/</guid>
+            <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Photos Show the Destruction in Venezuela From Twin Earthquakes]]></title>
+            <link>https://time.com/article/2026/06/25/venezuela-earthquake-in-pictures/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/25/venezuela-earthquake-in-pictures/</guid>
+            <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Happens When You Dream Under Anesthesia?]]></title>
+            <link>https://time.com/article/2026/06/25/dreaming-under-anesthesia-helps-trauma/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/25/dreaming-under-anesthesia-helps-trauma/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Is Europe So Ill-Equipped to Handle Heat Waves?]]></title>
+            <link>https://time.com/article/2026/06/25/europe-heat-wave-infrastructure-air-conditioning/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/25/europe-heat-wave-infrastructure-air-conditioning/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3303,32 +3329,6 @@
             <link>https://time.com/article/2026/05/08/ge-vernova-energy-future/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/08/ge-vernova-energy-future/</guid>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
-            <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Celebrates Virginia Redistricting Ruling]]></title>
-            <description><![CDATA[Virginia’s top court blocked Democrats’ redistricting plan, preserving GOP advantages ahead of the midterm elections.]]></description>
-            <link>https://time.com/article/2026/05/08/trump-declares-huge-win-after-virginia-supreme-court-rejects-redistricting-referendum/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/08/trump-declares-huge-win-after-virginia-supreme-court-rejects-redistricting-referendum/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
-            <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fresh Setback for Trump's Tariffs as He Threatens Europe With 'Much Higher' Levy]]></title>
-            <link>https://time.com/article/2026/05/08/fresh-setback-for-trump-s-tariffs-as-he-threatens-europe-with-much-higher-levy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/08/fresh-setback-for-trump-s-tariffs-as-he-threatens-europe-with-much-higher-levy/</guid>
-            <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Ally Farage Gains in U.K. Local Elections]]></title>
-            <link>https://time.com/article/2026/05/08/trump-ally-nigel-farage-makes-gains-in-u-k-elections-as-starmer-s-future-draws-uncertainty/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/08/trump-ally-nigel-farage-makes-gains-in-u-k-elections-as-starmer-s-future-draws-uncertainty/</guid>
-            <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Remarkably Bright Creatures' Is a Sweet, if Slight, Melodrama with an Eight-Armed Star]]></title>
-            <link>https://time.com/article/2026/05/08/remarkably-bright-creatures-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/08/remarkably-bright-creatures-review/</guid>
             <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
