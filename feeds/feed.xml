@@ -4,15 +4,42 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Jun 2026 10:35:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 13:11:46 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jun 2026 10:35:15 GMT</pubDate>
+        <pubDate>Thu, 25 Jun 2026 13:11:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Two Greatest Opportunities of the AI Economy]]></title>
             <link>https://time.com/article/2026/06/25/the-two-greatest-opportunities-of-the-ai-economy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/25/the-two-greatest-opportunities-of-the-ai-economy/</guid>
             <dc:creator><![CDATA[Ravi Kumar S]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Back-to-Back Quakes Rattle Venezuela: What to Know]]></title>
+            <link>https://time.com/article/2026/06/25/venezuela-earthquake-doublet-magnitude-casualties-explainer/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/25/venezuela-earthquake-doublet-magnitude-casualties-explainer/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Americans Think of the U.S.-Iran Deal, According to Polls]]></title>
+            <link>https://time.com/article/2026/06/25/us-iran-deal-mou-trump-approval-war-polls/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/25/us-iran-deal-mou-trump-approval-war-polls/</guid>
+            <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Safely Lower Your Body Temperature In Extreme Heat]]></title>
+            <link>https://time.com/article/2026/06/25/how-to-safely-lower-body-heat/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/25/how-to-safely-lower-body-heat/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Museum of Exploration Hopes to Inspire a New Generation of Conservationists]]></title>
+            <link>https://time.com/article/2026/06/25/national-geographic-museum-jill-tiefenthaler/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/25/national-geographic-museum-jill-tiefenthaler/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -79,6 +106,14 @@
             <link>https://time.com/article/2026/06/24/-it-s-meaningless-trump-battles-senate-republicans-over-vote-to-end-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/24/-it-s-meaningless-trump-battles-senate-republicans-over-vote-to-end-iran-war/</guid>
             <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Wed, 24 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Broken Bones, Lawsuits, and NDAs: Inside the Worker Safety Concerns at Stargate]]></title>
+            <description><![CDATA[A TIME investigation—drawing on government reports, court documents, 911 calls, and worker interviews—uncovers safety concerns at the flagship site of the $500 billion AI infrastructure project.]]></description>
+            <link>https://time.com/article/2026/06/24/ai-data-center-stargate-abilene-texas-injuries/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/24/ai-data-center-stargate-abilene-texas-injuries/</guid>
+            <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
             <pubDate>Wed, 24 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3290,39 +3325,6 @@
             <link>https://time.com/article/2026/05/07/us-iran-war-deal-mou-axios-report-negotiations-strait-nuclear/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/07/us-iran-war-deal-mou-axios-report-negotiations-strait-nuclear/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
-            <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Trump’s China Trip Is Set Up to Fail]]></title>
-            <link>https://time.com/article/2026/05/07/trump-xi-china-meeting-what-to-expect/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/07/trump-xi-china-meeting-what-to-expect/</guid>
-            <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Countries Are Linked to the Hantavirus Outbreak?]]></title>
-            <link>https://time.com/article/2026/05/07/countries-hantavirus-hondius-cruise-ship/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/07/countries-hantavirus-hondius-cruise-ship/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
-            <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 Meaningful Things to Tell Your Mom While You Still Can]]></title>
-            <link>https://time.com/article/2026/05/07/what-to-tell-your-mom-while-you-still-can/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/07/what-to-tell-your-mom-while-you-still-can/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Real Reason Your Partner Says You Don't Listen]]></title>
-            <link>https://time.com/article/2026/05/07/why-your-partner-says-you-dont-listen/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/07/why-your-partner-says-you-dont-listen/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About the Alleged Jeffrey Epstein Suicide Note]]></title>
-            <link>https://time.com/article/2026/05/07/alleged-jeffrey-epstein-suicide-note-released-by-new-york-judge/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/07/alleged-jeffrey-epstein-suicide-note-released-by-new-york-judge/</guid>
             <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
