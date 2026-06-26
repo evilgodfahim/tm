@@ -4,15 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 13:04:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 16:07:49 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Jun 2026 13:04:01 GMT</pubDate>
+        <pubDate>Fri, 26 Jun 2026 16:07:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How AI Will Make Art Worse]]></title>
             <link>https://time.com/article/2026/06/26/how-ai-will-make-art-worse/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/26/how-ai-will-make-art-worse/</guid>
-            <dc:creator><![CDATA[Tim Brinkhof]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -32,6 +31,54 @@
             <title><![CDATA[Mamdani’s Promised Rent Freeze Approved in New York: What to Know]]></title>
             <link>https://time.com/article/2026/06/26/new-york-rent-freeze-stabilized-apartments-zohran-mamdani-housing-promise/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/26/new-york-rent-freeze-stabilized-apartments-zohran-mamdani-housing-promise/</guid>
+            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Summer Travelers May Still Be Met With High Airfares Despite the U.S.-Iran Deal]]></title>
+            <link>https://time.com/article/2026/06/26/why-summer-travelers-still-met-with-high-airfares-after-us-iran-peace-deal/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/26/why-summer-travelers-still-met-with-high-airfares-after-us-iran-peace-deal/</guid>
+            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Faint Hope for Peace Between India and Pakistan]]></title>
+            <link>https://time.com/article/2026/06/26/peace-conflict-india-modi-munir-pakistan/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/26/peace-conflict-india-modi-munir-pakistan/</guid>
+            <dc:creator><![CDATA[Michael Kugelman]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Silicone Really Better Than Plastic?]]></title>
+            <link>https://time.com/article/2026/06/26/is-silicone-really-better-than-plastic/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/26/is-silicone-really-better-than-plastic/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 5 Healthiest Fats You Can Eat]]></title>
+            <link>https://time.com/article/2026/06/26/5-healthiest-fats-you-can-eat/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/26/5-healthiest-fats-you-can-eat/</guid>
+            <dc:creator><![CDATA[Matt Fuchs]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How 'The Bear' Ends]]></title>
+            <link>https://time.com/article/2026/06/26/the-bear-ending-explained/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/26/the-bear-ending-explained/</guid>
+            <dc:creator><![CDATA[Jake Kring-Schreifels]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Olivia Wilde Made 'The Invite']]></title>
+            <link>https://time.com/article/2026/06/26/olivia-wilde-the-invite-interview/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/26/olivia-wilde-the-invite-interview/</guid>
+            <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Brazilian Startup Is Betting on AI to Fight Crime. Critics See a Surveillance State]]></title>
+            <link>https://time.com/article/2026/06/26/ai-surveillance-brazil-gabriel/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/26/ai-surveillance-brazil-gabriel/</guid>
+            <dc:creator><![CDATA[Harry Booth]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -131,6 +178,13 @@
             <link>https://time.com/article/2026/06/25/europe-heat-wave-infrastructure-air-conditioning/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/25/europe-heat-wave-infrastructure-air-conditioning/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Story I Went Searching For—and the One That Found Me]]></title>
+            <link>https://time.com/article/2026/06/25/soraya-simi-row-of-life/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/25/soraya-simi-row-of-life/</guid>
+            <dc:creator><![CDATA[Soraya Simi]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3281,56 +3335,6 @@
             <link>https://time.com/article/2026/05/11/what-allied-leaders-get-wrong-about-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/11/what-allied-leaders-get-wrong-about-trump/</guid>
             <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Millions of Americans Could Be Owed COVID-Era Tax Refunds]]></title>
-            <link>https://time.com/article/2026/05/11/tax-refunds-covid-pandemic-penalties-interest/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/11/tax-refunds-covid-pandemic-penalties-interest/</guid>
-            <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIME Launches Daily Digital Games]]></title>
-            <link>https://time.com/article/2026/05/11/time-launches-daily-digital-games/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/11/time-launches-daily-digital-games/</guid>
-            <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The ‘Trump Phone’ to Begin Shipping After Repeated Delays, Trump Mobile Says]]></title>
-            <link>https://time.com/article/2026/05/11/trump-phone-late-not-made-in-u-s/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/11/trump-phone-late-not-made-in-u-s/</guid>
-            <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Worst Spring Drought on Record Is Putting U.S. Crops at Risk]]></title>
-            <link>https://time.com/article/2026/05/10/drought-US-farmers-crops-climate-change/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/10/drought-US-farmers-crops-climate-change/</guid>
-            <pubDate>Sun, 10 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Calls James Comey a ‘Dirty Cop’ As Trial Date Set]]></title>
-            <link>https://time.com/article/2026/05/10/trump-calls-james-comey-a-dirty-cop-as-trial-date-set-for-former-fbi-head/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/10/trump-calls-james-comey-a-dirty-cop-as-trial-date-set-for-former-fbi-head/</guid>
-            <pubDate>Sun, 10 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Running Clubs Are a Horrible Place to Date]]></title>
-            <link>https://time.com/article/2026/05/10/running-clubs-are-a-horrible-place-to-date/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/10/running-clubs-are-a-horrible-place-to-date/</guid>
-            <dc:creator><![CDATA[Meehika Barua]]></dc:creator>
-            <pubDate>Sun, 10 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Putin Marks Pared-Down Victory Day Parade in Moscow After Zelensky Gives ‘Permission’]]></title>
-            <link>https://time.com/article/2026/05/09/putin-victory-parade-moscow-zelensky-permission/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/09/putin-victory-parade-moscow-zelensky-permission/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Sat, 09 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Just a Love Tap’: U.S. Insists Cease-Fire With Iran Is Holding Despite Attacks]]></title>
-            <link>https://time.com/article/2026/05/08/us-iran-war-strait-hormuz-attacks-cease-fire-trump-deal/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/08/us-iran-war-strait-hormuz-attacks-cease-fire-trump-deal/</guid>
-            <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
