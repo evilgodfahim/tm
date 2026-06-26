@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 18:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 20:27:44 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Jun 2026 18:23:52 GMT</pubDate>
+        <pubDate>Fri, 26 Jun 2026 20:27:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How AI Will Make Art Worse]]></title>
@@ -93,6 +93,18 @@
             <link>https://time.com/article/2026/06/26/london-climate-action-week-2026/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/26/london-climate-action-week-2026/</guid>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Help Victims of the Venezuela Earthquakes]]></title>
+            <link>https://time.com/article/2026/06/26/how-to-help-victims-of-venezuela-earthquakes/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/26/how-to-help-victims-of-venezuela-earthquakes/</guid>
+            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Controversial Billionaire Tax Will Appear on California Ballot This Fall]]></title>
+            <link>https://time.com/article/2026/06/26/california-billionaire-tax-newsom-ballot-measure/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/26/california-billionaire-tax-newsom-ballot-measure/</guid>
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3322,18 +3334,6 @@
             <link>https://time.com/article/2026/05/11/starmer-facing-calls-to-resign-election-losses-backlash/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/11/starmer-facing-calls-to-resign-election-losses-backlash/</guid>
             <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Long-Term Measles Complication Most People Don't Know About]]></title>
-            <link>https://time.com/article/2026/05/11/measles-complication-immune-system/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/11/measles-complication-immune-system/</guid>
-            <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Colon Hydrotherapy Safe?]]></title>
-            <link>https://time.com/article/2026/05/11/what-is-colon-hydrotherapy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/11/what-is-colon-hydrotherapy/</guid>
             <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
