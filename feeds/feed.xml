@@ -4,15 +4,34 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 10:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 13:04:01 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Jun 2026 10:15:23 GMT</pubDate>
+        <pubDate>Fri, 26 Jun 2026 13:04:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How AI Will Make Art Worse]]></title>
             <link>https://time.com/article/2026/06/26/how-ai-will-make-art-worse/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/26/how-ai-will-make-art-worse/</guid>
             <dc:creator><![CDATA[Tim Brinkhof]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran Strikes Vessel in Strait of Hormuz, Pausing Escort Operations]]></title>
+            <link>https://time.com/article/2026/06/26/strait-hormuz-iran-strike-vessel-un-escort-shipping-oil-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/26/strait-hormuz-iran-strike-vessel-un-escort-shipping-oil-trump/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘He Doesn’t Score Ugly Goals’: Ex-Coach of U.S. Soccer Has Reason to Cheer This World Cup]]></title>
+            <link>https://time.com/article/2026/06/26/world-cup-usmnt-sebastian-berhalter-gregg-coach-son-turkey/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/26/world-cup-usmnt-sebastian-berhalter-gregg-coach-son-turkey/</guid>
+            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mamdani’s Promised Rent Freeze Approved in New York: What to Know]]></title>
+            <link>https://time.com/article/2026/06/26/new-york-rent-freeze-stabilized-apartments-zohran-mamdani-housing-promise/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/26/new-york-rent-freeze-stabilized-apartments-zohran-mamdani-housing-promise/</guid>
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -320,6 +339,20 @@
             <link>https://time.com/article/2026/06/23/american-dads-can-help-address-the-maternal-mortality-crisis/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/23/american-dads-can-help-address-the-maternal-mortality-crisis/</guid>
             <dc:creator><![CDATA[John Boozman]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: Angelina Jolie in 'Couture']]></title>
+            <link>https://time.com/article/2026/06/23/couture-review-angelina-jolie/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/23/couture-review-angelina-jolie/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Roméria Review]]></title>
+            <link>https://time.com/article/2026/06/23/romeria-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/23/romeria-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3297,38 +3330,6 @@
             <title><![CDATA[‘Just a Love Tap’: U.S. Insists Cease-Fire With Iran Is Holding Despite Attacks]]></title>
             <link>https://time.com/article/2026/05/08/us-iran-war-strait-hormuz-attacks-cease-fire-trump-deal/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/08/us-iran-war-strait-hormuz-attacks-cease-fire-trump-deal/</guid>
-            <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About the Canvas Cyberattack]]></title>
-            <link>https://time.com/article/2026/05/08/canvas-cyber-attack-shinyhunters-hack-what-to-know/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/08/canvas-cyber-attack-shinyhunters-hack-what-to-know/</guid>
-            <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[David Attenborough at 100: A Life Telling Nature's Story]]></title>
-            <link>https://time.com/article/2026/05/08/david-attenborough-turns-100/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/08/david-attenborough-turns-100/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[States Monitoring Hantavirus Ship Passengers as Latest Case Reported]]></title>
-            <link>https://time.com/article/2026/05/08/several-u-s-states-monitoring-cruise-passengers-as-latest-hantavirus-case-reported/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/08/several-u-s-states-monitoring-cruise-passengers-as-latest-hantavirus-case-reported/</guid>
-            <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Manage Your Health Anxiety About Hantavirus]]></title>
-            <link>https://time.com/article/2026/05/08/why-hantavirus-fears-are-triggering-post-covid-anxiety/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/08/why-hantavirus-fears-are-triggering-post-covid-anxiety/</guid>
-            <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 Cancer-Prevention Habits Oncologists Do Every Day]]></title>
-            <link>https://time.com/article/2026/05/08/oncologists-cancer-prevention-habits/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/08/oncologists-cancer-prevention-habits/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
