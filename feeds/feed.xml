@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 16:07:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 18:23:52 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Jun 2026 16:07:49 GMT</pubDate>
+        <pubDate>Fri, 26 Jun 2026 18:23:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How AI Will Make Art Worse]]></title>
@@ -79,6 +79,20 @@
             <link>https://time.com/article/2026/06/26/ai-surveillance-brazil-gabriel/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/26/ai-surveillance-brazil-gabriel/</guid>
             <dc:creator><![CDATA[Harry Booth]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does Pickle Juice Really Help Muscle Cramps?]]></title>
+            <link>https://time.com/article/2026/06/26/does-pickle-juice-help-muscle-cramps/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/26/does-pickle-juice-help-muscle-cramps/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is London Taking Over From New York As The Global Climate Hub?]]></title>
+            <link>https://time.com/article/2026/06/26/london-climate-action-week-2026/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/26/london-climate-action-week-2026/</guid>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -188,6 +202,13 @@
             <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Supergirl' Is a Dull, Dispiriting, Fake-Feminist Movie]]></title>
+            <link>https://time.com/article/2026/06/25/supergirl-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/25/supergirl-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mamdani Endorsements Sweep New York Primaries in Blow to Establishment Democrats]]></title>
             <link>https://time.com/article/2026/06/24/mamdani-new-york-primary-endorsements-election-results-lander-valdez-avila-chevalier-reactions/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/24/mamdani-new-york-primary-endorsements-election-results-lander-valdez-avila-chevalier-reactions/</guid>
@@ -235,7 +256,7 @@
             <pubDate>Wed, 24 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Erling Haaland Has Already Won the World Cup]]></title>
+            <title><![CDATA[Erling Haaland]]></title>
             <link>https://time.com/article/2026/06/24/erling-haaland-world-cup-2026-norway/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/24/erling-haaland-world-cup-2026-norway/</guid>
             <pubDate>Wed, 24 Jun 2026 12:00:00 GMT</pubDate>
@@ -1193,10 +1214,9 @@
             <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Greta Lee on 'Toy Story 5' and Screen Time]]></title>
+            <title><![CDATA[Greta Lee]]></title>
             <link>https://time.com/article/2026/06/10/greta-lee-toy-story-5-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/10/greta-lee-toy-story-5-interview/</guid>
-            <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
             <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3314,26 +3334,6 @@
             <title><![CDATA[Is Colon Hydrotherapy Safe?]]></title>
             <link>https://time.com/article/2026/05/11/what-is-colon-hydrotherapy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/11/what-is-colon-hydrotherapy/</guid>
-            <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside America’s Only Federal Quarantine Unit for Hantavirus Cruise Passengers]]></title>
-            <link>https://time.com/article/2026/05/11/hantavirus-andes-cruise-ship-passengers-quarantine-nebraska/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/11/hantavirus-andes-cruise-ship-passengers-quarantine-nebraska/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Pentagon Just Released Its UFO Files. Here's What's Inside]]></title>
-            <description><![CDATA[More than 170 accounts and videos reveal never-before-known UFO sightings.]]></description>
-            <link>https://time.com/article/2026/05/11/whats-inside-new-government-ufo-files/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/11/whats-inside-new-government-ufo-files/</guid>
-            <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colonies in Collision: What Some Allied Leaders Get Wrong About Trump]]></title>
-            <link>https://time.com/article/2026/05/11/what-allied-leaders-get-wrong-about-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/11/what-allied-leaders-get-wrong-about-trump/</guid>
             <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
