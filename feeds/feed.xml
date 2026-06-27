@@ -4,14 +4,29 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jun 2026 18:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 20:03:44 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 27 Jun 2026 18:04:41 GMT</pubDate>
+        <pubDate>Sat, 27 Jun 2026 20:03:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Burnham’s Britain? Why the U.K. Is Set to Get Its Seventh Prime Minister in 10 Years]]></title>
             <link>https://time.com/article/2026/06/27/burnham-britain-why-u-k-is-set-to-get-its-seventh-prime-minister-in-10-years/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/27/burnham-britain-why-u-k-is-set-to-get-its-seventh-prime-minister-in-10-years/</guid>
+            <pubDate>Sat, 27 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The World Cup Pride Match Is A Winner]]></title>
+            <description><![CDATA[Seattle’s World Cup Pride Match went on despite objections from Iran and Egypt’s soccer federations, becoming a celebration of free expression, inclusion, and the global game.]]></description>
+            <link>https://time.com/article/2026/06/27/the-world-cup-pride-match-is-a-winner/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/27/the-world-cup-pride-match-is-a-winner/</guid>
+            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
+            <pubDate>Sat, 27 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran Drone Attacks on Bahrain Raise Fears for Fragile Ceasefire]]></title>
+            <link>https://time.com/article/2026/06/27/Iran-Bahrain-attack-Strait-of-Hormuz-drone-strikes/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/27/Iran-Bahrain-attack-Strait-of-Hormuz-drone-strikes/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Sat, 27 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -316,7 +331,6 @@
         </item>
         <item>
             <title><![CDATA[Broken Bones, Lawsuits, and NDAs: Inside the Worker Safety Concerns at Stargate]]></title>
-            <description><![CDATA[A TIME investigation—drawing on government reports, court documents, 911 calls, and worker interviews—uncovers safety concerns at the flagship site of the $500 billion AI infrastructure project.]]></description>
             <link>https://time.com/article/2026/06/24/ai-data-center-stargate-abilene-texas-injuries/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/24/ai-data-center-stargate-abilene-texas-injuries/</guid>
             <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
@@ -3321,19 +3335,6 @@
             <title><![CDATA[Trump Says Cease-Fire With Iran on 'Life Support']]></title>
             <link>https://time.com/article/2026/05/11/us-iran-israel-war-trump-netanyahu-peace-talks-latest/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/11/us-iran-israel-war-trump-netanyahu-peace-talks-latest/</guid>
-            <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. and French Nationals Test Positive for Hantavirus After Leaving Cruise Ship]]></title>
-            <link>https://time.com/article/2026/05/11/us-french-nationals-test-positive-hantavirus-outbreak-cruise-ship/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/11/us-french-nationals-test-positive-hantavirus-outbreak-cruise-ship/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
-            <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside Thom Tillis' Playbook to Rein in Trump]]></title>
-            <link>https://time.com/article/2026/05/11/thom-tillis-playbook-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/11/thom-tillis-playbook-trump/</guid>
             <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
