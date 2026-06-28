@@ -4,16 +4,21 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2026 16:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 17:58:52 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 28 Jun 2026 16:03:12 GMT</pubDate>
+        <pubDate>Sun, 28 Jun 2026 17:58:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Iran Might Be The Unluckiest Sports Team Ever]]></title>
-            <description><![CDATA[After two late goals in another game sealed Iran’s fate, Team Melli was left to rue one of the most brutal exits in World Cup history.]]></description>
             <link>https://time.com/article/2026/06/28/iran-s-world-cup-exit-is-beyond-comprehension/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/28/iran-s-world-cup-exit-is-beyond-comprehension/</guid>
             <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
+            <pubDate>Sun, 28 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Mission Hijacking Undermines the Fight for American Democracy]]></title>
+            <link>https://time.com/article/2026/06/28/overcrowding-hobbling-fight-to-strengthen-american-democracy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/28/overcrowding-hobbling-fight-to-strengthen-american-democracy/</guid>
             <pubDate>Sun, 28 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -30,7 +35,8 @@
             <pubDate>Sat, 27 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Iran Drone Attacks on Bahrain Raise Fears for Fragile Ceasefire]]></title>
+            <title><![CDATA[Iran Targets U.S. Military Sites in Kuwait and Bahrain as Ceasefire Falters]]></title>
+            <description><![CDATA[The attacks came after President Trump threatened to intensify military action against Tehran if it failed to abide by the interim agreement.]]></description>
             <link>https://time.com/article/2026/06/27/Iran-Bahrain-attack-Strait-of-Hormuz-drone-strikes/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/27/Iran-Bahrain-attack-Strait-of-Hormuz-drone-strikes/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
@@ -114,7 +120,6 @@
             <title><![CDATA[Does Pickle Juice Really Help Muscle Cramps?]]></title>
             <link>https://time.com/article/2026/06/26/does-pickle-juice-help-muscle-cramps/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/26/does-pickle-juice-help-muscle-cramps/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -147,14 +152,12 @@
             <title><![CDATA['Supergirl' Has No Idea What to Do With Kara Zor-El's Superpowers]]></title>
             <link>https://time.com/article/2026/06/26/supergirl-no-superpowers/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/26/supergirl-no-superpowers/</guid>
-            <dc:creator><![CDATA[James Grebey]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Breaking Down the Twist Ending of 'Notes From the Last Row']]></title>
             <link>https://time.com/article/2026/06/26/notes-from-the-last-row-ending/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/26/notes-from-the-last-row-ending/</guid>
-            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3330,13 +3333,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/05/12/leaders-need-to-stop-pretending-they-can-predict-the-future/</guid>
             <dc:creator><![CDATA[Simone Stolzoff]]></dc:creator>
             <pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The True Story Behind 'Under the Bridge']]></title>
-            <link>https://time.com/6968076/under-the-bridge-hulu-true-story/</link>
-            <guid isPermaLink="true">https://time.com/6968076/under-the-bridge-hulu-true-story/</guid>
-            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 05:59:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
