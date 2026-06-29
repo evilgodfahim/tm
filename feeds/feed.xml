@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Jun 2026 22:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2026 23:55:03 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 29 Jun 2026 22:47:43 GMT</pubDate>
+        <pubDate>Mon, 29 Jun 2026 23:55:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The World Cup Knockout Stage Is Finally Here. Co-Host Canada Kicked It Off Right]]></title>
@@ -32,7 +32,6 @@
             <title><![CDATA[Trump and Iranian Officials Make Conflicting Remarks About Next Steps in Talks]]></title>
             <link>https://time.com/article/2026/06/29/us-iran-ceasefire-attacks-strikes-peace-talks-mou/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/29/us-iran-ceasefire-attacks-strikes-peace-talks-mou/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam and Connor Greene]]></dc:creator>
             <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -75,6 +74,13 @@
             <link>https://time.com/article/2026/06/29/what-are-the-three-hottest-years-on-record-and-how-will-this-summer-compare-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/29/what-are-the-three-hottest-years-on-record-and-how-will-this-summer-compare-/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Reacts to Mixed Bag of Supreme Court Rulings]]></title>
+            <link>https://time.com/article/2026/06/29/trump-supreme-court-rulings-mail-in-voting-independent-agency-firings-e-jean-carroll/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/29/trump-supreme-court-rulings-mail-in-voting-independent-agency-firings-e-jean-carroll/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3331,12 +3337,6 @@
             <title><![CDATA[Did Zohran Mamdani's New Budget Really Eliminate New York City’s Deficit?]]></title>
             <link>https://time.com/article/2026/05/13/zohran-mamdani-new-york-city-deficit-budget-funding/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/13/zohran-mamdani-new-york-city-deficit-budget-funding/</guid>
-            <pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Is Where Inflation Is Biting the Hardest for Americans]]></title>
-            <link>https://time.com/article/2026/05/13/inflation-gas-prices-food-tariffs-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/13/inflation-gas-prices-food-tariffs-trump/</guid>
             <pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
