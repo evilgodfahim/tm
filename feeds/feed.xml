@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Jun 2026 10:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2026 14:42:27 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 29 Jun 2026 10:24:27 GMT</pubDate>
+        <pubDate>Mon, 29 Jun 2026 14:42:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The World Cup Knockout Stage Is Finally Here. Co-Host Canada Kicked It Off Right]]></title>
@@ -20,7 +20,6 @@
             <title><![CDATA[What to Know About the Heat Wave Headed to the U.S. Ahead of Fourth of July]]></title>
             <link>https://time.com/article/2026/06/29/extreme-heat-wave-dome-high-temperatures-us-fourth-july-explainer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/29/extreme-heat-wave-dome-high-temperatures-us-fourth-july-explainer/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -28,6 +27,21 @@
             <link>https://time.com/article/2026/06/29/world-cup-fan-zone-shooting-san-jose-california/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/29/world-cup-fan-zone-shooting-san-jose-california/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. and Iran Agree to Stand Down, Resume Talks]]></title>
+            <description><![CDATA[The U.S. and Iran have agreed to stand down and return to the negotiating table after days of tit-for-tat hostilities.]]></description>
+            <link>https://time.com/article/2026/06/29/us-iran-ceasefire-attacks-strikes-peace-talks-mou/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/29/us-iran-ceasefire-attacks-strikes-peace-talks-mou/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside the Fight Over Trump's Fourth of July Party]]></title>
+            <link>https://time.com/article/2026/06/29/America-250th-birthday-Fourth-of-July-Donald-Trump-Freedom-250/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/29/America-250th-birthday-Fourth-of-July-Donald-Trump-Freedom-250/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -183,6 +197,12 @@
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[This European Social Enterprise Is Giving Gen Z Jobs They Actually Want]]></title>
+            <link>https://time.com/article/2026/06/26/sea-ranger-service-gen-z-oceans/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/26/sea-ranger-service-gen-z-oceans/</guid>
+            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Two Greatest Opportunities of the AI Economy]]></title>
             <link>https://time.com/article/2026/06/25/the-two-greatest-opportunities-of-the-ai-economy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/25/the-two-greatest-opportunities-of-the-ai-economy/</guid>
@@ -299,6 +319,13 @@
             <title><![CDATA[The Crisis I Witnessed in Haiti]]></title>
             <link>https://time.com/article/2026/06/25/the-crisis-i-witnessed-in-haiti/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/25/the-crisis-i-witnessed-in-haiti/</guid>
+            <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Revelation of Mara Brock Akil]]></title>
+            <link>https://time.com/article/2026/06/25/mara-brock-akil-interview/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/25/mara-brock-akil-interview/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3307,33 +3334,6 @@
             <link>https://time.com/article/2026/05/12/susan-wojcicki-foundation-lung-cancer-early-detection/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/12/susan-wojcicki-foundation-lung-cancer-early-detection/</guid>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Congress Weighs Gas Tax Holiday—But Drawbacks Might Sink It]]></title>
-            <description><![CDATA[A gas tax holiday would cost the U.S. government billions while saving drivers little.]]></description>
-            <link>https://time.com/article/2026/05/12/federal-gas-tax-pause-holiday/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/12/federal-gas-tax-pause-holiday/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
-            <pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who Could Replace Starmer as Prime Minister? Here Are the Top Contenders]]></title>
-            <link>https://time.com/article/2026/05/12/who-could-replace-keir-starmer-as-prime-minister-uk-contenders/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/12/who-could-replace-keir-starmer-as-prime-minister-uk-contenders/</guid>
-            <pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The U.S. is Facing an Ammunition Shortage Due to the Iran War. Here’s What That Means]]></title>
-            <link>https://time.com/article/2026/05/12/US-ammunition-shortage-iran-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/12/US-ammunition-shortage-iran-war/</guid>
-            <pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FDA Commissioner Marty Makary Resigns]]></title>
-            <link>https://time.com/article/2026/05/12/fda-commissioner-marty-makary-resigns-trump-administration/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/12/fda-commissioner-marty-makary-resigns-trump-administration/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
