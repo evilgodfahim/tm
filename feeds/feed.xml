@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jun 2026 20:51:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 22:10:03 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 30 Jun 2026 20:51:53 GMT</pubDate>
+        <pubDate>Tue, 30 Jun 2026 22:10:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Sen. Gallego Faces Probe Over Campaign Spending: What to Know]]></title>
@@ -59,6 +59,12 @@
             <link>https://time.com/article/2026/06/30/why-learning-a-language-still-matters/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/30/why-learning-a-language-still-matters/</guid>
             <dc:creator><![CDATA[Douglas Hofstadter]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Republicans Push for Constitutional Amendment Restricting Birthright Citizenship After Supreme Court Ruling]]></title>
+            <link>https://time.com/article/2026/06/30/birthright-citizenship-constitutional-amendment-republicans-supreme-court/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/30/birthright-citizenship-constitutional-amendment-republicans-supreme-court/</guid>
             <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3331,13 +3337,6 @@
             <link>https://time.com/article/2026/05/14/trump-xi-china-iran-strait-hormuz/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/14/trump-xi-china-iran-strait-hormuz/</guid>
             <dc:creator><![CDATA[Nik Popli]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Connecting with Nature Makes Us Feel Better About Ourselves]]></title>
-            <link>https://time.com/article/2026/05/14/nature-connection-positive-body-image/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/14/nature-connection-positive-body-image/</guid>
-            <dc:creator><![CDATA[Kyla Mandel]]></dc:creator>
             <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
