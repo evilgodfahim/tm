@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jun 2026 13:04:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 16:17:06 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 30 Jun 2026 13:04:31 GMT</pubDate>
+        <pubDate>Tue, 30 Jun 2026 16:17:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Sen. Gallego Faces Probe Over Campaign Spending: What to Know]]></title>
@@ -25,7 +25,13 @@
             <title><![CDATA[A Splash of Color Might Be the Easiest Way to Boost Happiness]]></title>
             <link>https://time.com/article/2026/06/30/splash-of-color-happiness/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/30/splash-of-color-happiness/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 4 Best Foods for Acid Reflux]]></title>
+            <link>https://time.com/article/2026/06/30/4-best-foods-for-acid-reflux/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/30/4-best-foods-for-acid-reflux/</guid>
+            <dc:creator><![CDATA[Sarah Klein]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -76,7 +82,6 @@
         </item>
         <item>
             <title><![CDATA[After Venezuela’s Earthquakes, Neighbors Become Rescuers]]></title>
-            <description><![CDATA[“We need help,” one survivor said, as Venezuelans search for loved ones and wait for aid after deadly earthquakes.]]></description>
             <link>https://time.com/article/2026/06/29/Venezuela-earthquakes-Caracas-La-Guaira-rescue/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/29/Venezuela-earthquakes-Caracas-La-Guaira-rescue/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
@@ -275,6 +280,13 @@
             <link>https://time.com/article/2026/06/26/why-all-eyes-are-on-africa-at-the-world-cup/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/26/why-all-eyes-are-on-africa-at-the-world-cup/</guid>
             <dc:creator><![CDATA[Jeremy Ebobisse]]></dc:creator>
+            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Supreme Court Upholds State Bans on Transgender Athletes]]></title>
+            <link>https://time.com/article/2026/06/26/supreme-court-transgender-athletes-state-bans/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/26/supreme-court-transgender-athletes-state-bans/</guid>
+            <dc:creator><![CDATA[Chantelle Lee and Philip Wang]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -987,6 +999,14 @@
             <title><![CDATA['House of the Dragon' Season 3 Erases an Important Book Character]]></title>
             <link>https://time.com/article/2026/06/17/house-of-the-dragon-season-3-premiere-rhaena-sheepstealer-nettles/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/17/house-of-the-dragon-season-3-premiere-rhaena-sheepstealer-nettles/</guid>
+            <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Supreme Court Upholds Birthright Citizenship]]></title>
+            <description><![CDATA[The Court’s decision deals a blow to President Donald Trump’s hardline immigration agenda.]]></description>
+            <link>https://time.com/article/2026/06/17/supreme-court-birthright-citizenship-trump-order-fourteenth-amendment-us-constitution/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/17/supreme-court-birthright-citizenship-trump-order-fourteenth-amendment-us-constitution/</guid>
+            <dc:creator><![CDATA[Connor Greene and Nik Popli]]></dc:creator>
             <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3320,26 +3340,6 @@
             <link>https://time.com/article/2026/05/14/testaments-finale-red-wedding-season/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/14/testaments-finale-red-wedding-season/</guid>
             <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China First: As Trump Meets Xi, How Beijing Sees the World Now]]></title>
-            <description><![CDATA[What China seeks is not the abrupt unravelling of American power, but the space to expand its own capabilities without provoking overwhelming resistance.]]></description>
-            <link>https://time.com/article/2026/05/13/china-first-trump-xi-beijing-summit/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/13/china-first-trump-xi-beijing-summit/</guid>
-            <dc:creator><![CDATA[Yu Jie]]></dc:creator>
-            <pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Shrugs Off Economic Impact of Iran War on Americans]]></title>
-            <link>https://time.com/article/2026/05/13/trump-economy-financial-concerns-us-pentagon-iran-war-cost/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/13/trump-economy-financial-concerns-us-pentagon-iran-war-cost/</guid>
-            <pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tributes Pour In for NBA’s First Openly Gay Player Jason Collins]]></title>
-            <link>https://time.com/article/2026/05/13/basketball-and-lgbt-communities-pay-tribute-to-jason-collins-nba-s-first-openly-gay-player-after-death-at-47/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/13/basketball-and-lgbt-communities-pay-tribute-to-jason-collins-nba-s-first-openly-gay-player-after-death-at-47/</guid>
-            <pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
