@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jun 2026 16:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 18:29:33 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 30 Jun 2026 16:17:06 GMT</pubDate>
+        <pubDate>Tue, 30 Jun 2026 18:29:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Sen. Gallego Faces Probe Over Campaign Spending: What to Know]]></title>
@@ -32,6 +32,33 @@
             <link>https://time.com/article/2026/06/30/4-best-foods-for-acid-reflux/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/30/4-best-foods-for-acid-reflux/</guid>
             <dc:creator><![CDATA[Sarah Klein]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rep. Tom Kean Returns to Congress, Explains Mysterious Four-Month Absence]]></title>
+            <link>https://time.com/article/2026/06/30/tom-kean-returns-congress-depression-diagnosis/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/30/tom-kean-returns-congress-depression-diagnosis/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Witkoff and Kushner in Doha to Meet Mediators, But No High-Level Talks Set With Iran, Says Qatar]]></title>
+            <link>https://time.com/article/2026/06/30/us-iran-peace-deal-talks-technical-doha-mediators-strait-of-hormuz/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/30/us-iran-peace-deal-talks-technical-doha-mediators-strait-of-hormuz/</guid>
+            <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Case Against Fireworks]]></title>
+            <link>https://time.com/article/2026/06/30/the-case-against-fireworks/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/30/the-case-against-fireworks/</guid>
+            <dc:creator><![CDATA[Char Miller]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Learning a Language Still Matters]]></title>
+            <link>https://time.com/article/2026/06/30/why-learning-a-language-still-matters/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/30/why-learning-a-language-still-matters/</guid>
+            <dc:creator><![CDATA[Douglas Hofstadter]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -84,7 +111,6 @@
             <title><![CDATA[After Venezuela’s Earthquakes, Neighbors Become Rescuers]]></title>
             <link>https://time.com/article/2026/06/29/Venezuela-earthquakes-Caracas-La-Guaira-rescue/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/29/Venezuela-earthquakes-Caracas-La-Guaira-rescue/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3312,33 +3338,6 @@
             <link>https://time.com/article/2026/05/14/nature-connection-positive-body-image/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/14/nature-connection-positive-body-image/</guid>
             <dc:creator><![CDATA[Kyla Mandel]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Review: Pedro Almodovar’s 'Bitter Christmas']]></title>
-            <link>https://time.com/article/2026/05/14/bitter-christmas-review-cannes/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/14/bitter-christmas-review-cannes/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Maximum Pleasure Guaranteed' Is Indeed a Joy]]></title>
-            <link>https://time.com/article/2026/05/14/maximum-pleasure-guaranteed-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/14/maximum-pleasure-guaranteed-review/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stranger Things Happen in 'The Boroughs']]></title>
-            <link>https://time.com/article/2026/05/14/the-boroughs-review-netflix/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/14/the-boroughs-review-netflix/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When Did On-Screen Weddings Get So Bleak?]]></title>
-            <link>https://time.com/article/2026/05/14/testaments-finale-red-wedding-season/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/14/testaments-finale-red-wedding-season/</guid>
             <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
