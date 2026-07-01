@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Jul 2026 14:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 17:07:51 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Jul 2026 14:11:02 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 17:07:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[House Starts Recess Early After GOP Members Rebel]]></title>
@@ -27,6 +27,26 @@
             <link>https://time.com/article/2026/07/01/what-to-say-when-someone-is-crying/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/01/what-to-say-when-someone-is-crying/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump to Celebrate the ‘Great American Comeback’ at Republican Midterm Convention]]></title>
+            <description><![CDATA[Traditionally, parties hold national conventions only during presidential election years, but Trump has pitched the event as an opportunity to showcase his Administration's "achievements."]]></description>
+            <link>https://time.com/article/2026/07/01/trump-republican-midterm-convention-great-american-comeback/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/01/trump-republican-midterm-convention-great-american-comeback/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Captain Grandpa Has Heard All the Old Jokes]]></title>
+            <link>https://time.com/article/2026/07/01/tim-ream-world-cup-age-usa/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/01/tim-ream-world-cup-age-usa/</guid>
+            <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Myth of the National Team]]></title>
+            <link>https://time.com/article/2026/07/01/the-myth-of-the-national-team/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/01/the-myth-of-the-national-team/</guid>
             <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -193,6 +213,7 @@
             <title><![CDATA[How Mission Hijacking Undermines the Fight for American Democracy]]></title>
             <link>https://time.com/article/2026/06/28/overcrowding-hobbling-fight-to-strengthen-american-democracy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/28/overcrowding-hobbling-fight-to-strengthen-american-democracy/</guid>
+            <dc:creator><![CDATA[Jeffrey Sonnenfeld]]></dc:creator>
             <pubDate>Sun, 28 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3317,27 +3338,6 @@
             <link>https://time.com/article/2026/05/14/teenage-sex-and-death-at-camp-miasma-review-cannes/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/14/teenage-sex-and-death-at-camp-miasma-review-cannes/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Small Businesses Already Replacing Workers With AI]]></title>
-            <link>https://time.com/article/2026/05/14/ai-small-businesses-layoffs/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/14/ai-small-businesses-layoffs/</guid>
-            <dc:creator><![CDATA[Nikita Ostrovsky]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The War in Iran is Causing an Energy Crisis Nobody Can Opt Out Of]]></title>
-            <link>https://time.com/article/2026/05/14/iran-war-energy-crisis-clean-transition/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/14/iran-war-energy-crisis-clean-transition/</guid>
-            <dc:creator><![CDATA[Shyla Raghav]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Xi Warns Trump Over Taiwan During High-Stakes China Summit]]></title>
-            <link>https://time.com/article/2026/05/14/xi-warns-trump-over-taiwan-during-high-stakes-china-summit/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/14/xi-warns-trump-over-taiwan-during-high-stakes-china-summit/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
