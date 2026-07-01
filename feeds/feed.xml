@@ -4,10 +4,31 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Jul 2026 11:52:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 14:11:02 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Jul 2026 11:52:34 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 14:11:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[House Starts Recess Early After GOP Members Rebel]]></title>
+            <description><![CDATA[Speaker Mike Johnson sent members on an early holiday recess after Republican hardliners delivered a legislative blockade.]]></description>
+            <link>https://time.com/article/2026/07/01/gop-republican-house-defense-save-america-act/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/01/gop-republican-house-defense-save-america-act/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Reports Over $1 Billion in Income From Crypto Ventures]]></title>
+            <link>https://time.com/article/2026/07/01/trump-2025-financial-disclosure-crypto-world-liberty-financial/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/01/trump-2025-financial-disclosure-crypto-world-liberty-financial/</guid>
+            <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Best Thing to Say to Someone Who’s Crying]]></title>
+            <link>https://time.com/article/2026/07/01/what-to-say-when-someone-is-crying/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/01/what-to-say-when-someone-is-crying/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sen. Gallego Faces Probe Over Campaign Spending: What to Know]]></title>
             <link>https://time.com/article/2026/06/30/ruben-gallego-arizona-senator-trump-administration-doj-probe-campaign-spending/</link>
@@ -65,6 +86,20 @@
             <title><![CDATA[Republicans Push for Constitutional Amendment Restricting Birthright Citizenship After Supreme Court Ruling]]></title>
             <link>https://time.com/article/2026/06/30/birthright-citizenship-constitutional-amendment-republicans-supreme-court/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/30/birthright-citizenship-constitutional-amendment-republicans-supreme-court/</guid>
+            <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet Melat Kiros, the Democratic Socialist Who Won Colorado's Primary]]></title>
+            <link>https://time.com/article/2026/06/30/melat-kiros-democratic-socialist-colorado-congressional-race/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/30/melat-kiros-democratic-socialist-colorado-congressional-race/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bosnia and Herzegovina’s World Cup Team Is Already Changing the Country’s Story]]></title>
+            <link>https://time.com/article/2026/06/30/bosnia-herzegovina-world-cup/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/06/30/bosnia-herzegovina-world-cup/</guid>
+            <dc:creator><![CDATA[Arminka Helic]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3303,40 +3338,6 @@
             <link>https://time.com/article/2026/05/14/xi-warns-trump-over-taiwan-during-high-stakes-china-summit/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/14/xi-warns-trump-over-taiwan-during-high-stakes-china-summit/</guid>
             <dc:creator><![CDATA[Connor Greene]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s China Visit: Most Memorable Photos]]></title>
-            <description><![CDATA[President Donald Trump met with China’s President Xi Jinping in Beijing during the first U.S. presidential visit to the country in nearly a decade.]]></description>
-            <link>https://time.com/article/2026/05/14/trump-visit-china-taiwan-photos/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/14/trump-visit-china-taiwan-photos/</guid>
-            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet Wes Streeting, a Lead Contender to Replace Starmer and Vocal Trump Critic]]></title>
-            <link>https://time.com/article/2026/05/14/wes-streeting-new-prime-minister-potential-starmer-replacement-bio/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/14/wes-streeting-new-prime-minister-potential-starmer-replacement-bio/</guid>
-            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Brain Processes Language Under Anesthesia]]></title>
-            <link>https://time.com/article/2026/05/14/anesthesia-brain-processes-language/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/14/anesthesia-brain-processes-language/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Is New York Breaking Its Climate Promises?]]></title>
-            <link>https://time.com/article/2026/05/14/new-york-climate-law-rollback/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/14/new-york-climate-law-rollback/</guid>
-            <dc:creator><![CDATA[Vanessa Fajans-Turner]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Says Xi Offered To Help Broker Peace With Iran]]></title>
-            <link>https://time.com/article/2026/05/14/trump-xi-china-iran-strait-hormuz/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/14/trump-xi-china-iran-strait-hormuz/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
             <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
