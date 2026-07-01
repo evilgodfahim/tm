@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Jul 2026 17:07:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 19:40:30 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Jul 2026 17:07:51 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 19:40:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[House Starts Recess Early After GOP Members Rebel]]></title>
@@ -31,7 +31,6 @@
         </item>
         <item>
             <title><![CDATA[Trump to Celebrate the ‘Great American Comeback’ at Republican Midterm Convention]]></title>
-            <description><![CDATA[Traditionally, parties hold national conventions only during presidential election years, but Trump has pitched the event as an opportunity to showcase his Administration's "achievements."]]></description>
             <link>https://time.com/article/2026/07/01/trump-republican-midterm-convention-great-american-comeback/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/01/trump-republican-midterm-convention-great-american-comeback/</guid>
             <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
@@ -47,6 +46,27 @@
             <title><![CDATA[The Myth of the National Team]]></title>
             <link>https://time.com/article/2026/07/01/the-myth-of-the-national-team/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/01/the-myth-of-the-national-team/</guid>
+            <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nearly 450,000 New Yorkers Are Losing Health Coverage July 1]]></title>
+            <description><![CDATA[Thousands of low-income New Yorkers are among the first to feel the impacts of the "Big Beautiful Bill."]]></description>
+            <link>https://time.com/article/2026/07/01/new-yorkers-lose-health-coverage-trump-cuts-health-care/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/01/new-yorkers-lose-health-coverage-trump-cuts-health-care/</guid>
+            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Over 900 Arrested During South African Anti-Migrant Protests. Here's What to Know]]></title>
+            <link>https://time.com/article/2026/07/01/south-africa-anti-migrant-protests/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/01/south-africa-anti-migrant-protests/</guid>
+            <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Communities Thrive When City Streets Ditch Cars]]></title>
+            <link>https://time.com/article/2026/07/01/health-environment-benefits-car-free-city-streets/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/01/health-environment-benefits-car-free-city-streets/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3318,26 +3338,6 @@
             <title><![CDATA[Prince Harry Warns of 'Deeply Troubling' Rise of Antisemitism in U.K.]]></title>
             <link>https://time.com/article/2026/05/14/prince-harry-warning-rise-of-antisemitism-united-kingdom/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/14/prince-harry-warning-rise-of-antisemitism-united-kingdom/</guid>
-            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Senator at the Center of the Philippines’ Senate Chaos: What to Know]]></title>
-            <link>https://time.com/article/2026/05/14/philippines-senate-shooting-ronald-bato-dela-rosa-drug-war-duterte-icc-arrest/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/14/philippines-senate-shooting-ronald-bato-dela-rosa-drug-war-duterte-icc-arrest/</guid>
-            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[12 Ageist Phrases Experts Want You to Retire]]></title>
-            <link>https://time.com/article/2026/05/14/ageist-phrases-stop-saying-aging-language/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/14/ageist-phrases-stop-saying-aging-language/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gillian Anderson Is Sublime in Teenage Sex and Death at Camp Miasma]]></title>
-            <link>https://time.com/article/2026/05/14/teenage-sex-and-death-at-camp-miasma-review-cannes/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/14/teenage-sex-and-death-at-camp-miasma-review-cannes/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
