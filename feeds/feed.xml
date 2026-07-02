@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Jul 2026 15:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 17:28:24 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Jul 2026 15:06:56 GMT</pubDate>
+        <pubDate>Thu, 02 Jul 2026 17:28:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Russia Launches Drone and Missile Attack on Kyiv in Deadly 'Night of Horror']]></title>
@@ -33,6 +33,13 @@
             <link>https://time.com/article/2026/07/02/ebola-returns-how-we-can-fight-back/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/02/ebola-returns-how-we-can-fight-back/</guid>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Business Model of Colleges Is Broken. It’s About to Get Worse]]></title>
+            <link>https://time.com/article/2026/07/02/the-business-model-of-colleges-is-broken-it-s-about-to-get-worse/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/02/the-business-model-of-colleges-is-broken-it-s-about-to-get-worse/</guid>
+            <dc:creator><![CDATA[Jeffrey Selingo]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -72,6 +79,7 @@
             <title><![CDATA[The Myth of the National Team]]></title>
             <link>https://time.com/article/2026/07/01/the-myth-of-the-national-team/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/01/the-myth-of-the-national-team/</guid>
+            <dc:creator><![CDATA[Michael Morris]]></dc:creator>
             <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3332,13 +3340,6 @@
             <link>https://time.com/article/2026/05/15/berlin-and-the-lady-with-an-ermine-ending/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/15/berlin-and-the-lady-with-an-ermine-ending/</guid>
             <dc:creator><![CDATA[Isabella Wandermurem]]></dc:creator>
-            <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Wild Ending of 'The Wonderfools']]></title>
-            <link>https://time.com/article/2026/05/15/the-wonderfools-ending/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/15/the-wonderfools-ending/</guid>
-            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
             <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
