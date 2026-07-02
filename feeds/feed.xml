@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Jul 2026 23:03:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 02:29:17 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Jul 2026 23:03:51 GMT</pubDate>
+        <pubDate>Thu, 02 Jul 2026 02:29:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[House Starts Recess Early After GOP Members Rebel]]></title>
@@ -33,7 +33,6 @@
             <title><![CDATA[Trump to Celebrate the ‘Great American Comeback’ at Republican Midterm Convention]]></title>
             <link>https://time.com/article/2026/07/01/trump-republican-midterm-convention-great-american-comeback/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/01/trump-republican-midterm-convention-great-american-comeback/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +73,26 @@
             <link>https://time.com/article/2026/07/01/in-the-ai-era-we-need-to-invest-in-the-dignity-of-work/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/01/in-the-ai-era-we-need-to-invest-in-the-dignity-of-work/</guid>
             <dc:creator><![CDATA[Gene Sperling]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Kids Aren’t Alright With MAGA]]></title>
+            <link>https://time.com/article/2026/07/01/young-republicans-maga-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/01/young-republicans-maga-trump/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Borrowers Should Know as Sweeping Student Loan Changes Take Effect]]></title>
+            <link>https://time.com/article/2026/07/01/student-loan-limits-repayment-plans-trump-big-beautiful-bill/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/01/student-loan-limits-repayment-plans-trump-big-beautiful-bill/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DOJ to Prioritize ‘Birth Tourism’ Probes Following Supreme Court’s Birthright Citizenship Decision]]></title>
+            <link>https://time.com/article/2026/07/01/doj-birth-tourism-birthright-citizenship-supreme-court/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/01/doj-birth-tourism-birthright-citizenship-supreme-court/</guid>
             <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -139,7 +158,6 @@
             <title><![CDATA[Meet Melat Kiros, the Democratic Socialist Who Won Colorado's Primary]]></title>
             <link>https://time.com/article/2026/06/30/melat-kiros-democratic-socialist-colorado-congressional-race/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/30/melat-kiros-democratic-socialist-colorado-congressional-race/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3320,25 +3338,6 @@
             <title><![CDATA[How Nicki Minaj Went MAGA]]></title>
             <link>https://time.com/article/2026/05/14/nicki-minaj-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/14/nicki-minaj-trump/</guid>
-            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIME100 Philanthropy: The People Shaping Giving in 2026]]></title>
-            <description><![CDATA[The new leaders in philanthropy, many of whom are accustomed to great success in their own fields, are eager to see impact and see it now.]]></description>
-            <link>https://time.com/article/2026/05/14/time100-philanthropy-the-people-shaping-giving/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/14/time100-philanthropy-the-people-shaping-giving/</guid>
-            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Danger of Screens Taking Over Our Lives]]></title>
-            <link>https://time.com/article/2026/05/14/the-danger-of-screens-taking-over-our-lives/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/14/the-danger-of-screens-taking-over-our-lives/</guid>
-            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Waives Visa Bonds for World Cup Ticketholders From Some Countries]]></title>
-            <link>https://time.com/article/2026/05/14/fifa-world-cup-us-visa-bonds-waiver-immigration-ice/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/14/fifa-world-cup-us-visa-bonds-waiver-immigration-ice/</guid>
             <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
