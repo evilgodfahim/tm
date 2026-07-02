@@ -4,10 +4,37 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Jul 2026 12:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 15:06:56 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Jul 2026 12:03:18 GMT</pubDate>
+        <pubDate>Thu, 02 Jul 2026 15:06:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Russia Launches Drone and Missile Attack on Kyiv in Deadly 'Night of Horror']]></title>
+            <description><![CDATA["Russia has again chosen escalation over peace with this deplorable onslaught on Kyiv," said one European minister.]]></description>
+            <link>https://time.com/article/2026/07/02/russia-drone-missile-attack-kyiv-ukraine-death-toll/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/02/russia-drone-missile-attack-kyiv-ukraine-death-toll/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Couple Arrested After Climbing Empire State Building: What to Know]]></title>
+            <link>https://time.com/article/2026/07/02/empire-state-building-climb-russian-couple/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/02/empire-state-building-climb-russian-couple/</guid>
+            <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[America's World Cup Dreams Fueled By 'Pretty' Soccer]]></title>
+            <link>https://time.com/article/2026/07/02/us-bosnia-herzegovina-world-cup/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/02/us-bosnia-herzegovina-world-cup/</guid>
+            <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ebola Returns: How We Can Fight Back]]></title>
+            <link>https://time.com/article/2026/07/02/ebola-returns-how-we-can-fight-back/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/02/ebola-returns-how-we-can-fight-back/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[House Starts Recess Early After GOP Members Rebel]]></title>
             <description><![CDATA[Speaker Mike Johnson sent members on an early holiday recess after Republican hardliners delivered a legislative blockade.]]></description>
@@ -49,7 +76,6 @@
         </item>
         <item>
             <title><![CDATA[Nearly 450,000 New Yorkers Are Losing Health Coverage July 1]]></title>
-            <description><![CDATA[Thousands of low-income New Yorkers are among the first to feel the impacts of the "Big Beautiful Bill."]]></description>
             <link>https://time.com/article/2026/07/01/new-yorkers-lose-health-coverage-trump-cuts-health-care/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/01/new-yorkers-lose-health-coverage-trump-cuts-health-care/</guid>
             <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
@@ -3314,31 +3340,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/05/15/the-wonderfools-ending/</guid>
             <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
             <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Embattled Louisiana Sen. Bill Cassidy Loses Primary]]></title>
-            <link>https://time.com/article/2026/05/15/cassidy-louisiana-senate-republican-primary-trump-letlow-fleming/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/15/cassidy-louisiana-senate-republican-primary-trump-letlow-fleming/</guid>
-            <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Next ICE Director Will Need More Than Loyalty to Trump, Former ICE Officials Say]]></title>
-            <link>https://time.com/article/2026/05/15/ICE-Director-David-Venturella-DHS-Mullin-immigration/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/15/ICE-Director-David-Venturella-DHS-Mullin-immigration/</guid>
-            <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cannes Review: 'Paper Tiger']]></title>
-            <link>https://time.com/article/2026/05/15/paper-tiger-review-cannes/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/15/paper-tiger-review-cannes/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Nicki Minaj Went MAGA]]></title>
-            <link>https://time.com/article/2026/05/14/nicki-minaj-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/14/nicki-minaj-trump/</guid>
-            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
