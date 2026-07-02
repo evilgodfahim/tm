@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Jul 2026 17:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 19:10:47 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Jul 2026 17:28:24 GMT</pubDate>
+        <pubDate>Thu, 02 Jul 2026 19:10:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Russia Launches Drone and Missile Attack on Kyiv in Deadly 'Night of Horror']]></title>
@@ -40,6 +40,13 @@
             <link>https://time.com/article/2026/07/02/the-business-model-of-colleges-is-broken-it-s-about-to-get-worse/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/02/the-business-model-of-colleges-is-broken-it-s-about-to-get-worse/</guid>
             <dc:creator><![CDATA[Jeffrey Selingo]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About Screwworm in the U.S.]]></title>
+            <link>https://time.com/article/2026/07/02/screwworm-us-texas-what-to-know/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/02/screwworm-us-texas-what-to-know/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3333,13 +3340,6 @@
             <link>https://time.com/article/2026/05/15/us-china-evs-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/15/us-china-evs-trump/</guid>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
-            <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Ending of 'Berlin and the Lady with an Ermine']]></title>
-            <link>https://time.com/article/2026/05/15/berlin-and-the-lady-with-an-ermine-ending/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/15/berlin-and-the-lady-with-an-ermine-ending/</guid>
-            <dc:creator><![CDATA[Isabella Wandermurem]]></dc:creator>
             <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
