@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 12:01:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 15:02:14 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jul 2026 12:01:32 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 15:02:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[OpenAI Woos Trump Administration as Investor]]></title>
@@ -19,14 +19,25 @@
             <title><![CDATA[How to Make AI Data Centers More Sustainable]]></title>
             <link>https://time.com/article/2026/07/03/how-to-make-ai-data-centers-more-sustainable/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/03/how-to-make-ai-data-centers-more-sustainable/</guid>
-            <dc:creator><![CDATA[Sasha Luccioni]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Healing America Means Rethinking Patriotism]]></title>
+            <link>https://time.com/article/2026/07/03/healing-america-means-rethinking-patriotism/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/03/healing-america-means-rethinking-patriotism/</guid>
+            <dc:creator><![CDATA[Dominic Erdozain]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran Prepares for Week of Funeral Processions for Ayatollah Ali Khamenei]]></title>
+            <link>https://time.com/article/2026/07/03/iran-supreme-leader-ayatollah-ali-khamenei-funeral-mass-mourning/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/03/iran-supreme-leader-ayatollah-ali-khamenei-funeral-mass-mourning/</guid>
             <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Russia Launches Drone and Missile Attack on Kyiv in Deadly 'Night of Horror']]></title>
             <link>https://time.com/article/2026/07/02/russia-drone-missile-attack-kyiv-ukraine-death-toll/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/02/russia-drone-missile-attack-kyiv-ukraine-death-toll/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +85,20 @@
             <title><![CDATA[Are You Eligible to Receive a Portion of Disney's $50 Million Settlement? Here's How You Can File a Claim]]></title>
             <link>https://time.com/article/2026/07/02/disney-settlement-how-to-file-a-claim/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/02/disney-settlement-how-to-file-a-claim/</guid>
+            <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Human Vapor' Reboots a Classic Japanese Movie With an Anti-Authority Edge]]></title>
+            <link>https://time.com/article/2026/07/02/human-vapor-netflix/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/02/human-vapor-netflix/</guid>
+            <dc:creator><![CDATA[Rory Doherty]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Every Movie Reference in 'Minions & Monsters']]></title>
+            <link>https://time.com/article/2026/07/02/minions-monsters-movies-hollywood/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/02/minions-monsters-movies-hollywood/</guid>
+            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3313,33 +3338,6 @@
             <title><![CDATA[Shutting Down USAID Led to a Rise in Global Violence, Study Says]]></title>
             <link>https://time.com/article/2026/05/15/usaid-shutdown-rise-global-violence/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/15/usaid-shutdown-rise-global-violence/</guid>
-            <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How A.I. Was the Elephant in the Room at the Trump-Xi Summit]]></title>
-            <link>https://time.com/article/2026/05/15/trump-xi-us-china-summit-ai-semiconductor-chips/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/15/trump-xi-us-china-summit-ai-semiconductor-chips/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
-            <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Defends Giant Golden Statue of Himself Amid Much Debate]]></title>
-            <link>https://time.com/article/2026/05/15/trump-gold-statue-controversy-comments-history/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/15/trump-gold-statue-controversy-comments-history/</guid>
-            <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[12 Habits Orthopedic Surgeons Swear By]]></title>
-            <link>https://time.com/article/2026/05/15/orthopedic-surgeons-healthy-aging-habits/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/15/orthopedic-surgeons-healthy-aging-habits/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A New Ebola Outbreak Kills 65]]></title>
-            <link>https://time.com/article/2026/05/15/new-ebola-outbreak-democratic-republic-of-congo/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/15/new-ebola-outbreak-democratic-republic-of-congo/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
