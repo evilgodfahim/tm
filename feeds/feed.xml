@@ -4,10 +4,24 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 09:50:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 12:01:32 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jul 2026 09:50:20 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 12:01:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[OpenAI Woos Trump Administration as Investor]]></title>
+            <link>https://time.com/article/2026/07/03/openai-invest-ai-trump-administration-sam-altman/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/03/openai-invest-ai-trump-administration-sam-altman/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Make AI Data Centers More Sustainable]]></title>
+            <link>https://time.com/article/2026/07/03/how-to-make-ai-data-centers-more-sustainable/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/03/how-to-make-ai-data-centers-more-sustainable/</guid>
+            <dc:creator><![CDATA[Sasha Luccioni]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Russia Launches Drone and Missile Attack on Kyiv in Deadly 'Night of Horror']]></title>
             <link>https://time.com/article/2026/07/02/russia-drone-missile-attack-kyiv-ukraine-death-toll/</link>
@@ -3326,19 +3340,6 @@
             <link>https://time.com/article/2026/05/15/new-ebola-outbreak-democratic-republic-of-congo/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/15/new-ebola-outbreak-democratic-republic-of-congo/</guid>
             <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Could Andy Burnham Replace Starmer as U.K. Prime Minister?]]></title>
-            <link>https://time.com/article/2026/05/15/andy-burnham-new-british-prime-minister-contender-starmer-labour-contest/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/15/andy-burnham-new-british-prime-minister-contender-starmer-labour-contest/</guid>
-            <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['All of a Sudden' Is a Wondrous Work About Caring for One Another]]></title>
-            <link>https://time.com/article/2026/05/15/cannes-review-all-of-a-sudden/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/15/cannes-review-all-of-a-sudden/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
