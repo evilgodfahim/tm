@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 15:02:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 17:14:29 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jul 2026 15:02:14 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 17:14:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[OpenAI Woos Trump Administration as Investor]]></title>
@@ -32,6 +32,14 @@
             <title><![CDATA[Iran Prepares for Week of Funeral Processions for Ayatollah Ali Khamenei]]></title>
             <link>https://time.com/article/2026/07/03/iran-supreme-leader-ayatollah-ali-khamenei-funeral-mass-mourning/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/03/iran-supreme-leader-ayatollah-ali-khamenei-funeral-mass-mourning/</guid>
+            <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Says It’s 'Ridiculous' for U.S. to Maintain Current NATO Support as Rift Widens]]></title>
+            <description><![CDATA[Trump has long accused European allies of not investing enough in their own militaries and relying too heavily on U.S. contributions.]]></description>
+            <link>https://time.com/article/2026/07/03/trump-nato-defense-spending-row-alliance-summit/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/03/trump-nato-defense-spending-row-alliance-summit/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3332,12 +3340,6 @@
             <link>https://time.com/article/2026/05/15/thucydides-trap-greek-reference-china-us-relations-xi-jinping-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/15/thucydides-trap-greek-reference-china-us-relations-xi-jinping-trump/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
-            <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shutting Down USAID Led to a Rise in Global Violence, Study Says]]></title>
-            <link>https://time.com/article/2026/05/15/usaid-shutdown-rise-global-violence/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/15/usaid-shutdown-rise-global-violence/</guid>
             <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
