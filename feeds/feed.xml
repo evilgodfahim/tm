@@ -4,15 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 17:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 19:03:57 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jul 2026 17:14:29 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 19:03:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[OpenAI Woos Trump Administration as Investor]]></title>
             <link>https://time.com/article/2026/07/03/openai-invest-ai-trump-administration-sam-altman/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/03/openai-invest-ai-trump-administration-sam-altman/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -39,6 +38,13 @@
             <description><![CDATA[Trump has long accused European allies of not investing enough in their own militaries and relying too heavily on U.S. contributions.]]></description>
             <link>https://time.com/article/2026/07/03/trump-nato-defense-spending-row-alliance-summit/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/03/trump-nato-defense-spending-row-alliance-summit/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tucker Carlson Floats Idea of New Political Party Amid Split From Trump]]></title>
+            <link>https://time.com/article/2026/07/03/tucker-carlson-new-political-party-trump-maga-rift/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/03/tucker-carlson-new-political-party-trump-maga-rift/</guid>
             <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
         </item>
@@ -3333,13 +3339,6 @@
             <title><![CDATA[Trump’s China Trip Underscores How Power Has Shifted East]]></title>
             <link>https://time.com/article/2026/05/15/trump-xi-us-china-summit-analysis/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/15/trump-xi-us-china-summit-analysis/</guid>
-            <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Thucydides’ Trap’: What to Know About China’s Favorite Reference for U.S. Relations]]></title>
-            <link>https://time.com/article/2026/05/15/thucydides-trap-greek-reference-china-us-relations-xi-jinping-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/15/thucydides-trap-greek-reference-china-us-relations-xi-jinping-trump/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
