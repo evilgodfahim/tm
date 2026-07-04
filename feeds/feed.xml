@@ -4,10 +4,18 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Jul 2026 13:02:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jul 2026 14:58:33 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Jul 2026 13:02:31 GMT</pubDate>
+        <pubDate>Sat, 04 Jul 2026 14:58:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[America’s Greatest Strength]]></title>
+            <description><![CDATA[The future success of the U.S. will hinge on the ingredient that made America so powerful in the first place: immigration.]]></description>
+            <link>https://time.com/article/2026/07/04/america-s-greatest-strength/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/04/america-s-greatest-strength/</guid>
+            <dc:creator><![CDATA[Robert Hormats]]></dc:creator>
+            <pubDate>Sat, 04 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OpenAI Woos Trump Administration as Investor]]></title>
             <link>https://time.com/article/2026/07/03/openai-invest-ai-trump-administration-sam-altman/</link>
@@ -18,6 +26,7 @@
             <title><![CDATA[How to Make AI Data Centers More Sustainable]]></title>
             <link>https://time.com/article/2026/07/03/how-to-make-ai-data-centers-more-sustainable/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/03/how-to-make-ai-data-centers-more-sustainable/</guid>
+            <dc:creator><![CDATA[Sasha Luccioni]]></dc:creator>
             <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +54,6 @@
             <title><![CDATA[Tucker Carlson Floats Idea of New Political Party Amid Split From Trump]]></title>
             <link>https://time.com/article/2026/07/03/tucker-carlson-new-political-party-trump-maga-rift/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/03/tucker-carlson-new-political-party-trump-maga-rift/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -89,7 +97,6 @@
         </item>
         <item>
             <title><![CDATA[U.S. Declines to Renew Trade Pact With Mexico, Canada. Here's What That Means]]></title>
-            <description><![CDATA[Trade experts tell TIME that the move could carry profound long-term consequences, creating the kind of uncertainty that discourages investment, complicates supply chains and, over time, raises costs for consumers.]]></description>
             <link>https://time.com/article/2026/07/02/us-declines-renewal-trade-pact-mexico-canada-impact/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/02/us-declines-renewal-trade-pact-mexico-canada-impact/</guid>
             <dc:creator><![CDATA[Nik Popli]]></dc:creator>
@@ -112,7 +119,6 @@
             <title><![CDATA[Every Movie Reference in 'Minions & Monsters']]></title>
             <link>https://time.com/article/2026/07/02/minions-monsters-movies-hollywood/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/02/minions-monsters-movies-hollywood/</guid>
-            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3334,12 +3340,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/05/16/the-luna-moth-that-saved-me/</guid>
             <dc:creator><![CDATA[Kai Coggin]]></dc:creator>
             <pubDate>Sat, 16 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s China Trip Underscores How Power Has Shifted East]]></title>
-            <link>https://time.com/article/2026/05/15/trump-xi-us-china-summit-analysis/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/15/trump-xi-us-china-summit-analysis/</guid>
-            <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
