@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jul 2026 11:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 13:10:54 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Jul 2026 11:23:53 GMT</pubDate>
+        <pubDate>Sun, 05 Jul 2026 13:10:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[France, the World Cup Favorite, Lives On]]></title>
+            <link>https://time.com/article/2026/07/05/france-the-world-cup-favorite-lives-on-with-a-little-love-from-local-fans/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/05/france-the-world-cup-favorite-lives-on-with-a-little-love-from-local-fans/</guid>
+            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
+            <pubDate>Sun, 05 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[America’s Greatest Strength]]></title>
             <description><![CDATA[The future success of the U.S. will hinge on the ingredient that made America so powerful in the first place: immigration.]]></description>
@@ -33,6 +40,7 @@
             <title><![CDATA[How to Watch D.C.'s Record-Breaking Fireworks Show]]></title>
             <link>https://time.com/article/2026/07/04/how-to-watch-the-record-breaking-fourth-of-july-fireworks-show-on-the-national-mall/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/04/how-to-watch-the-record-breaking-fourth-of-july-fireworks-show-on-the-national-mall/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Sat, 04 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -329,7 +337,6 @@
             <title><![CDATA[Inside the Fight Over Trump's Fourth of July Party]]></title>
             <link>https://time.com/article/2026/06/29/America-250th-birthday-Fourth-of-July-Donald-Trump-Freedom-250/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/29/America-250th-birthday-Fourth-of-July-Donald-Trump-Freedom-250/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3332,13 +3339,6 @@
             <link>https://time.com/article/2026/05/16/john-lennon-the-last-interview-review-cannes/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/16/john-lennon-the-last-interview-review-cannes/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Sat, 16 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Iran-Backed Militia Behind a Terror Plot Against American Jews]]></title>
-            <link>https://time.com/article/2026/05/16/kataib-hezbollah-terror-plot-synagogue/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/16/kataib-hezbollah-terror-plot-synagogue/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sat, 16 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
