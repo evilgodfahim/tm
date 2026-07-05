@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jul 2026 19:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 20:48:43 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Jul 2026 19:25:17 GMT</pubDate>
+        <pubDate>Sun, 05 Jul 2026 20:48:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[France, the World Cup Favorite, Lives On]]></title>
@@ -16,8 +16,21 @@
             <pubDate>Sun, 05 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Khamenei's Funeral Is Meant to Project Strength. But Iran's New Leader Has Yet to Appear]]></title>
+            <description><![CDATA[Months after the death of Iran’s Supreme Leader, Ayatollah Ali Khamenei, on Feb. 28, his weeklong funeral is meant to demonstrate a seamless succession of power. But there has been one notable absence.]]></description>
+            <link>https://time.com/article/2026/07/05/khamenei-s-funeral-is-meant-to-project-strength-but-iran-s-new-leader-has-yet-to-appear/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/05/khamenei-s-funeral-is-meant-to-project-strength-but-iran-s-new-leader-has-yet-to-appear/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sun, 05 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Common Sense Prevails at the FIFA World Cup]]></title>
+            <link>https://time.com/article/2026/07/05/common-sense-prevails-at-fifa-world-cup/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/05/common-sense-prevails-at-fifa-world-cup/</guid>
+            <pubDate>Sun, 05 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[America’s Greatest Strength]]></title>
-            <description><![CDATA[The future success of the U.S. will hinge on the ingredient that made America so powerful in the first place: immigration.]]></description>
             <link>https://time.com/article/2026/07/04/america-s-greatest-strength/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/04/america-s-greatest-strength/</guid>
             <dc:creator><![CDATA[Robert Hormats]]></dc:creator>
@@ -27,13 +40,13 @@
             <title><![CDATA[Why Adam Sandler Officiated Taylor Swift's Wedding]]></title>
             <link>https://time.com/article/2026/07/04/adam-sandler-officiated-taylor-swift-s-wedding-what-s-his-connection-to-the-famous-couple-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/04/adam-sandler-officiated-taylor-swift-s-wedding-what-s-his-connection-to-the-famous-couple-/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Sat, 04 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pope Leo Issues Letter For America’s 250th Birthday]]></title>
             <link>https://time.com/article/2026/07/04/pope-leo-releases-letter-for-america-s-250th-birthday-calling-for-welcoming-immigrants/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/04/pope-leo-releases-letter-for-america-s-250th-birthday-calling-for-welcoming-immigrants/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Sat, 04 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3327,19 +3340,6 @@
             <link>https://time.com/article/2026/05/17/Chinese-farmland-trump-students/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/17/Chinese-farmland-trump-students/</guid>
             <pubDate>Sun, 17 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Leaves U.S. Support for Taiwan Uncertain After Beijing Visit]]></title>
-            <link>https://time.com/article/2026/05/16/trump-taiwan-us-support-china/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/16/trump-taiwan-us-support-china/</guid>
-            <pubDate>Sat, 16 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Review: 'John Lennon: The Last Interview']]></title>
-            <link>https://time.com/article/2026/05/16/john-lennon-the-last-interview-review-cannes/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/16/john-lennon-the-last-interview-review-cannes/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Sat, 16 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
