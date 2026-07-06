@@ -4,10 +4,28 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jul 2026 08:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 12:37:29 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jul 2026 08:11:12 GMT</pubDate>
+        <pubDate>Mon, 06 Jul 2026 12:37:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Australia’s PM Apologizes for ‘Inappropriate’ Comment About Kylie Minogue]]></title>
+            <link>https://time.com/article/2026/07/06/anthony-albanese-australia-prime-minister-apologizes-shag-kylie-minogue-controversy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/06/anthony-albanese-australia-prime-minister-apologizes-shag-kylie-minogue-controversy/</guid>
+            <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Erling Haaland Is Proving Himself Wrong]]></title>
+            <link>https://time.com/article/2026/07/06/erling-haaland-norway-brazil-world-cup-win-impossible-viking-row/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/06/erling-haaland-norway-brazil-world-cup-win-impossible-viking-row/</guid>
+            <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Govern AI in a World in Rupture]]></title>
+            <link>https://time.com/article/2026/07/06/how-to-govern-ai-in-a-world-in-rupture/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/06/how-to-govern-ai-in-a-world-in-rupture/</guid>
+            <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[France, the World Cup Favorite, Lives On]]></title>
             <link>https://time.com/article/2026/07/05/france-the-world-cup-favorite-lives-on-with-a-little-love-from-local-fans/</link>
@@ -60,6 +78,7 @@
             <title><![CDATA[OpenAI Woos Trump Administration as Investor]]></title>
             <link>https://time.com/article/2026/07/03/openai-invest-ai-trump-administration-sam-altman/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/03/openai-invest-ai-trump-administration-sam-altman/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -73,7 +92,6 @@
             <title><![CDATA[Healing America Means Rethinking Patriotism]]></title>
             <link>https://time.com/article/2026/07/03/healing-america-means-rethinking-patriotism/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/03/healing-america-means-rethinking-patriotism/</guid>
-            <dc:creator><![CDATA[Dominic Erdozain]]></dc:creator>
             <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -159,6 +177,13 @@
             <link>https://time.com/article/2026/07/02/minions-monsters-movies-hollywood/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/02/minions-monsters-movies-hollywood/</guid>
             <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Far Gates: A father, a daughter, and flights from Iran]]></title>
+            <link>https://time.com/article/2026/07/02/the-far-gates-a-father-a-daughter-and-flights-from-iran/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/02/the-far-gates-a-father-a-daughter-and-flights-from-iran/</guid>
+            <dc:creator><![CDATA[Mahsa Alimardani]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3314,32 +3339,6 @@
             <link>https://time.com/article/2026/05/18/trump-approval-rating-iran-war-economy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/18/trump-approval-rating-iran-war-economy/</guid>
             <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Boots Riley Made a ‘Feel-Good’ Movie About Capitalist Exploitation]]></title>
-            <link>https://time.com/article/2026/05/18/boots-riley-interview-i-love-boosters/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/18/boots-riley-interview-i-love-boosters/</guid>
-            <dc:creator><![CDATA[Matthew Jacobs]]></dc:creator>
-            <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WHO Declares Global Emergency Over Ebola Strain With No Vaccine]]></title>
-            <link>https://time.com/article/2026/05/17/who-global-emergency-ebola-Bundibugyo/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/17/who-global-emergency-ebola-Bundibugyo/</guid>
-            <dc:creator><![CDATA[Nandika Chatterjee]]></dc:creator>
-            <pubDate>Sun, 17 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zelensky Hails Ukraine's Growing Drone Capability After Massive Moscow Strike]]></title>
-            <link>https://time.com/article/2026/05/17/ukraine-drone-moscow-zelenksy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/17/ukraine-drone-moscow-zelenksy/</guid>
-            <pubDate>Sun, 17 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump's Flip on China Angers MAGA Supporters]]></title>
-            <link>https://time.com/article/2026/05/17/Chinese-farmland-trump-students/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/17/Chinese-farmland-trump-students/</guid>
-            <pubDate>Sun, 17 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
