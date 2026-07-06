@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jul 2026 12:37:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 16:16:16 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jul 2026 12:37:29 GMT</pubDate>
+        <pubDate>Mon, 06 Jul 2026 16:16:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Australia’s PM Apologizes for ‘Inappropriate’ Comment About Kylie Minogue]]></title>
@@ -24,6 +24,20 @@
             <title><![CDATA[How to Govern AI in a World in Rupture]]></title>
             <link>https://time.com/article/2026/07/06/how-to-govern-ai-in-a-world-in-rupture/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/06/how-to-govern-ai-in-a-world-in-rupture/</guid>
+            <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zelensky Urges 'Strong Decisions' at NATO Summit After Russia's Latest Deadly Attack]]></title>
+            <link>https://time.com/article/2026/07/06/ukraine-russia-attack-zelensky-nato-summit-request-trump-putin/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/06/ukraine-russia-attack-zelensky-nato-summit-request-trump-putin/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Cost-of-Living Crisis Is Rewriting the Rules of Dating]]></title>
+            <link>https://time.com/article/2026/07/06/the-cost-of-living-crisis-is-rewriting-the-rules-of-dating/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/06/the-cost-of-living-crisis-is-rewriting-the-rules-of-dating/</guid>
+            <dc:creator><![CDATA[Meehika Barua]]></dc:creator>
             <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -184,6 +198,13 @@
             <link>https://time.com/article/2026/07/02/the-far-gates-a-father-a-daughter-and-flights-from-iran/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/02/the-far-gates-a-father-a-daughter-and-flights-from-iran/</guid>
             <dc:creator><![CDATA[Mahsa Alimardani]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['The Five-Star Weekend' Is Five-Star Escapism]]></title>
+            <link>https://time.com/article/2026/07/02/five-star-weekend-peacock-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/02/five-star-weekend-peacock-review/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3317,27 +3338,6 @@
             <link>https://time.com/article/2026/05/18/american-has-ebola-outbreak/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/18/american-has-ebola-outbreak/</guid>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
-            <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What We Know About the Shooting at the Islamic Center of San Diego]]></title>
-            <description><![CDATA[The shooting, which authorities are investigating as a possible hate crime, left at least five people dead, including two suspected shooters.]]></description>
-            <link>https://time.com/article/2026/05/18/islamic-center-san-diego-shooting/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/18/islamic-center-san-diego-shooting/</guid>
-            <dc:creator><![CDATA[Nandika Chatterjee]]></dc:creator>
-            <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thomas Massie to Test Reach of Trump's Vengeance]]></title>
-            <link>https://time.com/article/2026/05/18/kentucky-thomas-massie-trump-revenge-epstein-files/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/18/kentucky-thomas-massie-trump-revenge-epstein-files/</guid>
-            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
-            <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Americans Sour on Trump Over Inflation and the Iran War]]></title>
-            <link>https://time.com/article/2026/05/18/trump-approval-rating-iran-war-economy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/18/trump-approval-rating-iran-war-economy/</guid>
             <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
