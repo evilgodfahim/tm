@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jul 2026 20:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 22:06:43 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jul 2026 20:47:28 GMT</pubDate>
+        <pubDate>Mon, 06 Jul 2026 22:06:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Australia’s PM Apologizes for ‘Inappropriate’ Comment About Kylie Minogue]]></title>
@@ -52,7 +52,6 @@
             <title><![CDATA[Trump's FIFA Intervention Draws Global Backlash]]></title>
             <link>https://time.com/article/2026/07/06/trump-inserts-himself-in-world-cup-call-with-global-blowback/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/06/trump-inserts-himself-in-world-cup-call-with-global-blowback/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -73,6 +72,27 @@
             <title><![CDATA[Trump Accounts for Kids Are Now Live. Here's What Parents Need to Know]]></title>
             <link>https://time.com/article/2026/07/06/trump-accounts-explained-children-investments-what-parents-should-know/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/06/trump-accounts-explained-children-investments-what-parents-should-know/</guid>
+            <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China's Missile Test Is Putting the Pacific on Edge]]></title>
+            <link>https://time.com/article/2026/07/06/why-china-s-latest-missile-test-is-drawing-anger-unwelcome-and-concerning-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/06/why-china-s-latest-missile-test-is-drawing-anger-unwelcome-and-concerning-/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Elaborate Pageant of Khamenei’s Funeral, in Photos]]></title>
+            <description><![CDATA[Hundreds of thousands gathered in Tehran on Monday for the funeral procession of Supreme Leader Ayatollah Ali Khamenei.]]></description>
+            <link>https://time.com/article/2026/07/06/iran-ayatollah-ali-khamenei-funeral/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/06/iran-ayatollah-ali-khamenei-funeral/</guid>
+            <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Ending of 'Reborn Rookie']]></title>
+            <link>https://time.com/article/2026/07/06/reborn-rookie-ending-explained/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/06/reborn-rookie-ending-explained/</guid>
+            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
             <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -139,6 +159,7 @@
             <title><![CDATA[Healing America Means Rethinking Patriotism]]></title>
             <link>https://time.com/article/2026/07/03/healing-america-means-rethinking-patriotism/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/03/healing-america-means-rethinking-patriotism/</guid>
+            <dc:creator><![CDATA[Dominic Erdozain]]></dc:creator>
             <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3319,25 +3340,6 @@
             <title><![CDATA[Republicans Saw Georgia as a Top Pickup. Now It’s a Mess]]></title>
             <link>https://time.com/article/2026/05/18/georgia-republicans-brace-for-bruising-senate-runoff-in-key-2026-battleground/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/18/georgia-republicans-brace-for-bruising-senate-runoff-in-key-2026-battleground/</guid>
-            <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why America Can’t Walk Away from the Gulf Economies]]></title>
-            <link>https://time.com/article/2026/05/18/america-saudi-arabia-gulf-economies/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/18/america-saudi-arabia-gulf-economies/</guid>
-            <dc:creator><![CDATA[Daniel Benaim]]></dc:creator>
-            <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About the Long Island Rail Road Strike]]></title>
-            <link>https://time.com/article/2026/05/18/long-island-rail-road-lirr-strike-new-york-hochul-trump-explainer/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/18/long-island-rail-road-lirr-strike-new-york-hochul-trump-explainer/</guid>
-            <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Marjorie Taylor Greene Warns of ‘Political Revolution’ in America If Trump Sends Troops to Iran]]></title>
-            <link>https://time.com/article/2026/05/18/american-political-revolution-over-iran-marjorie-taylor-greene-warns-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/18/american-political-revolution-over-iran-marjorie-taylor-greene-warns-trump/</guid>
             <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
