@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jul 2026 18:50:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 20:47:28 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jul 2026 18:50:25 GMT</pubDate>
+        <pubDate>Mon, 06 Jul 2026 20:47:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Australia’s PM Apologizes for ‘Inappropriate’ Comment About Kylie Minogue]]></title>
@@ -67,6 +67,12 @@
             <link>https://time.com/article/2026/07/06/cognitive-rehabilitation-help-long-covid-study/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/06/cognitive-rehabilitation-help-long-covid-study/</guid>
             <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Accounts for Kids Are Now Live. Here's What Parents Need to Know]]></title>
+            <link>https://time.com/article/2026/07/06/trump-accounts-explained-children-investments-what-parents-should-know/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/06/trump-accounts-explained-children-investments-what-parents-should-know/</guid>
             <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3332,13 +3338,6 @@
             <title><![CDATA[Marjorie Taylor Greene Warns of ‘Political Revolution’ in America If Trump Sends Troops to Iran]]></title>
             <link>https://time.com/article/2026/05/18/american-political-revolution-over-iran-marjorie-taylor-greene-warns-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/18/american-political-revolution-over-iran-marjorie-taylor-greene-warns-trump/</guid>
-            <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We're Getting Closer to a Blood Test for Lung Cancer]]></title>
-            <link>https://time.com/article/2026/05/18/lung-cancer-blood-test/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/18/lung-cancer-blood-test/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
