@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 13:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 16:19:35 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jul 2026 13:12:18 GMT</pubDate>
+        <pubDate>Tue, 07 Jul 2026 16:19:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Stop Mourning the Old NATO. Build the New One.]]></title>
@@ -34,6 +34,20 @@
             <link>https://time.com/article/2026/07/07/will-an-evening-workout-ruin-your-sleep/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/07/will-an-evening-workout-ruin-your-sleep/</guid>
             <dc:creator><![CDATA[Jennifer Heimlich]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How a Stranger Used One Text Message to Steal My Entire Digital Life]]></title>
+            <link>https://time.com/article/2026/07/07/how-a-stranger-used-one-text-message-to-steal-my-entire-digital-life/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/07/how-a-stranger-used-one-text-message-to-steal-my-entire-digital-life/</guid>
+            <dc:creator><![CDATA[Ryan Pettit]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China May Restrict Access to Its Most Powerful AI Models]]></title>
+            <link>https://time.com/article/2026/07/07/china-ai-models-alibaba-bytedance/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/07/china-ai-models-alibaba-bytedance/</guid>
+            <dc:creator><![CDATA[Harry Booth]]></dc:creator>
             <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3324,20 +3338,6 @@
             <title><![CDATA[San Diego Mosque Attack Comes Amid Rising Islamophobia]]></title>
             <link>https://time.com/article/2026/05/19/san-diego-mosque-attack-comes-amid-rising-islamophobia/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/19/san-diego-mosque-attack-comes-amid-rising-islamophobia/</guid>
-            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Massie’s Primary Defeat Underscores Trump’s Hold on the GOP]]></title>
-            <description><![CDATA[The long-time Kentucky congressman lost to Ed Gallrein, a challenger backed by Trump, in Tuesday's primary contest.]]></description>
-            <link>https://time.com/article/2026/05/19/massie-trump-kentucky-house-republican-primary-gallrein/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/19/massie-trump-kentucky-house-republican-primary-gallrein/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
-            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chris Rabb Scores Big Win for Progressives in Pennsylvania]]></title>
-            <link>https://time.com/article/2026/05/19/chris-rabb-pennsylvania-third-house-district-democratic-primary-election-results/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/19/chris-rabb-pennsylvania-third-house-district-democratic-primary-election-results/</guid>
             <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
