@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 20:46:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 22:05:35 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jul 2026 20:46:10 GMT</pubDate>
+        <pubDate>Tue, 07 Jul 2026 22:05:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Stop Mourning the Old NATO. Build the New One.]]></title>
@@ -182,6 +182,13 @@
             <title><![CDATA[Trump Reignites Tensions With Meloni Ahead of NATO Summit]]></title>
             <link>https://time.com/article/2026/07/06/trump-reignites-tensions-with-meloni-ahead-of-nato-summit/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/06/trump-reignites-tensions-with-meloni-ahead-of-nato-summit/</guid>
+            <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Best New Books to Read This Summer]]></title>
+            <link>https://time.com/article/2026/07/06/best-books-to-read-this-summer/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/06/best-books-to-read-this-summer/</guid>
+            <dc:creator><![CDATA[Hamilton Cain]]></dc:creator>
             <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3330,13 +3337,6 @@
             <link>https://time.com/article/2026/05/19/bedazzling-mental-health-benefits/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/19/bedazzling-mental-health-benefits/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Behind the Mission to Stop Viral Outbreaks Within 100 Days]]></title>
-            <link>https://time.com/article/2026/05/19/cepi-mission-to-stop-viral-outbreaks-within-100-days/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/19/cepi-mission-to-stop-viral-outbreaks-within-100-days/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
