@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 18:55:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 20:46:10 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jul 2026 18:55:26 GMT</pubDate>
+        <pubDate>Tue, 07 Jul 2026 20:46:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Stop Mourning the Old NATO. Build the New One.]]></title>
@@ -64,7 +64,6 @@
             <title><![CDATA[Zelensky Insists Ukraine 'Belongs in NATO,' Appeals for More Air Defense Systems]]></title>
             <link>https://time.com/article/2026/07/07/zelensky-ukraine-nato-membership-air-defense-systems-summit/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/07/zelensky-ukraine-nato-membership-air-defense-systems-summit/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -78,6 +77,20 @@
             <link>https://time.com/article/2026/07/07/ai-safety-rankings-openai-anthropic-meta/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/07/ai-safety-rankings-openai-anthropic-meta/</guid>
             <dc:creator><![CDATA[Harry Booth]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Says Greenland 'Should Be Controlled by the U.S.']]></title>
+            <link>https://time.com/article/2026/07/07/trump-greenland-should-be-controlled-by-united-states-alliance-nato-summit/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/07/trump-greenland-should-be-controlled-by-united-states-alliance-nato-summit/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We Need Planetary Intelligence in the Age of AI]]></title>
+            <link>https://time.com/article/2026/07/07/we-need-planetary-intelligence-in-the-age-of-ai/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/07/we-need-planetary-intelligence-in-the-age-of-ai/</guid>
+            <dc:creator><![CDATA[Will Marshall]]></dc:creator>
             <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3324,20 +3337,6 @@
             <link>https://time.com/article/2026/05/19/cepi-mission-to-stop-viral-outbreaks-within-100-days/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/19/cepi-mission-to-stop-viral-outbreaks-within-100-days/</guid>
             <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The FDA Is Considering a New Sunscreen Ingredient]]></title>
-            <link>https://time.com/article/2026/05/19/new-sunscreen-ingredient-bemotrizinol-fda/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/19/new-sunscreen-ingredient-bemotrizinol-fda/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vance Defends Possible DOJ Payouts to Jan. 6 Rioters]]></title>
-            <link>https://time.com/article/2026/05/19/vance-defends-1-8-anti-weaponization-fund/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/19/vance-defends-1-8-anti-weaponization-fund/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
             <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
