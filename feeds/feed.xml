@@ -4,10 +4,38 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 10:47:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 13:12:18 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jul 2026 10:47:15 GMT</pubDate>
+        <pubDate>Tue, 07 Jul 2026 13:12:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Stop Mourning the Old NATO. Build the New One.]]></title>
+            <description><![CDATA[The NATO summit in Ankara should serve as the moment Europe accepts full responsibility for its own security and its proximate security environment.]]></description>
+            <link>https://time.com/article/2026/07/07/europe-nato-trump-ankara-summit-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/07/europe-nato-trump-ankara-summit-/</guid>
+            <dc:creator><![CDATA[Galip Dalay]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Belgium Silences U.S. Amid World Cup Noise]]></title>
+            <link>https://time.com/article/2026/07/07/us-world-cup-exit-belgium/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/07/us-world-cup-exit-belgium/</guid>
+            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Unexpected Way AI Helped Me Appreciate My Body]]></title>
+            <link>https://time.com/article/2026/07/07/ai-disabled-body/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/07/ai-disabled-body/</guid>
+            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will an Evening Workout Ruin Your Sleep?]]></title>
+            <link>https://time.com/article/2026/07/07/will-an-evening-workout-ruin-your-sleep/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/07/will-an-evening-workout-ruin-your-sleep/</guid>
+            <dc:creator><![CDATA[Jennifer Heimlich]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Australia’s PM Apologizes for ‘Inappropriate’ Comment About Kylie Minogue]]></title>
             <link>https://time.com/article/2026/07/06/anthony-albanese-australia-prime-minister-apologizes-shag-kylie-minogue-controversy/</link>
@@ -29,7 +57,6 @@
         </item>
         <item>
             <title><![CDATA[Zelensky Urges 'Strong Decisions' at NATO Summit After Russia's Latest Deadly Attack]]></title>
-            <description><![CDATA["The United States and Europe have enough strength to stop this terror," said Zelensky ahead of the NATO summit in Turkey this week.]]></description>
             <link>https://time.com/article/2026/07/06/ukraine-russia-attack-zelensky-nato-summit-request-trump-putin/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/06/ukraine-russia-attack-zelensky-nato-summit-request-trump-putin/</guid>
             <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
@@ -45,7 +72,6 @@
             <title><![CDATA[Lincoln Memorial Reflecting Pool Repairs Awarded to Same Contractor]]></title>
             <link>https://time.com/article/2026/07/06/lincoln-memorial-reflecting-pool-repairs-Doug-Burgum-Algae-Gash/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/06/lincoln-memorial-reflecting-pool-repairs-Doug-Burgum-Algae-Gash/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -93,6 +119,12 @@
             <link>https://time.com/article/2026/07/06/reborn-rookie-ending-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/06/reborn-rookie-ending-explained/</guid>
             <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
+            <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Reignites Tensions With Meloni Ahead of NATO Summit]]></title>
+            <link>https://time.com/article/2026/07/06/trump-reignites-tensions-with-meloni-ahead-of-nato-summit/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/06/trump-reignites-tensions-with-meloni-ahead-of-nato-summit/</guid>
             <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3307,40 +3339,6 @@
             <link>https://time.com/article/2026/05/19/chris-rabb-pennsylvania-third-house-district-democratic-primary-election-results/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/19/chris-rabb-pennsylvania-third-house-district-democratic-primary-election-results/</guid>
             <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why America and China are Codependent Superpowers]]></title>
-            <link>https://time.com/article/2026/05/19/trump-xi-america-china-economy-rivalry-superpowers/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/19/trump-xi-america-china-economy-rivalry-superpowers/</guid>
-            <dc:creator><![CDATA[Neil Shearing]]></dc:creator>
-            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Trump and Xi Traded a New Cold War for a Cold Peace]]></title>
-            <link>https://time.com/article/2026/05/19/trump-xi-beijing-new-cold-war-cold-peace/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/19/trump-xi-beijing-new-cold-war-cold-peace/</guid>
-            <dc:creator><![CDATA[Lyle Goldstein]]></dc:creator>
-            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['The Boroughs' Ending, Explained]]></title>
-            <link>https://time.com/article/2026/05/19/the-boroughs-ending-explained/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/19/the-boroughs-ending-explained/</guid>
-            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
-            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Like the Perfect Dark Joke, the 'Hacks' Finale Landed Just Right]]></title>
-            <link>https://time.com/article/2026/05/19/hacks-series-finale-recap/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/19/hacks-series-finale-recap/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Republicans Saw Georgia as a Top Pickup. Now It’s a Mess]]></title>
-            <link>https://time.com/article/2026/05/18/georgia-republicans-brace-for-bruising-senate-runoff-in-key-2026-battleground/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/18/georgia-republicans-brace-for-bruising-senate-runoff-in-key-2026-battleground/</guid>
-            <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
