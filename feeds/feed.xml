@@ -4,16 +4,29 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Jul 2026 15:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 17:20:23 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Jul 2026 15:10:44 GMT</pubDate>
+        <pubDate>Wed, 08 Jul 2026 17:20:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Trump Says U.S.-Iran Cease-Fire Is 'Over' After Traded Strikes]]></title>
-            <description><![CDATA[A flare-up of hostilities saw Iran target U.S. military sites in Kuwait and Bahrain after the U.S. struck Iranian targets following attacks on vessels in the Strait of Hormuz.]]></description>
+            <title><![CDATA[Trump Threatens More Strikes on Iran After Saying Cease-Fire Is 'Over']]></title>
+            <description><![CDATA["We hit them very hard last night, and we'll probably hit them hard again tonight," said the President.]]></description>
             <link>https://time.com/article/2026/07/08/us-iran-ceasefire-over-trump-strikes-strait-of-hormuz/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/08/us-iran-ceasefire-over-trump-strikes-strait-of-hormuz/</guid>
             <dc:creator><![CDATA[Olivia-Anne Cleary and Callum Sutherland]]></dc:creator>
+            <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Orders U.S. to Cut All Trade With Spain as Feud Escalates at NATO Summit]]></title>
+            <link>https://time.com/article/2026/07/08/trump-united-states-spain-trade-cuts-nato-feud/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/08/trump-united-states-spain-trade-cuts-nato-feud/</guid>
+            <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Losing Even an Hour of Sleep a Night Is Linked to Weight Gain]]></title>
+            <link>https://time.com/article/2026/07/08/losing-hour-sleep-linked-to-weight-gain/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/08/losing-hour-sleep-linked-to-weight-gain/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3322,20 +3335,6 @@
             <title><![CDATA[Trump Cancels Planned Attack on Iran, Citing ‘Serious Negotiations’]]></title>
             <link>https://time.com/article/2026/05/19/trump-us-iran-israel-war-gulf-states-attack-hormuz/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/19/trump-us-iran-israel-war-gulf-states-attack-hormuz/</guid>
-            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stephen Colbert Made the Hard Parts of Being Human Watchable]]></title>
-            <link>https://time.com/article/2026/05/19/stephen-colbert-made-hard-parts-being-human-watchable/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/19/stephen-colbert-made-hard-parts-being-human-watchable/</guid>
-            <dc:creator><![CDATA[Rebecca Soffer]]></dc:creator>
-            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Could MAGA Turn Trump Against AI?]]></title>
-            <link>https://time.com/article/2026/05/19/maga-trump-ai-letter/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/19/maga-trump-ai-letter/</guid>
-            <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
             <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
