@@ -4,10 +4,18 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Jul 2026 12:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 15:10:44 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Jul 2026 12:14:38 GMT</pubDate>
+        <pubDate>Wed, 08 Jul 2026 15:10:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump Says U.S.-Iran Cease-Fire Is 'Over' After Traded Strikes]]></title>
+            <description><![CDATA[A flare-up of hostilities saw Iran target U.S. military sites in Kuwait and Bahrain after the U.S. struck Iranian targets following attacks on vessels in the Strait of Hormuz.]]></description>
+            <link>https://time.com/article/2026/07/08/us-iran-ceasefire-over-trump-strikes-strait-of-hormuz/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/08/us-iran-ceasefire-over-trump-strikes-strait-of-hormuz/</guid>
+            <dc:creator><![CDATA[Olivia-Anne Cleary and Callum Sutherland]]></dc:creator>
+            <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stop Mourning the Old NATO. Build the New One.]]></title>
             <link>https://time.com/article/2026/07/07/europe-nato-trump-ankara-summit-/</link>
@@ -83,7 +91,6 @@
             <title><![CDATA[Trump Says Greenland 'Should Be Controlled by the U.S.']]></title>
             <link>https://time.com/article/2026/07/07/trump-greenland-should-be-controlled-by-united-states-alliance-nato-summit/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/07/trump-greenland-should-be-controlled-by-united-states-alliance-nato-summit/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -97,6 +104,20 @@
             <title><![CDATA[Hamas Says It Will Cede Power in Gaza. What Comes Next?]]></title>
             <link>https://time.com/article/2026/07/07/who-will-govern-gaza-after-hamas-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/07/who-will-govern-gaza-after-hamas-/</guid>
+            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Democrats Mull Platner Replacement—as Platner Weighs His Future]]></title>
+            <link>https://time.com/article/2026/07/07/race-to-replace-graham-platner-names/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/07/race-to-replace-graham-platner-names/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why We View the Past as Better Than the Present]]></title>
+            <link>https://time.com/article/2026/07/07/why-we-view-the-past-as-better-than-present/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/07/why-we-view-the-past-as-better-than-present/</guid>
+            <dc:creator><![CDATA[Markham Heid]]></dc:creator>
             <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3315,27 +3336,6 @@
             <link>https://time.com/article/2026/05/19/maga-trump-ai-letter/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/19/maga-trump-ai-letter/</guid>
             <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
-            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chickens Hatch From World's First Artificial Eggs]]></title>
-            <description><![CDATA[The breakthrough could help bring giant birds back from extinction.]]></description>
-            <link>https://time.com/article/2026/05/19/colossal-biosciences-artifical-eggs/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/19/colossal-biosciences-artifical-eggs/</guid>
-            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is AI Making Our Brains Weaker?]]></title>
-            <link>https://time.com/article/2026/05/19/is-ai-making-our-brains-weaker/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/19/is-ai-making-our-brains-weaker/</guid>
-            <dc:creator><![CDATA[Markham Heid]]></dc:creator>
-            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Endorses Ken Paxton in Texas Senate Primary Despite Years of Corruption Allegations]]></title>
-            <link>https://time.com/article/2026/05/19/trump-endorses-ken-paxton-texas-senate-republican-primary-john-cornyn/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/19/trump-endorses-ken-paxton-texas-senate-republican-primary-john-cornyn/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
