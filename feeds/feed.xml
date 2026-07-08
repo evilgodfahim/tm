@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 23:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 01:51:46 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jul 2026 23:49:19 GMT</pubDate>
+        <pubDate>Wed, 08 Jul 2026 01:51:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Stop Mourning the Old NATO. Build the New One.]]></title>
@@ -91,6 +91,12 @@
             <link>https://time.com/article/2026/07/07/we-need-planetary-intelligence-in-the-age-of-ai/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/07/we-need-planetary-intelligence-in-the-age-of-ai/</guid>
             <dc:creator><![CDATA[Will Marshall]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hamas Says It Will Cede Power in Gaza. What Comes Next?]]></title>
+            <link>https://time.com/article/2026/07/07/who-will-govern-gaza-after-hamas-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/07/who-will-govern-gaza-after-hamas-/</guid>
             <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3330,13 +3336,6 @@
             <link>https://time.com/article/2026/05/19/trump-endorses-ken-paxton-texas-senate-republican-primary-john-cornyn/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/19/trump-endorses-ken-paxton-texas-senate-republican-primary-john-cornyn/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
-            <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bedazzle Something. It's Good for Your Mental Health]]></title>
-            <link>https://time.com/article/2026/05/19/bedazzling-mental-health-benefits/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/19/bedazzling-mental-health-benefits/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
