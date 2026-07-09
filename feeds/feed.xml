@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jul 2026 19:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jul 2026 21:13:58 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Jul 2026 19:23:37 GMT</pubDate>
+        <pubDate>Thu, 09 Jul 2026 21:13:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[China Is Already Trying to Control Who the Next Dalai Lama Will Be]]></title>
@@ -20,7 +20,6 @@
             <title><![CDATA[U.S. and Iran Trade Strikes For Second Night In a Row]]></title>
             <link>https://time.com/article/2026/07/09/us-iran-strikes-trump-ceasefire-gulf-region/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/09/us-iran-strikes-trump-ceasefire-gulf-region/</guid>
-            <dc:creator><![CDATA[Callum Sutherland and Olivia-Anne Cleary]]></dc:creator>
             <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -35,6 +34,20 @@
             <link>https://time.com/article/2026/07/09/climate-change-shrink-squid-brain-study/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/09/climate-change-shrink-squid-brain-study/</guid>
             <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Are Democrats Choosing Graham Platner's Replacement—and Who Could It Be?]]></title>
+            <link>https://time.com/article/2026/07/09/graham-platner-maine-senate-midterms-democrats/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/09/graham-platner-maine-senate-midterms-democrats/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Taking the Waters' Was the Original Summer Getaway]]></title>
+            <link>https://time.com/article/2026/07/09/taking-the-waters-spa-wellness-culture-history/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/09/taking-the-waters-spa-wellness-culture-history/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -227,6 +240,13 @@
             <link>https://time.com/article/2026/07/07/july-4th-taylor-swift-america250-donald-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/07/july-4th-taylor-swift-america250-donald-trump/</guid>
             <dc:creator><![CDATA[Jeffrey Sonnenfeld]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Emotional Ending of 'Five Star Weekend']]></title>
+            <link>https://time.com/article/2026/07/07/five-star-weekend-ending/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/07/five-star-weekend-ending/</guid>
+            <dc:creator><![CDATA[Olivia B. Waxman]]></dc:creator>
             <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3320,26 +3340,6 @@
             <link>https://time.com/article/2026/05/21/state-leaders-must-prepare-for-an-ai-storm/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/21/state-leaders-must-prepare-for-an-ai-storm/</guid>
             <dc:creator><![CDATA[Eric Holcomb]]></dc:creator>
-            <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Key Takeaways From the Release of Files Related to Former Prince Andrew]]></title>
-            <link>https://time.com/article/2026/05/21/government-releases-confidential-files-prince-andrew-trade-envoy-key-revelations/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/21/government-releases-confidential-files-prince-andrew-trade-envoy-key-revelations/</guid>
-            <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Public Battle With Graves' Disease Nearly Destroyed Me]]></title>
-            <link>https://time.com/article/2026/05/21/graves-disease-erin-moriarty-essay/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/21/graves-disease-erin-moriarty-essay/</guid>
-            <dc:creator><![CDATA[Erin Moriarty]]></dc:creator>
-            <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Travelers Should Know About TSA’s New Gold+ Program]]></title>
-            <link>https://time.com/article/2026/05/21/tsa-gold-plus-program-air-travel-airport-security/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/21/tsa-gold-plus-program-air-travel-airport-security/</guid>
-            <dc:creator><![CDATA[Nandika Chatterjee]]></dc:creator>
             <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
