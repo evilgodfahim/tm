@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jul 2026 00:01:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jul 2026 04:43:24 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Jul 2026 00:01:52 GMT</pubDate>
+        <pubDate>Thu, 09 Jul 2026 04:43:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[U.S. Carries Out New Strikes Against Iran as Trump Says Cease-Fire Is 'Over']]></title>
@@ -29,8 +29,7 @@
             <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Abdul El-Sayed Is Running Against Both Parties]]></title>
-            <description><![CDATA[His progressive campaign's strength in Michigan has caught some Democrats off guard]]></description>
+            <title><![CDATA[How Abdul El-Sayed Is Running Against Both Parties]]></title>
             <link>https://time.com/article/2026/07/08/democratic-senate-hopeful-abdul-el-sayed-is-running-against-two-parties/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/08/democratic-senate-hopeful-abdul-el-sayed-is-running-against-two-parties/</guid>
             <dc:creator><![CDATA[Nik Popli]]></dc:creator>
@@ -79,6 +78,14 @@
             <title><![CDATA[Kentucky Governor Urges McConnell to Provide a Health Update]]></title>
             <link>https://time.com/article/2026/07/08/kentucky-governor-urges-mcconnell-to-provide-a-health-update/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/08/kentucky-governor-urges-mcconnell-to-provide-a-health-update/</guid>
+            <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Graham Platner Drops Out of Maine Senate Race After Series of Allegations]]></title>
+            <description><![CDATA[Platner's exit leaves Democrats scrambling to field a new candidate to take on Senator Susan Collins.]]></description>
+            <link>https://time.com/article/2026/07/08/graham-platner-drops-out-of-maine-senate-race-after-series-of-allegations/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/08/graham-platner-drops-out-of-maine-senate-race-after-series-of-allegations/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
             <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3329,12 +3336,6 @@
             <link>https://time.com/article/2026/05/20/is-it-bad-to-use-laptop-right-on-your-lap/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/20/is-it-bad-to-use-laptop-right-on-your-lap/</guid>
             <dc:creator><![CDATA[Matt Fuchs]]></dc:creator>
-            <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Troop Withdrawals From Europe Won't Hurt Defenses, Says NATO Chief]]></title>
-            <link>https://time.com/article/2026/05/20/us-troops-leaving-europe-rift-nato-mark-rutte-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/20/us-troops-leaving-europe-rift-nato-mark-rutte-trump/</guid>
             <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
