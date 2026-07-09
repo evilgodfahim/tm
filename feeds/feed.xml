@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jul 2026 14:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jul 2026 17:12:44 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Jul 2026 14:33:30 GMT</pubDate>
+        <pubDate>Thu, 09 Jul 2026 17:12:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[China Is Already Trying to Control Who the Next Dalai Lama Will Be]]></title>
@@ -21,6 +21,20 @@
             <link>https://time.com/article/2026/07/09/us-iran-strikes-trump-ceasefire-gulf-region/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/09/us-iran-strikes-trump-ceasefire-gulf-region/</guid>
             <dc:creator><![CDATA[Callum Sutherland and Olivia-Anne Cleary]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Religion’s Longstanding Gender Gap Is Narrowing Among Gen Z]]></title>
+            <description><![CDATA[But which gender is narrowing it—and why?]]></description>
+            <link>https://time.com/article/2026/07/09/religion-gender-gap-gen-z-young-men-women/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/09/religion-gender-gap-gen-z-young-men-women/</guid>
+            <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate Change Could Shrink the Brain of One of the Ocean's Most Intelligent Creatures]]></title>
+            <link>https://time.com/article/2026/07/09/climate-change-shrink-squid-brain-study/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/09/climate-change-shrink-squid-brain-study/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
             <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3327,19 +3341,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/05/21/tsa-gold-plus-program-air-travel-airport-security/</guid>
             <dc:creator><![CDATA[Nandika Chatterjee]]></dc:creator>
             <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Putin, Following Trump, Visits the World’s Center Stage]]></title>
-            <link>https://time.com/article/2026/05/20/putin-xi-china-center-stage-diplomacy-analysis/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/20/putin-xi-china-center-stage-diplomacy-analysis/</guid>
-            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
-            <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Georgia Republicans Head to Runoffs for Senate and Governor Races]]></title>
-            <link>https://time.com/article/2026/05/20/georgia-governor-senate-primary-election-results-bottoms-ossoff-republican-runoff/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/20/georgia-governor-senate-primary-election-results-bottoms-ossoff-republican-runoff/</guid>
-            <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
