@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jul 2026 18:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 20:15:10 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Jul 2026 18:17:26 GMT</pubDate>
+        <pubDate>Fri, 10 Jul 2026 20:15:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Tech Bro-ification of Marketing]]></title>
@@ -60,6 +60,19 @@
             <link>https://time.com/article/2026/07/10/remake-review-ross-mcelwee/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/10/remake-review-ross-mcelwee/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Is the Election Assistance Commission?]]></title>
+            <link>https://time.com/article/2026/07/10/election-assistance-commission-trump-firings/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/10/election-assistance-commission-trump-firings/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[European Lawmakers Demand Investigation Into FIFA President Over U.S. Red Card Reversal]]></title>
+            <link>https://time.com/article/2026/07/10/world-cup-fifa-infantino-trump-us-balogun-red-card-european-lawmakers/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/10/world-cup-fifa-infantino-trump-us-balogun-red-card-european-lawmakers/</guid>
             <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -199,6 +212,13 @@
             <link>https://time.com/article/2026/07/08/how-to-ensure-ai-serves-the-public-good/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/08/how-to-ensure-ai-serves-the-public-good/</guid>
             <dc:creator><![CDATA[Paschal Donohoe]]></dc:creator>
+            <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How 'Evil Dead Burn' Fits Into the Horror Franchise]]></title>
+            <link>https://time.com/article/2026/07/08/evil-dead-burn-evil-dead-rise-connection/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/08/evil-dead-burn-evil-dead-rise-connection/</guid>
+            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3321,26 +3341,6 @@
             <title><![CDATA[The Ebola and Hantavirus Outbreaks Offer an Ominous Warning]]></title>
             <link>https://time.com/article/2026/05/22/the-ebola-and-hantavirus-outbreaks-offer-an-ominous-warning/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/22/the-ebola-and-hantavirus-outbreaks-offer-an-ominous-warning/</guid>
-            <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Democrats Criticize House Republicans for Abruptly Canceling War Powers Vote]]></title>
-            <link>https://time.com/article/2026/05/22/democrats-criticize-house-republicans-for-canceling-war-powers-vote-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/22/democrats-criticize-house-republicans-for-canceling-war-powers-vote-trump/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
-            <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carney Says Alberta Is ‘Essential’ to Canada After Separation Vote Announcement]]></title>
-            <link>https://time.com/article/2026/05/22/carney-canada-alberta-separation-vote-referendum-response/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/22/carney-canada-alberta-separation-vote-referendum-response/</guid>
-            <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colbert's Long Goodbye]]></title>
-            <link>https://time.com/article/2026/05/22/colbert-late-show-finale-legacy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/22/colbert-late-show-finale-legacy/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
