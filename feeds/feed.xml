@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jul 2026 13:04:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 16:15:26 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Jul 2026 13:04:46 GMT</pubDate>
+        <pubDate>Fri, 10 Jul 2026 16:15:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Tech Bro-ification of Marketing]]></title>
@@ -30,11 +30,36 @@
             <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Bipartisan Housing Bill Is Set to Become Law, Despite Trump’s Refusal to Sign It]]></title>
+            <description><![CDATA[Trump reiterated that he won’t sign the sweeping housing package “in protest” over the fact that Congress hasn’t passed the SAVE America Act.]]></description>
+            <link>https://time.com/article/2026/07/10/housing-bill-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/10/housing-bill-trump/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Palestinian Authority to Hold First Major Elections in 20 Years]]></title>
+            <link>https://time.com/article/2026/07/10/palestinian-authority-elections-gaza-west-bank-east-jerusalem-israel-explainer/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/10/palestinian-authority-elections-gaza-west-bank-east-jerusalem-israel-explainer/</guid>
+            <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Historic Bayeux Tapestry Returns to U.K. for First Time in Nearly 1,000 Years]]></title>
+            <link>https://time.com/article/2026/07/10/historic-bayeux-tapestry-returns-to-u-k-for-first-time-in-900-years-here-s-what-to-know/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/10/historic-bayeux-tapestry-returns-to-u-k-for-first-time-in-900-years-here-s-what-to-know/</guid>
+            <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Best Foods to Eat for Constipation]]></title>
+            <link>https://time.com/article/2026/07/10/best-foods-for-constipation/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/10/best-foods-for-constipation/</guid>
+            <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[China Is Already Trying to Control Who the Next Dalai Lama Will Be]]></title>
             <description><![CDATA[The fight over the 91-year-old’s reincarnation is becoming a test of China’s power over Tibet—and whether his spiritual legacy can outlast him.]]></description>
             <link>https://time.com/article/2026/07/09/china-dalai-lama-succession-tibet/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/09/china-dalai-lama-succession-tibet/</guid>
-            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
             <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +70,6 @@
         </item>
         <item>
             <title><![CDATA[Religion’s Longstanding Gender Gap Is Narrowing Among Gen Z]]></title>
-            <description><![CDATA[But which gender is narrowing it—and why?]]></description>
             <link>https://time.com/article/2026/07/09/religion-gender-gap-gen-z-young-men-women/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/09/religion-gender-gap-gen-z-young-men-women/</guid>
             <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
@@ -72,7 +96,7 @@
             <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Florida Airport Officially Renamed After Trump. Here’s What to Know]]></title>
+            <title><![CDATA[Florida Airport Officially Renamed After Trump]]></title>
             <link>https://time.com/article/2026/07/09/florida-airport-officially-renamed-after-trump-here-s-what-to-know/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/09/florida-airport-officially-renamed-after-trump-here-s-what-to-know/</guid>
             <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
@@ -164,6 +188,13 @@
             <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to Ensure AI Serves the Public Good]]></title>
+            <link>https://time.com/article/2026/07/08/how-to-ensure-ai-serves-the-public-good/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/08/how-to-ensure-ai-serves-the-public-good/</guid>
+            <dc:creator><![CDATA[Paschal Donohoe]]></dc:creator>
+            <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Stop Mourning the Old NATO. Build the New One.]]></title>
             <link>https://time.com/article/2026/07/07/europe-nato-trump-ankara-summit-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/07/europe-nato-trump-ankara-summit-/</guid>
@@ -186,6 +217,7 @@
             <title><![CDATA[Will an Evening Workout Ruin Your Sleep?]]></title>
             <link>https://time.com/article/2026/07/07/will-an-evening-workout-ruin-your-sleep/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/07/will-an-evening-workout-ruin-your-sleep/</guid>
+            <dc:creator><![CDATA[Jennifer Heimlich]]></dc:creator>
             <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -365,6 +397,7 @@
             <title><![CDATA[Breaking Down the Ending of 'Reborn Rookie']]></title>
             <link>https://time.com/article/2026/07/06/reborn-rookie-ending-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/06/reborn-rookie-ending-explained/</guid>
+            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
             <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -384,7 +417,6 @@
             <title><![CDATA[Review: Gail Daughtry and the Celebrity Sex Pass]]></title>
             <link>https://time.com/article/2026/07/06/gail-daughtry-and-the-celebrity-sex-pass-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/06/gail-daughtry-and-the-celebrity-sex-pass-review/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3310,38 +3342,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/05/22/anthropic-claude-code-jack-clark-ai-safety/</guid>
             <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
             <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gabbard Resigns as Trump's Director of National Intelligence]]></title>
-            <link>https://time.com/article/2026/05/22/tulsi-gabbard-to-resign-as-trump-s-director-of-national-intelligence/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/22/tulsi-gabbard-to-resign-as-trump-s-director-of-national-intelligence/</guid>
-            <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As the U.S. Celebrates 250 Years, Time for American Whiskey to Take a Bow]]></title>
-            <description><![CDATA[American whiskey is winning record prices and new respect as collectors bet on its history, rarity and cultural cachet.]]></description>
-            <link>https://time.com/article/2026/05/22/usa-250-anniversary-american-whiskey/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/22/usa-250-anniversary-american-whiskey/</guid>
-            <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Trump’s War With Iran Is Giving Somali Pirates an Opening]]></title>
-            <link>https://time.com/article/2026/05/22/how-trump-s-war-with-iran-is-giving-somali-pirates-an-opening/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/22/how-trump-s-war-with-iran-is-giving-somali-pirates-an-opening/</guid>
-            <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Long Shadow of American Wars on Iraq]]></title>
-            <link>https://time.com/article/2026/05/22/iran-war-america-iraq/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/22/iran-war-america-iraq/</guid>
-            <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In Defense of Saying Hello]]></title>
-            <link>https://time.com/article/2026/05/21/in-defense-of-saying-hello/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/21/in-defense-of-saying-hello/</guid>
-            <dc:creator><![CDATA[Stacey Lee]]></dc:creator>
-            <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
