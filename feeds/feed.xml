@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Jul 2026 12:58:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jul 2026 14:21:21 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Jul 2026 12:58:02 GMT</pubDate>
+        <pubDate>Sat, 11 Jul 2026 14:21:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Grand Slam: Why Wimbledon Is Still the Biggest Stage in Tennis]]></title>
+            <link>https://time.com/article/2026/07/11/why-wimbledon-is-still-the-biggest-stage-in-tennis/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/11/why-wimbledon-is-still-the-biggest-stage-in-tennis/</guid>
+            <dc:creator><![CDATA[Nick Pachelli]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Tech Bro-ification of Marketing]]></title>
             <link>https://time.com/article/2026/07/10/tech-bro-ification-of-marketing/</link>
@@ -151,7 +158,6 @@
             <title><![CDATA[How Abdul El-Sayed Is Running Against Both Parties]]></title>
             <link>https://time.com/article/2026/07/08/democratic-senate-hopeful-abdul-el-sayed-is-running-against-two-parties/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/08/democratic-senate-hopeful-abdul-el-sayed-is-running-against-two-parties/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
             <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3335,12 +3341,6 @@
             <link>https://time.com/article/2026/05/22/ai-deepfake-revenge-porn-take-it-down-act-law/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/22/ai-deepfake-revenge-porn-take-it-down-act-law/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
-            <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Ebola and Hantavirus Outbreaks Offer an Ominous Warning]]></title>
-            <link>https://time.com/article/2026/05/22/the-ebola-and-hantavirus-outbreaks-offer-an-ominous-warning/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/22/the-ebola-and-hantavirus-outbreaks-offer-an-ominous-warning/</guid>
             <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
