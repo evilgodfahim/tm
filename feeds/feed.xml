@@ -4,21 +4,27 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Jul 2026 20:02:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jul 2026 21:40:31 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Jul 2026 20:02:19 GMT</pubDate>
+        <pubDate>Sun, 12 Jul 2026 21:40:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Erling Haaland’s World Cup Ends In a Shocking Place]]></title>
             <link>https://time.com/article/2026/07/12/erling-haaland-world-cup-end-norway-england-defeat/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/12/erling-haaland-world-cup-end-norway-england-defeat/</guid>
-            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
             <pubDate>Sun, 12 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The World Remembers Sen. Lindsey Graham]]></title>
             <link>https://time.com/article/2026/07/12/the-world-pays-tribute-to-sen-lindsey-graham/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/12/the-world-pays-tribute-to-sen-lindsey-graham/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Is the Status of the Strait of Hormuz?]]></title>
+            <link>https://time.com/article/2026/07/12/what-is-the-status-of-the-strait-of-hormuz-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/12/what-is-the-status-of-the-strait-of-hormuz-/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sun, 12 Jul 2026 12:00:00 GMT</pubDate>
         </item>
@@ -3336,13 +3342,6 @@
             <link>https://time.com/article/2026/05/24/why-2026-world-cup-ticket-prices-are-so-high/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/24/why-2026-world-cup-ticket-prices-are-so-high/</guid>
             <pubDate>Sun, 24 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Singapore’s Climate Pragmatism Is a Glimpse Into the Future]]></title>
-            <link>https://time.com/article/2026/05/23/ecosperity-singapore-climate-action/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/23/ecosperity-singapore-climate-action/</guid>
-            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
-            <pubDate>Sat, 23 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
