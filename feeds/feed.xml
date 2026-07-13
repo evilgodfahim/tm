@@ -4,10 +4,25 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Jul 2026 08:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2026 11:53:03 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Jul 2026 08:51:20 GMT</pubDate>
+        <pubDate>Mon, 13 Jul 2026 11:53:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Lindsey Graham’s Senate Seat Will Be Filled]]></title>
+            <description><![CDATA[Here’s what to know about the vacancy left by the passing of the Senator from South Carolina—and what it means for the Republican Party.]]></description>
+            <link>https://time.com/article/2026/07/13/lindsey-graham-senate-seat-vacancy-congress-gop-replacement/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/13/lindsey-graham-senate-seat-vacancy-congress-gop-replacement/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[McConnell Breaks Silence With Photo and Statement]]></title>
+            <link>https://time.com/article/2026/07/13/mitch-mcconnell-breaks-silence-with-statement-and-photo-amid-questions-about-health-status/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/13/mitch-mcconnell-breaks-silence-with-statement-and-photo-amid-questions-about-health-status/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Erling Haaland’s World Cup Ends In a Shocking Place]]></title>
             <link>https://time.com/article/2026/07/12/erling-haaland-world-cup-end-norway-england-defeat/</link>
@@ -42,7 +57,6 @@
         </item>
         <item>
             <title><![CDATA[How Serious Are Iran’s Threats Against Trump?]]></title>
-            <description><![CDATA[Iran’s Supreme Leader vowed vengeance Saturday after his father’s funeral, which was marked by chants calling for the death of U.S. President Donald Trump. Experts assess the credibility of the threat.]]></description>
             <link>https://time.com/article/2026/07/11/how-serious-are-iran-s-threats-against-trump-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/11/how-serious-are-iran-s-threats-against-trump-/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
@@ -3329,18 +3343,6 @@
             <link>https://time.com/article/2026/05/24/garden-grove-chemical-tank-explosion-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/24/garden-grove-chemical-tank-explosion-/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Sun, 24 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Species of Tiny Blue Octopus Discovered]]></title>
-            <link>https://time.com/article/2026/05/24/new-species-blue-octopus/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/24/new-species-blue-octopus/</guid>
-            <pubDate>Sun, 24 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why World Cup Ticket Prices Are So High]]></title>
-            <link>https://time.com/article/2026/05/24/why-2026-world-cup-ticket-prices-are-so-high/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/24/why-2026-world-cup-ticket-prices-are-so-high/</guid>
             <pubDate>Sun, 24 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
