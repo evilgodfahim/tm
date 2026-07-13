@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Jul 2026 19:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2026 20:50:53 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Jul 2026 19:13:36 GMT</pubDate>
+        <pubDate>Mon, 13 Jul 2026 20:50:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How Lindsey Graham’s Senate Seat Will Be Filled]]></title>
@@ -42,8 +42,8 @@
             <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trump Backs Lindsey Graham’s Sister to Take Over His Seat]]></title>
-            <description><![CDATA[South Carolina Gov. Henry McMaster is set to announce his appointment for Graham's temporary replacement Monday afternoon.]]></description>
+            <title><![CDATA[Lindsey Graham's Sister Appointed to Serve Out His Senate Term]]></title>
+            <description><![CDATA[South Carolina Gov. Henry McMaster named Darline Graham Nordone as the late senator's temporary replacement Monday afternoon.]]></description>
             <link>https://time.com/article/2026/07/13/darline-nordone-lindsey-graham-sister-south-carolina-senate-trump-mcmaster/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/13/darline-nordone-lindsey-graham-sister-south-carolina-senate-trump-mcmaster/</guid>
             <dc:creator><![CDATA[Connor Greene]]></dc:creator>
@@ -65,6 +65,12 @@
             <title><![CDATA[Israel’s Economy Is Thriving. Many Israelis Are Not.]]></title>
             <link>https://time.com/article/2026/07/13/israel-war-economy-cost-ordinary-israelis-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/13/israel-war-economy-cost-ordinary-israelis-/</guid>
+            <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.K. Government to Designate Iran’s IRGC a Threat to National Security]]></title>
+            <link>https://time.com/article/2026/07/13/uk-government-iran-irgc-terror-threat-designation/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/13/uk-government-iran-irgc-terror-threat-designation/</guid>
             <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3334,14 +3340,6 @@
             <link>https://time.com/article/2026/05/26/pope-leo-ai-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/26/pope-leo-ai-trump/</guid>
             <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
-            <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paxton Beats Cornyn—and Creates a Texas-Sized Headache for Republicans]]></title>
-            <description><![CDATA[Some Republicans expect ensuring Paxton wins in Texas will cost $250 million]]></description>
-            <link>https://time.com/article/2026/05/26/paxton-defeats-cornyn-trump-texas-talarico/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/26/paxton-defeats-cornyn-trump-texas-talarico/</guid>
-            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
             <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
