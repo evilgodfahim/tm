@@ -4,12 +4,13 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Jul 2026 14:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2026 17:07:41 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Jul 2026 14:09:11 GMT</pubDate>
+        <pubDate>Mon, 13 Jul 2026 17:07:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How Lindsey Graham’s Senate Seat Will Be Filled]]></title>
+            <description><![CDATA[Here’s what to know about the vacancy left by the passing of the Senator from South Carolina—and what it means for the Republican Party.]]></description>
             <link>https://time.com/article/2026/07/13/lindsey-graham-senate-seat-vacancy-congress-gop-replacement/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/13/lindsey-graham-senate-seat-vacancy-congress-gop-replacement/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
@@ -27,6 +28,19 @@
             <link>https://time.com/article/2026/07/13/as-trump-brands-them-godless-communists-democrats-divided-on-how-to-respond/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/13/as-trump-brands-them-godless-communists-democrats-divided-on-how-to-respond/</guid>
             <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Insists U.S. Should 'Run' the Strait of Hormuz and Get Paid For It]]></title>
+            <link>https://time.com/article/2026/07/13/us-iran-conflict-oil-prices-strait-of-hormuz-trump-control/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/13/us-iran-conflict-oil-prices-strait-of-hormuz-trump-control/</guid>
+            <dc:creator><![CDATA[Tiago Ventura and Olivia-Anne Cleary]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gap Years Are Wasted on the Young]]></title>
+            <link>https://time.com/article/2026/07/13/gap-years-are-wasted-on-the-young/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/13/gap-years-are-wasted-on-the-young/</guid>
             <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -50,6 +64,12 @@
             <pubDate>Sun, 12 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Chief's CEO Alison Moore on the Future of Work for Women]]></title>
+            <link>https://time.com/article/2026/07/12/chief-ceo-alison-moore-interview/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/12/chief-ceo-alison-moore-interview/</guid>
+            <pubDate>Sun, 12 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Grand Slam: Why Wimbledon Is Still the Biggest Stage in Tennis]]></title>
             <link>https://time.com/article/2026/07/11/why-wimbledon-is-still-the-biggest-stage-in-tennis/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/11/why-wimbledon-is-still-the-biggest-stage-in-tennis/</guid>
@@ -59,6 +79,7 @@
             <title><![CDATA[The Business Case for Climate Action Is Stronger Than It Looks]]></title>
             <link>https://time.com/article/2026/07/11/climate-aspen-institute-business-and-society/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/11/climate-aspen-institute-business-and-society/</guid>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -502,6 +523,7 @@
             <title><![CDATA[Review: Gail Daughtry and the Celebrity Sex Pass]]></title>
             <link>https://time.com/article/2026/07/06/gail-daughtry-and-the-celebrity-sex-pass-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/06/gail-daughtry-and-the-celebrity-sex-pass-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3325,24 +3347,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/05/25/turkiye-democracy-crisis-chp-erdogan-explainers/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Mon, 25 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pope Leo Uses First Major Papal Text to Warn About Dangers of AI]]></title>
-            <link>https://time.com/article/2026/05/25/pope-leo-encyclical-ai-magnifica-humanitas/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/25/pope-leo-encyclical-ai-magnifica-humanitas/</guid>
-            <pubDate>Mon, 25 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Justice Department Removes News Releases on Jan. 6 Prosecutions From Website]]></title>
-            <link>https://time.com/article/2026/05/25/doj-jan-6-attack-prosecutions-news-releases-removed/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/25/doj-jan-6-attack-prosecutions-news-releases-removed/</guid>
-            <pubDate>Mon, 25 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia Hits Kyiv With One of Heaviest Bombardments Since War Began]]></title>
-            <link>https://time.com/article/2026/05/24/kyiv-Oreshnik-missile-strikes-zelensky-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/24/kyiv-Oreshnik-missile-strikes-zelensky-/</guid>
-            <pubDate>Sun, 24 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
