@@ -4,15 +4,22 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 11:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 13:11:37 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jul 2026 11:18:43 GMT</pubDate>
+        <pubDate>Tue, 14 Jul 2026 13:11:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[A 5-Minute 'Movement Snack' Will Give You More Energy]]></title>
             <link>https://time.com/article/2026/07/14/how-often-should-you-get-up-from-your-desk-movement-snack/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/14/how-often-should-you-get-up-from-your-desk-movement-snack/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Unimaginable Trauma—And Resilience—of the People of Gaza]]></title>
+            <link>https://time.com/article/2026/07/14/trauma-resilience-gaza-james-gordon-essay/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/14/trauma-resilience-gaza-james-gordon-essay/</guid>
+            <dc:creator><![CDATA[Dr. James S. Gordon]]></dc:creator>
             <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -91,6 +98,21 @@
             <link>https://time.com/article/2026/07/13/open-source-ai-mozilla-rebel-alliance/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/13/open-source-ai-mozilla-rebel-alliance/</guid>
             <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump's Ex-Campaign Manager Is Running An Israeli Influence Operation Targeting the MAGA Base]]></title>
+            <description><![CDATA[Brad Parscale has a $1.5 million per month contract to run the digital messaging effort]]></description>
+            <link>https://time.com/article/2026/07/13/brad-parscale-israel-influence-operation/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/13/brad-parscale-israel-influence-operation/</guid>
+            <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Trump Is Changing the 'Horrible' Front of the White House]]></title>
+            <link>https://time.com/article/2026/07/13/how-trump-is-changing-front-of-the-white-house-renovation-project/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/13/how-trump-is-changing-front-of-the-white-house-renovation-project/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3321,25 +3343,6 @@
             <link>https://time.com/article/2026/05/26/ai-muslim-worship/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/26/ai-muslim-worship/</guid>
             <dc:creator><![CDATA[Andrew R. Chow and Juwayriah Wright]]></dc:creator>
-            <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dana White]]></title>
-            <link>https://time.com/article/2026/05/26/dana-white-ufc-white-house-fight-interview/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/26/dana-white-ufc-white-house-fight-interview/</guid>
-            <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Democratic Tradition We’ve Forgotten]]></title>
-            <link>https://time.com/article/2026/05/26/the-democratic-tradition-we-have-forgotten/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/26/the-democratic-tradition-we-have-forgotten/</guid>
-            <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cannes Proves the Movie Star Isn’t Dead]]></title>
-            <link>https://time.com/article/2026/05/26/cannes-internatonal-movie-stars-hollywood/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/26/cannes-internatonal-movie-stars-hollywood/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
