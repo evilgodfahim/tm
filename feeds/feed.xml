@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 09:48:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 11:18:43 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jul 2026 09:48:06 GMT</pubDate>
+        <pubDate>Tue, 14 Jul 2026 11:18:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A 5-Minute 'Movement Snack' Will Give You More Energy]]></title>
+            <link>https://time.com/article/2026/07/14/how-often-should-you-get-up-from-your-desk-movement-snack/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/14/how-often-should-you-get-up-from-your-desk-movement-snack/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Lindsey Graham’s Senate Seat Will Be Filled]]></title>
             <link>https://time.com/article/2026/07/13/lindsey-graham-senate-seat-vacancy-congress-gop-replacement/</link>
@@ -77,6 +84,13 @@
             <title><![CDATA[Graham's Death, McConnell's Absence Could Doom Senate Priorities]]></title>
             <link>https://time.com/article/2026/07/13/how-graham-s-death-and-mcconnell-s-absence-complicates-senate-gop-s-agenda/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/13/how-graham-s-death-and-mcconnell-s-absence-complicates-senate-gop-s-agenda/</guid>
+            <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mozilla Wants to Build a ‘Rebel Alliance’ for Open-Source AI]]></title>
+            <link>https://time.com/article/2026/07/13/open-source-ai-mozilla-rebel-alliance/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/13/open-source-ai-mozilla-rebel-alliance/</guid>
+            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3326,19 +3340,6 @@
             <link>https://time.com/article/2026/05/26/cannes-internatonal-movie-stars-hollywood/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/26/cannes-internatonal-movie-stars-hollywood/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About the Trump Administration's Proposal for Government-Wide NDAs]]></title>
-            <link>https://time.com/article/2026/05/26/trump-administration-federal-workers-ndas/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/26/trump-administration-federal-workers-ndas/</guid>
-            <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sam Altman Says AI 'Jobs Apocalypse’ Probably Won’t Happen. What Changed?]]></title>
-            <link>https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
