@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 20:51:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 21:48:58 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jul 2026 20:51:18 GMT</pubDate>
+        <pubDate>Tue, 14 Jul 2026 21:48:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[A 5-Minute 'Movement Snack' Will Give You More Energy]]></title>
@@ -84,6 +84,25 @@
             <title><![CDATA[What Is the Antiquities Act?]]></title>
             <link>https://time.com/article/2026/07/14/what-is-the-antiquities-act-and-how-is-the-120-year-old-law-being-tested-by-trump-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/14/what-is-the-antiquities-act-and-how-is-the-120-year-old-law-being-tested-by-trump-/</guid>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ICE to Pause Most Traffic Stops Following Pair of Deadly Shootings, Sources Say]]></title>
+            <link>https://time.com/article/2026/07/14/ice-traffic-stops-following-deadly-shootings-maine-texas-DHS-immigration/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/14/ice-traffic-stops-following-deadly-shootings-maine-texas-DHS-immigration/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[House Passes Bill to Make Daylight Saving Time Permanent]]></title>
+            <link>https://time.com/article/2026/07/14/daylight-saving-time-permanent-bill-house/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/14/daylight-saving-time-permanent-bill-house/</guid>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia Sanctions Bill Championed by Graham Would Give Trump New Tariff Powers]]></title>
+            <link>https://time.com/article/2026/07/14/russia-sanctions-bill-championed-by-graham-would-give-trump-new-tariff-powers/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/14/russia-sanctions-bill-championed-by-graham-would-give-trump-new-tariff-powers/</guid>
             <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3321,25 +3340,6 @@
             <link>https://time.com/article/2026/05/27/why-we-need-to-tax-ai/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/27/why-we-need-to-tax-ai/</guid>
             <dc:creator><![CDATA[Sen. Elizabeth Warren]]></dc:creator>
-            <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Best Science-Backed Way to Wash Your Hair]]></title>
-            <link>https://time.com/article/2026/05/27/best-science-backed-way-to-wash-your-hair/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/27/best-science-backed-way-to-wash-your-hair/</guid>
-            <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DHS Threatens to Stop International Flight Processing in Sanctuary Cities]]></title>
-            <link>https://time.com/article/2026/05/27/dhs-international-flight-processing-sanctuary-city-airports-mullin/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/27/dhs-international-flight-processing-sanctuary-city-airports-mullin/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
-            <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Your Complete Guide to the 2026 FIFA World Cup]]></title>
-            <link>https://time.com/article/2026/05/27/fifa-world-cup-2026-complete-guide/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/27/fifa-world-cup-2026-complete-guide/</guid>
             <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
