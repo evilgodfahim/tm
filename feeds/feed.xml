@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 22:48:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 23:43:01 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jul 2026 22:48:42 GMT</pubDate>
+        <pubDate>Tue, 14 Jul 2026 23:43:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[A 5-Minute 'Movement Snack' Will Give You More Energy]]></title>
@@ -103,6 +103,12 @@
             <title><![CDATA[Russia Sanctions Bill Championed by Graham Would Give Trump New Tariff Powers]]></title>
             <link>https://time.com/article/2026/07/14/russia-sanctions-bill-championed-by-graham-would-give-trump-new-tariff-powers/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/14/russia-sanctions-bill-championed-by-graham-would-give-trump-new-tariff-powers/</guid>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man Killed by Vehicle While Fleeing ‘Encounter’ With DHS Agents in Florida, Official Says]]></title>
+            <link>https://time.com/article/2026/07/14/florida-ice-dhs-death-immigration/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/14/florida-ice-dhs-death-immigration/</guid>
             <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3333,13 +3339,6 @@
             <link>https://time.com/article/2026/05/27/why-biden-is-suing-the-department-of-justice-trump-response-lawsuit/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/27/why-biden-is-suing-the-department-of-justice-trump-response-lawsuit/</guid>
             <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
-            <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why We Need to Tax AI]]></title>
-            <link>https://time.com/article/2026/05/27/why-we-need-to-tax-ai/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/27/why-we-need-to-tax-ai/</guid>
-            <dc:creator><![CDATA[Sen. Elizabeth Warren]]></dc:creator>
             <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
