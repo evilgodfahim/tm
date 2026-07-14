@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 13:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 15:17:02 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jul 2026 13:11:37 GMT</pubDate>
+        <pubDate>Tue, 14 Jul 2026 15:17:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[A 5-Minute 'Movement Snack' Will Give You More Energy]]></title>
@@ -20,6 +20,45 @@
             <link>https://time.com/article/2026/07/14/trauma-resilience-gaza-james-gordon-essay/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/14/trauma-resilience-gaza-james-gordon-essay/</guid>
             <dc:creator><![CDATA[Dr. James S. Gordon]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Enough Is Enough': Lawmakers Criticize Trump Over Resumption of Iran War]]></title>
+            <link>https://time.com/article/2026/07/14/democrats-republicans-lawmakers-criticize-trump-resumption-iran-war-strait-of-hormuz/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/14/democrats-republicans-lawmakers-criticize-trump-resumption-iran-war-strait-of-hormuz/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How TIME Is Embracing the Age of Creators]]></title>
+            <link>https://time.com/article/2026/07/14/time100-creators-2026-list/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/14/time100-creators-2026-list/</guid>
+            <dc:creator><![CDATA[Sam Jacobs]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Administration Vows to Dismantle the International Criminal Court]]></title>
+            <link>https://time.com/article/2026/07/14/international-criminal-court-icc-trump-rubio-state-department/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/14/international-criminal-court-icc-trump-rubio-state-department/</guid>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Democratic Socialists Face Crucial Test in Maine]]></title>
+            <link>https://time.com/article/2026/07/14/Maine-Democratic-Socialists-Graham-Platner-Senate-race-Democratic-primary/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/14/Maine-Democratic-Socialists-Graham-Platner-Senate-race-Democratic-primary/</guid>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump to Give Primetime Speech on Thursday: What to Expect]]></title>
+            <link>https://time.com/article/2026/07/14/trump-to-give-primetime-speech-on-thursday-what-to-expect/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/14/trump-to-give-primetime-speech-on-thursday-what-to-expect/</guid>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How AI is Shaping Childhood]]></title>
+            <link>https://time.com/article/2026/07/14/why-humans-need-to-parent-ai-and-not-the-other-way-around/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/14/why-humans-need-to-parent-ai-and-not-the-other-way-around/</guid>
+            <dc:creator><![CDATA[Dana Suskind]]></dc:creator>
             <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -73,6 +112,7 @@
             <title><![CDATA[What to Know About Aortic Dissection, the Condition That Killed Lindsey Graham]]></title>
             <link>https://time.com/article/2026/07/13/lindsey-graham-death-aortic-dissection/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/13/lindsey-graham-death-aortic-dissection/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -112,7 +152,6 @@
             <title><![CDATA[How Trump Is Changing the 'Horrible' Front of the White House]]></title>
             <link>https://time.com/article/2026/07/13/how-trump-is-changing-front-of-the-white-house-renovation-project/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/13/how-trump-is-changing-front-of-the-white-house-renovation-project/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3304,46 +3343,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/05/27/Tennessee-gerrymander-redistricting-Justin-Pearson-voting-midterm-elections/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What America’s Fastest-Growing Cities Tell Us About the Future]]></title>
-            <link>https://time.com/article/2026/05/27/what-america-s-fastest-growing-cities-tell-us-about-the-future/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/27/what-america-s-fastest-growing-cities-tell-us-about-the-future/</guid>
-            <dc:creator><![CDATA[John Hope Bryant]]></dc:creator>
-            <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Backrooms' Ending, Explained]]></title>
-            <link>https://time.com/article/2026/05/27/backrooms-movie-ending-explained/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/27/backrooms-movie-ending-explained/</guid>
-            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
-            <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About Protests at New Jersey ICE Facility]]></title>
-            <link>https://time.com/article/2026/05/26/delaney-hall-ice-protests-new-jersey-dhs-geo-group-hunger-strike/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/26/delaney-hall-ice-protests-new-jersey-dhs-geo-group-hunger-strike/</guid>
-            <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About the Abraham Accords as Trump Seeks Iran Deal]]></title>
-            <link>https://time.com/article/2026/05/26/abraham-accords-trump-peace-deal-us-israel-iran-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/26/abraham-accords-trump-peace-deal-us-israel-iran-war/</guid>
-            <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Global Oil Prices Rise as Fresh U.S. Strikes on Iran Cast Shadow Over Peace Deal]]></title>
-            <link>https://time.com/article/2026/05/26/us-iran-new-strikes-global-oil-prices-rise-peace-deal-talks-jeopardy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/26/us-iran-new-strikes-global-oil-prices-rise-peace-deal-talks-jeopardy/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
-            <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI Tools Are Transforming Muslim Worship]]></title>
-            <link>https://time.com/article/2026/05/26/ai-muslim-worship/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/26/ai-muslim-worship/</guid>
-            <dc:creator><![CDATA[Andrew R. Chow and Juwayriah Wright]]></dc:creator>
-            <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
