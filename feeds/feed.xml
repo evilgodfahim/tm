@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 19:04:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 20:51:18 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jul 2026 19:04:14 GMT</pubDate>
+        <pubDate>Tue, 14 Jul 2026 20:51:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[A 5-Minute 'Movement Snack' Will Give You More Energy]]></title>
@@ -26,7 +26,7 @@
             <title><![CDATA['Enough Is Enough': Lawmakers Criticize Trump Over Resumption of Iran War]]></title>
             <link>https://time.com/article/2026/07/14/democrats-republicans-lawmakers-criticize-trump-resumption-iran-war-strait-of-hormuz/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/14/democrats-republicans-lawmakers-criticize-trump-resumption-iran-war-strait-of-hormuz/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <dc:creator><![CDATA[Callum Sutherland and Olivia-Anne Cleary]]></dc:creator>
             <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -72,6 +72,18 @@
             <title><![CDATA[Newsom Says Trump Is 'Gravest Threat to American Democracy']]></title>
             <link>https://time.com/article/2026/07/14/newsom-trump-feud-november-midterms-democrats-rallying/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/14/newsom-trump-feud-november-midterms-democrats-rallying/</guid>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Says the FBI Would Be ‘Wasting Their Time’ Investigating Lindsey Graham’s Death]]></title>
+            <link>https://time.com/article/2026/07/14/trump-lindsey-graham-death-conspiracy-theories-fbi/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/14/trump-lindsey-graham-death-conspiracy-theories-fbi/</guid>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Is the Antiquities Act?]]></title>
+            <link>https://time.com/article/2026/07/14/what-is-the-antiquities-act-and-how-is-the-120-year-old-law-being-tested-by-trump-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/14/what-is-the-antiquities-act-and-how-is-the-120-year-old-law-being-tested-by-trump-/</guid>
             <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3328,19 +3340,6 @@
             <title><![CDATA[Your Complete Guide to the 2026 FIFA World Cup]]></title>
             <link>https://time.com/article/2026/05/27/fifa-world-cup-2026-complete-guide/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/27/fifa-world-cup-2026-complete-guide/</guid>
-            <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Ceasefire Alone Won’t Solve Lebanon’s Mental Health Crisis]]></title>
-            <link>https://time.com/article/2026/05/27/a-ceasefire-alone-won-t-solve-lebanon-s-mental-health-crisis/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/27/a-ceasefire-alone-won-t-solve-lebanon-s-mental-health-crisis/</guid>
-            <dc:creator><![CDATA[Kelly Razzouk]]></dc:creator>
-            <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Corporate Corruption Is so Common]]></title>
-            <link>https://time.com/article/2026/05/27/why-corporate-corruption-is-so-common/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/27/why-corporate-corruption-is-so-common/</guid>
             <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
