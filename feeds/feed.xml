@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 15:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 17:06:49 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 15:19:11 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 17:06:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[World Models Are AI’s Next Frontier]]></title>
@@ -29,6 +29,27 @@
             <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Giant Statue Mocking Trump's War in Iran Draws Attention in D.C.]]></title>
+            <link>https://time.com/article/2026/07/15/giant-protest-statue-mocks-trump-iran-war-washington-dc/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/15/giant-protest-statue-mocks-trump-iran-war-washington-dc/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blood Tests for Alzheimer's Disease Are Showing Promise]]></title>
+            <link>https://time.com/article/2026/07/15/alzheimers-disease-tau-protein/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/15/alzheimers-disease-tau-protein/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: 'The Odyssey' Is Just Another Reason for Despair]]></title>
+            <link>https://time.com/article/2026/07/15/the-odyssey-review-christopher-nolan/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/15/the-odyssey-review-christopher-nolan/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A 5-Minute 'Movement Snack' Will Give You More Energy]]></title>
             <link>https://time.com/article/2026/07/14/how-often-should-you-get-up-from-your-desk-movement-snack/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/14/how-often-should-you-get-up-from-your-desk-movement-snack/</guid>
@@ -46,7 +67,6 @@
             <title><![CDATA['Enough Is Enough': Lawmakers Criticize Trump Over Resumption of Iran War]]></title>
             <link>https://time.com/article/2026/07/14/democrats-republicans-lawmakers-criticize-trump-resumption-iran-war-strait-of-hormuz/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/14/democrats-republicans-lawmakers-criticize-trump-resumption-iran-war-strait-of-hormuz/</guid>
-            <dc:creator><![CDATA[Callum Sutherland and Olivia-Anne Cleary]]></dc:creator>
             <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3319,26 +3339,6 @@
             <link>https://time.com/article/2026/05/28/scientists-saving-coral-reefs/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/28/scientists-saving-coral-reefs/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A New Wave of Investors Sees Profit in Ocean Conservation]]></title>
-            <link>https://time.com/article/2026/05/28/the-new-value-of-oceans/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/28/the-new-value-of-oceans/</guid>
-            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Say When Someone Has a Miscarriage—And What to Avoid]]></title>
-            <link>https://time.com/article/2026/05/28/what-to-say-when-someone-has-miscarriage-pregnancy-loss/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/28/what-to-say-when-someone-has-miscarriage-pregnancy-loss/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[House Democrats to Introduce Bill to Block Trump’s Triumphal Arch]]></title>
-            <link>https://time.com/article/2026/05/28/trump-arch-plans-democrat-legislation-construction-projects-backlash/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/28/trump-arch-plans-democrat-legislation-construction-projects-backlash/</guid>
             <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
