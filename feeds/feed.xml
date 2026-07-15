@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 09:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 11:23:00 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 09:52:10 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 11:23:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[World Models Are AI’s Next Frontier]]></title>
+            <link>https://time.com/article/2026/07/15/world-models-are-ai-s-next-frontier/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/15/world-models-are-ai-s-next-frontier/</guid>
+            <dc:creator><![CDATA[Celine Herweijer]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A 5-Minute 'Movement Snack' Will Give You More Energy]]></title>
             <link>https://time.com/article/2026/07/14/how-often-should-you-get-up-from-your-desk-movement-snack/</link>
@@ -3331,13 +3338,6 @@
             <title><![CDATA[Who Will Run for President in 2028? What Potential Contenders Have Said]]></title>
             <link>https://time.com/article/2026/05/28/2028-election-president-contenders-who-running-polls/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/28/2028-election-president-contenders-who-running-polls/</guid>
-            <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Brutal Ending of 'Half Man']]></title>
-            <link>https://time.com/article/2026/05/28/half-man-finale-richard-gadd/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/28/half-man-finale-richard-gadd/</guid>
-            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
             <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
