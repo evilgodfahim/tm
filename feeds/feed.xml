@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 13:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 15:19:11 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 13:15:25 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 15:19:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[World Models Are AI’s Next Frontier]]></title>
@@ -19,6 +19,13 @@
             <link>https://time.com/article/2026/07/15/mistakes-that-make-diarrhea-worse/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/15/mistakes-that-make-diarrhea-worse/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Singing Is One of Sports' Most Enduring Rituals]]></title>
+            <link>https://time.com/article/2026/07/15/why-sports-fans-break-out-into-song-world-cup/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/15/why-sports-fans-break-out-into-song-world-cup/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3332,12 +3339,6 @@
             <title><![CDATA[House Democrats to Introduce Bill to Block Trump’s Triumphal Arch]]></title>
             <link>https://time.com/article/2026/05/28/trump-arch-plans-democrat-legislation-construction-projects-backlash/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/28/trump-arch-plans-democrat-legislation-construction-projects-backlash/</guid>
-            <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Newsom Signs Bill to Safeguard California Elections, Citing Trump Concerns]]></title>
-            <link>https://time.com/article/2026/05/28/newsom-california-primary-election-security-bill-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/28/newsom-california-primary-election-security-bill-trump/</guid>
             <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
