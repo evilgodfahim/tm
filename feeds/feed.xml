@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 07:07:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 09:52:10 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 07:07:21 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 09:52:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[A 5-Minute 'Movement Snack' Will Give You More Energy]]></title>
@@ -90,7 +90,6 @@
             <title><![CDATA[ICE to Pause Most Traffic Stops Following Pair of Deadly Shootings, Sources Say]]></title>
             <link>https://time.com/article/2026/07/14/ice-traffic-stops-following-deadly-shootings-maine-texas-DHS-immigration/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/14/ice-traffic-stops-following-deadly-shootings-maine-texas-DHS-immigration/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -109,6 +108,12 @@
             <title><![CDATA[Man Killed by Vehicle While Fleeing ‘Encounter’ With DHS Agents in Florida, Official Says]]></title>
             <link>https://time.com/article/2026/07/14/florida-ice-dhs-death-immigration/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/14/florida-ice-dhs-death-immigration/</guid>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Israel Elect Netanyahu Again?]]></title>
+            <link>https://time.com/article/2026/07/14/will-israel-elect-netanyahu-again-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/14/will-israel-elect-netanyahu-again-/</guid>
             <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3334,12 +3339,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/05/28/half-man-finale-richard-gadd/</guid>
             <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
             <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran Did Not Win the Meme War]]></title>
-            <link>https://time.com/article/2026/05/27/iran-america-trump-meme-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/27/iran-america-trump-meme-war/</guid>
-            <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
