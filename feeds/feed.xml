@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 22:50:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 23:51:40 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 22:50:57 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 23:51:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[World Models Are AI’s Next Frontier]]></title>
@@ -92,6 +92,12 @@
             <title><![CDATA[Trump Says ICE Is ‘Loved and Respected’ in America. Is That True?]]></title>
             <link>https://time.com/article/2026/07/15/trump-says-ice-is-loved-and-respected-in-america-is-that-true-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/15/trump-says-ice-is-loved-and-respected-in-america-is-that-true-/</guid>
+            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England’s Soul Is Crushed, Again, This Time by More Messi Magic]]></title>
+            <link>https://time.com/article/2026/07/15/england-argentina-world-cup/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/15/england-argentina-world-cup/</guid>
             <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3331,12 +3337,6 @@
             <title><![CDATA[Why Has Rep. Tom Kean Been Absent From Congress for Months?]]></title>
             <link>https://time.com/article/2026/05/29/tom-kean-house-congress-absence/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/29/tom-kean-house-congress-absence/</guid>
-            <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blue Origin Explosion Will Set Back NASA's Moon Mission]]></title>
-            <link>https://time.com/article/2026/05/29/blue-origin-rocket-explosion-nasa-moon/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/29/blue-origin-rocket-explosion-nasa-moon/</guid>
             <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
