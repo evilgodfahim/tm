@@ -4,15 +4,29 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 13:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 15:26:49 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jul 2026 13:22:46 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 15:26:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump Says He May Try to ‘Wipe Out’ Iran’s Revolutionary Guards]]></title>
             <link>https://time.com/article/2026/07/16/trump-iran-revolutionary-guards-wipe-out/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/16/trump-iran-revolutionary-guards-wipe-out/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Do When Someone Is Yelling at You]]></title>
+            <link>https://time.com/article/2026/07/16/what-to-do-when-someone-yells-at-you/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/16/what-to-do-when-someone-yells-at-you/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Risks of Extreme Heat Combined With Bad Air Quality]]></title>
+            <link>https://time.com/article/2026/07/16/risks-combined-bad-air-quality-extreme-heat-wildfires/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/16/risks-combined-bad-air-quality-extreme-heat-wildfires/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -111,7 +125,13 @@
             <title><![CDATA[Why It Is Time for the West to Crush Putin’s War Economy]]></title>
             <link>https://time.com/article/2026/07/15/west-ukraine-russia-putin-sanctions-economy-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/15/west-ukraine-russia-putin-sanctions-economy-/</guid>
-            <dc:creator><![CDATA[Jeffrey Sonnenfeld, Robert Hormats, John Herbst and Alexander Browder]]></dc:creator>
+            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Iran Target Another Critical Maritime Chokepoint?]]></title>
+            <link>https://time.com/article/2026/07/15/iran-war-bab-el-mandeb-strait-trade-route-houthis-threat/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/15/iran-war-bab-el-mandeb-strait-trade-route-houthis-threat/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3319,25 +3339,6 @@
             <link>https://time.com/article/2026/05/29/Bondi-Epstein-interview-Trump-DOJ-Todd-Blanche-House-Congress/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/29/Bondi-Epstein-interview-Trump-DOJ-Todd-Blanche-House-Congress/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here's What to Expect From the Three World Cup Opening Ceremonies]]></title>
-            <link>https://time.com/article/2026/05/29/world-cup-2026-opening-ceremonies-performers-usa-mexico-canada-fifa/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/29/world-cup-2026-opening-ceremonies-performers-usa-mexico-canada-fifa/</guid>
-            <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Best See This Weekend’s Rare Blue Micromoon]]></title>
-            <link>https://time.com/article/2026/05/29/blue-micromoon-may-2026/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/29/blue-micromoon-may-2026/</guid>
-            <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kenya Blocks U.S. Plan for an Ebola Facility for Americans]]></title>
-            <link>https://time.com/article/2026/05/29/kenya-blocks-us-plan-for-ebola-facility-for-americans/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/29/kenya-blocks-us-plan-for-ebola-facility-for-americans/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
