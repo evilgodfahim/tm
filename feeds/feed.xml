@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 15:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 17:04:58 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jul 2026 15:26:49 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 17:04:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump Says He May Try to ‘Wipe Out’ Iran’s Revolutionary Guards]]></title>
@@ -27,6 +27,20 @@
             <link>https://time.com/article/2026/07/16/risks-combined-bad-air-quality-extreme-heat-wildfires/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/16/risks-combined-bad-air-quality-extreme-heat-wildfires/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A War Neither America Nor Iran Can Win]]></title>
+            <link>https://time.com/article/2026/07/16/war-america-iran-trump-hormuz/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/16/war-america-iran-trump-hormuz/</guid>
+            <dc:creator><![CDATA[Sanam Vakil]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Emerging Link Between Microplastics and Heart Disease]]></title>
+            <link>https://time.com/article/2026/07/16/heart-attacks-microplastics-in-blood-study/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/16/heart-attacks-microplastics-in-blood-study/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3324,21 +3338,6 @@
             <link>https://time.com/article/2026/05/29/the-future-of-ai-and-trade/</link>
             <guid isPermaLink="true">https://time.com/article/2026/05/29/the-future-of-ai-and-trade/</guid>
             <dc:creator><![CDATA[Olivia White and Tiago Devesa]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Electrification Is Booming. But the Path Ahead Is Complicated]]></title>
-            <link>https://time.com/article/2026/05/29/iea-investment-report-electrification/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/29/iea-investment-report-electrification/</guid>
-            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
-            <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bondi Stonewalls Questions About Trump as She Defends DOJ’s Handling of the Epstein Files]]></title>
-            <description><![CDATA[Former Attorney General Pam Bondi on Friday refused to answer questions regarding Trump’s involvement in the Administration’s handling of investigations in a "combative" interview.]]></description>
-            <link>https://time.com/article/2026/05/29/Bondi-Epstein-interview-Trump-DOJ-Todd-Blanche-House-Congress/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/29/Bondi-Epstein-interview-Trump-DOJ-Todd-Blanche-House-Congress/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
