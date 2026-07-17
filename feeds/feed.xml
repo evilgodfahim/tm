@@ -4,10 +4,25 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 07:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 09:48:35 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 07:12:14 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 09:48:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[5 Takeaways From Trump’s Speech on Elections]]></title>
+            <description><![CDATA[The President’s presentation may have been a rhetorical win for his base, but it was a fact-checker’s minefield—and may end up backfiring bigly.]]></description>
+            <link>https://time.com/article/2026/07/17/trump-speech-elections-china-save-act-takeaways/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/17/trump-speech-elections-china-save-act-takeaways/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Media to Sell Traders ‘the Fastest’ Access to Truth Social Posts]]></title>
+            <link>https://time.com/article/2026/07/17/truth-social-api-wall-street-trump-media/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/17/truth-social-api-wall-street-trump-media/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump Says He May Try to ‘Wipe Out’ Iran’s Revolutionary Guards]]></title>
             <link>https://time.com/article/2026/07/16/trump-iran-revolutionary-guards-wipe-out/</link>
@@ -59,6 +74,7 @@
             <title><![CDATA[Meet Sergii Koretskyi, Ukraine’s New Prime Minister]]></title>
             <link>https://time.com/article/2026/07/16/meet-sergii-koretskyi-ukraine-new-prime-minister-energy-official-zelensky/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/16/meet-sergii-koretskyi-ukraine-new-prime-minister-energy-official-zelensky/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -92,6 +108,12 @@
             <title><![CDATA[Scientists Discover a Planet With Earth-like Conditions]]></title>
             <link>https://time.com/article/2026/07/16/earthlike-planet-atmosphere-science-discovery/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/16/earthlike-planet-atmosphere-science-discovery/</guid>
+            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TIME100 Sports Honorees Toast to the Power of Sport and Support]]></title>
+            <link>https://time.com/article/2026/07/16/time100-sports-gala-toast-roundup/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/16/time100-sports-gala-toast-roundup/</guid>
             <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3319,26 +3341,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/05/31/garden-grove-washington-chemical-accident-EPA-regulations-/</guid>
             <dc:creator><![CDATA[Rebecca Schneid and Richard Hall]]></dc:creator>
             <pubDate>Sun, 31 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s Name Won’t Be Coming off the Kennedy Center Just Yet, Despite Court Order]]></title>
-            <link>https://time.com/article/2026/05/31/burgum-says-trump-s-name-won-t-be-taken-off-kennedy-center-after-judges-ruling/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/31/burgum-says-trump-s-name-won-t-be-taken-off-kennedy-center-after-judges-ruling/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Sun, 31 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Steve Hilton on His Surging Bid for California Governor]]></title>
-            <link>https://time.com/article/2026/05/30/steve-hilton-california-governors-race/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/30/steve-hilton-california-governors-race/</guid>
-            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
-            <pubDate>Sat, 30 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump's Doctor Says He's in 'Excellent Health,' Urges Weight Loss]]></title>
-            <link>https://time.com/article/2026/05/30/trump-medical-report-health-overweight-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/30/trump-medical-report-health-overweight-/</guid>
-            <pubDate>Sat, 30 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
