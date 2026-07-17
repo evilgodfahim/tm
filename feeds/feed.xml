@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 15:06:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 18:54:05 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 15:06:41 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 18:54:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[5 Takeaways From Trump’s Speech on Elections]]></title>
@@ -21,6 +21,52 @@
             <link>https://time.com/article/2026/07/17/truth-social-api-wall-street-trump-media/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/17/truth-social-api-wall-street-trump-media/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Long Will This Wildfire Smoke Last?]]></title>
+            <link>https://time.com/article/2026/07/17/wildfire-smoke-air-quality-canada-fires-forecast/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/17/wildfire-smoke-air-quality-canada-fires-forecast/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Trump Is Calling For These Major TV Networks to Lose Their Licenses]]></title>
+            <link>https://time.com/article/2026/07/17/trump-demands-major-tv-networks-lose-licenses-speech-broadcast-row/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/17/trump-demands-major-tv-networks-lose-licenses-speech-broadcast-row/</guid>
+            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When ICE Kills, We Cannot Look Away]]></title>
+            <link>https://time.com/article/2026/07/17/when-ice-kills-we-cannot-look-away/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/17/when-ice-kills-we-cannot-look-away/</guid>
+            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What World Cup Hydration Breaks Tell Us About the Times We Live In]]></title>
+            <link>https://time.com/article/2026/07/17/what-the-world-cup-hydration-breaks-really-tell-us/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/17/what-the-world-cup-hydration-breaks-really-tell-us/</guid>
+            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Taco Bell's Shredded Lettuce Linked to Cyclospora Parasite Outbreak]]></title>
+            <link>https://time.com/article/2026/07/17/cyclospora-parasite-outbreak-taco-bell-lettuce-cdc/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/17/cyclospora-parasite-outbreak-taco-bell-lettuce-cdc/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Urologists Think of the Military’s New Testosterone Testing Policy]]></title>
+            <link>https://time.com/article/2026/07/17/what-urologists-think-of-military-pete-hegseth-testosterone-testing-policy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/17/what-urologists-think-of-military-pete-hegseth-testosterone-testing-policy/</guid>
+            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The True Behind Netflix's '23,000 Lives']]></title>
+            <link>https://time.com/article/2026/07/17/23000-lives-netflix-true-story/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/17/23000-lives-netflix-true-story/</guid>
+            <dc:creator><![CDATA[Isabella Wandermurem]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -74,7 +120,6 @@
             <title><![CDATA[Meet Sergii Koretskyi, Ukraine’s New Prime Minister]]></title>
             <link>https://time.com/article/2026/07/16/meet-sergii-koretskyi-ukraine-new-prime-minister-energy-official-zelensky/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/16/meet-sergii-koretskyi-ukraine-new-prime-minister-energy-official-zelensky/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -114,6 +159,27 @@
             <title><![CDATA[TIME100 Sports Honorees Toast to the Power of Sport and Support]]></title>
             <link>https://time.com/article/2026/07/16/time100-sports-gala-toast-roundup/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/16/time100-sports-gala-toast-roundup/</guid>
+            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Understanding Zeus' Law in 'The Odyssey']]></title>
+            <link>https://time.com/article/2026/07/16/the-odyssey-ending-zeus-law-xenia/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/16/the-odyssey-ending-zeus-law-xenia/</guid>
+            <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Read After Watching 'The Odyssey']]></title>
+            <link>https://time.com/article/2026/07/16/the-odyssey-reading-list-greek-mythology/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/16/the-odyssey-reading-list-greek-mythology/</guid>
+            <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Backlash to Anthropic's Ad Misses Something Bigger]]></title>
+            <link>https://time.com/article/2026/07/16/anthropic-ai-marketing-advertisement/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/16/anthropic-ai-marketing-advertisement/</guid>
+            <dc:creator><![CDATA[Harry Booth]]></dc:creator>
             <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3273,74 +3339,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/06/01/not-suitable-for-work-review/</guid>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About Rubisco, the Most Abundant Protein on Earth]]></title>
-            <link>https://time.com/article/2026/06/01/what-is-rubisco-abundant-protein-earth/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/01/what-is-rubisco-abundant-protein-earth/</guid>
-            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
-            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Curiosity Makes Me a Better Parent]]></title>
-            <link>https://time.com/article/2026/06/01/curiosity-makes-me-a-better-parent/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/01/curiosity-makes-me-a-better-parent/</guid>
-            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rarely Seen Photos of Marilyn Monroe]]></title>
-            <link>https://time.com/article/2026/06/01/marilyn-monroe/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/01/marilyn-monroe/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The True Story Behind 'Bring Me the Beauties']]></title>
-            <link>https://time.com/article/2026/06/01/bring-me-the-beauties-true-story-eternal-values/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/01/bring-me-the-beauties-true-story-eternal-values/</guid>
-            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
-            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Senate Democrats Plan to Permanently Block Trump’s ‘Anti-Weaponization’ Fund]]></title>
-            <link>https://time.com/article/2026/06/01/trump-anti-weaponization-fund-doj-senate-democrats-schumer/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/01/trump-anti-weaponization-fund-doj-senate-democrats-schumer/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
-            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Key Takeaways From U.K.'s Release of Mandelson Files—and How Trump Is Mentioned]]></title>
-            <link>https://time.com/article/2026/06/01/peter-mandelson-files-ambassador-to-us-epstein-fallout-trump-revelations/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/01/peter-mandelson-files-ambassador-to-us-epstein-fallout-trump-revelations/</guid>
-            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Search for Extraterrestrial Life May Be Flawed]]></title>
-            <link>https://time.com/article/2026/06/01/scientists-overlooking-signs-of-extraterrestrial-life-study/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/01/scientists-overlooking-signs-of-extraterrestrial-life-study/</guid>
-            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About Patagonia's Lawsuit Against Pattie Gonia]]></title>
-            <link>https://time.com/article/2026/06/01/patagonia-pattie-gonia-trademark-lawsuit-what-to-know/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/01/patagonia-pattie-gonia-trademark-lawsuit-what-to-know/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The True Story Behind the Murder of Rachel Nickell]]></title>
-            <link>https://time.com/article/2026/06/01/rachel-nickell-true-story-the-witness-netflix/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/01/rachel-nickell-true-story-the-witness-netflix/</guid>
-            <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
-            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chemical Disasters Strike as Trump Seeks to Roll Back Safety Rules]]></title>
-            <description><![CDATA[Two major incidents at chemical plants in one week have intensified scrutiny of the Trump Administration's push to gut chemical safety regulations.]]></description>
-            <link>https://time.com/article/2026/05/31/garden-grove-washington-chemical-accident-EPA-regulations-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/05/31/garden-grove-washington-chemical-accident-EPA-regulations-/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid and Richard Hall]]></dc:creator>
-            <pubDate>Sun, 31 May 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
