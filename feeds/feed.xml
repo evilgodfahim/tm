@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 21:52:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 22:40:09 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 21:52:33 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 22:40:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[5 Takeaways From Trump’s Speech on Elections]]></title>
@@ -34,6 +34,7 @@
             <title><![CDATA[Why Trump Is Calling For These Major TV Networks to Lose Their Licenses]]></title>
             <link>https://time.com/article/2026/07/17/trump-demands-major-tv-networks-lose-licenses-speech-broadcast-row/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/17/trump-demands-major-tv-networks-lose-licenses-speech-broadcast-row/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -81,6 +82,18 @@
             <link>https://time.com/article/2026/07/17/heartstopper-forever-ending/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/17/heartstopper-forever-ending/</guid>
             <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham Calls for 'New Politics' in U.K. in First Speech as Labour Leader]]></title>
+            <link>https://time.com/article/2026/07/17/andy-burnham-first-speech-labour-leader-incoming-prime-minister/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/17/andy-burnham-first-speech-labour-leader-incoming-prime-minister/</guid>
+            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Administration Is Considering Charging Certain Visa Applicants a Bond]]></title>
+            <link>https://time.com/article/2026/07/17/visa-applicants-bond-trump-administration-immigration/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/17/visa-applicants-bond-trump-administration-immigration/</guid>
             <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3325,19 +3338,6 @@
             <title><![CDATA[How Does California’s ‘Jungle Primary’ Work?]]></title>
             <link>https://time.com/article/2026/06/01/california-governor-primary-jungle-top-two/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/01/california-governor-primary-jungle-top-two/</guid>
-            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colombia Presidential Election Heads to Run-Off: What to Know]]></title>
-            <link>https://time.com/article/2026/06/01/colombia-elections-explainer-abelardo-de-la-espriella-ivan-cepeda-runoff/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/01/colombia-elections-explainer-abelardo-de-la-espriella-ivan-cepeda-runoff/</guid>
-            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Boulder Tragedy One Year Later]]></title>
-            <link>https://time.com/article/2026/06/01/the-boulder-tragedy-one-year-later/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/01/the-boulder-tragedy-one-year-later/</guid>
-            <dc:creator><![CDATA[Susan Rona]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
