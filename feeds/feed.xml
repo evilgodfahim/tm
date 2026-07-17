@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 20:58:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 21:52:33 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 20:58:12 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 21:52:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[5 Takeaways From Trump’s Speech on Elections]]></title>
@@ -74,6 +74,13 @@
             <link>https://time.com/article/2026/07/17/the-east-palace-ending-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/17/the-east-palace-ending-explained/</guid>
             <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Emotional Ending of Heartstopper Forever]]></title>
+            <link>https://time.com/article/2026/07/17/heartstopper-forever-ending/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/17/heartstopper-forever-ending/</guid>
+            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -187,6 +194,13 @@
             <link>https://time.com/article/2026/07/16/anthropic-ai-marketing-advertisement/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/16/anthropic-ai-marketing-advertisement/</guid>
             <dc:creator><![CDATA[Harry Booth]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The True Story Behind They Fight]]></title>
+            <link>https://time.com/article/2026/07/16/they-fight-true-story-hulu/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/16/they-fight-true-story-hulu/</guid>
+            <dc:creator><![CDATA[Olivia B. Waxman]]></dc:creator>
             <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3324,20 +3338,6 @@
             <link>https://time.com/article/2026/06/01/the-boulder-tragedy-one-year-later/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/01/the-boulder-tragedy-one-year-later/</guid>
             <dc:creator><![CDATA[Susan Rona]]></dc:creator>
-            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[To Be a Better Negotiator, Learn How to Give a Little]]></title>
-            <link>https://time.com/article/2026/06/01/to-be-a-better-negotiator-learn-how-to-give-a-little/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/01/to-be-a-better-negotiator-learn-how-to-give-a-little/</guid>
-            <dc:creator><![CDATA[Attia Qureshi]]></dc:creator>
-            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Japan Wins in Every World Cup]]></title>
-            <link>https://time.com/article/2026/06/01/world-cup-japan-soft-power-cleanup/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/01/world-cup-japan-soft-power-cleanup/</guid>
-            <dc:creator><![CDATA[Bobby Ghosh]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
