@@ -4,13 +4,20 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Jul 2026 19:59:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 20:51:54 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Jul 2026 19:59:32 GMT</pubDate>
+        <pubDate>Sat, 18 Jul 2026 20:51:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[‘Superteams’ to Collide at World Cup Final]]></title>
+            <description><![CDATA[With commentary from the players and coaches rolling in, here’s a roundup of the top storylines to watch at tomorrow’s climactic match.]]></description>
+            <link>https://time.com/article/2026/07/18/-superteams-to-collide-at-world-cup-final/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/18/-superteams-to-collide-at-world-cup-final/</guid>
+            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
+            <pubDate>Sat, 18 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[5 Takeaways From Trump’s Speech on Elections]]></title>
-            <description><![CDATA[The President’s presentation may have been a rhetorical win for his base, but it was a fact-checker’s minefield—and may end up backfiring bigly.]]></description>
             <link>https://time.com/article/2026/07/17/trump-speech-elections-china-save-act-takeaways/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/17/trump-speech-elections-china-save-act-takeaways/</guid>
             <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
@@ -34,7 +41,6 @@
             <title><![CDATA[Why Trump Is Calling For These Major TV Networks to Lose Their Licenses]]></title>
             <link>https://time.com/article/2026/07/17/trump-demands-major-tv-networks-lose-licenses-speech-broadcast-row/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/17/trump-demands-major-tv-networks-lose-licenses-speech-broadcast-row/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3331,14 +3337,6 @@
             <guid isPermaLink="true">https://time.com/6974403/chronic-lyme-disease-research/</guid>
             <dc:creator><![CDATA[Jamie Ducharme]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 16:33:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Says He ‘Couldn’t Care Less’ if Peace Talks with Iran Fall Apart]]></title>
-            <description><![CDATA[The President later suggested, however, that talks were continuing at a “rapid pace.”]]></description>
-            <link>https://time.com/article/2026/06/01/us-iran-trade-fresh-strikes-peace-talks-president-trump-warning/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/01/us-iran-trade-fresh-strikes-peace-talks-president-trump-warning/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
-            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
