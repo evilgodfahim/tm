@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Jul 2026 11:45:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 12:54:26 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Jul 2026 11:45:13 GMT</pubDate>
+        <pubDate>Sat, 18 Jul 2026 12:54:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[5 Takeaways From Trump’s Speech on Elections]]></title>
@@ -94,6 +94,13 @@
             <title><![CDATA[Trump Administration Is Considering Charging Certain Visa Applicants a Bond]]></title>
             <link>https://time.com/article/2026/07/17/visa-applicants-bond-trump-administration-immigration/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/17/visa-applicants-bond-trump-administration-immigration/</guid>
+            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate's Economic Toll Is Becoming Harder to Ignore]]></title>
+            <link>https://time.com/article/2026/07/17/climate-impacts-economic-risk/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/17/climate-impacts-economic-risk/</guid>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3332,12 +3339,6 @@
             <link>https://time.com/article/2026/06/01/us-iran-trade-fresh-strikes-peace-talks-president-trump-warning/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/01/us-iran-trade-fresh-strikes-peace-talks-president-trump-warning/</guid>
             <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
-            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Does California’s ‘Jungle Primary’ Work?]]></title>
-            <link>https://time.com/article/2026/06/01/california-governor-primary-jungle-top-two/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/01/california-governor-primary-jungle-top-two/</guid>
             <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
