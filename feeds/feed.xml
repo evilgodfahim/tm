@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jul 2026 12:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 15:03:01 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jul 2026 12:09:43 GMT</pubDate>
+        <pubDate>Mon, 20 Jul 2026 15:03:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump, Rubio and a Zombie State In Venezuela]]></title>
@@ -596,6 +596,13 @@
             <title><![CDATA[How Trump Is Changing the 'Horrible' Front of the White House]]></title>
             <link>https://time.com/article/2026/07/13/how-trump-is-changing-front-of-the-white-house-renovation-project/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/13/how-trump-is-changing-front-of-the-white-house-renovation-project/</guid>
+            <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Livestreamed Child Abuse Is Challenging How We Think About Online Privacy]]></title>
+            <link>https://time.com/article/2026/07/13/how-livestreamed-child-abuse-is-challenging-how-we-think-about-online-privacy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/13/how-livestreamed-child-abuse-is-challenging-how-we-think-about-online-privacy/</guid>
+            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3333,13 +3340,6 @@
             <link>https://time.com/article/2026/06/02/xavier-becerra-california-gubernatorial-race-governor-primary/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/02/xavier-becerra-california-gubernatorial-race-governor-primary/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
-            <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[To Save Democracy, We Need to Reimagine the Economy]]></title>
-            <link>https://time.com/article/2026/06/02/to-save-democracy-we-need-to-reimagine-the-economy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/02/to-save-democracy-we-need-to-reimagine-the-economy/</guid>
-            <dc:creator><![CDATA[Sarita Gupta]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
