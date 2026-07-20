@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jul 2026 15:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 17:24:33 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jul 2026 15:03:01 GMT</pubDate>
+        <pubDate>Mon, 20 Jul 2026 17:24:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump, Rubio and a Zombie State In Venezuela]]></title>
-            <description><![CDATA[The Venezuelan government's failure to respond to the earthquakes is a reminder that it is incapable of producing the economic transformation Trump and Rubio have promised.]]></description>
             <link>https://time.com/article/2026/07/20/trump-rubio-rodriguez-earthquake-venezuela/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/20/trump-rubio-rodriguez-earthquake-venezuela/</guid>
             <dc:creator><![CDATA[Rafael Osío Cabrices]]></dc:creator>
@@ -35,6 +34,21 @@
             <link>https://time.com/article/2026/07/20/ai-execution-problem/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/20/ai-execution-problem/</guid>
             <dc:creator><![CDATA[Nigel Vaz]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Democrats Demand End to Iran War After Three U.S. Service Members Killed]]></title>
+            <description><![CDATA["No more American heroes need to die because of this reckless war of choice," said one lawmaker.]]></description>
+            <link>https://time.com/article/2026/07/20/iran-war-us-service-members-killed-trump-democrat-lawmakers-response/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/20/iran-war-us-service-members-killed-trump-democrat-lawmakers-response/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Biggest Hygiene Mistakes People Make in the Pool]]></title>
+            <link>https://time.com/article/2026/07/20/pool-hygiene-mistakes-that-can-make-you-sick/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/20/pool-hygiene-mistakes-that-can-make-you-sick/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Mon, 20 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3326,21 +3340,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/06/03/john-early-maddies-secret-interview/</guid>
             <dc:creator><![CDATA[Rich Juzwiak]]></dc:creator>
             <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Says It's Time 'One Way or Another' for Iran to Make a Deal]]></title>
-            <description><![CDATA["You’ve been doing this for 47 years, and it cannot be allowed to go on any longer," said the U.S. President.]]></description>
-            <link>https://time.com/article/2026/06/02/trump-netanyahu-crazy-lebanon-hezbollah-ceasefire-iran-us-peace-deal/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/02/trump-netanyahu-crazy-lebanon-hezbollah-ceasefire-iran-us-peace-deal/</guid>
-            <dc:creator><![CDATA[Chad de Guzman and Tiago Ventura]]></dc:creator>
-            <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About Xavier Becerra and His Unexpected Rise]]></title>
-            <link>https://time.com/article/2026/06/02/xavier-becerra-california-gubernatorial-race-governor-primary/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/02/xavier-becerra-california-gubernatorial-race-governor-primary/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
-            <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
