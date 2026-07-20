@@ -4,10 +4,39 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jul 2026 09:50:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 12:09:43 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jul 2026 09:50:29 GMT</pubDate>
+        <pubDate>Mon, 20 Jul 2026 12:09:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump, Rubio and a Zombie State In Venezuela]]></title>
+            <description><![CDATA[The Venezuelan government's failure to respond to the earthquakes is a reminder that it is incapable of producing the economic transformation Trump and Rubio have promised.]]></description>
+            <link>https://time.com/article/2026/07/20/trump-rubio-rodriguez-earthquake-venezuela/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/20/trump-rubio-rodriguez-earthquake-venezuela/</guid>
+            <dc:creator><![CDATA[Rafael Osío Cabrices]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spain Finish Off a World Cup to Remember]]></title>
+            <link>https://time.com/article/2026/07/20/spain-world-cup-2026-final-argentina-tournament-recap/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/20/spain-world-cup-2026-final-argentina-tournament-recap/</guid>
+            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Cost of America's Broken Immigration System]]></title>
+            <link>https://time.com/article/2026/07/20/the-cost-of-america-s-broken-immigration-system/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/20/the-cost-of-america-s-broken-immigration-system/</guid>
+            <dc:creator><![CDATA[Ken Salazar]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI’s Execution Problem]]></title>
+            <link>https://time.com/article/2026/07/20/ai-execution-problem/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/20/ai-execution-problem/</guid>
+            <dc:creator><![CDATA[Nigel Vaz]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The 2026 World Cup Proved That America Can Still Do Big Things]]></title>
             <description><![CDATA["While the tournament was not without its fair share of controversy, everyday Americans showed the world that we can still achieve great things," writes Alex Lasry.]]></description>
@@ -20,14 +49,12 @@
             <title><![CDATA[Trump Administration Scales Back Endangered Species Protections—Again]]></title>
             <link>https://time.com/article/2026/07/19/trump-scales-back-endangered-species-protections-again/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/19/trump-scales-back-endangered-species-protections-again/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid and T. Michelle Murphy]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Frustratingly Bland World Cup Halftime Show]]></title>
             <link>https://time.com/article/2026/07/19/world-cup-halftime-show-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/19/world-cup-halftime-show-review/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3313,30 +3340,6 @@
             <link>https://time.com/article/2026/06/02/to-save-democracy-we-need-to-reimagine-the-economy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/02/to-save-democracy-we-need-to-reimagine-the-economy/</guid>
             <dc:creator><![CDATA[Sarita Gupta]]></dc:creator>
-            <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who Is Bill Pulte, Trump’s New Acting Director of National Intelligence?]]></title>
-            <link>https://time.com/article/2026/06/02/bill-pulte-acting-director-of-national-intelligence-trump-gabbard/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/02/bill-pulte-acting-director-of-national-intelligence-trump-gabbard/</guid>
-            <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[White House Correspondents' Dinner Rescheduled After Shooting, With Trump Again Set to Speak]]></title>
-            <link>https://time.com/article/2026/06/02/white-house-correspondents-dinner-rescheduled-shooting-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/02/white-house-correspondents-dinner-rescheduled-shooting-trump/</guid>
-            <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rebecca Bennett Wins Primary to Take on Absent Republican Congressman]]></title>
-            <link>https://time.com/article/2026/06/02/rebecca-bennett-wins-primary-to-take-on-absent-republican-congressman/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/02/rebecca-bennett-wins-primary-to-take-on-absent-republican-congressman/</guid>
-            <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Republicans Can't Stop Talking About What James Talarico Eats]]></title>
-            <link>https://time.com/article/2026/06/02/james-talarico-girlfriend-vegan-polls/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/02/james-talarico-girlfriend-vegan-polls/</guid>
             <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
