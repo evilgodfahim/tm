@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 16:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 18:10:42 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 16:19:10 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 18:10:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why Rent Keeps Rising Because of Wall Street]]></title>
-            <description><![CDATA[“Apartment buildings are bought, sold, and borrowed against on the expectation that rents will keep rising,” writes Anisha Steephen.]]></description>
             <link>https://time.com/article/2026/07/21/why-rent-keeps-rising-because-of-wall-street/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/21/why-rent-keeps-rising-because-of-wall-street/</guid>
             <dc:creator><![CDATA[Anisha Steephen]]></dc:creator>
@@ -32,6 +31,7 @@
         </item>
         <item>
             <title><![CDATA[Nearly 100 U.S. Troops Injured in Two Weeks Since Iran War Resumed]]></title>
+            <description><![CDATA["Every second Trump prolongs his war in Iran is another second our service members remain in danger," said one Democratic lawmaker.]]></description>
             <link>https://time.com/article/2026/07/21/iran-war-injury-toll-us-service-members-pentagon-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/21/iran-war-injury-toll-us-service-members-pentagon-trump/</guid>
             <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
@@ -42,6 +42,20 @@
             <link>https://time.com/article/2026/07/21/postpartum-psychosis-is-rising-we-are-not-ready-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/21/postpartum-psychosis-is-rising-we-are-not-ready-/</guid>
             <dc:creator><![CDATA[Dr. Uruj Kamal Haider]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Lettuce Safe to Eat? The Latest on the Cyclosporiasis Outbreak]]></title>
+            <link>https://time.com/article/2026/07/21/is-lettuce-safe-to-eat-cyclosporiasis-diarrhea-outbreak/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/21/is-lettuce-safe-to-eat-cyclosporiasis-diarrhea-outbreak/</guid>
+            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Summer Camps Are Adapting to Climate Change]]></title>
+            <link>https://time.com/article/2026/07/21/summer-camps-adapting-climate-change/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/21/summer-camps-adapting-climate-change/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3324,20 +3338,6 @@
             <link>https://time.com/article/2026/06/03/ai-global-water-resources-un-report/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/03/ai-global-water-resources-un-report/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[To Quit Smoking, I Started Hiking]]></title>
-            <link>https://time.com/article/2026/06/03/to-quit-smoking-i-started-hiking/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/03/to-quit-smoking-i-started-hiking/</guid>
-            <dc:creator><![CDATA[Kimberly McCreight]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Get a Mental-Health Boost from 15 Minutes Outdoors]]></title>
-            <link>https://time.com/article/2026/06/03/nature-mental-health-boost/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/03/nature-mental-health-boost/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
