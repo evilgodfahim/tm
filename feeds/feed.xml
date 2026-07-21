@@ -4,10 +4,25 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 10:57:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 12:22:12 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 10:57:31 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 12:22:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why Rent Keeps Rising Because of Wall Street]]></title>
+            <description><![CDATA[“Apartment buildings are bought, sold, and borrowed against on the expectation that rents will keep rising,” writes Anisha Steephen.]]></description>
+            <link>https://time.com/article/2026/07/21/why-rent-keeps-rising-because-of-wall-street/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/21/why-rent-keeps-rising-because-of-wall-street/</guid>
+            <dc:creator><![CDATA[Anisha Steephen]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[6 Dementia Risk Factors You Can Change]]></title>
+            <link>https://time.com/article/2026/07/21/dementia-risk-factors-you-can-change/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/21/dementia-risk-factors-you-can-change/</guid>
+            <dc:creator><![CDATA[Kathleen Felton]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump, Rubio and a Zombie State In Venezuela]]></title>
             <link>https://time.com/article/2026/07/20/trump-rubio-rodriguez-earthquake-venezuela/</link>
@@ -99,6 +114,7 @@
             <title><![CDATA[A Frustratingly Bland World Cup Halftime Show]]></title>
             <link>https://time.com/article/2026/07/19/world-cup-halftime-show-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/19/world-cup-halftime-show-review/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -644,10 +660,8 @@
         </item>
         <item>
             <title><![CDATA[How Livestreamed Child Abuse Is Challenging How We Think About Online Privacy]]></title>
-            <description><![CDATA[Millions of children are exploited in private video calls, exposing gaps in how platforms detect abuse and protect their youngest users.]]></description>
             <link>https://time.com/article/2026/07/13/how-livestreamed-child-abuse-is-challenging-how-we-think-about-online-privacy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/13/how-livestreamed-child-abuse-is-challenging-how-we-think-about-online-privacy/</guid>
-            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3322,19 +3336,6 @@
             <link>https://time.com/article/2026/06/03/trump-vance-rubio-2028-presidential-election/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/03/trump-vance-rubio-2028-presidential-election/</guid>
             <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Clean Your House Like an Oncologist]]></title>
-            <link>https://time.com/article/2026/06/03/what-oncologists-do-at-home-to-reduce-cancer-risk-chemicals/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/03/what-oncologists-do-at-home-to-reduce-cancer-risk-chemicals/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protests Erupt as U.K. Police Face Criticism Over Handcuffed Student’s Murder]]></title>
-            <link>https://time.com/article/2026/06/03/uk-violent-protests-student-murder-police-response-sikh-community-fearful/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/03/uk-violent-protests-student-murder-police-response-sikh-community-fearful/</guid>
             <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
