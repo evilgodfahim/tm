@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 18:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 20:14:41 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 18:10:42 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 20:14:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why Rent Keeps Rising Because of Wall Street]]></title>
@@ -31,10 +31,8 @@
         </item>
         <item>
             <title><![CDATA[Nearly 100 U.S. Troops Injured in Two Weeks Since Iran War Resumed]]></title>
-            <description><![CDATA["Every second Trump prolongs his war in Iran is another second our service members remain in danger," said one Democratic lawmaker.]]></description>
             <link>https://time.com/article/2026/07/21/iran-war-injury-toll-us-service-members-pentagon-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/21/iran-war-injury-toll-us-service-members-pentagon-trump/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -46,6 +44,7 @@
         </item>
         <item>
             <title><![CDATA[Is Lettuce Safe to Eat? The Latest on the Cyclosporiasis Outbreak]]></title>
+            <description><![CDATA[The FDA backpedaled on a positive Cyclospora test result, but the agency says iceberg lettuce remains a suspect.]]></description>
             <link>https://time.com/article/2026/07/21/is-lettuce-safe-to-eat-cyclosporiasis-diarrhea-outbreak/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/21/is-lettuce-safe-to-eat-cyclosporiasis-diarrhea-outbreak/</guid>
             <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
@@ -56,6 +55,26 @@
             <link>https://time.com/article/2026/07/21/summer-camps-adapting-climate-change/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/21/summer-camps-adapting-climate-change/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Toxic Gases Keep Rescue Teams From Saving 13 Workers Trapped by Tunnel Explosion in India]]></title>
+            <link>https://time.com/article/2026/07/21/toxic-gases-keep-rescue-teams-from-saving-13-trapped-in-tunnel-in-india/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/21/toxic-gases-keep-rescue-teams-from-saving-13-trapped-in-tunnel-in-india/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thousands of Non-Citizens Registered to Vote in New Jersey Due to Software Issue]]></title>
+            <link>https://time.com/article/2026/07/21/new-jersey-non-citizen-voting-registration-error/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/21/new-jersey-non-citizen-voting-registration-error/</guid>
+            <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Extreme Heat Has Impacted the Tour de France]]></title>
+            <link>https://time.com/article/2026/07/21/europe-extreme-heat-tour-de-france/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/21/europe-extreme-heat-tour-de-france/</guid>
+            <dc:creator><![CDATA[George Timms]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -704,6 +723,7 @@
             <title><![CDATA[How Livestreamed Child Abuse Is Challenging How We Think About Online Privacy]]></title>
             <link>https://time.com/article/2026/07/13/how-livestreamed-child-abuse-is-challenging-how-we-think-about-online-privacy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/13/how-livestreamed-child-abuse-is-challenging-how-we-think-about-online-privacy/</guid>
+            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3318,26 +3338,6 @@
             <title><![CDATA[How the Trump Administration Plans to Politicize Federal Grants]]></title>
             <link>https://time.com/article/2026/06/03/federal-grants-omb-proposal-trump-review-anti-american/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/03/federal-grants-omb-proposal-trump-review-anti-american/</guid>
-            <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Poland Has Been Left ‘Dazed and Confused’ by the Trump Administration]]></title>
-            <link>https://time.com/article/2026/06/03/poland-left-dazed-and-confused-by-trump-administration/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/03/poland-left-dazed-and-confused-by-trump-administration/</guid>
-            <dc:creator><![CDATA[Thomas Nagorski]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Says Iran Has Agreed to Not Have a Nuclear Weapon as Gulf Hostilities Flare]]></title>
-            <link>https://time.com/article/2026/06/03/trump-iran-nuclear-weapon-update-fresh-strikes-gulf-nations-hostilities/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/03/trump-iran-nuclear-weapon-update-fresh-strikes-gulf-nations-hostilities/</guid>
-            <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI Could Use as Much Water as 1.3 Billion People by 2030]]></title>
-            <link>https://time.com/article/2026/06/03/ai-global-water-resources-un-report/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/03/ai-global-water-resources-un-report/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
