@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Jul 2026 14:57:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 16:17:57 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Jul 2026 14:57:32 GMT</pubDate>
+        <pubDate>Wed, 22 Jul 2026 16:17:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Community Backlash to AI Data Centers Is Growing]]></title>
@@ -47,6 +47,13 @@
             <link>https://time.com/article/2026/07/22/cyclospora-outbreak-food-safety-experts-lettuce/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/22/cyclospora-outbreak-food-safety-experts-lettuce/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Mushroom Coffee Healthy? Here's What to Know]]></title>
+            <link>https://time.com/article/2026/07/22/what-is-mushroom-coffee-is-it-healthy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/22/what-is-mushroom-coffee-is-it-healthy/</guid>
+            <dc:creator><![CDATA[Stacey Colino]]></dc:creator>
             <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -174,7 +181,7 @@
             <pubDate>Mon, 20 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Seventeen U.S. Service Members Killed in the Iran War]]></title>
+            <title><![CDATA[The Eighteen U.S. Service Members Killed in the Iran War]]></title>
             <link>https://time.com/article/2026/07/20/us-service-members-killed-wounded-iran-war-casualties/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/20/us-service-members-killed-wounded-iran-war-casualties/</guid>
             <pubDate>Mon, 20 Jul 2026 12:00:00 GMT</pubDate>
@@ -3331,13 +3338,6 @@
             <link>https://time.com/article/2026/06/04/michael-becka-essay/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/04/michael-becka-essay/</guid>
             <dc:creator><![CDATA[Michael Becka]]></dc:creator>
-            <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[These Strange A.I. Videos Boosted Spencer Pratt's Campaign—and May Be the Future of Politics]]></title>
-            <link>https://time.com/article/2026/06/04/-these-strange-a-i-videos-boosted-spencer-pratt-s-campaign-and-may-be-the-future-of-politics-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/04/-these-strange-a-i-videos-boosted-spencer-pratt-s-campaign-and-may-be-the-future-of-politics-/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
