@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Jul 2026 20:07:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 21:58:18 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Jul 2026 20:07:28 GMT</pubDate>
+        <pubDate>Wed, 22 Jul 2026 21:58:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Community Backlash to AI Data Centers Is Growing]]></title>
@@ -66,7 +66,6 @@
             <title><![CDATA[Angry Mobs Are Attacking Health Workers in Congo. It Will Only Make the Ebola Outbreak Worse]]></title>
             <link>https://time.com/article/2026/07/22/angry-mobs-are-attacking-health-workers-in-congo-it-will-only-make-the-ebola-outbreak-worse/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/22/angry-mobs-are-attacking-health-workers-in-congo-it-will-only-make-the-ebola-outbreak-worse/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +73,25 @@
             <link>https://time.com/article/2026/07/22/india-cockroach-janta-party-protest-movement/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/22/india-cockroach-janta-party-protest-movement/</guid>
             <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Astronomers Discover the First Known Moon Outside our Solar System]]></title>
+            <link>https://time.com/article/2026/07/22/astronomers-discover-exomoon/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/22/astronomers-discover-exomoon/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[House Passes $1.15 Trillion Defense Spending Bill]]></title>
+            <link>https://time.com/article/2026/07/22/house-annual-defense-spending-bill-save-america-act-iran-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/22/house-annual-defense-spending-bill-save-america-act-iran-war/</guid>
+            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About Andy Biggs, the Trump-Backed Republican in Arizona’s Governor Race]]></title>
+            <link>https://time.com/article/2026/07/22/what-to-know-about-andy-biggs-the-trump-backed-republican-in-arizonas-governor-race/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/22/what-to-know-about-andy-biggs-the-trump-backed-republican-in-arizonas-governor-race/</guid>
             <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -114,6 +132,7 @@
             <title><![CDATA[Is Lettuce Safe to Eat? The Latest on the Cyclosporiasis Outbreak]]></title>
             <link>https://time.com/article/2026/07/21/is-lettuce-safe-to-eat-cyclosporiasis-diarrhea-outbreak/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/21/is-lettuce-safe-to-eat-cyclosporiasis-diarrhea-outbreak/</guid>
+            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3318,25 +3337,6 @@
             <link>https://time.com/article/2026/06/05/california-primary-election-governor-house-tech-campaign-spending/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/05/california-primary-election-governor-house-tech-campaign-spending/</guid>
             <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About the Jared Kushner–Backed Luxury Resort Drawing Protests in Albania]]></title>
-            <link>https://time.com/article/2026/06/05/jared-kushner-backed-luxury-resort-albania-protests/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/05/jared-kushner-backed-luxury-resort-albania-protests/</guid>
-            <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[House Votes to Restrain Trump’s Iran War Powers in Bipartisan Rebuke]]></title>
-            <link>https://time.com/article/2026/06/04/trump-iran-war-powers-resolution-house-republicans/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/04/trump-iran-war-powers-resolution-house-republicans/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
-            <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Makes It Easier to Fire Thousands of Federal Workers]]></title>
-            <link>https://time.com/article/2026/06/04/trump-executive-order-schedule-policy-career-classification-fire-federal-workers-at-will/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/04/trump-executive-order-schedule-policy-career-classification-fire-federal-workers-at-will/</guid>
-            <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
