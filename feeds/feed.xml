@@ -4,13 +4,40 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jul 2026 11:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 13:26:24 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Jul 2026 11:01:18 GMT</pubDate>
+        <pubDate>Thu, 23 Jul 2026 13:26:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[The Robots Cometh]]></title>
+            <description><![CDATA[The humanoid revolution is coming—and the Chinese firm Unitree is leading the charge.]]></description>
+            <link>https://time.com/article/2026/07/23/unitree-china-human-robotics/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/23/unitree-china-human-robotics/</guid>
+            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
+            <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Debate Moment Captures Democrats' Troy Jackson Jitters]]></title>
+            <link>https://time.com/article/2026/07/23/the-moment-that-explains-why-troy-jackson-has-democrats-spooked/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/23/the-moment-that-explains-why-troy-jackson-has-democrats-spooked/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. Reaches Landmark Nuclear Deal With Saudi Arabia]]></title>
+            <link>https://time.com/article/2026/07/23/us-saudi-arabia-nuclear-deal-explainer/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/23/us-saudi-arabia-nuclear-deal-explainer/</guid>
+            <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 Foods That Food Safety Experts Never Eat]]></title>
+            <link>https://time.com/article/2026/07/23/what-food-safety-experts-never-eat/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/23/what-food-safety-experts-never-eat/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Community Backlash to AI Data Centers Is Growing]]></title>
-            <description><![CDATA[If there’s one thing most Americans agree on, it’s that they hate data centers.]]></description>
             <link>https://time.com/article/2026/07/22/community-backlash-ai-data-centers/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/22/community-backlash-ai-data-centers/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
@@ -3310,33 +3337,6 @@
             <title><![CDATA[Kennedy Center Starts Removing Trump References]]></title>
             <link>https://time.com/article/2026/06/05/kennedy-center-staff-remove-trump-name-court-ruling/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/05/kennedy-center-staff-remove-trump-name-court-ruling/</guid>
-            <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI Is Already Shaping Who We Are]]></title>
-            <link>https://time.com/article/2026/06/05/ai-is-already-shaping-who-we-are/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/05/ai-is-already-shaping-who-we-are/</guid>
-            <dc:creator><![CDATA[Laura Manley]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet the Republicans Who Voted to Block Trump’s White House Ballroom]]></title>
-            <link>https://time.com/article/2026/06/05/republicans-vote-to-block-trump-white-house-ballroom/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/05/republicans-vote-to-block-trump-white-house-ballroom/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does The Future of Climate Resilience Lie Beneath Our Feet?]]></title>
-            <link>https://time.com/article/2026/06/05/does-the-future-of-climate-resilience-lie-beneath-our-feet/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/05/does-the-future-of-climate-resilience-lie-beneath-our-feet/</guid>
-            <dc:creator><![CDATA[Susan Gardner]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[British Government Pushes Back as Trump Administration Criticizes U.K. Policing]]></title>
-            <link>https://time.com/article/2026/06/05/uk-government-starmer-us-state-department-two-tiered-policing-nowak-murder/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/05/uk-government-starmer-us-state-department-two-tiered-policing-nowak-murder/</guid>
             <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
