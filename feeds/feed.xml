@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jul 2026 19:00:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 20:51:47 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Jul 2026 19:00:59 GMT</pubDate>
+        <pubDate>Thu, 23 Jul 2026 20:51:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Robots Cometh]]></title>
@@ -54,6 +54,26 @@
             <link>https://time.com/article/2026/07/23/mary-steenburgen-the-dink-pickleball-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/23/mary-steenburgen-the-dink-pickleball-interview/</guid>
             <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
+            <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Would Trump's Plan to Impose Tariffs on Generic Drugs Do to Prices?]]></title>
+            <link>https://time.com/article/2026/07/23/trump-generic-drug-tariff-prices-availability-impact/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/23/trump-generic-drug-tariff-prices-availability-impact/</guid>
+            <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An FDA Committee Just Voted in Favor of Peptides—Despite the Agency's Opposition]]></title>
+            <link>https://time.com/article/2026/07/23/fda-committee-peptides/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/23/fda-committee-peptides/</guid>
+            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
+            <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Emotional Ending of Ransom Canyon Season 2]]></title>
+            <link>https://time.com/article/2026/07/23/ransom-canyon-season-2-ending/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/23/ransom-canyon-season-2-ending/</guid>
+            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
             <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3315,28 +3335,6 @@
             <link>https://time.com/article/2026/06/06/why-ai-agents-are-the-next-great-technological-transformation/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/06/why-ai-agents-are-the-next-great-technological-transformation/</guid>
             <dc:creator><![CDATA[Cristiano Amon]]></dc:creator>
-            <pubDate>Sat, 06 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pope Leo Arrives in Spain for First Major European Trip as Pontiff. Here's What to Know]]></title>
-            <link>https://time.com/article/2026/06/06/pope-leo-spain-trip-schedule-francis-legacy-migrants-war-political-backdrop/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/06/pope-leo-spain-trip-schedule-francis-legacy-migrants-war-political-backdrop/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
-            <pubDate>Sat, 06 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Do Climate Disasters Fuel Anti-Establishment Politicians Like Spencer Pratt?]]></title>
-            <link>https://time.com/article/2026/06/06/spencer-pratt-anti-establishment-climate-politics/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/06/spencer-pratt-anti-establishment-climate-politics/</guid>
-            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
-            <pubDate>Sat, 06 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hegseth Uses D-Day Anniversary Speech to Attack European Immigration Policies]]></title>
-            <description><![CDATA[Hegseth used the traditionally solemn occasion to attack European leaders on immigration.]]></description>
-            <link>https://time.com/article/2026/06/06/hegseth-d-day-speech-immigration/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/06/hegseth-d-day-speech-immigration/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sat, 06 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
