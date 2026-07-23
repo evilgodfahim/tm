@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Jul 2026 23:01:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 01:57:07 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Jul 2026 23:01:40 GMT</pubDate>
+        <pubDate>Thu, 23 Jul 2026 01:57:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Community Backlash to AI Data Centers Is Growing]]></title>
@@ -99,6 +99,13 @@
             <link>https://time.com/article/2026/07/22/what-happens-when-you-rupture-a-testicle-joshua-kuroda-grauer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/22/what-happens-when-you-rupture-a-testicle-joshua-kuroda-grauer/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The June Heat Wave Cost The U.K. Economy Over $1.5 Billion]]></title>
+            <link>https://time.com/article/2026/07/22/june-heatwave-uk-economy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/22/june-heatwave-uk-economy/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3330,13 +3337,6 @@
             <title><![CDATA[British Government Pushes Back as Trump Administration Criticizes U.K. Policing]]></title>
             <link>https://time.com/article/2026/06/05/uk-government-starmer-us-state-department-two-tiered-policing-nowak-murder/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/05/uk-government-starmer-us-state-department-two-tiered-policing-nowak-murder/</guid>
-            <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Announces ‘Rally to End All Rallies’ After Artists Pull Out of 250th Anniversary Concerts]]></title>
-            <link>https://time.com/article/2026/06/05/trump-rally-america-250th-anniversary-performers/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/05/trump-rally-america-250th-anniversary-performers/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
