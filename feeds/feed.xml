@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Jul 2026 14:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 16:36:01 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Jul 2026 14:46:07 GMT</pubDate>
+        <pubDate>Fri, 24 Jul 2026 16:36:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump’s New Tariffs on Over 80 Countries, Explained]]></title>
@@ -38,6 +38,20 @@
             <title><![CDATA[Meet Me in the Notes App]]></title>
             <link>https://time.com/article/2026/07/24/meet-me-in-the-notes-app/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/24/meet-me-in-the-notes-app/</guid>
+            <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Christopher Nolan on the End of 'The Odyssey']]></title>
+            <link>https://time.com/article/2026/07/24/christopher-nolan-explains-the-end-of-the-odyssey/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/24/christopher-nolan-explains-the-end-of-the-odyssey/</guid>
+            <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What We Should Learn From AI's 'Warning Shot']]></title>
+            <link>https://time.com/article/2026/07/24/openai-hugging-face-attack/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/24/openai-hugging-face-attack/</guid>
+            <dc:creator><![CDATA[Harry Booth]]></dc:creator>
             <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3319,19 +3333,6 @@
             <title><![CDATA[Trump Demands Israel and Iran 'Stop Shooting’ as World Leaders Urge Restraint]]></title>
             <link>https://time.com/article/2026/06/08/trump-demands-israel-iran-halt-fire-world-leaders-concern-renewed-strikes/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/08/trump-demands-israel-iran-halt-fire-world-leaders-concern-renewed-strikes/</guid>
-            <pubDate>Mon, 08 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Storms Out of NBC Interview After Being Challenged on False Claims]]></title>
-            <link>https://time.com/article/2026/06/08/trump-storms-out-of-nbc-interview-after-being-challenged-on-false-claims/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/08/trump-storms-out-of-nbc-interview-after-being-challenged-on-false-claims/</guid>
-            <pubDate>Mon, 08 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stonewall’s Legacy Can’t Be Taken for Granted]]></title>
-            <link>https://time.com/article/2026/06/08/stonewall-s-legacy-can-t-be-taken-for-granted/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/08/stonewall-s-legacy-can-t-be-taken-for-granted/</guid>
-            <dc:creator><![CDATA[Diana Rodriguez]]></dc:creator>
             <pubDate>Mon, 08 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
