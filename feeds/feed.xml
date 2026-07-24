@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Jul 2026 18:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 20:11:41 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Jul 2026 18:11:56 GMT</pubDate>
+        <pubDate>Fri, 24 Jul 2026 20:11:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump’s New Tariffs on Over 80 Countries, Explained]]></title>
@@ -52,6 +52,19 @@
             <link>https://time.com/article/2026/07/24/openai-hugging-face-attack/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/24/openai-hugging-face-attack/</guid>
             <dc:creator><![CDATA[Harry Booth]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the World Is Reacting to Trump's 'Forced Labor' Tariffs]]></title>
+            <link>https://time.com/article/2026/07/24/trump-forced-labor-tariffs-world-reaction/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/24/trump-forced-labor-tariffs-world-reaction/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Is Joe Manchin’s New Independent Leadership Council?]]></title>
+            <link>https://time.com/article/2026/07/24/joe-manchin-independent-leadership-council/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/24/joe-manchin-independent-leadership-council/</guid>
             <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3321,18 +3334,6 @@
             <link>https://time.com/article/2026/06/08/top-democrat-pentagon-adam-smith-democrats-win-house/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/08/top-democrat-pentagon-adam-smith-democrats-win-house/</guid>
             <dc:creator><![CDATA[Nik Popli]]></dc:creator>
-            <pubDate>Mon, 08 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Democrats’ Platner Problem]]></title>
-            <link>https://time.com/article/2026/06/08/the-democrats-platner-problem/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/08/the-democrats-platner-problem/</guid>
-            <pubDate>Mon, 08 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Demands Israel and Iran 'Stop Shooting’ as World Leaders Urge Restraint]]></title>
-            <link>https://time.com/article/2026/06/08/trump-demands-israel-iran-halt-fire-world-leaders-concern-renewed-strikes/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/08/trump-demands-israel-iran-halt-fire-world-leaders-concern-renewed-strikes/</guid>
             <pubDate>Mon, 08 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
