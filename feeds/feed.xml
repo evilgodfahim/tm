@@ -4,16 +4,23 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 21:51:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 22:51:41 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Jul 2026 21:51:21 GMT</pubDate>
+        <pubDate>Sun, 26 Jul 2026 22:51:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Berlin Pride Attack Suspect Dies in Police Confrontation]]></title>
-            <description><![CDATA[Berlin Police shot and killed the suspect who allegedly rammed his vehicle into a crowd at Berlin Pride on Saturday night, leaving one dead and dozens injured.]]></description>
             <link>https://time.com/article/2026/07/26/berlin-pride-attack-suspect-dies-in-police-confrontation-after-daylong-manhunt/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/26/berlin-pride-attack-suspect-dies-in-police-confrontation-after-daylong-manhunt/</guid>
             <dc:creator><![CDATA[T. Michelle Murphy]]></dc:creator>
+            <pubDate>Sun, 26 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wildfire Disruptions to the Tour de France Show How Climate Change Is Shaping Sports]]></title>
+            <description><![CDATA[Tadej Pogačar's fifth Tour de France victory came after last-minute course changes due to wildfires, underscoring how climate change is influencing major sporting events.]]></description>
+            <link>https://time.com/article/2026/07/26/wildfire-disruptions-to-the-tour-de-france-show-how-climate-change-is-shaping-sports/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/26/wildfire-disruptions-to-the-tour-de-france-show-how-climate-change-is-shaping-sports/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Sun, 26 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -33,7 +40,6 @@
             <title><![CDATA[How NATO Is Quietly Reinventing Itself for Trump]]></title>
             <link>https://time.com/article/2026/07/24/trump-mark-rutte-europe-nato-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/24/trump-mark-rutte-europe-nato-/</guid>
-            <dc:creator><![CDATA[Mark Webber]]></dc:creator>
             <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3325,13 +3331,6 @@
             <title><![CDATA[Graham Platner Wins Maine Primary Despite Multiple Scandals]]></title>
             <link>https://time.com/article/2026/06/09/maine-democratic-senate-primary-graham-platner-scandals-susan-collins/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/09/maine-democratic-senate-primary-graham-platner-scandals-susan-collins/</guid>
-            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About Bill Gates' Ties to Jeffrey Epstein]]></title>
-            <link>https://time.com/article/2026/06/09/bill-gates-jeffrey-epstein-house-oversight-committee-congress/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/09/bill-gates-jeffrey-epstein-house-oversight-committee-congress/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
