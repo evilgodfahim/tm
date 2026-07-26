@@ -4,15 +4,22 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 18:58:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 20:08:00 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Jul 2026 18:58:07 GMT</pubDate>
+        <pubDate>Sun, 26 Jul 2026 20:08:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Berlin Pride Attack Suspect Dies in Police Confrontation]]></title>
+            <description><![CDATA[Berlin Police shot and killed the suspect who allegedly rammed his vehicle into a crowd at Berlin Pride on Saturday night, leaving one dead and dozens injured.]]></description>
+            <link>https://time.com/article/2026/07/26/berlin-pride-attack-suspect-dies-in-police-confrontation-after-daylong-manhunt/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/26/berlin-pride-attack-suspect-dies-in-police-confrontation-after-daylong-manhunt/</guid>
+            <dc:creator><![CDATA[T. Michelle Murphy]]></dc:creator>
+            <pubDate>Sun, 26 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[‘Cockroach Movement’ Forces Out India’s Education Minister]]></title>
             <link>https://time.com/article/2026/07/25/cockroach-movement-forces-out-india-education-minister/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/25/cockroach-movement-forces-out-india-education-minister/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -89,7 +96,6 @@
         </item>
         <item>
             <title><![CDATA[The Robots Cometh]]></title>
-            <description><![CDATA[The humanoid revolution is coming—and the Chinese firm Unitree is leading the charge.]]></description>
             <link>https://time.com/article/2026/07/23/unitree-china-human-robotics/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/23/unitree-china-human-robotics/</guid>
             <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
@@ -3326,13 +3332,6 @@
             <link>https://time.com/article/2026/06/09/bill-gates-jeffrey-epstein-house-oversight-committee-congress/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/09/bill-gates-jeffrey-epstein-house-oversight-committee-congress/</guid>
             <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump's Name Removed From Kennedy Center Building]]></title>
-            <link>https://time.com/article/2026/06/09/trump-name-removed-kennedy-center-building/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/09/trump-name-removed-kennedy-center-building/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
