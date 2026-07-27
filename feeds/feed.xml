@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jul 2026 16:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 18:18:27 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Jul 2026 16:08:24 GMT</pubDate>
+        <pubDate>Mon, 27 Jul 2026 18:18:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Contradiction at the Heart of Disability in America]]></title>
@@ -56,6 +56,33 @@
             <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jason Crow: From Paratrooper to Democratic Power Player]]></title>
+            <description><![CDATA[When he's not facing death threats, he's helping House Democrats recruit candidates]]></description>
+            <link>https://time.com/article/2026/07/27/jason-crow-power-player/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/27/jason-crow-power-player/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Tensions Are Mounting Between Trump and Republican Senate Leader Thune]]></title>
+            <link>https://time.com/article/2026/07/27/trump-thune-senate-republicans-save-america-act/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/27/trump-thune-senate-republicans-save-america-act/</guid>
+            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About the Deadly Wildfires in Western Europe]]></title>
+            <link>https://time.com/article/2026/07/27/france-spain-wildfire-heat-wave-europe-climate-change/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/27/france-spain-wildfire-heat-wave-europe-climate-change/</guid>
+            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The U.S. Is Now At Its Worst Level of Wildfire Preparedness]]></title>
+            <link>https://time.com/article/2026/07/27/us-wildfire-preparedness-level-5-what-that-means/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/27/us-wildfire-preparedness-level-5-what-that-means/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Berlin Pride Attack Suspect Dies in Police Confrontation]]></title>
             <link>https://time.com/article/2026/07/26/berlin-pride-attack-suspect-dies-in-police-confrontation-after-daylong-manhunt/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/26/berlin-pride-attack-suspect-dies-in-police-confrontation-after-daylong-manhunt/</guid>
@@ -63,7 +90,6 @@
         </item>
         <item>
             <title><![CDATA[Wildfire Disruptions to the Tour de France Show How Climate Change Is Shaping Sports]]></title>
-            <description><![CDATA[Tadej Pogačar's fifth Tour de France victory came after last-minute course changes due to wildfires, underscoring how climate change is influencing major sporting events.]]></description>
             <link>https://time.com/article/2026/07/26/wildfire-disruptions-to-the-tour-de-france-show-how-climate-change-is-shaping-sports/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/26/wildfire-disruptions-to-the-tour-de-france-show-how-climate-change-is-shaping-sports/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
@@ -210,6 +236,7 @@
             <title><![CDATA[An FDA Committee Just Voted in Favor of Peptides—Despite the Agency's Opposition]]></title>
             <link>https://time.com/article/2026/07/23/fda-committee-peptides/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/23/fda-committee-peptides/</guid>
+            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
             <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3306,31 +3333,6 @@
             <title><![CDATA[America's Top WorkTech Companies 2026]]></title>
             <link>https://time.com/article/2026/06/09/america-top-worktech-companies-2026/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/09/america-top-worktech-companies-2026/</guid>
-            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Methodology for America's Top WorkTech Companies of 2026]]></title>
-            <link>https://time.com/article/2026/06/09/america-top-worktech-companies-methodology/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/09/america-top-worktech-companies-methodology/</guid>
-            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World's Top GreenTech Companies 2026]]></title>
-            <link>https://time.com/article/2026/06/09/world-top-greentech-companies-2026/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/09/world-top-greentech-companies-2026/</guid>
-            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why More People Should Do Pelvic Floor Exercises]]></title>
-            <link>https://time.com/article/2026/06/09/who-should-do-pelvic-floor-exercises/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/09/who-should-do-pelvic-floor-exercises/</guid>
-            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Launches Strikes Against Iran After Trump Says It Shot Down Army Helicopter]]></title>
-            <link>https://time.com/article/2026/06/09/us-army-helicopter-crashes-near-strait-of-hormuz-crew-drone-rescue/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/09/us-army-helicopter-crashes-near-strait-of-hormuz-crew-drone-rescue/</guid>
-            <dc:creator><![CDATA[Callum Sutherland, Olivia-Anne Cleary and Annika Neklason]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
