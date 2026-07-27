@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jul 2026 02:03:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 06:19:00 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Jul 2026 02:03:51 GMT</pubDate>
+        <pubDate>Mon, 27 Jul 2026 06:19:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Berlin Pride Attack Suspect Dies in Police Confrontation]]></title>
@@ -269,6 +269,13 @@
             <link>https://time.com/article/2026/07/22/june-heatwave-uk-economy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/22/june-heatwave-uk-economy/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['House of the Dragon' Just Killed Off a Main Character]]></title>
+            <link>https://time.com/article/2026/07/22/house-of-the-dragon-season-3-episode-6-criston-cole-death/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/22/house-of-the-dragon-season-3-episode-6-criston-cole-death/</guid>
+            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3325,12 +3332,6 @@
             <link>https://time.com/article/2026/06/09/disclosure-day-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/09/disclosure-day-review/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Graham Platner Wins Maine Primary Despite Multiple Scandals]]></title>
-            <link>https://time.com/article/2026/06/09/maine-democratic-senate-primary-graham-platner-scandals-susan-collins/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/09/maine-democratic-senate-primary-graham-platner-scandals-susan-collins/</guid>
             <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
