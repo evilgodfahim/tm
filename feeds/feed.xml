@@ -4,15 +4,35 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jul 2026 10:33:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 13:32:59 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Jul 2026 10:33:28 GMT</pubDate>
+        <pubDate>Mon, 27 Jul 2026 13:32:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Contradiction at the Heart of Disability in America]]></title>
+            <link>https://time.com/article/2026/07/27/the-contradiction-at-the-heart-of-disability-in-america/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/27/the-contradiction-at-the-heart-of-disability-in-america/</guid>
+            <dc:creator><![CDATA[Steve Way]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ICE Reportedly Set to Ramp Up Operations Against Haitian Migrants After TPS Ruling]]></title>
+            <link>https://time.com/article/2026/07/27/haitian-immigrants-ice-operations-temporary-protected-status/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/27/haitian-immigrants-ice-operations-temporary-protected-status/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[6 Easy Ways to Move More While Working from Home]]></title>
+            <link>https://time.com/article/2026/07/27/how-to-move-more-while-working-from-home/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/27/how-to-move-more-while-working-from-home/</guid>
+            <dc:creator><![CDATA[Jennifer Heimlich]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Berlin Pride Attack Suspect Dies in Police Confrontation]]></title>
             <link>https://time.com/article/2026/07/26/berlin-pride-attack-suspect-dies-in-police-confrontation-after-daylong-manhunt/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/26/berlin-pride-attack-suspect-dies-in-police-confrontation-after-daylong-manhunt/</guid>
-            <dc:creator><![CDATA[T. Michelle Murphy]]></dc:creator>
             <pubDate>Sun, 26 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -98,6 +118,13 @@
             <link>https://time.com/article/2026/07/24/understanding-the-fraught-politics-of-powering-ai/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/24/understanding-the-fraught-politics-of-powering-ai/</guid>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Furious' Is Going to Haunt You]]></title>
+            <link>https://time.com/article/2026/07/24/furious-review-hulu/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/24/furious-review-hulu/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3305,33 +3332,6 @@
             <link>https://time.com/article/2026/06/09/climate-change-ocean-health-un-report/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/09/climate-change-ocean-health-un-report/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FDA Approves the First New Sunscreen Ingredient in 20 Years]]></title>
-            <link>https://time.com/article/2026/06/09/fda-approves-first-new-sunscreen-ingredient-Bemotrizinol/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/09/fda-approves-first-new-sunscreen-ingredient-Bemotrizinol/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Trump Keeps Exploiting America’s Legal Loopholes]]></title>
-            <link>https://time.com/article/2026/06/09/how-trump-keeps-exploiting-america-s-legal-loopholes/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/09/how-trump-keeps-exploiting-america-s-legal-loopholes/</guid>
-            <dc:creator><![CDATA[Jeffrey Sonnenfeld]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet Nithya Raman, the Progressive Democrat Who Secured the Second Spot in LA Mayor Race]]></title>
-            <link>https://time.com/article/2026/06/09/nithya-raman-progressive-democrat-la-mayor-race-karen-bass-alternative/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/09/nithya-raman-progressive-democrat-la-mayor-race-karen-bass-alternative/</guid>
-            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Disclosure Day' Is One of Spielberg's Finest Films]]></title>
-            <link>https://time.com/article/2026/06/09/disclosure-day-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/09/disclosure-day-review/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
