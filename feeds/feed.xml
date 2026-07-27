@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jul 2026 13:32:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 16:08:24 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Jul 2026 13:32:59 GMT</pubDate>
+        <pubDate>Mon, 27 Jul 2026 16:08:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Contradiction at the Heart of Disability in America]]></title>
@@ -27,6 +27,32 @@
             <link>https://time.com/article/2026/07/27/how-to-move-more-while-working-from-home/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/27/how-to-move-more-while-working-from-home/</guid>
             <dc:creator><![CDATA[Jennifer Heimlich]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Republican Lawmaker Breaks Ranks With Trump Over Saudi Arabia Nuclear Deal]]></title>
+            <link>https://time.com/article/2026/07/27/republican-senator-kennedy-breaks-ranks-trump-us-saudi-arabia-nuclear-deal/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/27/republican-senator-kennedy-breaks-ranks-trump-us-saudi-arabia-nuclear-deal/</guid>
+            <dc:creator><![CDATA[Olivia-Anne Cleary]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What We Know About the Seattle Food Festival Shooting]]></title>
+            <link>https://time.com/article/2026/07/27/seattle-shooting-food-festival-suspects-victims/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/27/seattle-shooting-food-festival-suspects-victims/</guid>
+            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chalk One Up for Ukraine]]></title>
+            <link>https://time.com/article/2026/07/27/defense-innovation-drones-ground-robot-army-ukraine/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/27/defense-innovation-drones-ground-robot-army-ukraine/</guid>
+            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[15 Habits Infectious Disease Experts Swear By]]></title>
+            <link>https://time.com/article/2026/07/27/habits-infectious-disease-doctors-avoid-getting-sick/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/27/habits-infectious-disease-doctors-avoid-getting-sick/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3305,33 +3331,6 @@
             <link>https://time.com/article/2026/06/09/us-army-helicopter-crashes-near-strait-of-hormuz-crew-drone-rescue/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/09/us-army-helicopter-crashes-near-strait-of-hormuz-crew-drone-rescue/</guid>
             <dc:creator><![CDATA[Callum Sutherland, Olivia-Anne Cleary and Annika Neklason]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Miscarriage Is Hard Enough Without the Silence]]></title>
-            <link>https://time.com/article/2026/06/09/miscarriage-is-hard-enough-without-the-silence/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/09/miscarriage-is-hard-enough-without-the-silence/</guid>
-            <dc:creator><![CDATA[Dara Kass]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I Helped Write the Refugee Act. Trump is Trampling It]]></title>
-            <link>https://time.com/article/2026/06/09/i-helped-write-the-refugee-act-trump-is-trampling-it/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/09/i-helped-write-the-refugee-act-trump-is-trampling-it/</guid>
-            <dc:creator><![CDATA[Elizabeth Holtzman]]></dc:creator>
-            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 6 Best Foods for Brain Health]]></title>
-            <link>https://time.com/article/2026/06/09/best-foods-brain-health/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/09/best-foods-brain-health/</guid>
-            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Ocean's Health Is Deteriorating on Multiple Fronts]]></title>
-            <link>https://time.com/article/2026/06/09/climate-change-ocean-health-un-report/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/09/climate-change-ocean-health-un-report/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
