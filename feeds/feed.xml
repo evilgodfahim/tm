@@ -4,15 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jul 2026 20:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 21:57:16 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Jul 2026 20:14:37 GMT</pubDate>
+        <pubDate>Mon, 27 Jul 2026 21:57:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Contradiction at the Heart of Disability in America]]></title>
             <link>https://time.com/article/2026/07/27/the-contradiction-at-the-heart-of-disability-in-america/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/27/the-contradiction-at-the-heart-of-disability-in-america/</guid>
-            <dc:creator><![CDATA[Steve Way]]></dc:creator>
             <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -56,7 +55,6 @@
         </item>
         <item>
             <title><![CDATA[Jason Crow: From Paratrooper to Democratic Power Player]]></title>
-            <description><![CDATA[When he's not facing death threats, he's helping House Democrats recruit candidates]]></description>
             <link>https://time.com/article/2026/07/27/jason-crow-power-player/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/27/jason-crow-power-player/</guid>
             <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
@@ -85,6 +83,21 @@
             <title><![CDATA[Mitch McConnell Shares New Health Update 6 Weeks After Hospitalization]]></title>
             <link>https://time.com/article/2026/07/27/mitch-mcconnell-health-update-hospitalization-senate/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/27/mitch-mcconnell-health-update-hospitalization-senate/</guid>
+            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Measles Cases in the U.S. Are at a 35-Year High]]></title>
+            <description><![CDATA[New numbers from the CDC reveal a trend that's worrying doctors.]]></description>
+            <link>https://time.com/article/2026/07/27/measles-cases-us-35-year-high/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/27/measles-cases-us-35-year-high/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Ending of Agent Kim Reactivated]]></title>
+            <link>https://time.com/article/2026/07/27/agent-kim-reactivated-ending/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/27/agent-kim-reactivated-ending/</guid>
+            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
             <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3321,18 +3334,6 @@
             <link>https://time.com/article/2026/06/10/greta-lee-toy-story-5-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/10/greta-lee-toy-story-5-interview/</guid>
             <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Judge Throws Out Trump’s $100,000 H-1B Visa Fee]]></title>
-            <link>https://time.com/article/2026/06/09/h1b-visa-fee-100000-trump-immigration-judgement-lawsuit/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/09/h1b-visa-fee-100000-trump-immigration-judgement-lawsuit/</guid>
-            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Somali Referee Denied Entry to U.S. for World Cup]]></title>
-            <link>https://time.com/article/2026/06/09/fifa-world-cup-somalia-referee-entry-block-customs-border-protection/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/09/fifa-world-cup-somalia-referee-entry-block-customs-border-protection/</guid>
-            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
