@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 08:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 11:09:46 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jul 2026 08:16:37 GMT</pubDate>
+        <pubDate>Tue, 28 Jul 2026 11:09:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump Asks Supreme Court to Allow Restrictions on Mail-In Ballots Before Midterms]]></title>
+            <link>https://time.com/article/2026/07/28/trump-scotus-mail-in-ballots-order-elections/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/28/trump-scotus-mail-in-ballots-order-elections/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Contradiction at the Heart of Disability in America]]></title>
             <link>https://time.com/article/2026/07/27/the-contradiction-at-the-heart-of-disability-in-america/</link>
@@ -55,6 +62,7 @@
         </item>
         <item>
             <title><![CDATA[Jason Crow: From Paratrooper to Democratic Power Player]]></title>
+            <description><![CDATA[When he's not facing death threats, he's helping House Democrats recruit candidates]]></description>
             <link>https://time.com/article/2026/07/27/jason-crow-power-player/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/27/jason-crow-power-player/</guid>
             <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
@@ -76,7 +84,6 @@
             <title><![CDATA[The U.S. Is Now At Its Worst Level of Wildfire Preparedness]]></title>
             <link>https://time.com/article/2026/07/27/us-wildfire-preparedness-level-5-what-that-means/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/27/us-wildfire-preparedness-level-5-what-that-means/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -87,7 +94,6 @@
         </item>
         <item>
             <title><![CDATA[Measles Cases in the U.S. Are at a 35-Year High]]></title>
-            <description><![CDATA[New numbers from the CDC reveal a trend that's worrying doctors.]]></description>
             <link>https://time.com/article/2026/07/27/measles-cases-us-35-year-high/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/27/measles-cases-us-35-year-high/</guid>
             <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
@@ -3327,12 +3333,6 @@
             <link>https://time.com/article/2026/06/10/you-first-joe-goldberg/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/10/you-first-joe-goldberg/</guid>
             <dc:creator><![CDATA[Scarlett Harris]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Greta Lee]]></title>
-            <link>https://time.com/article/2026/06/10/greta-lee-toy-story-5-interview/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/10/greta-lee-toy-story-5-interview/</guid>
             <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
