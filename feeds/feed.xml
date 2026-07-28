@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 20:59:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 22:06:02 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jul 2026 20:59:51 GMT</pubDate>
+        <pubDate>Tue, 28 Jul 2026 22:06:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump Asks Supreme Court to Allow Restrictions on Mail-In Ballots Before Midterms]]></title>
@@ -18,7 +18,6 @@
             <title><![CDATA[U.S. Walks Out In Protest During France's United Nations Remarks. Here's Why]]></title>
             <link>https://time.com/article/2026/07/28/us-walks-out-protest-france-united-nations-address-europe-rift/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/28/us-walks-out-protest-france-united-nations-address-europe-rift/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -53,6 +52,14 @@
             <link>https://time.com/article/2026/07/28/spider-man-brand-new-day-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/28/spider-man-brand-new-day-review/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Pays Tribute to Lindsey Graham: ‘He Died Doing the Work He Was Born to Do’]]></title>
+            <description><![CDATA[“For more than 30 years, nothing of consequence happened in this capital without Lindsey Graham knowing about it,” the President said.]]></description>
+            <link>https://time.com/article/2026/07/28/trump-lindsey-graham-funeral/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/28/trump-lindsey-graham-funeral/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
             <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -146,7 +153,6 @@
         </item>
         <item>
             <title><![CDATA[Photos Show Destruction in France and Spain From Ferocious Wildfires]]></title>
-            <description><![CDATA[French President Emmanuel Macron has said the wildfire situation is the "toughest since the Second World War."]]></description>
             <link>https://time.com/article/2026/07/27/france-spain-europe-wildfires-destruction-photos/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/27/france-spain-europe-wildfires-destruction-photos/</guid>
             <dc:creator><![CDATA[Olivia-Anne Cleary]]></dc:creator>
@@ -3324,13 +3330,6 @@
             <title><![CDATA[Trump Threatens Further Strikes Against Iran, Vows to 'Hit Them Hard']]></title>
             <link>https://time.com/article/2026/06/10/trump-warns-iran-will-pay-the-price-after-targeting-u-s-bases-across-middle-east/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/10/trump-warns-iran-will-pay-the-price-after-targeting-u-s-bases-across-middle-east/</guid>
-            <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Say These 3 Words to Instantly Defuse Your Rage]]></title>
-            <link>https://time.com/article/2026/06/10/affect-labeling-rage-anger-emotional-regulation/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/10/affect-labeling-rage-anger-emotional-regulation/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
