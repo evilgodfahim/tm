@@ -4,14 +4,35 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 13:42:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 15:58:43 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jul 2026 13:42:22 GMT</pubDate>
+        <pubDate>Tue, 28 Jul 2026 15:58:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump Asks Supreme Court to Allow Restrictions on Mail-In Ballots Before Midterms]]></title>
             <link>https://time.com/article/2026/07/28/trump-scotus-mail-in-ballots-order-elections/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/28/trump-scotus-mail-in-ballots-order-elections/</guid>
+            <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. Walks Out In Protest During France's United Nations Remarks. Here's Why]]></title>
+            <link>https://time.com/article/2026/07/28/us-walks-out-protest-france-united-nations-address-europe-rift/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/28/us-walks-out-protest-france-united-nations-address-europe-rift/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can't Sleep? Trying Getting Out of Bed]]></title>
+            <link>https://time.com/article/2026/07/28/what-to-do-when-you-cant-sleep/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/28/what-to-do-when-you-cant-sleep/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Biggest Fight in AI Right Now]]></title>
+            <link>https://time.com/article/2026/07/28/open-source-ai-hugging-face-openai/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/28/open-source-ai-hugging-face-openai/</guid>
+            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
             <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -63,7 +84,6 @@
             <title><![CDATA[Jason Crow: From Paratrooper to Democratic Power Player]]></title>
             <link>https://time.com/article/2026/07/27/jason-crow-power-player/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/27/jason-crow-power-player/</guid>
-            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
             <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3312,26 +3332,6 @@
             <link>https://time.com/article/2026/06/10/marjane-satrapi-remembrance/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/10/marjane-satrapi-remembrance/</guid>
             <dc:creator><![CDATA[Joobin Bekhrad]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[20 House Republicans Break Ranks to Join Democrats in Passing Pro-Union Bill]]></title>
-            <link>https://time.com/article/2026/06/10/20-house-republicans-break-ranks-pass-democratic-led-labor-bill/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/10/20-house-republicans-break-ranks-pass-democratic-led-labor-bill/</guid>
-            <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Dramatic Ending of Romance Series 'Every Year After']]></title>
-            <link>https://time.com/article/2026/06/10/every-year-after-finale/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/10/every-year-after-finale/</guid>
-            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The U.S. Needs a Commission of Inquiry into State Capture]]></title>
-            <link>https://time.com/article/2026/06/10/the-u-s-needs-a-commission-of-inquiry-into-state-capture/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/10/the-u-s-needs-a-commission-of-inquiry-into-state-capture/</guid>
-            <dc:creator><![CDATA[Lucy Lang]]></dc:creator>
             <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
