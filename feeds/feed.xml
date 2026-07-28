@@ -4,15 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 11:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 13:42:22 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jul 2026 11:09:46 GMT</pubDate>
+        <pubDate>Tue, 28 Jul 2026 13:42:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump Asks Supreme Court to Allow Restrictions on Mail-In Ballots Before Midterms]]></title>
             <link>https://time.com/article/2026/07/28/trump-scotus-mail-in-ballots-order-elections/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/28/trump-scotus-mail-in-ballots-order-elections/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -62,7 +61,6 @@
         </item>
         <item>
             <title><![CDATA[Jason Crow: From Paratrooper to Democratic Power Player]]></title>
-            <description><![CDATA[When he's not facing death threats, he's helping House Democrats recruit candidates]]></description>
             <link>https://time.com/article/2026/07/27/jason-crow-power-player/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/27/jason-crow-power-player/</guid>
             <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
@@ -104,6 +102,14 @@
             <link>https://time.com/article/2026/07/27/agent-kim-reactivated-ending/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/27/agent-kim-reactivated-ending/</guid>
             <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
+            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Photos Show Destruction in France and Spain From Ferocious Wildfires]]></title>
+            <description><![CDATA[French President Emmanuel Macron has said the wildfire situation is the "toughest since the Second World War."]]></description>
+            <link>https://time.com/article/2026/07/27/france-spain-europe-wildfires-destruction-photos/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/27/france-spain-europe-wildfires-destruction-photos/</guid>
+            <dc:creator><![CDATA[Olivia-Anne Cleary]]></dc:creator>
             <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3326,13 +3332,6 @@
             <link>https://time.com/article/2026/06/10/the-u-s-needs-a-commission-of-inquiry-into-state-capture/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/10/the-u-s-needs-a-commission-of-inquiry-into-state-capture/</guid>
             <dc:creator><![CDATA[Lucy Lang]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why You's Joe Goldberg Would Be 'Horrified' By the Manosphere]]></title>
-            <link>https://time.com/article/2026/06/10/you-first-joe-goldberg/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/10/you-first-joe-goldberg/</guid>
-            <dc:creator><![CDATA[Scarlett Harris]]></dc:creator>
             <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
