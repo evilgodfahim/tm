@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 13:48:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 15:44:29 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 13:48:12 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 15:44:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How India’s Young Faced Down Modi]]></title>
-            <description><![CDATA[The young are searching for a new political grammar rooted in democracy and accountability.]]></description>
             <link>https://time.com/article/2026/07/29/india-cockroach-youth-protests-unemployment-modi/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/29/india-cockroach-youth-protests-unemployment-modi/</guid>
             <dc:creator><![CDATA[Yamini Aiyar]]></dc:creator>
@@ -21,6 +20,26 @@
             <link>https://time.com/article/2026/07/29/andy-beshear-mitch-mcconnell-resign-fitness-letter-kentucky/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/29/andy-beshear-mitch-mcconnell-resign-fitness-letter-kentucky/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fauci Pleads the Fifth at Senate Hearing on COVID]]></title>
+            <description><![CDATA[The hearing escalates Fauci's long-running clash with Republicans as they seek to revisit the disputed origins of the coronavirus and the U.S. pandemic response.]]></description>
+            <link>https://time.com/article/2026/07/29/fauci-fifth-amendment-senate-hearing-covid-rand-paul-republicans/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/29/fauci-fifth-amendment-senate-hearing-covid-rand-paul-republicans/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Stop Being So Defensive During Arguments]]></title>
+            <link>https://time.com/article/2026/07/29/how-to-stop-being-defensive-in-arguments/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/29/how-to-stop-being-defensive-in-arguments/</guid>
+            <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Hidden Cost of Stress at Work]]></title>
+            <link>https://time.com/article/2026/07/29/the-hidden-cost-of-stress-at-work/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/29/the-hidden-cost-of-stress-at-work/</guid>
             <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -39,7 +58,6 @@
             <title><![CDATA[Can't Sleep? Try Getting Out of Bed]]></title>
             <link>https://time.com/article/2026/07/28/what-to-do-when-you-cant-sleep/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/28/what-to-do-when-you-cant-sleep/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -65,14 +83,12 @@
             <title><![CDATA[Review: 'Spider-Man: Brand New Day']]></title>
             <link>https://time.com/article/2026/07/28/spider-man-brand-new-day-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/28/spider-man-brand-new-day-review/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump Pays Tribute to Lindsey Graham: ‘He Died Doing the Work He Was Born to Do’]]></title>
             <link>https://time.com/article/2026/07/28/trump-lindsey-graham-funeral/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/28/trump-lindsey-graham-funeral/</guid>
-            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
             <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3313,24 +3329,6 @@
             <link>https://time.com/article/2026/06/11/congress-event-philadelphia-250th-anniversary/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/11/congress-event-philadelphia-250th-anniversary/</guid>
             <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Justin Bieber Joins Lineup of World Cup Final Halftime Show]]></title>
-            <link>https://time.com/article/2026/06/11/fifa-world-cup-final-halftime-show-performers-lineup-schedule-how-to-watch/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/11/fifa-world-cup-final-halftime-show-performers-lineup-schedule-how-to-watch/</guid>
-            <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Social Security Trustees Say Retirement Fund Will Run Out by 2032: What to Know]]></title>
-            <link>https://time.com/article/2026/06/10/social-security-retirement-medicare-disability-fund-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/10/social-security-retirement-medicare-disability-fund-trump/</guid>
-            <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What’s In the $70 Billion Bill Funding Immigration Enforcement]]></title>
-            <link>https://time.com/article/2026/06/10/house-passes-secure-america-act-senate-reconciliation-bill-funding-immigration-enforcement-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/10/house-passes-secure-america-act-senate-reconciliation-bill-funding-immigration-enforcement-trump/</guid>
-            <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
