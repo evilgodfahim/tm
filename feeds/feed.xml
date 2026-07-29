@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 18:59:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 20:13:27 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 18:59:26 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 20:13:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How India’s Young Faced Down Modi]]></title>
@@ -62,6 +62,13 @@
             <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Breaking Down the Surprisingly Emotional Ending of Shark Thriller The Devil’s Mouth]]></title>
+            <link>https://time.com/article/2026/07/29/devils-mouth-ending/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/29/devils-mouth-ending/</guid>
+            <dc:creator><![CDATA[Isadora Wandermurem]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Trump Asks Supreme Court to Allow Restrictions on Mail-In Ballots Before Midterms]]></title>
             <link>https://time.com/article/2026/07/28/trump-scotus-mail-in-ballots-order-elections/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/28/trump-scotus-mail-in-ballots-order-elections/</guid>
@@ -114,6 +121,7 @@
             <title><![CDATA[The Iran War Exposed Africa’s Biggest Energy Weakness]]></title>
             <link>https://time.com/article/2026/07/28/the-iran-war-exposed-africa-s-biggest-energy-weakness/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/28/the-iran-war-exposed-africa-s-biggest-energy-weakness/</guid>
+            <dc:creator><![CDATA[Michael Adu Okyere]]></dc:creator>
             <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -236,6 +244,13 @@
             <title><![CDATA[‘Cockroach Movement’ Forces Out India’s Education Minister]]></title>
             <link>https://time.com/article/2026/07/25/cockroach-movement-forces-out-india-education-minister/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/25/cockroach-movement-forces-out-india-education-minister/</guid>
+            <pubDate>Sat, 25 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Octogenarian Pop Divas Show Us About a Life Well-Lived]]></title>
+            <link>https://time.com/article/2026/07/25/what-octogenarian-pop-divas-show-us-about-a-life-well-lived/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/25/what-octogenarian-pop-divas-show-us-about-a-life-well-lived/</guid>
+            <dc:creator><![CDATA[Debbie Millman]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3314,20 +3329,6 @@
             <link>https://time.com/article/2026/06/11/why-watching-sports-makes-people-happy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/11/why-watching-sports-makes-people-happy/</guid>
             <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[8 Myths About Borderline Personality Disorder]]></title>
-            <link>https://time.com/article/2026/06/11/borderline-personality-disorder-myths-facts/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/11/borderline-personality-disorder-myths-facts/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Fight Better, According to Couples Therapists]]></title>
-            <link>https://time.com/article/2026/06/11/rules-for-fighting-fair-relationship-couples-therapist-advice/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/11/rules-for-fighting-fair-relationship-couples-therapist-advice/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
