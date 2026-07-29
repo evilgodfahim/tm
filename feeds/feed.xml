@@ -4,10 +4,25 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 11:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 13:48:12 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 11:14:37 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 13:48:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How India’s Young Faced Down Modi]]></title>
+            <description><![CDATA[The young are searching for a new political grammar rooted in democracy and accountability.]]></description>
+            <link>https://time.com/article/2026/07/29/india-cockroach-youth-protests-unemployment-modi/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/29/india-cockroach-youth-protests-unemployment-modi/</guid>
+            <dc:creator><![CDATA[Yamini Aiyar]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kentucky Governor to McConnell: Prove Fitness to Serve or ‘Resign’]]></title>
+            <link>https://time.com/article/2026/07/29/andy-beshear-mitch-mcconnell-resign-fitness-letter-kentucky/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/29/andy-beshear-mitch-mcconnell-resign-fitness-letter-kentucky/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump Asks Supreme Court to Allow Restrictions on Mail-In Ballots Before Midterms]]></title>
             <link>https://time.com/article/2026/07/28/trump-scotus-mail-in-ballots-order-elections/</link>
@@ -31,7 +46,6 @@
             <title><![CDATA[The Biggest Fight in AI Right Now]]></title>
             <link>https://time.com/article/2026/07/28/open-source-ai-hugging-face-openai/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/28/open-source-ai-hugging-face-openai/</guid>
-            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
             <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -56,10 +70,15 @@
         </item>
         <item>
             <title><![CDATA[Trump Pays Tribute to Lindsey Graham: ‘He Died Doing the Work He Was Born to Do’]]></title>
-            <description><![CDATA[“For more than 30 years, nothing of consequence happened in this capital without Lindsey Graham knowing about it,” the President said.]]></description>
             <link>https://time.com/article/2026/07/28/trump-lindsey-graham-funeral/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/28/trump-lindsey-graham-funeral/</guid>
             <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Iran War Exposed Africa’s Biggest Energy Weakness]]></title>
+            <link>https://time.com/article/2026/07/28/the-iran-war-exposed-africa-s-biggest-energy-weakness/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/28/the-iran-war-exposed-africa-s-biggest-energy-weakness/</guid>
             <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -153,9 +172,9 @@
         </item>
         <item>
             <title><![CDATA[Photos Show Destruction in France and Spain From Ferocious Wildfires]]></title>
+            <description><![CDATA[French President Emmanuel Macron has said the wildfire situation is the "toughest since the Second World War."]]></description>
             <link>https://time.com/article/2026/07/27/france-spain-europe-wildfires-destruction-photos/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/27/france-spain-europe-wildfires-destruction-photos/</guid>
-            <dc:creator><![CDATA[Olivia-Anne Cleary]]></dc:creator>
             <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -210,9 +229,9 @@
         </item>
         <item>
             <title><![CDATA[Christopher Nolan on the End of 'The Odyssey']]></title>
-            <description><![CDATA[The director discusses Zendaya and Lupita Nyong'o's characters]]></description>
             <link>https://time.com/article/2026/07/24/christopher-nolan-explains-the-end-of-the-odyssey/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/24/christopher-nolan-explains-the-end-of-the-odyssey/</guid>
+            <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
             <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3311,25 +3330,6 @@
             <title><![CDATA[What’s In the $70 Billion Bill Funding Immigration Enforcement]]></title>
             <link>https://time.com/article/2026/06/10/house-passes-secure-america-act-senate-reconciliation-bill-funding-immigration-enforcement-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/10/house-passes-secure-america-act-senate-reconciliation-bill-funding-immigration-enforcement-trump/</guid>
-            <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Fight Over AI Is Really a Fight Over Who Governs]]></title>
-            <link>https://time.com/article/2026/06/10/the-fight-over-ai-is-really-a-fight-over-who-governs/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/10/the-fight-over-ai-is-really-a-fight-over-who-governs/</guid>
-            <dc:creator><![CDATA[Vilas Dhar]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Masked Men Burning Families Out of Their Homes': Belfast Protests Erupt After Knife Attack]]></title>
-            <link>https://time.com/article/2026/06/10/belfast-protests-erupt-knife-attack-violence-spreads-online-discourse-immigration/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/10/belfast-protests-erupt-knife-attack-violence-spreads-online-discourse-immigration/</guid>
-            <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Threatens Further Strikes Against Iran, Vows to 'Hit Them Hard']]></title>
-            <link>https://time.com/article/2026/06/10/trump-warns-iran-will-pay-the-price-after-targeting-u-s-bases-across-middle-east/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/10/trump-warns-iran-will-pay-the-price-after-targeting-u-s-bases-across-middle-east/</guid>
             <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
