@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 20:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 21:51:27 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 20:13:27 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 21:51:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How India’s Young Faced Down Modi]]></title>
@@ -58,7 +58,6 @@
             <title><![CDATA[Could Wildfires Overshadow Spain’s Solar Eclipse?]]></title>
             <link>https://time.com/article/2026/07/29/could-wildfires-overshadow-spain-s-solar-eclipse-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/29/could-wildfires-overshadow-spain-s-solar-eclipse-/</guid>
-            <dc:creator><![CDATA[T. Michelle Murphy and Rebecca Schneid]]></dc:creator>
             <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -66,6 +65,20 @@
             <link>https://time.com/article/2026/07/29/devils-mouth-ending/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/29/devils-mouth-ending/</guid>
             <dc:creator><![CDATA[Isadora Wandermurem]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[John Thune Isn’t Bowing to Trump’s Pressure: ‘Show Me How This Ends’]]></title>
+            <link>https://time.com/article/2026/07/29/trump-thune-senate-republicans-save-america-act/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/29/trump-thune-senate-republicans-save-america-act/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Is a Fire Cloud and How Are They Making Europe's Wildfires More Dangerous?]]></title>
+            <description><![CDATA[As firefighters in France and Spain battle to get the blazes under control, an expert breaks down the ​phenomenon of fire clouds for TIME.]]></description>
+            <link>https://time.com/article/2026/07/29/what-is-a-fire-cloud-wildfires-europe-more-dangerous/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/29/what-is-a-fire-cloud-wildfires-europe-more-dangerous/</guid>
             <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -198,6 +211,7 @@
             <title><![CDATA[The U.S. Is Now At Its Worst Level of Wildfire Preparedness]]></title>
             <link>https://time.com/article/2026/07/27/us-wildfire-preparedness-level-5-what-that-means/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/27/us-wildfire-preparedness-level-5-what-that-means/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3316,19 +3330,6 @@
             <link>https://time.com/article/2026/06/11/what-working-in-a-grocery-store-taught-me-about-american-inequality/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/11/what-working-in-a-grocery-store-taught-me-about-american-inequality/</guid>
             <dc:creator><![CDATA[Ann Larson]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pentagon Lifts Partial Lockdown After False Alarm Over ‘Air Quality']]></title>
-            <link>https://time.com/article/2026/06/11/pentagon-hazardous-materials-incident/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/11/pentagon-hazardous-materials-incident/</guid>
-            <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Watching Sports Makes People Happy]]></title>
-            <link>https://time.com/article/2026/06/11/why-watching-sports-makes-people-happy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/11/why-watching-sports-makes-people-happy/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
