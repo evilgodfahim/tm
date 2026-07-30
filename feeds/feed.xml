@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jul 2026 07:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 10:14:06 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Jul 2026 07:28:18 GMT</pubDate>
+        <pubDate>Thu, 30 Jul 2026 10:14:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why BTS Don’t Want a Grammy This Year]]></title>
+            <link>https://time.com/article/2026/07/30/bts-grammy-award-boycott-jungkook-jimin-v-rm-suga-jin-jhope-asian-pop-music/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/30/bts-grammy-award-boycott-jungkook-jimin-v-rm-suga-jin-jhope-asian-pop-music/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How India’s Young Faced Down Modi]]></title>
             <link>https://time.com/article/2026/07/29/india-cockroach-youth-protests-unemployment-modi/</link>
@@ -3323,13 +3330,6 @@
             <title><![CDATA[Top Two U.K. Defense Ministers Resign Over Military Spending Dispute With Starmer]]></title>
             <link>https://time.com/article/2026/06/11/uk-defense-minister-john-healey-resigns-military-spending-dispute-starmer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/11/uk-defense-minister-john-healey-resigns-military-spending-dispute-starmer/</guid>
-            <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Working in a Grocery Store Taught Me About American Inequality]]></title>
-            <link>https://time.com/article/2026/06/11/what-working-in-a-grocery-store-taught-me-about-american-inequality/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/11/what-working-in-a-grocery-store-taught-me-about-american-inequality/</guid>
-            <dc:creator><![CDATA[Ann Larson]]></dc:creator>
             <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
