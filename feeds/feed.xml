@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 08:36:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 11:22:07 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jul 2026 08:36:01 GMT</pubDate>
+        <pubDate>Fri, 31 Jul 2026 11:22:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why BTS Don’t Want a Grammy This Year]]></title>
@@ -54,7 +54,6 @@
             <title><![CDATA[Trump Says He Has ‘No Objection’ to Withdrawing Todd Blanche’s Nomination]]></title>
             <link>https://time.com/article/2026/07/30/trump-says-no-objection-withdrawing-todd-blanche-doj-attorney-general/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/30/trump-says-no-objection-withdrawing-todd-blanche-doj-attorney-general/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -67,6 +66,7 @@
             <title><![CDATA['Major Incident' Declared as England Wildfire Swells to Size of 210 Soccer Pitches]]></title>
             <link>https://time.com/article/2026/07/30/england-wildfire-swells-suffolk-evacuations-high-temperatures/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/30/england-wildfire-swells-suffolk-evacuations-high-temperatures/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -147,6 +147,13 @@
             <description><![CDATA[As firefighters in France and Spain battle to get the blazes under control, an expert breaks down the ​phenomenon of fire clouds for TIME.]]></description>
             <link>https://time.com/article/2026/07/29/what-is-a-fire-cloud-wildfires-europe-more-dangerous/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/29/what-is-a-fire-cloud-wildfires-europe-more-dangerous/</guid>
+            <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Bloody Series Finale of Cape Fear]]></title>
+            <link>https://time.com/article/2026/07/29/cape-fear-finale-explained/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/29/cape-fear-finale-explained/</guid>
+            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
             <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3327,13 +3334,6 @@
             <title><![CDATA[Ceasefire Deal Within Reach, U.S. and Tehran Say]]></title>
             <link>https://time.com/article/2026/06/12/trump-us-iran-peace-deal-details-timeline-conflicting-reports/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/12/trump-us-iran-peace-deal-details-timeline-conflicting-reports/</guid>
-            <pubDate>Fri, 12 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The World Cup Is Bringing Millions to the U.S. Should You Worry About Infectious Diseases?]]></title>
-            <link>https://time.com/article/2026/06/12/world-cup-infectious-diseases/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/12/world-cup-infectious-diseases/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Fri, 12 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
