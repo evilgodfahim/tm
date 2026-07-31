@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 20:54:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 21:57:43 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jul 2026 20:54:36 GMT</pubDate>
+        <pubDate>Fri, 31 Jul 2026 21:57:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why Thousands of Moroccan Migrants Crossed Into the Spanish Exclave Ceuta]]></title>
@@ -18,7 +18,6 @@
             <title><![CDATA[3 Republicans Break Ranks in Attempt to Limit Trump's Iran War Powers]]></title>
             <link>https://time.com/article/2026/07/31/republicans-break-ranks-attempt-to-limit-trump-iran-war-powers/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/31/republicans-break-ranks-attempt-to-limit-trump-iran-war-powers/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -44,6 +43,20 @@
             <link>https://time.com/article/2026/07/31/time100-creators-2026-party-photos/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/31/time100-creators-2026-party-photos/</guid>
             <dc:creator><![CDATA[Avery Stone]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Administration Amps Up Pressure On Senate To Confirm Todd Blanche As Attorney General]]></title>
+            <link>https://time.com/article/2026/07/31/trump-administration-amps-up-pressure-on-senate-to-confirm-todd-blanche-as-attorney-general/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/31/trump-administration-amps-up-pressure-on-senate-to-confirm-todd-blanche-as-attorney-general/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Strait of Hormuz Is Exposing a Blind Spot in the Energy Transition]]></title>
+            <link>https://time.com/article/2026/07/31/strait-of-hormuz-energy-transition-jet-fuel/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/31/strait-of-hormuz-energy-transition-jet-fuel/</guid>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -104,6 +117,7 @@
             <title><![CDATA['Major Incident' Declared as England Wildfire Swells to Size of 210 Soccer Pitches]]></title>
             <link>https://time.com/article/2026/07/30/england-wildfire-swells-suffolk-evacuations-high-temperatures/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/30/england-wildfire-swells-suffolk-evacuations-high-temperatures/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3320,18 +3334,6 @@
             <link>https://time.com/article/2026/06/15/america-china-new-critical-minerals-race/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/15/america-china-new-critical-minerals-race/</guid>
             <dc:creator><![CDATA[Jared Cohen]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About Trump’s Rally to ‘Kick Off’ 250th Anniversary Celebrations]]></title>
-            <link>https://time.com/article/2026/06/15/trump-rally-america-250-anniversary-celebrations/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/15/trump-rally-america-250-anniversary-celebrations/</guid>
-            <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine Is a Step Closer to Joining the European Union. Here’s What to Know]]></title>
-            <link>https://time.com/article/2026/06/15/ukraine-joining-the-european-union-membership-process-negotiations-status/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/15/ukraine-joining-the-european-union-membership-process-negotiations-status/</guid>
             <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
