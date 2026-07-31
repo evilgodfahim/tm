@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 17:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 19:10:04 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jul 2026 17:20:38 GMT</pubDate>
+        <pubDate>Fri, 31 Jul 2026 19:10:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why Thousands of Moroccan Migrants Crossed Into the Spanish Exclave Ceuta]]></title>
@@ -37,6 +37,13 @@
             <title><![CDATA[The Case Against Using Alcohol and Cannabis to Sleep]]></title>
             <link>https://time.com/article/2026/07/31/the-case-against-using-alcohol-and-cannabis-to-sleep/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/31/the-case-against-using-alcohol-and-cannabis-to-sleep/</guid>
+            <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[See the Best Photos From the 2026 TIME100 Creators Party]]></title>
+            <link>https://time.com/article/2026/07/31/time100-creators-2026-party-photos/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/31/time100-creators-2026-party-photos/</guid>
+            <dc:creator><![CDATA[Avery Stone]]></dc:creator>
             <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3325,13 +3332,6 @@
             <title><![CDATA[Ukraine Is a Step Closer to Joining the European Union. Here’s What to Know]]></title>
             <link>https://time.com/article/2026/06/15/ukraine-joining-the-european-union-membership-process-negotiations-status/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/15/ukraine-joining-the-european-union-membership-process-negotiations-status/</guid>
-            <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI Doesn't Feel. So Why Does It Have Something Like Emotions?]]></title>
-            <link>https://time.com/article/2026/06/15/ai-minds-consciousness-emotion/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/15/ai-minds-consciousness-emotion/</guid>
-            <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
             <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
