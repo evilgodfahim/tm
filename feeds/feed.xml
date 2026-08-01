@@ -4,10 +4,25 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Aug 2026 20:06:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 21:44:58 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Aug 2026 20:06:21 GMT</pubDate>
+        <pubDate>Sat, 01 Aug 2026 21:44:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Powerful Photos Show a Surge of Moroccan Migrants Crossing Into Spain]]></title>
+            <description><![CDATA[Close to 50,000 Moroccan migrants crossed into Spain's Ceuta enclave in just two days, creating a humanitarian emergency and leaving behind striking scenes along Europe's southern border.]]></description>
+            <link>https://time.com/article/2026/08/01/powerful-photos-show-a-surge-of-moroccan-migrants-crossing-into-spain/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/01/powerful-photos-show-a-surge-of-moroccan-migrants-crossing-into-spain/</guid>
+            <dc:creator><![CDATA[T. Michelle Murphy]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FIFA’s Infantino Scraps World Cup Investment Plan. But Is It Too Little, Too Late?]]></title>
+            <link>https://time.com/article/2026/08/01/fifa-s-infantino-scraps-world-cup-investment-plan-but-is-it-too-little-too-late-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/01/fifa-s-infantino-scraps-world-cup-investment-plan-but-is-it-too-little-too-late-/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Thousands of Moroccan Migrants Crossed Into the Spanish Exclave Ceuta]]></title>
             <link>https://time.com/article/2026/07/31/ceuta-spain-morocco-africa-explainer/</link>
@@ -68,10 +83,8 @@
         </item>
         <item>
             <title><![CDATA[How Delcy Rodríguez Went From Maduro Loyalist to Trump Proxy]]></title>
-            <description><![CDATA[The acting president of Venezuela insists that she is not surrendering Venezuelan sovereignty but opening the country’s economy in the best interests of its people.]]></description>
             <link>https://time.com/article/2026/07/30/venezuelan-president-delcy-rodriguez-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/30/venezuelan-president-delcy-rodriguez-interview/</guid>
-            <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3320,20 +3333,6 @@
             <link>https://time.com/article/2026/06/15/is-bread-actually-healthy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/15/is-bread-actually-healthy/</guid>
             <dc:creator><![CDATA[Matt Fuchs]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Resurgence of Bracero Logic]]></title>
-            <link>https://time.com/article/2026/06/15/the-resurgence-of-bracero-logic/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/15/the-resurgence-of-bracero-logic/</guid>
-            <dc:creator><![CDATA[Cara A. Kinnally]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America’s New Critical Minerals Playbook]]></title>
-            <link>https://time.com/article/2026/06/15/america-china-new-critical-minerals-race/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/15/america-china-new-critical-minerals-race/</guid>
-            <dc:creator><![CDATA[Jared Cohen]]></dc:creator>
             <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
