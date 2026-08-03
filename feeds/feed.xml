@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 20:56:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 22:00:04 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2026 20:56:03 GMT</pubDate>
+        <pubDate>Mon, 03 Aug 2026 22:00:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Iran Denies Talks With the U.S. Are Back On. Trump Insists They Are]]></title>
@@ -68,6 +68,13 @@
             <link>https://time.com/article/2026/08/03/mosquito-experts-summer-mistakes/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/03/mosquito-experts-summer-mistakes/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two People Have Died in the Cyclospora Outbreak]]></title>
+            <link>https://time.com/article/2026/08/03/two-people-have-died-in-the-cyclospora-outbreak-michigan/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/03/two-people-have-died-in-the-cyclospora-outbreak-michigan/</guid>
+            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3325,13 +3332,6 @@
             <link>https://time.com/article/2026/06/16/the-pain-and-promise-of-summer-camp/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/16/the-pain-and-promise-of-summer-camp/</guid>
             <dc:creator><![CDATA[Rachel Wisniewski]]></dc:creator>
-            <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why You Should Seek Out a Few Minutes of Awe Every Day]]></title>
-            <link>https://time.com/article/2026/06/16/why-awe-improves-health/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/16/why-awe-improves-health/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
