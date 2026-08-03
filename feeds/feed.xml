@@ -4,23 +4,22 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 15:38:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 17:43:28 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2026 15:38:32 GMT</pubDate>
+        <pubDate>Mon, 03 Aug 2026 17:43:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[With Iran, Trump Says Fighting Is Off and Talks Are On—For Now, Again]]></title>
-            <description><![CDATA[Trump said talks will restart on Monday after he called off strikes on Iran, but a pattern of on again, off again fighting casts doubt on progress toward a lasting peace.]]></description>
+            <title><![CDATA[Iran Denies Trump’s Claim That Talks Are Back On After U.S. Pauses Attacks]]></title>
+            <description><![CDATA[In a heated response, Trump called Iran's leaders "unbelievably duplicitous!"]]></description>
             <link>https://time.com/article/2026/08/03/us-iran-war-talks-on-off-fighting-pause-history-timeline/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/03/us-iran-war-talks-on-off-fighting-pause-history-timeline/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <dc:creator><![CDATA[Miranda Jeyaretnam and Chantelle Lee]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sen. Bernie Moreno Says Former Son-in-Law Max Miller Shouldn’t Serve in Congress]]></title>
             <link>https://time.com/article/2026/08/03/bernie-moreno-max-miller-ohio-abuse-allegations-congress/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/03/bernie-moreno-max-miller-ohio-abuse-allegations-congress/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -33,13 +32,41 @@
             <title><![CDATA[Clinical Trials Aren’t the Only Way to Know if Flu Shots Work]]></title>
             <link>https://time.com/article/2026/08/03/clinical-trials-aren-t-the-only-way-to-know-if-flu-shots-work/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/03/clinical-trials-aren-t-the-only-way-to-know-if-flu-shots-work/</guid>
+            <dc:creator><![CDATA[Christopher M. Worsham]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blanche Wins GOP Backing After Rescinding ‘Anti-Weaponization Fund’]]></title>
+            <link>https://time.com/article/2026/08/03/blanche-wins-gop-backing-after-rescinding-anti-weaponization-fund-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/03/blanche-wins-gop-backing-after-rescinding-anti-weaponization-fund-/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greece Battles Raging Wildfires After Fatal Helicopter Crash]]></title>
+            <link>https://time.com/article/2026/08/03/greece-wildfires-helicopter-crash-death-toll/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/03/greece-wildfires-helicopter-crash-death-toll/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tehran’s New Weapon Is Not a Bomb. It Is an Invoice.]]></title>
+            <link>https://time.com/article/2026/08/03/tehran-trump-strait-of-hormuz-toll-oman-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/03/tehran-trump-strait-of-hormuz-toll-oman-/</guid>
+            <dc:creator><![CDATA[Bobby Ghosh]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Could Eating Less Protein Help You Age Better and Live Longer?]]></title>
+            <link>https://time.com/article/2026/08/03/eat-less-protein-age-better-live-longer/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/03/eat-less-protein-age-better-live-longer/</guid>
+            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What to Know About the U.S. Water Systems Cyberattacks]]></title>
             <link>https://time.com/article/2026/08/02/what-to-know-about-the-u-s-water-systems-cyberattacks/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/02/what-to-know-about-the-u-s-water-systems-cyberattacks/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sun, 02 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3305,31 +3332,6 @@
             <link>https://time.com/article/2026/06/16/prevent-food-allergies-early-exposure-eggs/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/16/prevent-food-allergies-early-exposure-eggs/</guid>
             <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Ambassador Promotes Yacht Trip as America 250 Event]]></title>
-            <link>https://time.com/article/2026/06/16/a-billionaire-trump-ambassador-s-vision-of-diplomacy-his-own-yacht/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/16/a-billionaire-trump-ambassador-s-vision-of-diplomacy-his-own-yacht/</guid>
-            <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The U.K.'s Social Media Ban For Under-16s, Explained]]></title>
-            <link>https://time.com/article/2026/06/16/uk-social-media-ban-under16-children-australia-framework/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/16/uk-social-media-ban-under16-children-australia-framework/</guid>
-            <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump and India’s Modi to Meet Amid Mounting Tensions]]></title>
-            <link>https://time.com/article/2026/06/16/trump-modi-meet-amid-mounting-tensions/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/16/trump-modi-meet-amid-mounting-tensions/</guid>
-            <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turkey's Erdogan Is Running Out of Tricks]]></title>
-            <link>https://time.com/article/2026/06/16/erdogan-turkey-opposition-ozgur-ozel/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/16/erdogan-turkey-opposition-ozgur-ozel/</guid>
-            <dc:creator><![CDATA[Ian Bremmer]]></dc:creator>
             <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
