@@ -4,20 +4,39 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 12:50:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 15:38:32 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2026 12:50:41 GMT</pubDate>
+        <pubDate>Mon, 03 Aug 2026 15:38:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[With Iran, Trump Says Fighting Is Off and Talks Are On—For Now, Again]]></title>
+            <description><![CDATA[Trump said talks will restart on Monday after he called off strikes on Iran, but a pattern of on again, off again fighting casts doubt on progress toward a lasting peace.]]></description>
             <link>https://time.com/article/2026/08/03/us-iran-war-talks-on-off-fighting-pause-history-timeline/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/03/us-iran-war-talks-on-off-fighting-pause-history-timeline/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sen. Bernie Moreno Says Former Son-in-Law Max Miller Shouldn’t Serve in Congress]]></title>
+            <link>https://time.com/article/2026/08/03/bernie-moreno-max-miller-ohio-abuse-allegations-congress/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/03/bernie-moreno-max-miller-ohio-abuse-allegations-congress/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the U.S. Stepped In to Prop Up Japan’s Yen Currency]]></title>
+            <link>https://time.com/article/2026/08/03/why-us-trump-stepped-in-to-prop-up-japan-yen-currency/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/03/why-us-trump-stepped-in-to-prop-up-japan-yen-currency/</guid>
+            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clinical Trials Aren’t the Only Way to Know if Flu Shots Work]]></title>
+            <link>https://time.com/article/2026/08/03/clinical-trials-aren-t-the-only-way-to-know-if-flu-shots-work/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/03/clinical-trials-aren-t-the-only-way-to-know-if-flu-shots-work/</guid>
+            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What to Know About the U.S. Water Systems Cyberattacks]]></title>
-            <description><![CDATA[Cyberattacks targeting water systems in multiple states over the past week have raised questions about infrastructure security and whether the incidents are connected to Iran.]]></description>
             <link>https://time.com/article/2026/08/02/what-to-know-about-the-u-s-water-systems-cyberattacks/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/02/what-to-know-about-the-u-s-water-systems-cyberattacks/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
@@ -34,7 +53,12 @@
             <title><![CDATA[FIFA’s Infantino Scraps World Cup Investment Plan. But Is It Too Little, Too Late?]]></title>
             <link>https://time.com/article/2026/08/01/fifa-s-infantino-scraps-world-cup-investment-plan-but-is-it-too-little-too-late-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/01/fifa-s-infantino-scraps-world-cup-investment-plan-but-is-it-too-little-too-late-/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Revolt of the Cockroaches: How India’s Gen Z Humbled Modi]]></title>
+            <link>https://time.com/article/2026/08/01/cockroaches-protests-gen-z-india-delhi-narendra-modi-prime-minister/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/01/cockroaches-protests-gen-z-india-delhi-narendra-modi-prime-minister/</guid>
             <pubDate>Sat, 01 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -69,9 +93,9 @@
         </item>
         <item>
             <title><![CDATA[See the Best Photos From the 2026 TIME100 Creators Party]]></title>
+            <description><![CDATA[Take a look inside the cocktail party celebrating the annual list in New York City]]></description>
             <link>https://time.com/article/2026/07/31/time100-creators-2026-party-photos/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/31/time100-creators-2026-party-photos/</guid>
-            <dc:creator><![CDATA[Avery Stone]]></dc:creator>
             <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -162,7 +186,6 @@
             <title><![CDATA[What to Know About That Aegon Twist in 'House of the Dragon' Season 3]]></title>
             <link>https://time.com/article/2026/07/30/house-of-the-dragon-season-3-episode-7-aegon-dragon-sunfyre-alive/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/30/house-of-the-dragon-season-3-episode-7-aegon-dragon-sunfyre-alive/</guid>
-            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -236,9 +259,9 @@
         </item>
         <item>
             <title><![CDATA[What Is a Fire Cloud and How Are They Making Europe's Wildfires More Dangerous?]]></title>
-            <description><![CDATA[As firefighters in France and Spain battle to get the blazes under control, an expert breaks down the ​phenomenon of fire clouds for TIME.]]></description>
             <link>https://time.com/article/2026/07/29/what-is-a-fire-cloud-wildfires-europe-more-dangerous/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/29/what-is-a-fire-cloud-wildfires-europe-more-dangerous/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -251,6 +274,7 @@
             <title><![CDATA[What Jean Grey Means for the Future of X-Men]]></title>
             <link>https://time.com/article/2026/07/29/spider-man-brand-new-day-jean-grey-x-men/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/29/spider-man-brand-new-day-jean-grey-x-men/</guid>
+            <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
             <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3307,32 +3331,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/06/16/erdogan-turkey-opposition-ozgur-ozel/</guid>
             <dc:creator><![CDATA[Ian Bremmer]]></dc:creator>
             <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How We Chose the TIME Visionaries]]></title>
-            <description><![CDATA[See how TIME selected its list of leaders helping children and young people reach their full potential.]]></description>
-            <link>https://time.com/article/2026/06/16/how-we-chose-time-visionaries/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/16/how-we-chose-time-visionaries/</guid>
-            <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UFC Stages Successful White House Fight Night—if Not for Obama Insult]]></title>
-            <link>https://time.com/article/2026/06/15/ufc-fight-white-house-hokit-obama/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/15/ufc-fight-white-house-hokit-obama/</guid>
-            <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.K.’s Ban on Palestine Action Under Terror Legislation Was Lawful, Court of Appeal Rules]]></title>
-            <link>https://time.com/article/2026/06/15/palestine-action-ban-terrorism-legislation-appeal-ruling/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/15/palestine-action-ban-terrorism-legislation-appeal-ruling/</guid>
-            <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amy Schumer Opens Up About Years of Endometriosis Pain]]></title>
-            <link>https://time.com/article/2026/06/15/amy-schumer-endometriosis-interview/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/15/amy-schumer-endometriosis-interview/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
