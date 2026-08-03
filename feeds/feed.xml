@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 17:43:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 19:20:17 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2026 17:43:28 GMT</pubDate>
+        <pubDate>Mon, 03 Aug 2026 19:20:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Iran Denies Trump’s Claim That Talks Are Back On After U.S. Pauses Attacks]]></title>
-            <description><![CDATA[In a heated response, Trump called Iran's leaders "unbelievably duplicitous!"]]></description>
+            <title><![CDATA[Iran Denies Talks With the U.S. Are Back On. Trump Insists They Are]]></title>
             <link>https://time.com/article/2026/08/03/us-iran-war-talks-on-off-fighting-pause-history-timeline/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/03/us-iran-war-talks-on-off-fighting-pause-history-timeline/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam and Chantelle Lee]]></dc:creator>
@@ -37,6 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Blanche Wins GOP Backing After Rescinding ‘Anti-Weaponization Fund’]]></title>
+            <description><![CDATA[The Senate Judiciary Committee's Republican holdouts say they've secured the written assurance they sought and will now support Blanche—even as Trump explores ways to revive the fund.]]></description>
             <link>https://time.com/article/2026/08/03/blanche-wins-gop-backing-after-rescinding-anti-weaponization-fund-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/03/blanche-wins-gop-backing-after-rescinding-anti-weaponization-fund-/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
@@ -61,6 +61,13 @@
             <link>https://time.com/article/2026/08/03/eat-less-protein-age-better-live-longer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/03/eat-less-protein-age-better-live-longer/</guid>
             <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[15 Things Mosquito Experts Never Do in the Summer]]></title>
+            <link>https://time.com/article/2026/08/03/mosquito-experts-summer-mistakes/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/03/mosquito-experts-summer-mistakes/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3325,13 +3332,6 @@
             <link>https://time.com/article/2026/06/16/why-awe-improves-health/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/16/why-awe-improves-health/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Feeding Kids Eggs Early in Life Helps Prevent Food Allergy]]></title>
-            <link>https://time.com/article/2026/06/16/prevent-food-allergies-early-exposure-eggs/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/16/prevent-food-allergies-early-exposure-eggs/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
