@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 01:57:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 05:40:07 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2026 01:57:52 GMT</pubDate>
+        <pubDate>Mon, 03 Aug 2026 05:40:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What to Know About the U.S. Water Systems Cyberattacks]]></title>
@@ -149,6 +149,13 @@
             <title><![CDATA[Can Studying Daily Life Help Us Envision the Future?]]></title>
             <link>https://time.com/article/2026/07/30/how-studying-daily-life-can-help-us-envision-the-future/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/30/how-studying-daily-life-can-help-us-envision-the-future/</guid>
+            <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About That Aegon Twist in 'House of the Dragon' Season 3]]></title>
+            <link>https://time.com/article/2026/07/30/house-of-the-dragon-season-3-episode-7-aegon-dragon-sunfyre-alive/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/30/house-of-the-dragon-season-3-episode-7-aegon-dragon-sunfyre-alive/</guid>
+            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3325,13 +3332,6 @@
             <link>https://time.com/article/2026/06/15/america-iran-peace-agreement-prevent-next-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/15/america-iran-peace-agreement-prevent-next-war/</guid>
             <dc:creator><![CDATA[Ali Vaez]]></dc:creator>
-            <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The UFC Fight at the White House in Photos]]></title>
-            <description><![CDATA[The view from the South Lawn]]></description>
-            <link>https://time.com/article/2026/06/15/ufc-fight-white-house-freedom-250-photos/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/15/ufc-fight-white-house-freedom-250-photos/</guid>
             <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
