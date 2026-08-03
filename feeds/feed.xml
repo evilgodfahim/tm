@@ -4,15 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 22:00:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 23:04:43 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2026 22:00:04 GMT</pubDate>
+        <pubDate>Mon, 03 Aug 2026 23:04:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Iran Denies Talks With the U.S. Are Back On. Trump Insists They Are]]></title>
             <link>https://time.com/article/2026/08/03/us-iran-war-talks-on-off-fighting-pause-history-timeline/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/03/us-iran-war-talks-on-off-fighting-pause-history-timeline/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam and Chantelle Lee]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -36,17 +35,14 @@
         </item>
         <item>
             <title><![CDATA[Blanche Wins GOP Backing After Rescinding ‘Anti-Weaponization Fund’]]></title>
-            <description><![CDATA[The Senate Judiciary Committee's Republican holdouts say they've secured the written assurance they sought and will now support Blanche—even as Trump explores ways to revive the fund.]]></description>
             <link>https://time.com/article/2026/08/03/blanche-wins-gop-backing-after-rescinding-anti-weaponization-fund-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/03/blanche-wins-gop-backing-after-rescinding-anti-weaponization-fund-/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greece Battles Raging Wildfires After Fatal Helicopter Crash]]></title>
             <link>https://time.com/article/2026/08/03/greece-wildfires-helicopter-crash-death-toll/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/03/greece-wildfires-helicopter-crash-death-toll/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -75,6 +71,21 @@
             <link>https://time.com/article/2026/08/03/two-people-have-died-in-the-cyclospora-outbreak-michigan/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/03/two-people-have-died-in-the-cyclospora-outbreak-michigan/</guid>
             <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Michigan’s Senate Primary Turns Ugly]]></title>
+            <description><![CDATA[Polls point to Abdul El-Sayed having a good showing on Tuesday over Haley Stevens]]></description>
+            <link>https://time.com/article/2026/08/03/michigan-el-sayed-stevens-democrats-israel/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/03/michigan-el-sayed-stevens-democrats-israel/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What We Know About the Suspected Idaho In-N-Out Shooter—and the Bystanders Who Intervened]]></title>
+            <link>https://time.com/article/2026/08/03/in-n-out-shooting-idaho-suspect-victims-bystanders/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/03/in-n-out-shooting-idaho-suspect-victims-bystanders/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3318,20 +3329,6 @@
             <title><![CDATA[Gavin Newsom Says Trump DOJ Is Politically Targeting Him]]></title>
             <link>https://time.com/article/2026/06/16/gavin-newsom-california-governor-trump-doj-investigation/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/16/gavin-newsom-california-governor-trump-doj-investigation/</guid>
-            <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Fines Alone Won’t Make Social Media Safer For Kids]]></title>
-            <link>https://time.com/article/2026/06/16/why-fines-alone-won-t-make-social-media-safer-for-kids/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/16/why-fines-alone-won-t-make-social-media-safer-for-kids/</guid>
-            <dc:creator><![CDATA[Peter Chapman]]></dc:creator>
-            <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Pain and Promise of Summer Camp]]></title>
-            <link>https://time.com/article/2026/06/16/the-pain-and-promise-of-summer-camp/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/16/the-pain-and-promise-of-summer-camp/</guid>
-            <dc:creator><![CDATA[Rachel Wisniewski]]></dc:creator>
             <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
