@@ -4,10 +4,31 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 10:28:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 12:53:27 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Aug 2026 10:28:09 GMT</pubDate>
+        <pubDate>Tue, 04 Aug 2026 12:53:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A SpaceX Rocket Is About to Crash Into the Moon]]></title>
+            <description><![CDATA[And it's not the first instance of a lunar crash.]]></description>
+            <link>https://time.com/article/2026/08/04/spacex-moon-crash-what-to-know/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/04/spacex-moon-crash-what-to-know/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why ICE Is Quietly Buying Up Private Detention Centers]]></title>
+            <link>https://time.com/article/2026/08/04/ice-detention-strategy-private-prisons-immigration-deportation/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/04/ice-detention-strategy-private-prisons-immigration-deportation/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel Bombs Gaza, Casting Doubt on Trump Peace Plan]]></title>
+            <link>https://time.com/article/2026/08/04/israel-gaza-airstrikes-hamas-disarmament-trump-peace-plan/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/04/israel-gaza-airstrikes-hamas-disarmament-trump-peace-plan/</guid>
+            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Iran Denies Talks With the U.S. Are Back On. Trump Insists They Are]]></title>
             <link>https://time.com/article/2026/08/03/us-iran-war-talks-on-off-fighting-pause-history-timeline/</link>
@@ -43,6 +64,7 @@
             <title><![CDATA[Greece Battles Raging Wildfires After Fatal Helicopter Crash]]></title>
             <link>https://time.com/article/2026/08/03/greece-wildfires-helicopter-crash-death-toll/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/03/greece-wildfires-helicopter-crash-death-toll/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -75,10 +97,8 @@
         </item>
         <item>
             <title><![CDATA[Michigan’s Senate Primary Turns Ugly]]></title>
-            <description><![CDATA[Polls point to Abdul El-Sayed having a good showing on Tuesday over Haley Stevens]]></description>
             <link>https://time.com/article/2026/08/03/michigan-el-sayed-stevens-democrats-israel/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/03/michigan-el-sayed-stevens-democrats-israel/</guid>
-            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3310,27 +3330,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/06/17/supreme-court-birthright-citizenship-trump-order-fourteenth-amendment-us-constitution/</guid>
             <dc:creator><![CDATA[Connor Greene and Nik Popli]]></dc:creator>
             <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Says Netanyahu Has to Be 'More Responsible With Respect to Lebanon']]></title>
-            <description><![CDATA[Speaking at the G7 summit, the President also said the U.S.-Iran peace deal will be made public soon and will rule out a nuclear weapon for Tehran.]]></description>
-            <link>https://time.com/article/2026/06/16/trump-netanyahu-israel-warning-hezbollah-us-iran-peace-deal/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/16/trump-netanyahu-israel-warning-hezbollah-us-iran-peace-deal/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
-            <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘A Disaster’: Iran’s World Cup Overshadowed by War With Host U.S.]]></title>
-            <link>https://time.com/article/2026/06/16/iran-new-zealand-world-cup-war-us-mexico-taremi-disaster/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/16/iran-new-zealand-world-cup-war-us-mexico-taremi-disaster/</guid>
-            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
-            <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gavin Newsom Says Trump DOJ Is Politically Targeting Him]]></title>
-            <link>https://time.com/article/2026/06/16/gavin-newsom-california-governor-trump-doj-investigation/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/16/gavin-newsom-california-governor-trump-doj-investigation/</guid>
-            <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
