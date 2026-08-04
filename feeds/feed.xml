@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 12:53:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 15:16:37 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Aug 2026 12:53:27 GMT</pubDate>
+        <pubDate>Tue, 04 Aug 2026 15:16:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[A SpaceX Rocket Is About to Crash Into the Moon]]></title>
-            <description><![CDATA[And it's not the first instance of a lunar crash.]]></description>
             <link>https://time.com/article/2026/08/04/spacex-moon-crash-what-to-know/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/04/spacex-moon-crash-what-to-know/</guid>
             <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
@@ -18,6 +17,7 @@
         </item>
         <item>
             <title><![CDATA[Why ICE Is Quietly Buying Up Private Detention Centers]]></title>
+            <description><![CDATA[The plan is the latest in the Administration's efforts to expand how many migrants it can hold at once.]]></description>
             <link>https://time.com/article/2026/08/04/ice-detention-strategy-private-prisons-immigration-deportation/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/04/ice-detention-strategy-private-prisons-immigration-deportation/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
@@ -27,6 +27,33 @@
             <title><![CDATA[Israel Bombs Gaza, Casting Doubt on Trump Peace Plan]]></title>
             <link>https://time.com/article/2026/08/04/israel-gaza-airstrikes-hamas-disarmament-trump-peace-plan/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/04/israel-gaza-airstrikes-hamas-disarmament-trump-peace-plan/</guid>
+            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[These 25 U.S. States Are Suing the Trump Administration. Here's Why]]></title>
+            <link>https://time.com/article/2026/08/04/us-states-suing-trump-administration-tariffs-backlash/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/04/us-states-suing-trump-administration-tariffs-backlash/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Democrats Lead Republicans in Polls Three Months Ahead of Midterms]]></title>
+            <link>https://time.com/article/2026/08/04/midterm-elections-republicans-democrats-polls-economy-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/04/midterm-elections-republicans-democrats-polls-economy-trump/</guid>
+            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why There's a Shortage of Chemotherapy Drugs]]></title>
+            <link>https://time.com/article/2026/08/04/chemotherapy-drug-shortage/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/04/chemotherapy-drug-shortage/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What OpenAI’s Hugging Face Hack Tells Us About AI’s Risks]]></title>
+            <link>https://time.com/article/2026/08/04/what-openai-s-hugging-face-hack-tells-us-about-ai-s-risks/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/04/what-openai-s-hugging-face-hack-tells-us-about-ai-s-risks/</guid>
+            <dc:creator><![CDATA[Garrison Lovely]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -92,7 +119,6 @@
             <title><![CDATA[Two People Have Died in the Cyclospora Outbreak]]></title>
             <link>https://time.com/article/2026/08/03/two-people-have-died-in-the-cyclospora-outbreak-michigan/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/03/two-people-have-died-in-the-cyclospora-outbreak-michigan/</guid>
-            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3302,33 +3328,6 @@
             <link>https://time.com/article/2026/06/17/iranians-welcome-a-peace-deal-but-fear-what-comes-next/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/17/iranians-welcome-a-peace-deal-but-fear-what-comes-next/</guid>
             <dc:creator><![CDATA[Kay Armin Serjoie]]></dc:creator>
-            <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Frank Wills and the Importance of Ordinary Americans Doing the Right Thing]]></title>
-            <link>https://time.com/article/2026/06/17/frank-wills-and-the-importance-of-ordinary-americans-doing-the-right-thing/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/17/frank-wills-and-the-importance-of-ordinary-americans-doing-the-right-thing/</guid>
-            <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Crushing 'House of the Dragon' Premiere]]></title>
-            <link>https://time.com/article/2026/06/17/house-of-the-dragon-season-3-episode-1-recap/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/17/house-of-the-dragon-season-3-episode-1-recap/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['House of the Dragon' Season 3 Erases an Important Book Character]]></title>
-            <link>https://time.com/article/2026/06/17/house-of-the-dragon-season-3-premiere-rhaena-sheepstealer-nettles/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/17/house-of-the-dragon-season-3-premiere-rhaena-sheepstealer-nettles/</guid>
-            <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Supreme Court Upholds Birthright Citizenship]]></title>
-            <description><![CDATA[The Court’s decision deals a blow to President Donald Trump’s hardline immigration agenda.]]></description>
-            <link>https://time.com/article/2026/06/17/supreme-court-birthright-citizenship-trump-order-fourteenth-amendment-us-constitution/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/17/supreme-court-birthright-citizenship-trump-order-fourteenth-amendment-us-constitution/</guid>
-            <dc:creator><![CDATA[Connor Greene and Nik Popli]]></dc:creator>
             <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
