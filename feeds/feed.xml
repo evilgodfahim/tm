@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 23:04:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 01:44:07 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2026 23:04:43 GMT</pubDate>
+        <pubDate>Tue, 04 Aug 2026 01:44:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Iran Denies Talks With the U.S. Are Back On. Trump Insists They Are]]></title>
@@ -111,6 +111,7 @@
             <title><![CDATA[Revolt of the Cockroaches: How India’s Gen Z Humbled Modi]]></title>
             <link>https://time.com/article/2026/08/01/cockroaches-protests-gen-z-india-delhi-narendra-modi-prime-minister/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/01/cockroaches-protests-gen-z-india-delhi-narendra-modi-prime-minister/</guid>
+            <dc:creator><![CDATA[Asim Ali]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
