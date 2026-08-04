@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 15:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 17:29:53 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Aug 2026 15:16:37 GMT</pubDate>
+        <pubDate>Tue, 04 Aug 2026 17:29:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[A SpaceX Rocket Is About to Crash Into the Moon]]></title>
@@ -54,6 +54,13 @@
             <link>https://time.com/article/2026/08/04/what-openai-s-hugging-face-hack-tells-us-about-ai-s-risks/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/04/what-openai-s-hugging-face-hack-tells-us-about-ai-s-risks/</guid>
             <dc:creator><![CDATA[Garrison Lovely]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Morning Light Habit Sleep Experts Swear By]]></title>
+            <link>https://time.com/article/2026/08/04/morning-light-better-sleep/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/04/morning-light-better-sleep/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -132,6 +139,13 @@
             <link>https://time.com/article/2026/08/03/in-n-out-shooting-idaho-suspect-victims-bystanders/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/03/in-n-out-shooting-idaho-suspect-victims-bystanders/</guid>
             <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Sterling Point' Is a Wonderful Throwback]]></title>
+            <link>https://time.com/article/2026/08/03/sterling-point-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/03/sterling-point-review/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3314,20 +3328,6 @@
             <link>https://time.com/article/2026/06/17/what-is-pa-np-doctor/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/17/what-is-pa-np-doctor/</guid>
             <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
-            <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Ending of the Widow's Bay Season 1]]></title>
-            <link>https://time.com/article/2026/06/17/widows-bay-ending-explained/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/17/widows-bay-ending-explained/</guid>
-            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
-            <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranians Welcome a Peace Deal, but Worry About What Comes Next]]></title>
-            <link>https://time.com/article/2026/06/17/iranians-welcome-a-peace-deal-but-fear-what-comes-next/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/17/iranians-welcome-a-peace-deal-but-fear-what-comes-next/</guid>
-            <dc:creator><![CDATA[Kay Armin Serjoie]]></dc:creator>
             <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
