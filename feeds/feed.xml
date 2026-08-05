@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 04:57:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 07:35:26 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 04:57:15 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 07:35:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[A SpaceX Rocket Is About to Crash Into the Moon]]></title>
@@ -229,6 +229,13 @@
             <link>https://time.com/article/2026/07/31/strait-of-hormuz-energy-transition-jet-fuel/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/31/strait-of-hormuz-energy-transition-jet-fuel/</guid>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
+            <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Ted Lasso' Sidelines Ted Lasso]]></title>
+            <link>https://time.com/article/2026/07/31/ted-lasso-season-4-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/31/ted-lasso-season-4-review/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3321,13 +3328,6 @@
             <link>https://time.com/article/2026/06/17/trump-iran-peace-agreement-terms-lebanon-bombing-threat/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/17/trump-iran-peace-agreement-terms-lebanon-bombing-threat/</guid>
             <dc:creator><![CDATA[Olivia-Anne Cleary and Callum Sutherland]]></dc:creator>
-            <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Rock Band Went Viral. Then AI Scammers Moved In]]></title>
-            <link>https://time.com/article/2026/06/17/ai-scam-music-sons-legion/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/17/ai-scam-music-sons-legion/</guid>
-            <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
             <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
