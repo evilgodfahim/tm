@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 20:58:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 22:11:22 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 20:58:10 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 22:11:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What Gives Me Hope About the Future of Public Health in the U.S.]]></title>
@@ -92,6 +92,19 @@
             <link>https://time.com/article/2026/08/05/sesame-street-extreme-weather-climate-experts/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/05/sesame-street-extreme-weather-climate-experts/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Search for Accountability in California's Wildfires]]></title>
+            <link>https://time.com/article/2026/08/05/california-wildfires-search-for-answers/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/05/california-wildfires-search-for-answers/</guid>
+            <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: 'One Night Only']]></title>
+            <link>https://time.com/article/2026/08/05/one-night-only-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/05/one-night-only-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3306,21 +3319,6 @@
             <title><![CDATA[9 Questions Dads Wish Their Kids Would Ask Them]]></title>
             <link>https://time.com/article/2026/06/18/questions-to-ask-dad-father/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/18/questions-to-ask-dad-father/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vance Warns Israel to Abide by Trump’s Iran Deal]]></title>
-            <description><![CDATA[Vance said Israeli leaders shouldn't attack "the only powerful ally" it has "left in the entire world"]]></description>
-            <link>https://time.com/article/2026/06/18/JD-Vance-Israel-Iran-Deal-Donald-Trump-Lebanon/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/18/JD-Vance-Israel-Iran-Deal-Donald-Trump-Lebanon/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 3 Best Words to Say to Someone Whose Sports Team Just Lost]]></title>
-            <link>https://time.com/article/2026/06/18/what-to-say-when-someones-team-loses-sports-fans/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/18/what-to-say-when-someones-team-loses-sports-fans/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 12:00:00 GMT</pubDate>
         </item>
