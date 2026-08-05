@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 12:48:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 15:08:32 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 12:48:03 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 15:08:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What Gives Me Hope About the Future of Public Health in the U.S.]]></title>
@@ -16,7 +16,6 @@
         </item>
         <item>
             <title><![CDATA[Feds Investigate Armed Man Arrested at Trump Golf Course Before President’s Visit]]></title>
-            <description><![CDATA[The suspect faces firearms-related charges, while his motives are under investigation.]]></description>
             <link>https://time.com/article/2026/08/05/jeanine-john-taele-arrested-charged-gun-trump-golf-club-california/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/05/jeanine-john-taele-arrested-charged-gun-trump-golf-club-california/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
@@ -26,7 +25,33 @@
             <title><![CDATA[Can AI Free Women from the Mental Load of Caregiving?]]></title>
             <link>https://time.com/article/2026/08/05/can-ai-free-women-from-the-mental-load-of-caregiving-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/05/can-ai-free-women-from-the-mental-load-of-caregiving-/</guid>
-            <dc:creator><![CDATA[Marianne Cooper]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Abdul El-Sayed Wins Michigan Senate Primary]]></title>
+            <description><![CDATA[It’s a narrow but major victory for the Democrats' insurgent progressive wing.]]></description>
+            <link>https://time.com/article/2026/08/05/abdul-el-sayed-haley-stevens-michigan-democratic-senate-primary-election-result/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/05/abdul-el-sayed-haley-stevens-michigan-democratic-senate-primary-election-result/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Michigan Senate Primary's Winners and Losers]]></title>
+            <link>https://time.com/article/2026/08/05/the-winners-and-losers-abdul-el-sayed-michigan-primary-win/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/05/the-winners-and-losers-abdul-el-sayed-michigan-primary-win/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About the Jones Act Waiver as Trump Admin Seeks to Lower Gas Prices]]></title>
+            <link>https://time.com/article/2026/08/05/jones-act-waiver-fuel-gas-costs-maritime-industry-iran-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/05/jones-act-waiver-fuel-gas-costs-maritime-industry-iran-war/</guid>
+            <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Say to Someone Who Is Dying]]></title>
+            <link>https://time.com/article/2026/08/05/what-to-say-to-someone-who-is-dying/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/05/what-to-say-to-someone-who-is-dying/</guid>
             <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -93,6 +118,12 @@
             <title><![CDATA[The Next Fight for Fair Housing Is Online]]></title>
             <link>https://time.com/article/2026/08/04/the-next-fight-for-fair-housing-is-online/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/04/the-next-fight-for-fair-housing-is-online/</guid>
+            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Europeans Are Considering Placing This American-Born Singer on a New Banknote]]></title>
+            <link>https://time.com/article/2026/08/04/new-euro-banknotes-american-greek-maria-callas-culture-redesign/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/04/new-euro-banknotes-american-greek-maria-callas-culture-redesign/</guid>
             <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -178,7 +209,6 @@
             <title><![CDATA['Sterling Point' Is a Wonderful Throwback]]></title>
             <link>https://time.com/article/2026/08/03/sterling-point-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/03/sterling-point-review/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -235,6 +265,7 @@
             <title><![CDATA[The Case Against Using Alcohol and Cannabis to Sleep]]></title>
             <link>https://time.com/article/2026/07/31/the-case-against-using-alcohol-and-cannabis-to-sleep/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/31/the-case-against-using-alcohol-and-cannabis-to-sleep/</guid>
+            <dc:creator><![CDATA[Joan M. Cook]]></dc:creator>
             <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -261,6 +292,12 @@
             <title><![CDATA['Ted Lasso' Sidelines Ted Lasso]]></title>
             <link>https://time.com/article/2026/07/31/ted-lasso-season-4-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/31/ted-lasso-season-4-review/</guid>
+            <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['The Shards' Gets Stuck in the Shallow End]]></title>
+            <link>https://time.com/article/2026/07/31/the-shards-review-fx/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/07/31/the-shards-review-fx/</guid>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
         </item>
@@ -339,6 +376,7 @@
             <title><![CDATA[What to Know About That Aegon Twist in 'House of the Dragon' Season 3]]></title>
             <link>https://time.com/article/2026/07/30/house-of-the-dragon-season-3-episode-7-aegon-dragon-sunfyre-alive/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/30/house-of-the-dragon-season-3-episode-7-aegon-dragon-sunfyre-alive/</guid>
+            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -421,6 +459,7 @@
             <title><![CDATA[Breaking Down the Bloody Finale of Cape Fear]]></title>
             <link>https://time.com/article/2026/07/29/cape-fear-finale-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/29/cape-fear-finale-explained/</guid>
+            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
             <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3286,46 +3325,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/06/18/ai-elections-data-center-backlash/</guid>
             <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Toy Story 5's Big Emotional Moment]]></title>
-            <link>https://time.com/article/2026/06/18/toy-story-5-jessie-emily/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/18/toy-story-5-jessie-emily/</guid>
-            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Ending of 'My Royal Nemesis']]></title>
-            <link>https://time.com/article/2026/06/18/my-royal-nemesis-ending-explained/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/18/my-royal-nemesis-ending-explained/</guid>
-            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['The Bear's' Final Season Belongs to Sydney]]></title>
-            <link>https://time.com/article/2026/06/18/bear-season-5-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/18/bear-season-5-review/</guid>
-            <pubDate>Thu, 18 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[G7 Leaders Call For 'Immediate Cease-Fire' in Lebanon as They Welcome U.S.-Iran Peace Deal]]></title>
-            <description><![CDATA[President Donald Trump, meanwhile, has warned that the U.S. will "go back to shooting" if he doesn't like the Iran agreement.]]></description>
-            <link>https://time.com/article/2026/06/17/g7-leaders-call-for-immediate-ceasefire-lebanon-us-iran-peace-deal/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/17/g7-leaders-call-for-immediate-ceasefire-lebanon-us-iran-peace-deal/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
-            <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Democratic Socialist Set to Be D.C.'s Next Mayor]]></title>
-            <link>https://time.com/article/2026/06/17/DC-mayor-race-Janeese-Lewis-George-DSA-democratic-socialists-midterm/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/17/DC-mayor-race-Janeese-Lewis-George-DSA-democratic-socialists-midterm/</guid>
-            <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Read the Full Text of the 14-Point Agreement Between the U.S. and Iran]]></title>
-            <link>https://time.com/article/2026/06/17/us-iran-peace-deal-agreement-leaked-draft-text/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/17/us-iran-peace-deal-agreement-leaked-draft-text/</guid>
-            <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
