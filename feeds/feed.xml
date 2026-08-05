@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 15:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 17:21:22 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 15:08:32 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 17:21:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What Gives Me Hope About the Future of Public Health in the U.S.]]></title>
@@ -25,6 +25,7 @@
             <title><![CDATA[Can AI Free Women from the Mental Load of Caregiving?]]></title>
             <link>https://time.com/article/2026/08/05/can-ai-free-women-from-the-mental-load-of-caregiving-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/05/can-ai-free-women-from-the-mental-load-of-caregiving-/</guid>
+            <dc:creator><![CDATA[Marianne Cooper]]></dc:creator>
             <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -52,6 +53,19 @@
             <title><![CDATA[What to Say to Someone Who Is Dying]]></title>
             <link>https://time.com/article/2026/08/05/what-to-say-to-someone-who-is-dying/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/05/what-to-say-to-someone-who-is-dying/</guid>
+            <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About the ‘Flesh-Eating’ Bacteria That Killed Someone in Florida]]></title>
+            <link>https://time.com/article/2026/08/05/vibrio-vulnificus-flesh-eating-bacteria-florida-death/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/05/vibrio-vulnificus-flesh-eating-bacteria-florida-death/</guid>
+            <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Talk Like a Human in the AI Era]]></title>
+            <link>https://time.com/article/2026/08/05/how-to-talk-like-a-human-in-the-ai-era/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/05/how-to-talk-like-a-human-in-the-ai-era/</guid>
+            <dc:creator><![CDATA[Matt Abrahams]]></dc:creator>
             <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -124,6 +138,12 @@
             <title><![CDATA[Europeans Are Considering Placing This American-Born Singer on a New Banknote]]></title>
             <link>https://time.com/article/2026/08/04/new-euro-banknotes-american-greek-maria-callas-culture-redesign/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/04/new-euro-banknotes-american-greek-maria-callas-culture-redesign/</guid>
+            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Is 'Russia's Amazon' Wildberries and Why Is Ukraine Targeting It?]]></title>
+            <link>https://time.com/article/2026/08/04/russia-amazon-wildberries-ukraine-target-strikes/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/04/russia-amazon-wildberries-ukraine-target-strikes/</guid>
             <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3303,27 +3323,6 @@
             <title><![CDATA[Obama Gives Pointed Remarks on 'American Values,' Without Naming Trump]]></title>
             <link>https://time.com/article/2026/06/18/obama-presidential-center-opening-chicago/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/18/obama-presidential-center-opening-chicago/</guid>
-            <pubDate>Thu, 18 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leviticus Is Queer Horror with Heart and Soul]]></title>
-            <link>https://time.com/article/2026/06/18/leviticus-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/18/leviticus-review/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Twist Ending of Harlan Coben's Mystery Series 'I Will Find You']]></title>
-            <link>https://time.com/article/2026/06/18/i-will-find-you-ending-explained/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/18/i-will-find-you-ending-explained/</guid>
-            <dc:creator><![CDATA[Isadora Wandermurem]]></dc:creator>
-            <pubDate>Thu, 18 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Growing Political Power of Anti-Data Center Activists]]></title>
-            <link>https://time.com/article/2026/06/18/ai-elections-data-center-backlash/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/18/ai-elections-data-center-backlash/</guid>
-            <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
