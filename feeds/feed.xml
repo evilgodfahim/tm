@@ -4,10 +4,31 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Aug 2026 10:29:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 12:51:20 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Aug 2026 10:29:27 GMT</pubDate>
+        <pubDate>Thu, 06 Aug 2026 12:51:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[America Is Finally Taking Extraterrestrials Seriously]]></title>
+            <description><![CDATA[Politicians and scientists are united in their effort to better understand what have long been known as UFOs.]]></description>
+            <link>https://time.com/article/2026/08/06/america-taking-extraterrestrials-seriously/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/06/america-taking-extraterrestrials-seriously/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Labels Abdul El-Sayed a Hateful ‘Communist’]]></title>
+            <link>https://time.com/article/2026/08/06/trump-abdul-el-sayed-hate-communist/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/06/trump-abdul-el-sayed-hate-communist/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Congress May Phase Out Billions in Military Funding to Israel—but Deepen Ties Another Way]]></title>
+            <link>https://time.com/article/2026/08/06/us-israel-military-funding-defense-bill-ndaa/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/06/us-israel-military-funding-defense-bill-ndaa/</guid>
+            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Gives Me Hope About the Future of Public Health in the U.S.]]></title>
             <link>https://time.com/article/2026/08/05/future-public-health-cdc-debra-houry-essay/</link>
@@ -64,7 +85,6 @@
             <title><![CDATA[How to Talk Like a Human in the AI Era]]></title>
             <link>https://time.com/article/2026/08/05/how-to-talk-like-a-human-in-the-ai-era/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/05/how-to-talk-like-a-human-in-the-ai-era/</guid>
-            <dc:creator><![CDATA[Matt Abrahams]]></dc:creator>
             <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3304,24 +3324,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/06/19/trump-iran-deal-energy-market-volatility/</guid>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 19 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You Can't Separate Juneteenth From the Call for Reparations]]></title>
-            <link>https://time.com/article/2026/06/19/you-can-not-separate-juneteenth-from-the-call-for-reparations/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/19/you-can-not-separate-juneteenth-from-the-call-for-reparations/</guid>
-            <pubDate>Fri, 19 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 60-Day Test: What Iran’s Agreement with the United States Really Means]]></title>
-            <link>https://time.com/article/2026/06/19/iran-united-states-agreement-nuclear-program-war-israel-lebanon/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/19/iran-united-states-agreement-nuclear-program-war-israel-lebanon/</guid>
-            <pubDate>Fri, 19 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hegseth Scolds NATO Allies Over ‘Shameful’ Response to Iran War]]></title>
-            <link>https://time.com/article/2026/06/18/hegseth-us-troops-europe-review-nato-allies-criticism-iran-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/18/hegseth-us-troops-europe-review-nato-allies-criticism-iran-war/</guid>
-            <pubDate>Thu, 18 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
