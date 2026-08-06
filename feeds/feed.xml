@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Aug 2026 15:08:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 22:11:42 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Aug 2026 15:08:03 GMT</pubDate>
+        <pubDate>Thu, 06 Aug 2026 22:11:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[America Is Finally Taking Extraterrestrials Seriously]]></title>
@@ -34,6 +34,59 @@
             <link>https://time.com/article/2026/08/06/fda-approves-first-mrna-flu-vaccine/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/06/fda-approves-first-mrna-flu-vaccine/</guid>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Senate Panel Has Voted to Hold Fauci in Contempt of Congress. What Happens Next?]]></title>
+            <link>https://time.com/article/2026/08/06/fauci-contempt-of-congress-vote-senate-what-next/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/06/fauci-contempt-of-congress-vote-senate-what-next/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What We Know About the Explosive Drone Found Near Runway at German Airport]]></title>
+            <link>https://time.com/article/2026/08/06/germany-airport-explosive-drone-counterterrorism-investigation-europe-security/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/06/germany-airport-explosive-drone-counterterrorism-investigation-europe-security/</guid>
+            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canada's Carney Mocks Trump Over Conspiracy Claims]]></title>
+            <link>https://time.com/article/2026/08/06/canada-carney-trump-rift-teleprompter-malfunction-conspiracy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/06/canada-carney-trump-rift-teleprompter-malfunction-conspiracy/</guid>
+            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's the Status of Trump's Border Wall?]]></title>
+            <link>https://time.com/article/2026/08/06/trump-border-wall-immigration/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/06/trump-border-wall-immigration/</guid>
+            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Best Watch the Perseid Meteor Shower]]></title>
+            <description><![CDATA[If you’ve ever wanted a chance to see “shooting stars” streaking across the sky, you’re in luck: one of the best meteor showers of the year is happening right now.]]></description>
+            <link>https://time.com/article/2026/08/06/perseid-meteor-shower-when-how-to-watch/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/06/perseid-meteor-shower-when-how-to-watch/</guid>
+            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba]]></title>
+            <link>https://time.com/article/2026/08/06/salmonella-outbreak-linked-to-jalapeno-peppers-from-chipotle-and-qdoba/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/06/salmonella-outbreak-linked-to-jalapeno-peppers-from-chipotle-and-qdoba/</guid>
+            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
+            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The True Story Behind 'Monsters of God']]></title>
+            <link>https://time.com/article/2026/08/06/Monsters-of-God-true-story/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/06/Monsters-of-God-true-story/</guid>
+            <dc:creator><![CDATA[Rory Doherty]]></dc:creator>
+            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside Google DeepMind's Reshuffle After CEO Demis Hassabis Steps Aside]]></title>
+            <link>https://time.com/article/2026/08/06/google-deepmind-ai-demis-hassabis/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/06/google-deepmind-ai-demis-hassabis/</guid>
+            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
             <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -86,12 +139,14 @@
             <title><![CDATA[What to Know About the ‘Flesh-Eating’ Bacteria That Killed Someone in Florida]]></title>
             <link>https://time.com/article/2026/08/05/vibrio-vulnificus-flesh-eating-bacteria-florida-death/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/05/vibrio-vulnificus-flesh-eating-bacteria-florida-death/</guid>
+            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
             <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Talk Like a Human in the AI Era]]></title>
             <link>https://time.com/article/2026/08/05/how-to-talk-like-a-human-in-the-ai-era/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/05/how-to-talk-like-a-human-in-the-ai-era/</guid>
+            <dc:creator><![CDATA[Matt Abrahams]]></dc:creator>
             <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -188,7 +243,7 @@
             <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[We Want to Love Human Storytelling, But AI Is Simply More Engaging, Study Shows]]></title>
+            <title><![CDATA[AI Stories Are More Engaging, New University Study Finds]]></title>
             <link>https://time.com/article/2026/08/04/is-ai-telling-better-stories-than-us/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/04/is-ai-telling-better-stories-than-us/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
@@ -364,9 +419,9 @@
         </item>
         <item>
             <title><![CDATA[See the Best Photos From the 2026 TIME100 Creators Party]]></title>
-            <description><![CDATA[Take a look inside the cocktail party celebrating the annual list in New York City]]></description>
             <link>https://time.com/article/2026/07/31/time100-creators-2026-party-photos/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/31/time100-creators-2026-party-photos/</guid>
+            <dc:creator><![CDATA[Avery Stone]]></dc:creator>
             <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3270,60 +3325,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/06/21/the-toll-of-the-u-s--iran-war-by-the-numbers/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Questions I Never Asked My Father]]></title>
-            <link>https://time.com/article/2026/06/21/the-questions-i-never-asked-my-father/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/21/the-questions-i-never-asked-my-father/</guid>
-            <pubDate>Sun, 21 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fuelling Anxiety: What Gas Prices Tell Us About America and the World]]></title>
-            <link>https://time.com/article/2026/06/20/fuelling-anxiety-what-gas-prices-tell-us-about-america-and-the-world/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/20/fuelling-anxiety-what-gas-prices-tell-us-about-america-and-the-world/</guid>
-            <pubDate>Sat, 20 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The U.S. Men Are Beginning to Look Like the Team We Were Promised]]></title>
-            <link>https://time.com/article/2026/06/20/the-u-s-men-are-beginning-to-look-like-the-team-we-were-promised/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/20/the-u-s-men-are-beginning-to-look-like-the-team-we-were-promised/</guid>
-            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
-            <pubDate>Sat, 20 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[For LGBTQ+ People, America's Promise of Refuge Is Fading]]></title>
-            <link>https://time.com/article/2026/06/20/for-lgbtq-people-america-s-promise-of-refuge-is-fading/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/20/for-lgbtq-people-america-s-promise-of-refuge-is-fading/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Sat, 20 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel and Hezbollah Agree to Cease-Fire, U.S. Official Says]]></title>
-            <description><![CDATA[The development comes after the U.S.-Iran peace talks set to take place in Switzerland on Friday were abruptly postponed.]]></description>
-            <link>https://time.com/article/2026/06/19/israel-hezbollah-ceasefire-us-iran-peace-talks-strikes/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/19/israel-hezbollah-ceasefire-us-iran-peace-talks-strikes/</guid>
-            <dc:creator><![CDATA[Callum Sutherland and Olivia-Anne Cleary]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gas Prices Could Take Months to Return to Pre-War Levels Even After U.S.-Iran Deal]]></title>
-            <link>https://time.com/article/2026/06/19/us-iran-deal-strait-hormuz-shipping-oil-gas-prices/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/19/us-iran-deal-strait-hormuz-shipping-oil-gas-prices/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Is Juneteenth and How Did It Become a Federal Holiday?]]></title>
-            <link>https://time.com/article/2026/06/19/juneteenth-federal-holiday-history/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/19/juneteenth-federal-holiday-history/</guid>
-            <pubDate>Fri, 19 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Ambitious Should You Be?]]></title>
-            <link>https://time.com/article/2026/06/19/how-ambitious-should-you-be/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/19/how-ambitious-should-you-be/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
