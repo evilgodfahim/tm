@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Aug 2026 01:45:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 04:57:47 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Aug 2026 01:45:53 GMT</pubDate>
+        <pubDate>Thu, 06 Aug 2026 04:57:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What Gives Me Hope About the Future of Public Health in the U.S.]]></title>
@@ -171,6 +171,7 @@
             <title><![CDATA[The Next Fight for Fair Housing Is Online]]></title>
             <link>https://time.com/article/2026/08/04/the-next-fight-for-fair-housing-is-online/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/04/the-next-fight-for-fair-housing-is-online/</guid>
+            <dc:creator><![CDATA[Derrick Johnson]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -183,6 +184,13 @@
             <title><![CDATA[What Is 'Russia's Amazon' Wildberries and Why Is Ukraine Targeting It?]]></title>
             <link>https://time.com/article/2026/08/04/russia-amazon-wildberries-ukraine-target-strikes/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/04/russia-amazon-wildberries-ukraine-target-strikes/</guid>
+            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Cost of Extreme Heat Is Displacement]]></title>
+            <link>https://time.com/article/2026/08/04/the-cost-of-extreme-heat-is-displacement/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/04/the-cost-of-extreme-heat-is-displacement/</guid>
+            <dc:creator><![CDATA[Kathy Baughman McLeod]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3313,13 +3321,6 @@
             <title><![CDATA[Hegseth Scolds NATO Allies Over ‘Shameful’ Response to Iran War]]></title>
             <link>https://time.com/article/2026/06/18/hegseth-us-troops-europe-review-nato-allies-criticism-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/18/hegseth-us-troops-europe-review-nato-allies-criticism-iran-war/</guid>
-            <pubDate>Thu, 18 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[9 Questions Dads Wish Their Kids Would Ask Them]]></title>
-            <link>https://time.com/article/2026/06/18/questions-to-ask-dad-father/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/18/questions-to-ask-dad-father/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
