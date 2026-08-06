@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Aug 2026 12:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 15:08:03 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Aug 2026 12:51:20 GMT</pubDate>
+        <pubDate>Thu, 06 Aug 2026 15:08:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[America Is Finally Taking Extraterrestrials Seriously]]></title>
@@ -27,6 +27,13 @@
             <title><![CDATA[Congress May Phase Out Billions in Military Funding to Israel—but Deepen Ties Another Way]]></title>
             <link>https://time.com/article/2026/08/06/us-israel-military-funding-defense-bill-ndaa/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/06/us-israel-military-funding-defense-bill-ndaa/</guid>
+            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FDA Approves the First mRNA Flu Vaccine]]></title>
+            <link>https://time.com/article/2026/08/06/fda-approves-first-mrna-flu-vaccine/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/06/fda-approves-first-mrna-flu-vaccine/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3316,13 +3323,6 @@
             <link>https://time.com/article/2026/06/19/how-ambitious-should-you-be/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/19/how-ambitious-should-you-be/</guid>
             <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Energy Markets Will Remain Volatile Even After the Iran-U.S. Deal]]></title>
-            <link>https://time.com/article/2026/06/19/trump-iran-deal-energy-market-volatility/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/19/trump-iran-deal-energy-market-volatility/</guid>
-            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 19 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
