@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 19:44:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 20:31:04 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 19:44:47 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 20:31:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump Seeks to Restrict Birthright Citizenship With New Orders]]></title>
@@ -73,6 +73,13 @@
             <link>https://time.com/article/2026/08/07/the-last-house-ending/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/07/the-last-house-ending/</guid>
             <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why California Is Still a Climate Bellwether]]></title>
+            <link>https://time.com/article/2026/08/07/california-climate-change-policy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/07/california-climate-change-policy/</guid>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3318,13 +3325,6 @@
             <link>https://time.com/article/2026/06/23/romeria-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/23/romeria-review/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Best TV Shows of 2026 So Far]]></title>
-            <link>https://time.com/article/2026/06/23/best-tv-shows-2026-so-far/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/23/best-tv-shows-2026-so-far/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
