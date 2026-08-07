@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 12:41:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 14:06:02 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 12:41:56 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 14:06:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump Seeks to Restrict Birthright Citizenship With New Orders]]></title>
@@ -19,6 +19,20 @@
             <title><![CDATA[When the Government Outsources Safety, Families Pick up the Slack]]></title>
             <link>https://time.com/article/2026/08/07/when-the-government-outsources-safety-families-pick-up-the-slack/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/07/when-the-government-outsources-safety-families-pick-up-the-slack/</guid>
+            <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Another Republican Says They Will Vote Against Trump-Backed Blanche's Confirmation]]></title>
+            <link>https://time.com/article/2026/08/07/blanche-confirmation-attorney-general-republicans-murkowski-revolt-trump-pick/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/07/blanche-confirmation-attorney-general-republicans-murkowski-revolt-trump-pick/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3 Midlife Risk Factors Linked to Dementia]]></title>
+            <link>https://time.com/article/2026/08/07/midlife-risk-factors-dementia/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/07/midlife-risk-factors-dementia/</guid>
+            <dc:creator><![CDATA[Kathleen Felton]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3311,19 +3325,6 @@
             <link>https://time.com/article/2026/06/22/why-americans-trust-nurses-more-than-doctors/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/22/why-americans-trust-nurses-more-than-doctors/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Young People Are Sounding the Alarm on AI. We Should Listen to Them]]></title>
-            <link>https://time.com/article/2026/06/22/why-young-people-are-sounding-the-alarm-on-ai/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/22/why-young-people-are-sounding-the-alarm-on-ai/</guid>
-            <dc:creator><![CDATA[Tarika Barrett]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vance Touts Progress in Iran Peace Talks as a Skeptical Congress Raises Concerns]]></title>
-            <link>https://time.com/article/2026/06/22/jd-vance-donald-trump-iran-peace-talks-congress-nuclear-strait-of-hormuz/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/22/jd-vance-donald-trump-iran-peace-talks-congress-nuclear-strait-of-hormuz/</guid>
             <pubDate>Mon, 22 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
