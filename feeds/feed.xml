@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 17:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 18:41:05 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 17:41:11 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 18:41:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump Seeks to Restrict Birthright Citizenship With New Orders]]></title>
@@ -53,6 +53,26 @@
             <title><![CDATA[What to Know About Thailand's Deadliest School Shooting in Years]]></title>
             <link>https://time.com/article/2026/08/07/thailand-school-shooting/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/07/thailand-school-shooting/</guid>
+            <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Says Voters Are Angry With Republicans—But Not With Him. Here’s What Polls Show]]></title>
+            <link>https://time.com/article/2026/08/07/trump-republicans-polls-approval-rating-midterms-economy-iran-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/07/trump-republicans-polls-approval-rating-midterms-economy-iran-war/</guid>
+            <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You Can Now Test Ticks for Lyme Disease-Causing Bacteria at Home]]></title>
+            <link>https://time.com/article/2026/08/07/lymealert-at-home-tick-test-lyme-disease/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/07/lymealert-at-home-tick-test-lyme-disease/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Hopeful Ending of 'The Last House']]></title>
+            <link>https://time.com/article/2026/08/07/the-last-house-ending/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/07/the-last-house-ending/</guid>
+            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3306,28 +3326,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/06/23/best-tv-shows-2026-so-far/</guid>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starmer Resigns as Britain Prepares For Its Seventh Leader in 10 Years]]></title>
-            <description><![CDATA[Andy Burnham, who on Monday was sworn in as a new Member of Parliament, has confirmed he will stand as a leadership candidate.]]></description>
-            <link>https://time.com/article/2026/06/22/uk-prime-minister-keir-starmer-resignation-reports-burnham-leadership-potential/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/22/uk-prime-minister-keir-starmer-resignation-reports-burnham-leadership-potential/</guid>
-            <dc:creator><![CDATA[Olivia-Anne Cleary]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Read British Prime Minister Keir Starmer’s Resignation Speech in Full]]></title>
-            <link>https://time.com/article/2026/06/22/read-british-prime-minister-keir-starmer-resignation-speech/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/22/read-british-prime-minister-keir-starmer-resignation-speech/</guid>
-            <dc:creator><![CDATA[Olivia-Anne Cleary]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Admin Blames Vandals for Reflecting Pool Problems]]></title>
-            <link>https://time.com/article/2026/06/22/lincoln-memorial-reflecting-pool-vandalism-algae-paint-trump-admin/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/22/lincoln-memorial-reflecting-pool-vandalism-algae-paint-trump-admin/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
