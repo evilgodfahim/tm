@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 17:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 18:26:45 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 17:22:24 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 18:26:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Hunter Biden Says His Father’s Cancer Has Spread Further]]></title>
@@ -16,8 +16,15 @@
             <pubDate>Sun, 09 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Netanyahu Rejects Trump’s 15-Point Plan for Gaza]]></title>
+            <description><![CDATA[The Israeli Prime Minister said Israel does not accept the Board of Peace’s roadmap to disarm Hamas.]]></description>
+            <link>https://time.com/article/2026/08/09/netanyahu-says-israel-to-reject-trumps-plan-for-gaza/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/09/netanyahu-says-israel-to-reject-trumps-plan-for-gaza/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The U.S. Army Is Fast-Tracking New Weapons]]></title>
-            <description><![CDATA[The U.S. Army is opening test ranges to weapons-makers to expedite development—even as officials push back on concerns about dwindling munitions stockpiles.]]></description>
             <link>https://time.com/article/2026/08/08/the-army-fast-tracks-weapons/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/08/the-army-fast-tracks-weapons/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
@@ -107,7 +114,6 @@
             <title><![CDATA[America Is Finally Taking Extraterrestrials Seriously]]></title>
             <link>https://time.com/article/2026/08/06/america-taking-extraterrestrials-seriously/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/06/america-taking-extraterrestrials-seriously/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
             <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3318,12 +3324,6 @@
             <title><![CDATA[How to Best Watch the Unpredictable June Bootids Meteor Shower]]></title>
             <link>https://time.com/article/2026/06/23/june-bootids-meteor-shower/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/23/june-bootids-meteor-shower/</guid>
-            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Has Andy Burnham, Britain's Likely Next Prime Minister, Said About Trump?]]></title>
-            <link>https://time.com/article/2026/06/23/what-has-andy-burnham-uk-prime-minister-lead-said-about-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/23/what-has-andy-burnham-uk-prime-minister-lead-said-about-trump/</guid>
             <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
