@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 18:43:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 19:48:04 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 18:43:18 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 19:48:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Moderates Scramble to Stop Socialist in Wisconsin]]></title>
@@ -54,6 +54,12 @@
             <link>https://time.com/article/2026/08/10/your-dog-can-tell-when-youre-happy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/10/your-dog-can-tell-when-youre-happy/</guid>
             <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About the Earthquake in Colombia]]></title>
+            <link>https://time.com/article/2026/08/10/colombia-earthquake-death-toll-damage/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/10/colombia-earthquake-death-toll-damage/</guid>
             <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -332,10 +338,9 @@
             <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What to Know About the ‘Flesh-Eating’ Bacteria That Killed Someone in Florida]]></title>
+            <title><![CDATA[What to Know About the ‘Flesh-Eating’ Bacteria That Killed 7 People in the U.S.]]></title>
             <link>https://time.com/article/2026/08/05/vibrio-vulnificus-flesh-eating-bacteria-florida-death/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/05/vibrio-vulnificus-flesh-eating-bacteria-florida-death/</guid>
-            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
             <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3314,12 +3319,6 @@
             <link>https://time.com/article/2026/06/23/remembering-alan-greenspan-the-fed-chair-bookkeeper-and-bandleader/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/23/remembering-alan-greenspan-the-fed-chair-bookkeeper-and-bandleader/</guid>
             <dc:creator><![CDATA[John Hope Bryant]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World's Most Sustainable Companies of 2026]]></title>
-            <link>https://time.com/article/2026/06/23/worlds-most-sustainable-companies-2026/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/23/worlds-most-sustainable-companies-2026/</guid>
             <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
