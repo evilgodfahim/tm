@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 01:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 03:44:27 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 01:03:26 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 03:44:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Hunter Biden Says His Father’s Cancer Has Spread Further]]></title>
@@ -21,6 +21,13 @@
             <link>https://time.com/article/2026/08/09/netanyahu-says-israel-to-reject-trumps-plan-for-gaza/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/09/netanyahu-says-israel-to-reject-trumps-plan-for-gaza/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rhaenyra's Harsh 'House of the Dragon' Finale]]></title>
+            <link>https://time.com/article/2026/08/09/house-of-the-dragon-season-3-finale-rhaenyra/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/09/house-of-the-dragon-season-3-finale-rhaenyra/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -214,6 +221,13 @@
             <link>https://time.com/article/2026/08/06/the-chaos-and-cruelty-of-ice/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/06/the-chaos-and-cruelty-of-ice/</guid>
             <dc:creator><![CDATA[Naureen Shah]]></dc:creator>
+            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Everyone Who Died in the 'House of the Dragon' Season 3 Finale]]></title>
+            <link>https://time.com/article/2026/08/06/house-of-the-dragon-season-3-finale-battle-of-tumbleton-who-died/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/06/house-of-the-dragon-season-3-finale-battle-of-tumbleton-who-died/</guid>
+            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3312,18 +3326,6 @@
             <title><![CDATA[What to Know About the Landmark Housing Bill Congress Just Passed]]></title>
             <link>https://time.com/article/2026/06/23/housing-bill-congress-affordability-supply/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/23/housing-bill-congress-affordability-supply/</guid>
-            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Five Republican Senators Who Voted Against the Bipartisan Housing Affordability Bill]]></title>
-            <link>https://time.com/article/2026/06/23/housing-bill-congress-senators-voted-against/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/23/housing-bill-congress-senators-voted-against/</guid>
-            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Best Watch the Unpredictable June Bootids Meteor Shower]]></title>
-            <link>https://time.com/article/2026/06/23/june-bootids-meteor-shower/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/23/june-bootids-meteor-shower/</guid>
             <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
