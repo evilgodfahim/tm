@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 12:46:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 14:14:13 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 12:46:38 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 14:14:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Moderates Scramble to Stop Socialist in Wisconsin]]></title>
@@ -25,15 +25,16 @@
         </item>
         <item>
             <title><![CDATA[Europe Is Set For Its First Total Solar Eclipse in Over 25 Years]]></title>
+            <description><![CDATA[From Greenland to Spain, a rare sky show will dazzle a few lucky million.]]></description>
             <link>https://time.com/article/2026/08/10/europe-total-solar-eclipse-what-to-know/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/10/europe-total-solar-eclipse-what-to-know/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[As ICE Detention Expands, Deaths Reach a 22-Year High]]></title>
             <link>https://time.com/article/2026/08/10/ice-detention-deaths-immigration/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/10/ice-detention-deaths-immigration/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -52,7 +53,6 @@
             <title><![CDATA[Rhaenyra's Harsh 'House of the Dragon' Finale]]></title>
             <link>https://time.com/article/2026/08/09/house-of-the-dragon-season-3-finale-rhaenyra/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/09/house-of-the-dragon-season-3-finale-rhaenyra/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -65,7 +65,6 @@
             <title><![CDATA[The U.S. Army Is Fast-Tracking New Weapons]]></title>
             <link>https://time.com/article/2026/08/08/the-army-fast-tracks-weapons/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/08/the-army-fast-tracks-weapons/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -258,14 +257,12 @@
             <title><![CDATA[Everyone Who Died in the 'House of the Dragon' Season 3 Finale]]></title>
             <link>https://time.com/article/2026/08/06/house-of-the-dragon-season-3-finale-battle-of-tumbleton-who-died/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/06/house-of-the-dragon-season-3-finale-battle-of-tumbleton-who-died/</guid>
-            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Breaking Down the End of 'Camp Miasma']]></title>
             <link>https://time.com/article/2026/08/06/teenage-sex-and-death-at-camp-miasma-ending-explained-jane-schoenbrun/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/06/teenage-sex-and-death-at-camp-miasma-ending-explained-jane-schoenbrun/</guid>
-            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
             <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -312,6 +309,7 @@
             <title><![CDATA[What to Say to Someone Who Is Dying]]></title>
             <link>https://time.com/article/2026/08/05/what-to-say-to-someone-who-is-dying/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/05/what-to-say-to-someone-who-is-dying/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
