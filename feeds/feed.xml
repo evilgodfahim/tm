@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 22:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 23:26:29 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 22:27:29 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 23:26:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Moderates Scramble to Stop Socialist in Wisconsin]]></title>
-            <description><![CDATA[David Crowley was supposed to be on a vacation in Jamaica right now.]]></description>
             <link>https://time.com/article/2026/08/10/wisconsin-governor-primary-tuesday-francesca-hong-david-crowley/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/10/wisconsin-governor-primary-tuesday-francesca-hong-david-crowley/</guid>
             <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
@@ -33,7 +32,6 @@
             <title><![CDATA[As ICE Detention Expands, Deaths Reach a 22-Year High]]></title>
             <link>https://time.com/article/2026/08/10/ice-detention-deaths-immigration/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/10/ice-detention-deaths-immigration/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -60,6 +58,14 @@
             <title><![CDATA[What to Know About the Earthquake in Colombia]]></title>
             <link>https://time.com/article/2026/08/10/colombia-earthquake-death-toll-damage/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/10/colombia-earthquake-death-toll-damage/</guid>
+            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Trump Administration Has Revoked More Than 175,000 Visas]]></title>
+            <description><![CDATA[Here's who's included in the crackdown]]></description>
+            <link>https://time.com/article/2026/08/10/trump-state-department-visa-revocations/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/10/trump-state-department-visa-revocations/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3312,13 +3318,6 @@
             <link>https://time.com/article/2026/06/23/america-success-or-failure-both-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/23/america-success-or-failure-both-/</guid>
             <dc:creator><![CDATA[Greg Jackson]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Remembering Alan Greenspan: the Fed Chair, Bookkeeper, and Bandleader]]></title>
-            <link>https://time.com/article/2026/06/23/remembering-alan-greenspan-the-fed-chair-bookkeeper-and-bandleader/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/23/remembering-alan-greenspan-the-fed-chair-bookkeeper-and-bandleader/</guid>
-            <dc:creator><![CDATA[John Hope Bryant]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
