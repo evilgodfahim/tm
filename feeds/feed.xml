@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 16:43:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 17:43:45 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 16:43:27 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 17:43:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Moderates Scramble to Stop Socialist in Wisconsin]]></title>
@@ -47,6 +47,13 @@
             <title><![CDATA[10 Things Infectious-Disease Experts Don’t Worry About]]></title>
             <link>https://time.com/article/2026/08/10/infectious-disease-experts-germs/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/10/infectious-disease-experts-germs/</guid>
+            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Your Dog Really Can Tell When You're Happy]]></title>
+            <link>https://time.com/article/2026/08/10/your-dog-can-tell-when-youre-happy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/10/your-dog-can-tell-when-youre-happy/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3313,12 +3320,6 @@
             <title><![CDATA[World's Most Sustainable Companies of 2026]]></title>
             <link>https://time.com/article/2026/06/23/worlds-most-sustainable-companies-2026/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/23/worlds-most-sustainable-companies-2026/</guid>
-            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 1-Minute Mental Trick That Makes You Appreciate Your Life]]></title>
-            <link>https://time.com/article/2026/06/23/mental-subtraction-trick-appreciate-your-life/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/23/mental-subtraction-trick-appreciate-your-life/</guid>
             <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
