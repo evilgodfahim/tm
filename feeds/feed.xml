@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 14:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 15:51:40 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 14:14:13 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 15:51:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Moderates Scramble to Stop Socialist in Wisconsin]]></title>
@@ -20,7 +20,6 @@
             <title><![CDATA[The U.S.’s Largest Reservoir Just Fell to Its Lowest Water Level]]></title>
             <link>https://time.com/article/2026/08/10/lake-mead-low-water-level/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/10/lake-mead-low-water-level/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -35,6 +34,20 @@
             <link>https://time.com/article/2026/08/10/ice-detention-deaths-immigration/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/10/ice-detention-deaths-immigration/</guid>
             <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran Says U.S. Must Meet These Six Demands If Strait of Hormuz Is to Reopen]]></title>
+            <link>https://time.com/article/2026/08/10/iran-us-strait-of-hormuz-conditions-trump-negotiations/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/10/iran-us-strait-of-hormuz-conditions-trump-negotiations/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 Things Infectious-Disease Experts Don’t Worry About]]></title>
+            <link>https://time.com/article/2026/08/10/infectious-disease-experts-germs/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/10/infectious-disease-experts-germs/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3307,19 +3320,6 @@
             <title><![CDATA[The 1-Minute Mental Trick That Makes You Appreciate Your Life]]></title>
             <link>https://time.com/article/2026/06/23/mental-subtraction-trick-appreciate-your-life/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/23/mental-subtraction-trick-appreciate-your-life/</guid>
-            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[People Are Living Better at the End of Their Lives]]></title>
-            <link>https://time.com/article/2026/06/23/end-of-life-longevity-study/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/23/end-of-life-longevity-study/</guid>
-            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tech Leaders Warn of the Internet’s ‘Largest Social Experiment’]]></title>
-            <link>https://time.com/article/2026/06/23/cannes-pinterest-roundtable/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/23/cannes-pinterest-roundtable/</guid>
-            <dc:creator><![CDATA[Emma Barker Bonomo]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
