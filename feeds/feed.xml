@@ -4,23 +4,48 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 11:47:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 12:46:38 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 11:47:10 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 12:46:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Moderates Scramble to Stop Socialist in Wisconsin]]></title>
+            <description><![CDATA[David Crowley was supposed to be on a vacation in Jamaica right now.]]></description>
+            <link>https://time.com/article/2026/08/10/wisconsin-governor-primary-tuesday-francesca-hong-david-crowley/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/10/wisconsin-governor-primary-tuesday-francesca-hong-david-crowley/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The U.S.’s Largest Reservoir Just Fell to Its Lowest Water Level]]></title>
+            <link>https://time.com/article/2026/08/10/lake-mead-low-water-level/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/10/lake-mead-low-water-level/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Europe Is Set For Its First Total Solar Eclipse in Over 25 Years]]></title>
+            <link>https://time.com/article/2026/08/10/europe-total-solar-eclipse-what-to-know/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/10/europe-total-solar-eclipse-what-to-know/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As ICE Detention Expands, Deaths Reach a 22-Year High]]></title>
+            <link>https://time.com/article/2026/08/10/ice-detention-deaths-immigration/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/10/ice-detention-deaths-immigration/</guid>
+            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hunter Biden Says His Father’s Cancer Has Spread Further]]></title>
             <link>https://time.com/article/2026/08/09/-very-debilitating-hunter-biden-says-his-father-s-cancer-has-spread-further/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/09/-very-debilitating-hunter-biden-says-his-father-s-cancer-has-spread-further/</guid>
-            <dc:creator><![CDATA[T. Michelle Murphy]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netanyahu Rejects Trump’s 15-Point Plan for Gaza]]></title>
-            <description><![CDATA[The Israeli Prime Minister said Israel does not accept the Board of Peace’s roadmap to disarm Hamas.]]></description>
             <link>https://time.com/article/2026/08/09/netanyahu-says-israel-to-reject-trumps-plan-for-gaza/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/09/netanyahu-says-israel-to-reject-trumps-plan-for-gaza/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -28,6 +53,12 @@
             <link>https://time.com/article/2026/08/09/house-of-the-dragon-season-3-finale-rhaenyra/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/09/house-of-the-dragon-season-3-finale-rhaenyra/</guid>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Death Toll of a Mass Shooting Doesn’t End at the Scene]]></title>
+            <link>https://time.com/article/2026/08/09/the-death-toll-of-a-mass-shooting-does-not-end-at-the-scene/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/09/the-death-toll-of-a-mass-shooting-does-not-end-at-the-scene/</guid>
             <pubDate>Sun, 09 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -228,6 +259,13 @@
             <link>https://time.com/article/2026/08/06/house-of-the-dragon-season-3-finale-battle-of-tumbleton-who-died/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/06/house-of-the-dragon-season-3-finale-battle-of-tumbleton-who-died/</guid>
             <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
+            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the End of 'Camp Miasma']]></title>
+            <link>https://time.com/article/2026/08/06/teenage-sex-and-death-at-camp-miasma-ending-explained-jane-schoenbrun/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/06/teenage-sex-and-death-at-camp-miasma-ending-explained-jane-schoenbrun/</guid>
+            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
             <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3284,48 +3322,6 @@
             <link>https://time.com/article/2026/06/23/cannes-pinterest-roundtable/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/23/cannes-pinterest-roundtable/</guid>
             <dc:creator><![CDATA[Emma Barker Bonomo]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Scientific Case for Reading on Paper, Not Screens]]></title>
-            <link>https://time.com/article/2026/06/23/the-scientific-case-for-reading-on-paper-not-screens/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/23/the-scientific-case-for-reading-on-paper-not-screens/</guid>
-            <dc:creator><![CDATA[Markham Heid]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pennsylvania Is the Key To the Battle For the House]]></title>
-            <description><![CDATA[The signature swing state will once again take center stage in the midterms]]></description>
-            <link>https://time.com/article/2026/06/23/pennsylvania-battle-for-the-house/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/23/pennsylvania-battle-for-the-house/</guid>
-            <dc:creator><![CDATA[Julia Terruso]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ohio May be the Sleeper Senate Race of the Midterms]]></title>
-            <link>https://time.com/article/2026/06/23/ohio-may-be-the-sleeper-senate-race-of-the-midterms/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/23/ohio-may-be-the-sleeper-senate-race-of-the-midterms/</guid>
-            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tucker Carlson and Marjorie Taylor Greene Say They Are Done Supporting the Republican Party]]></title>
-            <link>https://time.com/article/2026/06/23/tucker-carlson-marjorie-taylor-greene-republican-party-trump-iran-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/23/tucker-carlson-marjorie-taylor-greene-republican-party-trump-iran-war/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Key Climate and Energy Issues for the Next U.K. Prime Minister]]></title>
-            <link>https://time.com/article/2026/06/23/top-energy-climate-issues-next-uk-prime-minister/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/23/top-energy-climate-issues-next-uk-prime-minister/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About the Landmark Housing Bill Congress Just Passed]]></title>
-            <link>https://time.com/article/2026/06/23/housing-bill-congress-affordability-supply/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/23/housing-bill-congress-affordability-supply/</guid>
             <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
