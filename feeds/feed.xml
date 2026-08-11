@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 22:32:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 23:30:18 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 22:32:41 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 23:30:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Taiwan’s Opposition Leader Says Talking to China Is the Island’s Best Defense]]></title>
@@ -65,6 +65,13 @@
             <link>https://time.com/article/2026/08/11/trump-secret-plane-swap-Turkey-UK-Secret-Service-Air-Force-One/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/11/trump-secret-plane-swap-Turkey-UK-Secret-Service-Air-Force-One/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Trump’s Secret Flight Was Extraordinary by Presidential Standards]]></title>
+            <link>https://time.com/article/2026/08/11/trump-secret-flight-white-house-press-pool-journalists/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/11/trump-secret-flight-white-house-press-pool-journalists/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3309,13 +3316,6 @@
             <link>https://time.com/article/2026/06/24/mamdani-new-york-primary-endorsements-election-results-lander-valdez-avila-chevalier-reactions/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/24/mamdani-new-york-primary-endorsements-election-results-lander-valdez-avila-chevalier-reactions/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A New $500 Million Fund Is Trying to Eliminate the Common Cold]]></title>
-            <link>https://time.com/article/2026/06/24/500-million-intercept-fund-eliminate-common-cold/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/24/500-million-intercept-fund-eliminate-common-cold/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Wed, 24 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
