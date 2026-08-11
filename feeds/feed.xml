@@ -4,10 +4,38 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 09:52:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 10:42:04 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 09:52:09 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 10:42:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Taiwan’s Opposition Leader Says Talking to China Is the Island’s Best Defense]]></title>
+            <description><![CDATA[KMT Chairperson Cheng Li-wun is betting that closer ties with Beijing can help preserve peace across the Taiwan Strait.]]></description>
+            <link>https://time.com/article/2026/08/11/taiwan-opposition-leader-kmt-cheng-li-wun-china/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/11/taiwan-opposition-leader-kmt-cheng-li-wun-china/</guid>
+            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More Than One Third of U.S. Counties Are Maternity Care Deserts]]></title>
+            <link>https://time.com/article/2026/08/11/maternity-care-deserts-u.s.-report/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/11/maternity-care-deserts-u.s.-report/</guid>
+            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tech Firms to Face Thousands of Lawsuits Over Social Media Addiction]]></title>
+            <link>https://time.com/article/2026/08/11/tech-social-media-addiction-tiktok-meta-snap-google-lawsuits/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/11/tech-social-media-addiction-tiktok-meta-snap-google-lawsuits/</guid>
+            <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Simple Trick That Can Help You Understand Your Emotions]]></title>
+            <link>https://time.com/article/2026/08/11/emotional-granularity-name-feelings/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/11/emotional-granularity-name-feelings/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Moderates Scramble to Stop Socialist in Wisconsin]]></title>
             <link>https://time.com/article/2026/08/10/wisconsin-governor-primary-tuesday-francesca-hong-david-crowley/</link>
@@ -38,7 +66,6 @@
             <title><![CDATA[Trump Responds as Iran Says U.S. Must Meet These Six Demands If Strait Is to Reopen]]></title>
             <link>https://time.com/article/2026/08/10/iran-us-strait-of-hormuz-conditions-trump-negotiations/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/10/iran-us-strait-of-hormuz-conditions-trump-negotiations/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3291,33 +3318,6 @@
             <link>https://time.com/article/2026/06/23/heatwave-europe-record-high-temperatures-deadly-extreme-heat-stress-safety/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/23/heatwave-europe-record-high-temperatures-deadly-extreme-heat-stress-safety/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rare School Shooting in the Philippines Renews Debate Around Prosecuting Young People]]></title>
-            <link>https://time.com/article/2026/06/23/philippines-high-school-shooting-tacloban-age-criminal-responsibility/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/23/philippines-high-school-shooting-tacloban-age-criminal-responsibility/</guid>
-            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can the Cold War Teach Us How to Slow Down AI?]]></title>
-            <link>https://time.com/article/2026/06/23/ai-slowdown-cold-war-verification/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/23/ai-slowdown-cold-war-verification/</guid>
-            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rising Seas Are Remaking Reality in This North Carolina Community]]></title>
-            <link>https://time.com/article/2026/06/23/rising-seas-scranton-north-carolina-photography/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/23/rising-seas-scranton-north-carolina-photography/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America: Success or Failure? Both!]]></title>
-            <link>https://time.com/article/2026/06/23/america-success-or-failure-both-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/23/america-success-or-failure-both-/</guid>
-            <dc:creator><![CDATA[Greg Jackson]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
