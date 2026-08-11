@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 12:43:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 14:13:13 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 12:43:14 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 14:13:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Taiwan’s Opposition Leader Says Talking to China Is the Island’s Best Defense]]></title>
@@ -33,7 +33,13 @@
             <title><![CDATA[The Simple Trick That Can Help You Understand Your Emotions]]></title>
             <link>https://time.com/article/2026/08/11/emotional-granularity-name-feelings/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/11/emotional-granularity-name-feelings/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How TIME Chose the 50 Most Underappreciated Shows of the 21st Century]]></title>
+            <description><![CDATA[Learn how TIME’s TV critic chose the 50 most underappreciated TV shows of the 21st century, from overlooked gems to series buried by streaming.]]></description>
+            <link>https://time.com/article/2026/08/11/how-time-chose-50-most-underappreciated-shows/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/11/how-time-chose-50-most-underappreciated-shows/</guid>
             <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -72,6 +78,7 @@
             <title><![CDATA[10 Things Infectious-Disease Experts Don’t Worry About]]></title>
             <link>https://time.com/article/2026/08/10/infectious-disease-experts-germs/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/10/infectious-disease-experts-germs/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -89,10 +96,22 @@
         </item>
         <item>
             <title><![CDATA[The Trump Administration Has Revoked More Than 175,000 Visas]]></title>
-            <description><![CDATA[Here's who's included in the crackdown]]></description>
             <link>https://time.com/article/2026/08/10/trump-state-department-visa-revocations/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/10/trump-state-department-visa-revocations/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet Will Scharf, Trump's New White House Counsel]]></title>
+            <link>https://time.com/article/2026/08/10/will-scharf-new-white-house-counsel-trump-lawyer-history/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/10/will-scharf-new-white-house-counsel-trump-lawyer-history/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We Must Remember Nagasaki]]></title>
+            <link>https://time.com/article/2026/08/10/why-nagasaki-matters/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/10/why-nagasaki-matters/</guid>
+            <dc:creator><![CDATA[James M. Scott]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -117,12 +136,27 @@
             <title><![CDATA[The Death Toll of a Mass Shooting Doesn’t End at the Scene]]></title>
             <link>https://time.com/article/2026/08/09/the-death-toll-of-a-mass-shooting-does-not-end-at-the-scene/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/09/the-death-toll-of-a-mass-shooting-does-not-end-at-the-scene/</guid>
+            <dc:creator><![CDATA[Vishal R. Patel]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The U.S. Army Is Fast-Tracking New Weapons]]></title>
             <link>https://time.com/article/2026/08/08/the-army-fast-tracks-weapons/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/08/the-army-fast-tracks-weapons/</guid>
+            <pubDate>Sat, 08 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Happens When the World is on Fire]]></title>
+            <link>https://time.com/article/2026/08/08/what-happens-when-the-world-is-on-fire/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/08/what-happens-when-the-world-is-on-fire/</guid>
+            <dc:creator><![CDATA[John Vaillant]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Loss Teaches Us About Living]]></title>
+            <link>https://time.com/article/2026/08/08/what-loss-teaches-us-about-living/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/08/what-loss-teaches-us-about-living/</guid>
+            <dc:creator><![CDATA[Dr. Lucy McBride]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -929,7 +963,6 @@
             <title><![CDATA[The Meaning of 'Roots' at 50]]></title>
             <link>https://time.com/article/2026/07/28/roots-50th-anniversary-alex-haley/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/28/roots-50th-anniversary-alex-haley/</guid>
-            <dc:creator><![CDATA[Anne Haley]]></dc:creator>
             <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3285,39 +3318,6 @@
             <title><![CDATA[Trump Calls For DOJ Probe Into Gasoline Price 'Gouging']]></title>
             <link>https://time.com/article/2026/06/24/trump-doj-probe-into-gasoline-price-gouging-experts-explain-timeline/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/24/trump-doj-probe-into-gasoline-price-gouging-experts-explain-timeline/</guid>
-            <pubDate>Wed, 24 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The GOP House Members Who Voted Against the Bipartisan Housing Bill]]></title>
-            <link>https://time.com/article/2026/06/24/housing-bill-congress-house-members-voted-against/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/24/housing-bill-congress-house-members-voted-against/</guid>
-            <pubDate>Wed, 24 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Erling Haaland]]></title>
-            <link>https://time.com/article/2026/06/24/erling-haaland-world-cup-2026-norway/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/24/erling-haaland-world-cup-2026-norway/</guid>
-            <pubDate>Wed, 24 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mamdani Is a Kingmaker. Republicans Are Thrilled]]></title>
-            <link>https://time.com/article/2026/06/24/mamdani-is-a-kingmaker-republicans-are-thrilled/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/24/mamdani-is-a-kingmaker-republicans-are-thrilled/</guid>
-            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['It's Meaningless': Trump Battles Republicans Over Iran War Vote]]></title>
-            <link>https://time.com/article/2026/06/24/-it-s-meaningless-trump-battles-senate-republicans-over-vote-to-end-iran-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/24/-it-s-meaningless-trump-battles-senate-republicans-over-vote-to-end-iran-war/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Broken Bones, Lawsuits, and NDAs: Inside the Worker Safety Concerns at Stargate]]></title>
-            <link>https://time.com/article/2026/06/24/ai-data-center-stargate-abilene-texas-injuries/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/24/ai-data-center-stargate-abilene-texas-injuries/</guid>
-            <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
             <pubDate>Wed, 24 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
