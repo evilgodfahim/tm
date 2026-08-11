@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 21:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 22:32:41 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 21:36:12 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 22:32:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Taiwan’s Opposition Leader Says Talking to China Is the Island’s Best Defense]]></title>
-            <description><![CDATA[KMT Chairperson Cheng Li-wun is betting that closer ties with Beijing can help preserve peace across the Taiwan Strait.]]></description>
             <link>https://time.com/article/2026/08/11/taiwan-opposition-leader-kmt-cheng-li-wun-china/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/11/taiwan-opposition-leader-kmt-cheng-li-wun-china/</guid>
             <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
@@ -46,7 +45,6 @@
             <title><![CDATA[SCOTUS Will Hear a Major Climate Case This Fall]]></title>
             <link>https://time.com/article/2026/08/11/us-supreme-court-suncor-v-boulder-climate-accountability/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/11/us-supreme-court-suncor-v-boulder-climate-accountability/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -59,7 +57,14 @@
             <title><![CDATA[The Trump Administration Wants More Food Ingredient Disclosure]]></title>
             <link>https://time.com/article/2026/08/11/proposed-rule-food-companies-disclose-ingredients/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/11/proposed-rule-food-companies-disclose-ingredients/</guid>
-            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the Secret Service Protects Presidents From Credible Threats]]></title>
+            <description><![CDATA[Former Secret Service agents say Trump's secret plane swap was likely improvised in a hurry]]></description>
+            <link>https://time.com/article/2026/08/11/trump-secret-plane-swap-Turkey-UK-Secret-Service-Air-Force-One/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/11/trump-secret-plane-swap-Turkey-UK-Secret-Service-Air-Force-One/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3311,13 +3316,6 @@
             <link>https://time.com/article/2026/06/24/500-million-intercept-fund-eliminate-common-cold/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/24/500-million-intercept-fund-eliminate-common-cold/</guid>
             <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Public-Private Partnerships Will Define Innovation in the AI Era]]></title>
-            <link>https://time.com/article/2026/06/24/public-private-partnerships-will-define-innovation-in-the-ai-era/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/24/public-private-partnerships-will-define-innovation-in-the-ai-era/</guid>
-            <dc:creator><![CDATA[Alois Zwinggi]]></dc:creator>
             <pubDate>Wed, 24 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
