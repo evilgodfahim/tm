@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 10:52:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 11:39:38 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 10:52:40 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 11:39:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[An AI Tax Could Be the Great Equalizer America Needs]]></title>
+            <link>https://time.com/article/2026/08/12/an-ai-tax-could-be-the-great-equalizer/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/12/an-ai-tax-could-be-the-great-equalizer/</guid>
+            <dc:creator><![CDATA[Sarah Polcz and Jeremy Bearer-Friend]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Taiwan’s Opposition Leader Says Talking to China Is the Island’s Best Defense]]></title>
             <link>https://time.com/article/2026/08/11/taiwan-opposition-leader-kmt-cheng-li-wun-china/</link>
@@ -3310,12 +3317,6 @@
             <link>https://time.com/article/2026/06/25/the-crisis-i-witnessed-in-haiti/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/25/the-crisis-i-witnessed-in-haiti/</guid>
             <dc:creator><![CDATA[Tirana Hassan]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mara Brock Akil]]></title>
-            <link>https://time.com/article/2026/06/25/mara-brock-akil-interview/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/25/mara-brock-akil-interview/</guid>
             <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
