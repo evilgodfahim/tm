@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 23:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 01:09:37 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 23:30:18 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 01:09:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Taiwan’s Opposition Leader Says Talking to China Is the Island’s Best Defense]]></title>
@@ -57,21 +57,28 @@
             <title><![CDATA[The Trump Administration Wants More Food Ingredient Disclosure]]></title>
             <link>https://time.com/article/2026/08/11/proposed-rule-food-companies-disclose-ingredients/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/11/proposed-rule-food-companies-disclose-ingredients/</guid>
+            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
             <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How the Secret Service Protects Presidents From Credible Threats]]></title>
-            <description><![CDATA[Former Secret Service agents say Trump's secret plane swap was likely improvised in a hurry]]></description>
             <link>https://time.com/article/2026/08/11/trump-secret-plane-swap-Turkey-UK-Secret-Service-Air-Force-One/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/11/trump-secret-plane-swap-Turkey-UK-Secret-Service-Air-Force-One/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Trump’s Secret Flight Was Extraordinary by Presidential Standards]]></title>
+            <description><![CDATA[For several hours, the President’s real whereabouts were unknown to—and concealed from—both the White House press pool and the American public.]]></description>
             <link>https://time.com/article/2026/08/11/trump-secret-flight-white-house-press-pool-journalists/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/11/trump-secret-flight-white-house-press-pool-journalists/</guid>
             <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[July’s Heat Made History. Trump’s Cuts Could Leave Us Less Prepared for What Comes Next]]></title>
+            <link>https://time.com/article/2026/08/11/julys-record-breaking-heat/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/11/julys-record-breaking-heat/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3310,13 +3317,6 @@
             <link>https://time.com/article/2026/06/25/mara-brock-akil-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/25/mara-brock-akil-interview/</guid>
             <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mamdani Endorsements Sweep New York Primaries in Blow to Establishment Democrats]]></title>
-            <link>https://time.com/article/2026/06/24/mamdani-new-york-primary-endorsements-election-results-lander-valdez-avila-chevalier-reactions/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/24/mamdani-new-york-primary-endorsements-election-results-lander-valdez-avila-chevalier-reactions/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
-            <pubDate>Wed, 24 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
