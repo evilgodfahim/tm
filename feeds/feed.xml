@@ -4,15 +4,41 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 11:39:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 12:46:12 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 11:39:38 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 12:46:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[An AI Tax Could Be the Great Equalizer America Needs]]></title>
             <link>https://time.com/article/2026/08/12/an-ai-tax-could-be-the-great-equalizer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/12/an-ai-tax-could-be-the-great-equalizer/</guid>
-            <dc:creator><![CDATA[Sarah Polcz and Jeremy Bearer-Friend]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Breaks Silence on Secret Plane Switch in Turkey Over Iranian Threat]]></title>
+            <description><![CDATA["I guess there was a threat out there. I didn't really ask too much about it. I get a lot of threats," Trump told reporters.]]></description>
+            <link>https://time.com/article/2026/08/12/trump-plane-switch-turkey-iranian-threat-secret-service-decoy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/12/trump-plane-switch-turkey-iranian-threat-secret-service-decoy/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About Mamdani’s Second-Home Tax That Trump Says ‘Must Be Stopped’]]></title>
+            <link>https://time.com/article/2026/08/12/zohran-mamdani-pied-a-terre-second-home-tax-trump-explainer/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/12/zohran-mamdani-pied-a-terre-second-home-tax-trump-explainer/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Count Binface, Britain's Political Satirist Who Is Standing Against Farage]]></title>
+            <link>https://time.com/article/2026/08/12/count-binface-interview-nigel-farage-british-politics-clacton-byelection/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/12/count-binface-interview-nigel-farage-british-politics-clacton-byelection/</guid>
+            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About the E.U.’s New Biometric Entry System]]></title>
+            <link>https://time.com/article/2026/08/12/eu-europe-travel-entry-exit-system-ees-passport-biometric/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/12/eu-europe-travel-entry-exit-system-ees-passport-biometric/</guid>
             <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3289,34 +3315,6 @@
             <link>https://time.com/article/2026/06/25/dreaming-under-anesthesia-helps-trauma/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/25/dreaming-under-anesthesia-helps-trauma/</guid>
             <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Is Europe So Ill-Equipped to Handle Heat Waves?]]></title>
-            <link>https://time.com/article/2026/06/25/europe-heat-wave-infrastructure-air-conditioning/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/25/europe-heat-wave-infrastructure-air-conditioning/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Story I Went Searching For—and the One That Found Me]]></title>
-            <link>https://time.com/article/2026/06/25/soraya-simi-row-of-life/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/25/soraya-simi-row-of-life/</guid>
-            <dc:creator><![CDATA[Soraya Simi]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Supergirl' Is a Dull, Dispiriting, Fake-Feminist Movie]]></title>
-            <link>https://time.com/article/2026/06/25/supergirl-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/25/supergirl-review/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Crisis I Witnessed in Haiti]]></title>
-            <link>https://time.com/article/2026/06/25/the-crisis-i-witnessed-in-haiti/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/25/the-crisis-i-witnessed-in-haiti/</guid>
-            <dc:creator><![CDATA[Tirana Hassan]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
