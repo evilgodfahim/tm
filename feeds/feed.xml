@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 22:30:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 23:30:54 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 22:30:49 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 23:30:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[An AI Tax Could Be the Great Equalizer America Needs]]></title>
@@ -31,7 +31,6 @@
             <title><![CDATA[Introducing Count Binface, Britain's Political Satirist Who Is Standing Against Farage]]></title>
             <link>https://time.com/article/2026/08/12/count-binface-interview-nigel-farage-british-politics-clacton-byelection/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/12/count-binface-interview-nigel-farage-british-politics-clacton-byelection/</guid>
-            <dc:creator><![CDATA[Richard Hall and Olivia-Anne Cleary]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -75,6 +74,7 @@
             <title><![CDATA[What Living Through the Hottest July On Record Looked Like]]></title>
             <link>https://time.com/article/2026/08/12/us-record-hottest-july-photos/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/12/us-record-hottest-july-photos/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -102,7 +102,13 @@
             <title><![CDATA[An Experimental Pediatric Cancer Treatment Shows Promise]]></title>
             <link>https://time.com/article/2026/08/12/experimental-pediatric-cancer-treatment/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/12/experimental-pediatric-cancer-treatment/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Karoline Leavitt’s Most Memorable Moments as White House Press Secretary]]></title>
+            <link>https://time.com/article/2026/08/12/karoline-leavitt-white-house-press-secretary-memorable-moments/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/12/karoline-leavitt-white-house-press-secretary-memorable-moments/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3308,13 +3314,6 @@
             <link>https://time.com/article/2026/06/25/the-two-greatest-opportunities-of-the-ai-economy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/25/the-two-greatest-opportunities-of-the-ai-economy/</guid>
             <dc:creator><![CDATA[Ravi Kumar S]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Back-to-Back Quakes Rattle Venezuela: What to Know]]></title>
-            <link>https://time.com/article/2026/06/25/venezuela-earthquake-doublet-magnitude-casualties-explainer/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/25/venezuela-earthquake-doublet-magnitude-casualties-explainer/</guid>
-            <dc:creator><![CDATA[Chad de Guzman and Connor Greene]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
