@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 20:35:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 21:35:51 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 20:35:37 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 21:35:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[An AI Tax Could Be the Great Equalizer America Needs]]></title>
@@ -17,10 +17,8 @@
         </item>
         <item>
             <title><![CDATA[Trump Breaks Silence on Secret Plane Switch in Turkey Over Iranian Threat]]></title>
-            <description><![CDATA["I guess there was a threat out there. I didn't really ask too much about it. I get a lot of threats," Trump told reporters.]]></description>
             <link>https://time.com/article/2026/08/12/trump-plane-switch-turkey-iranian-threat-secret-service-decoy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/12/trump-plane-switch-turkey-iranian-threat-secret-service-decoy/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -77,6 +75,34 @@
             <title><![CDATA[What Living Through the Hottest July On Record Looked Like]]></title>
             <link>https://time.com/article/2026/08/12/us-record-hottest-july-photos/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/12/us-record-hottest-july-photos/</guid>
+            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Karoline Leavitt to Step Down as White House Press Secretary]]></title>
+            <description><![CDATA[Trump said Leavitt will depart to spend more time with her family.]]></description>
+            <link>https://time.com/article/2026/08/12/Karoline-Leavitt-to-step-down-white-house-press-secretary-Donald-Trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/12/Karoline-Leavitt-to-step-down-white-house-press-secretary-Donald-Trump/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plan to Equip ICE Agents With Electric Shock Gloves Draws Alarm]]></title>
+            <link>https://time.com/article/2026/08/12/ice-electric-shock-gloves/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/12/ice-electric-shock-gloves/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ICE Is Getting Body Cameras. But Will They Help Hold Agents Accountable?]]></title>
+            <link>https://time.com/article/2026/08/12/ice-is-getting-body-cameras-but-will-they-help-hold-agents-accountable-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/12/ice-is-getting-body-cameras-but-will-they-help-hold-agents-accountable-/</guid>
+            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An Experimental Pediatric Cancer Treatment Shows Promise]]></title>
+            <link>https://time.com/article/2026/08/12/experimental-pediatric-cancer-treatment/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/12/experimental-pediatric-cancer-treatment/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3289,32 +3315,6 @@
             <link>https://time.com/article/2026/06/25/venezuela-earthquake-doublet-magnitude-casualties-explainer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/25/venezuela-earthquake-doublet-magnitude-casualties-explainer/</guid>
             <dc:creator><![CDATA[Chad de Guzman and Connor Greene]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Americans Think of the U.S.-Iran Deal, According to Polls]]></title>
-            <link>https://time.com/article/2026/06/25/us-iran-deal-mou-trump-approval-war-polls/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/25/us-iran-deal-mou-trump-approval-war-polls/</guid>
-            <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Safely Lower Your Body Temperature In Extreme Heat]]></title>
-            <link>https://time.com/article/2026/06/25/how-to-safely-lower-body-heat/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/25/how-to-safely-lower-body-heat/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Museum of Exploration Hopes to Inspire a New Generation of Conservationists]]></title>
-            <link>https://time.com/article/2026/06/25/national-geographic-museum-jill-tiefenthaler/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/25/national-geographic-museum-jill-tiefenthaler/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Delivers First Verdict on Britain's Likely Next Prime Minister]]></title>
-            <link>https://time.com/article/2026/06/25/trump-andy-burnham-uk-prime-minister-lead-reaction-nato-tensions/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/25/trump-andy-burnham-uk-prime-minister-lead-reaction-nato-tensions/</guid>
             <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
