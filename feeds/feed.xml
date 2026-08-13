@@ -4,14 +4,15 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 21:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 22:31:51 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 21:35:16 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 22:31:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Eurovision Bars Warring Countries From Hosting]]></title>
             <link>https://time.com/article/2026/08/13/eurovision-song-contest-rule-war-boycott-israel-palestine-ukraine-russia/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/13/eurovision-song-contest-rule-war-boycott-israel-palestine-ukraine-russia/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -87,6 +88,18 @@
             <title><![CDATA[Who Might Replace Karoline Leavitt as Press Secretary?]]></title>
             <link>https://time.com/article/2026/08/13/karoline-leavitt-press-secretary-replacement-potential-candidates/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/13/karoline-leavitt-press-secretary-replacement-potential-candidates/</guid>
+            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kennedy Center Board Votes to Put Trump's Name Back on the Building]]></title>
+            <link>https://time.com/article/2026/08/13/kennedy-center-trump-name-board-vote-judge-order/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/13/kennedy-center-trump-name-board-vote-judge-order/</guid>
+            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Renews Push to Pass Bill That Would Make Daylight Saving Time Permanent]]></title>
+            <link>https://time.com/article/2026/08/13/trump-permanent-daylight-saving-time-bill-senate/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/13/trump-permanent-daylight-saving-time-bill-senate/</guid>
             <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3300,20 +3313,6 @@
             <link>https://time.com/article/2026/06/26/is-silicone-really-better-than-plastic/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/26/is-silicone-really-better-than-plastic/</guid>
             <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 5 Healthiest Fats You Can Eat]]></title>
-            <link>https://time.com/article/2026/06/26/5-healthiest-fats-you-can-eat/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/26/5-healthiest-fats-you-can-eat/</guid>
-            <dc:creator><![CDATA[Matt Fuchs]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How 'The Bear' Ends]]></title>
-            <link>https://time.com/article/2026/06/26/the-bear-ending-explained/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/26/the-bear-ending-explained/</guid>
-            <dc:creator><![CDATA[Jake Kring-Schreifels]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
