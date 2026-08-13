@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 18:50:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 19:51:41 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 18:50:30 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 19:51:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Eurovision Bars Warring Countries From Hosting]]></title>
@@ -74,6 +74,13 @@
             <description><![CDATA[From Iceland to Spain, crowds were dazzled by the celestial phenomenon.]]></description>
             <link>https://time.com/article/2026/08/13/best-europe-solar-eclipse-photos/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/13/best-europe-solar-eclipse-photos/</guid>
+            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Wild True Story Behind 'A Child of My Own']]></title>
+            <link>https://time.com/article/2026/08/13/netflix-documentary-a-child-of-my-own/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/13/netflix-documentary-a-child-of-my-own/</guid>
+            <dc:creator><![CDATA[Olivia B. Waxman]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3308,13 +3315,6 @@
             <link>https://time.com/article/2026/06/26/olivia-wilde-the-invite-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/26/olivia-wilde-the-invite-interview/</guid>
             <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Brazilian Startup Is Betting on AI to Fight Crime. Critics See a Surveillance State]]></title>
-            <link>https://time.com/article/2026/06/26/ai-surveillance-brazil-gabriel/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/26/ai-surveillance-brazil-gabriel/</guid>
-            <dc:creator><![CDATA[Harry Booth]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
