@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 16:45:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 17:51:01 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 16:45:34 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 17:51:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Eurovision Bars Warring Countries From Hosting]]></title>
@@ -40,7 +40,6 @@
             <title><![CDATA[11 Charged in ‘One of the Largest Marriage Fraud Prosecutions’ in U.S.]]></title>
             <link>https://time.com/article/2026/08/13/justice-department-indictment-sham-marriage-immigration-china/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/13/justice-department-indictment-sham-marriage-immigration-china/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -55,6 +54,26 @@
             <link>https://time.com/article/2026/08/13/estrogen-therapy-may-protect-against-alzheimers-disease/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/13/estrogen-therapy-may-protect-against-alzheimers-disease/</guid>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GOP Anti-Muslim Campaign Targets Abdul El-Sayed]]></title>
+            <link>https://time.com/article/2026/08/13/muslim-republicans-abdul-el-sayed/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/13/muslim-republicans-abdul-el-sayed/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Sued Over Selling Early Access to Truth Social Posts Amid Mounting Backlash]]></title>
+            <link>https://time.com/article/2026/08/13/trump-sued-truth-social-posts-early-access-lawsuit-democrat-investigations/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/13/trump-sued-truth-social-posts-early-access-lawsuit-democrat-investigations/</guid>
+            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Most Spectacular Photos of Europe's Total Solar Eclipse]]></title>
+            <description><![CDATA[From Iceland to Spain, crowds were dazzled by the celestial phenomenon.]]></description>
+            <link>https://time.com/article/2026/08/13/best-europe-solar-eclipse-photos/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/13/best-europe-solar-eclipse-photos/</guid>
             <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -151,6 +170,7 @@
             <title><![CDATA[An Experimental Pediatric Cancer Treatment Shows Promise]]></title>
             <link>https://time.com/article/2026/08/12/experimental-pediatric-cancer-treatment/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/12/experimental-pediatric-cancer-treatment/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3295,25 +3315,6 @@
             <link>https://time.com/article/2026/06/26/ai-surveillance-brazil-gabriel/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/26/ai-surveillance-brazil-gabriel/</guid>
             <dc:creator><![CDATA[Harry Booth]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does Pickle Juice Really Help Muscle Cramps?]]></title>
-            <link>https://time.com/article/2026/06/26/does-pickle-juice-help-muscle-cramps/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/26/does-pickle-juice-help-muscle-cramps/</guid>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is London Taking Over From New York As The Global Climate Hub?]]></title>
-            <link>https://time.com/article/2026/06/26/london-climate-action-week-2026/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/26/london-climate-action-week-2026/</guid>
-            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Help Victims of the Venezuela Earthquakes]]></title>
-            <link>https://time.com/article/2026/06/26/how-to-help-victims-of-venezuela-earthquakes/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/26/how-to-help-victims-of-venezuela-earthquakes/</guid>
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
