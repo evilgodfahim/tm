@@ -4,15 +4,42 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 11:40:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 12:48:44 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 11:40:04 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 12:48:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Eurovision Bars Warring Countries From Hosting]]></title>
             <link>https://time.com/article/2026/08/13/eurovision-song-contest-rule-war-boycott-israel-palestine-ukraine-russia/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/13/eurovision-song-contest-rule-war-boycott-israel-palestine-ukraine-russia/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lifeline for Haitian Migrants Hopes He Can Stay in U.S.]]></title>
+            <description><![CDATA["We just don't have a country to come back to," says Viles Dorsainvil]]></description>
+            <link>https://time.com/article/2026/08/13/haitians-Springfield-Ohio-Florida-TPS-deportation-fear-ICE-DHS/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/13/haitians-Springfield-Ohio-Florida-TPS-deportation-fear-ICE-DHS/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the World Is Still Investing in America]]></title>
+            <link>https://time.com/article/2026/08/13/the-world-is-still-choosing-america/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/13/the-world-is-still-choosing-america/</guid>
+            <dc:creator><![CDATA[Jane Fraser]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Aryna Sabalenka Became the Most Compelling Player in Tennis]]></title>
+            <link>https://time.com/article/2026/08/13/aryna-sabalenka-interview/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/13/aryna-sabalenka-interview/</guid>
+            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[11 Charged in ‘One of the Largest Marriage Fraud Prosecutions’ in U.S.]]></title>
+            <link>https://time.com/article/2026/08/13/justice-department-indictment-sham-marriage-immigration-china/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/13/justice-department-indictment-sham-marriage-immigration-china/</guid>
             <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -97,7 +124,6 @@
             <title><![CDATA[Plan to Equip ICE Agents With Electric Shock Gloves Draws Alarm]]></title>
             <link>https://time.com/article/2026/08/12/ice-electric-shock-gloves/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/12/ice-electric-shock-gloves/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3287,33 +3313,6 @@
             <link>https://time.com/article/2026/06/26/iran-war-us-strikes-strait-of-hormuz-attack-ceasefire/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/26/iran-war-us-strikes-strait-of-hormuz-attack-ceasefire/</guid>
             <dc:creator><![CDATA[Connor Greene]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Supergirl' Has No Idea What to Do With Kara Zor-El's Superpowers]]></title>
-            <link>https://time.com/article/2026/06/26/supergirl-no-superpowers/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/26/supergirl-no-superpowers/</guid>
-            <dc:creator><![CDATA[James Grebey]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Twist Ending of 'Notes From the Last Row']]></title>
-            <link>https://time.com/article/2026/06/26/notes-from-the-last-row-ending/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/26/notes-from-the-last-row-ending/</guid>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This European Social Enterprise Is Giving Gen Z Jobs They Actually Want]]></title>
-            <link>https://time.com/article/2026/06/26/sea-ranger-service-gen-z-oceans/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/26/sea-ranger-service-gen-z-oceans/</guid>
-            <dc:creator><![CDATA[Richard Morgan]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why All Eyes Are On Africa at the World Cup]]></title>
-            <link>https://time.com/article/2026/06/26/why-all-eyes-are-on-africa-at-the-world-cup/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/26/why-all-eyes-are-on-africa-at-the-world-cup/</guid>
-            <dc:creator><![CDATA[Jeremy Ebobisse]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
