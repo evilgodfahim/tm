@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 09:54:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 10:54:04 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 09:54:15 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 10:54:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Eurovision Bars Warring Countries From Hosting]]></title>
+            <link>https://time.com/article/2026/08/13/eurovision-song-contest-rule-war-boycott-israel-palestine-ukraine-russia/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/13/eurovision-song-contest-rule-war-boycott-israel-palestine-ukraine-russia/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An AI Tax Could Be the Great Equalizer America Needs]]></title>
             <link>https://time.com/article/2026/08/12/an-ai-tax-could-be-the-great-equalizer/</link>
@@ -3307,13 +3314,6 @@
             <link>https://time.com/article/2026/06/26/why-all-eyes-are-on-africa-at-the-world-cup/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/26/why-all-eyes-are-on-africa-at-the-world-cup/</guid>
             <dc:creator><![CDATA[Jeremy Ebobisse]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Supreme Court Upholds State Bans on Transgender Athletes]]></title>
-            <link>https://time.com/article/2026/06/26/supreme-court-transgender-athletes-state-bans/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/26/supreme-court-transgender-athletes-state-bans/</guid>
-            <dc:creator><![CDATA[Chantelle Lee and Philip Wang]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
