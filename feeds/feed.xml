@@ -4,16 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 15:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 16:41:07 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 15:42:17 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 16:41:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Congress Is Headed for a Massive Turnover]]></title>
-            <description><![CDATA[At least 83 House and Senate members won’t return to their posts next year.]]></description>
             <link>https://time.com/article/2026/08/14/congress-turnover-house-senate-republican-democrat-primaries-midterm-elections/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/14/congress-turnover-house-senate-republican-democrat-primaries-midterm-elections/</guid>
-            <dc:creator><![CDATA[Chad de Guzman and Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -21,6 +19,35 @@
             <link>https://time.com/article/2026/08/14/religion-gen-z-revival-christianity/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/14/religion-gen-z-revival-christianity/</guid>
             <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Luigi Mangione Pleads Guilty to Federal Charges]]></title>
+            <description><![CDATA[Mangione admitted in court that he fatally shot UnitedHealthCare Brian Thompson in 2024, saying he 3-D printed a gun and attached a silencer.]]></description>
+            <link>https://time.com/article/2026/08/14/luigi-mangione-guilty-plea-federal-case-unitedhealthcare-brian-thompson/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/14/luigi-mangione-guilty-plea-federal-case-unitedhealthcare-brian-thompson/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Problem With Being Told Your Symptoms Are ‘Normal’]]></title>
+            <link>https://time.com/article/2026/08/14/why-it-can-be-a-problem-when-your-doctor-says-it-s-normal-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/14/why-it-can-be-a-problem-when-your-doctor-says-it-s-normal-/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HBO's Green Lantern Series 'Lanterns': Review]]></title>
+            <link>https://time.com/article/2026/08/14/lanterns-review-hbo/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/14/lanterns-review-hbo/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exclusive: Claude Was Put in Charge of Human Workers—and Fired One]]></title>
+            <link>https://time.com/article/2026/08/14/claude-fired-worker-ai-job-disruption/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/14/claude-fired-worker-ai-job-disruption/</guid>
+            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
             <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -121,6 +148,27 @@
             <title><![CDATA[Why States Are the Key to the Modern Labor Movement]]></title>
             <link>https://time.com/article/2026/08/13/why-states-are-the-key-to-the-modern-labor-movement/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/13/why-states-are-the-key-to-the-modern-labor-movement/</guid>
+            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can You Engineer Civic Pride? Dubai Thinks So]]></title>
+            <link>https://time.com/article/2026/08/13/civic-pride-cleanliness-dubai-migration/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/13/civic-pride-cleanliness-dubai-migration/</guid>
+            <dc:creator><![CDATA[Bobby Ghosh]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How College Education Divided America]]></title>
+            <link>https://time.com/article/2026/08/13/how-college-education-divided-america/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/13/how-college-education-divided-america/</guid>
+            <dc:creator><![CDATA[Daron Acemoglu]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flirting Is a Lost Art]]></title>
+            <link>https://time.com/article/2026/08/13/flirting-is-a-lost-art/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/13/flirting-is-a-lost-art/</guid>
+            <dc:creator><![CDATA[Meehika Barua]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3267,55 +3315,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/06/28/iran-s-world-cup-exit-is-beyond-comprehension/</guid>
             <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
             <pubDate>Sun, 28 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Mission Hijacking Undermines the Fight for American Democracy]]></title>
-            <link>https://time.com/article/2026/06/28/overcrowding-hobbling-fight-to-strengthen-american-democracy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/28/overcrowding-hobbling-fight-to-strengthen-american-democracy/</guid>
-            <dc:creator><![CDATA[Jeffrey Sonnenfeld]]></dc:creator>
-            <pubDate>Sun, 28 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burnham’s Britain? Why the U.K. Is Set to Get Its Seventh Prime Minister in 10 Years]]></title>
-            <link>https://time.com/article/2026/06/27/burnham-britain-why-u-k-is-set-to-get-its-seventh-prime-minister-in-10-years/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/27/burnham-britain-why-u-k-is-set-to-get-its-seventh-prime-minister-in-10-years/</guid>
-            <dc:creator><![CDATA[Toby Helm]]></dc:creator>
-            <pubDate>Sat, 27 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The World Cup Pride Match Is A Winner]]></title>
-            <link>https://time.com/article/2026/06/27/the-world-cup-pride-match-is-a-winner/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/27/the-world-cup-pride-match-is-a-winner/</guid>
-            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
-            <pubDate>Sat, 27 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran Targets U.S. Military Sites in Kuwait and Bahrain as Ceasefire Falters]]></title>
-            <description><![CDATA[The attacks came after President Trump threatened to intensify military action against Tehran if it failed to abide by the interim agreement.]]></description>
-            <link>https://time.com/article/2026/06/27/Iran-Bahrain-attack-Strait-of-Hormuz-drone-strikes/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/27/Iran-Bahrain-attack-Strait-of-Hormuz-drone-strikes/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
-            <pubDate>Sat, 27 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How AI Will Make Art Worse]]></title>
-            <link>https://time.com/article/2026/06/26/how-ai-will-make-art-worse/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/26/how-ai-will-make-art-worse/</guid>
-            <dc:creator><![CDATA[Tim Brinkhof]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran Strikes Vessel in Strait of Hormuz, Pausing Escort Operations]]></title>
-            <link>https://time.com/article/2026/06/26/strait-hormuz-iran-strike-vessel-un-escort-shipping-oil-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/26/strait-hormuz-iran-strike-vessel-un-escort-shipping-oil-trump/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘He Doesn’t Score Ugly Goals’: Ex-Coach of U.S. Soccer Has Reason to Cheer This World Cup]]></title>
-            <link>https://time.com/article/2026/06/26/world-cup-usmnt-sebastian-berhalter-gregg-coach-son-turkey/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/26/world-cup-usmnt-sebastian-berhalter-gregg-coach-son-turkey/</guid>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
