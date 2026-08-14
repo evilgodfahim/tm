@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 19:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 20:22:14 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 19:42:25 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 20:22:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Congress Is Headed for a Massive Turnover]]></title>
@@ -62,6 +62,12 @@
             <link>https://time.com/article/2026/08/14/climate-change-wildfire-air-pollution-risks/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/14/climate-change-wildfire-air-pollution-risks/</guid>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About Concerns Over the Long-Deployed USS Abraham Lincoln]]></title>
+            <link>https://time.com/article/2026/08/14/uss-abraham-lincoln-conditions-trump-iran-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/14/uss-abraham-lincoln-conditions-trump-iran-war/</guid>
             <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3307,13 +3313,6 @@
             <link>https://time.com/article/2026/06/29/what-are-the-three-hottest-years-on-record-and-how-will-this-summer-compare-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/29/what-are-the-three-hottest-years-on-record-and-how-will-this-summer-compare-/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Reacts to Mixed Bag of Supreme Court Rulings]]></title>
-            <link>https://time.com/article/2026/06/29/trump-supreme-court-rulings-mail-in-voting-independent-agency-firings-e-jean-carroll/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/29/trump-supreme-court-rulings-mail-in-voting-independent-agency-firings-e-jean-carroll/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
