@@ -4,10 +4,25 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 11:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 12:43:12 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 11:37:35 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 12:43:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Congress Is Headed for a Massive Turnover]]></title>
+            <description><![CDATA[At least 83 House and Senate members won’t return to their posts next year.]]></description>
+            <link>https://time.com/article/2026/08/14/congress-turnover-house-senate-republican-democrat-primaries-midterm-elections/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/14/congress-turnover-house-senate-republican-democrat-primaries-midterm-elections/</guid>
+            <dc:creator><![CDATA[Chad de Guzman and Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is There a ‘Religious Revival’ Happening Among Gen Z?]]></title>
+            <link>https://time.com/article/2026/08/14/religion-gen-z-revival-christianity/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/14/religion-gen-z-revival-christianity/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Eurovision Bars Warring Countries From Hosting]]></title>
             <link>https://time.com/article/2026/08/13/eurovision-song-contest-rule-war-boycott-israel-palestine-ukraine-russia/</link>
@@ -100,6 +115,12 @@
             <title><![CDATA[Trump Renews Push to Pass Bill That Would Make Daylight Saving Time Permanent]]></title>
             <link>https://time.com/article/2026/08/13/trump-permanent-daylight-saving-time-bill-senate/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/13/trump-permanent-daylight-saving-time-bill-senate/</guid>
+            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why States Are the Key to the Modern Labor Movement]]></title>
+            <link>https://time.com/article/2026/08/13/why-states-are-the-key-to-the-modern-labor-movement/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/13/why-states-are-the-key-to-the-modern-labor-movement/</guid>
             <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3293,26 +3314,6 @@
             <title><![CDATA[Mamdani’s Promised Rent Freeze Approved in New York: What to Know]]></title>
             <link>https://time.com/article/2026/06/26/new-york-rent-freeze-stabilized-apartments-zohran-mamdani-housing-promise/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/26/new-york-rent-freeze-stabilized-apartments-zohran-mamdani-housing-promise/</guid>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Summer Travelers May Still Be Met With High Airfares Despite the U.S.-Iran Deal]]></title>
-            <link>https://time.com/article/2026/06/26/why-summer-travelers-still-met-with-high-airfares-after-us-iran-peace-deal/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/26/why-summer-travelers-still-met-with-high-airfares-after-us-iran-peace-deal/</guid>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Faint Hope for Peace Between India and Pakistan]]></title>
-            <link>https://time.com/article/2026/06/26/peace-conflict-india-modi-munir-pakistan/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/26/peace-conflict-india-modi-munir-pakistan/</guid>
-            <dc:creator><![CDATA[Michael Kugelman]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Silicone Really Better Than Plastic?]]></title>
-            <link>https://time.com/article/2026/06/26/is-silicone-really-better-than-plastic/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/26/is-silicone-really-better-than-plastic/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
