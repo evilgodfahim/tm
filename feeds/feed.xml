@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 14:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 15:42:17 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 14:09:29 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 15:42:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Congress Is Headed for a Massive Turnover]]></title>
@@ -389,6 +389,13 @@
             <link>https://time.com/article/2026/08/10/why-nagasaki-matters/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/10/why-nagasaki-matters/</guid>
             <dc:creator><![CDATA[James M. Scott]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['The End of Oak Street' Is the Best Dinosaur Movie Since 'Jurassic Park']]></title>
+            <link>https://time.com/article/2026/08/10/the-end-of-oak-street-jurassic-park-comparison/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/10/the-end-of-oak-street-jurassic-park-comparison/</guid>
+            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3308,12 +3315,6 @@
             <title><![CDATA[‘He Doesn’t Score Ugly Goals’: Ex-Coach of U.S. Soccer Has Reason to Cheer This World Cup]]></title>
             <link>https://time.com/article/2026/06/26/world-cup-usmnt-sebastian-berhalter-gregg-coach-son-turkey/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/26/world-cup-usmnt-sebastian-berhalter-gregg-coach-son-turkey/</guid>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mamdani’s Promised Rent Freeze Approved in New York: What to Know]]></title>
-            <link>https://time.com/article/2026/06/26/new-york-rent-freeze-stabilized-apartments-zohran-mamdani-housing-promise/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/26/new-york-rent-freeze-stabilized-apartments-zohran-mamdani-housing-promise/</guid>
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
