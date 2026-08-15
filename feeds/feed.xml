@@ -4,10 +4,16 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 14:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 15:11:41 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 14:13:23 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 15:11:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Most Important Thing AI Can’t Do in Medicine]]></title>
+            <link>https://time.com/article/2026/08/15/the-most-important-thing-ai-cannot-do-in-medicine/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/15/the-most-important-thing-ai-cannot-do-in-medicine/</guid>
+            <pubDate>Sat, 15 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Congress Is Headed for a Massive Turnover]]></title>
             <link>https://time.com/article/2026/08/14/congress-turnover-house-senate-republican-democrat-primaries-midterm-elections/</link>
@@ -23,10 +29,8 @@
         </item>
         <item>
             <title><![CDATA[Luigi Mangione Pleads Guilty to Federal Charges]]></title>
-            <description><![CDATA[Mangione admitted in court that he fatally shot UnitedHealthCare Brian Thompson in 2024, saying he 3-D printed a gun and attached a silencer.]]></description>
             <link>https://time.com/article/2026/08/14/luigi-mangione-guilty-plea-federal-case-unitedhealthcare-brian-thompson/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/14/luigi-mangione-guilty-plea-federal-case-unitedhealthcare-brian-thompson/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -45,6 +49,7 @@
         </item>
         <item>
             <title><![CDATA[Exclusive: Claude Was Put in Charge of Human Workers—and Fired One]]></title>
+            <description><![CDATA[Claude was tasked with managing real employees at a San Francisco store. Its first firing offers an early glimpse of what having an AI boss could look like.]]></description>
             <link>https://time.com/article/2026/08/14/claude-fired-worker-ai-job-disruption/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/14/claude-fired-worker-ai-job-disruption/</guid>
             <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
@@ -168,6 +173,7 @@
             <title><![CDATA[Why States Are the Key to the Modern Labor Movement]]></title>
             <link>https://time.com/article/2026/08/13/why-states-are-the-key-to-the-modern-labor-movement/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/13/why-states-are-the-key-to-the-modern-labor-movement/</guid>
+            <dc:creator><![CDATA[Sharon Block]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -195,6 +201,7 @@
             <title><![CDATA[Why the Movements of a U.S. Oil Company in Greenland Have Attracted Attention]]></title>
             <link>https://time.com/article/2026/08/13/us-oil-company-greenland-energy-drilling-project-delayed-warning/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/13/us-oil-company-greenland-energy-drilling-project-delayed-warning/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3305,13 +3312,6 @@
             <title><![CDATA[After Venezuela’s Earthquakes, Neighbors Become Rescuers]]></title>
             <link>https://time.com/article/2026/06/29/Venezuela-earthquakes-Caracas-La-Guaira-rescue/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/29/Venezuela-earthquakes-Caracas-La-Guaira-rescue/</guid>
-            <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recursive Self-Improvement is the Human Skill We Need in the AI Age]]></title>
-            <link>https://time.com/article/2026/06/29/recursive-self-improvement-is-the-human-skill-we-need-in-the-ai-age/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/29/recursive-self-improvement-is-the-human-skill-we-need-in-the-ai-age/</guid>
-            <dc:creator><![CDATA[Arianna Huffington]]></dc:creator>
             <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
