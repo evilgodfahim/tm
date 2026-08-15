@@ -4,14 +4,22 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 18:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 19:15:13 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 18:15:46 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 19:15:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Most Important Thing AI Can’t Do in Medicine]]></title>
             <link>https://time.com/article/2026/08/15/the-most-important-thing-ai-cannot-do-in-medicine/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/15/the-most-important-thing-ai-cannot-do-in-medicine/</guid>
+            <pubDate>Sat, 15 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Salmonella Egg Recall Is Now Class I, the FDA’s Highest Risk Level]]></title>
+            <description><![CDATA[The heightened risk classification comes as health officials investigate a multistate outbreak that has sickened nearly 100 people.]]></description>
+            <link>https://time.com/article/2026/08/15/eggs-recalled-for-salmonella-upgraded-to-highest-fda-risk-level/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/15/eggs-recalled-for-salmonella-upgraded-to-highest-fda-risk-level/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -49,7 +57,6 @@
         </item>
         <item>
             <title><![CDATA[Exclusive: Claude Was Put in Charge of Human Workers—and Fired One]]></title>
-            <description><![CDATA[Claude was tasked with managing real employees at a San Francisco store. Its first firing offers an early glimpse of what having an AI boss could look like.]]></description>
             <link>https://time.com/article/2026/08/14/claude-fired-worker-ai-job-disruption/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/14/claude-fired-worker-ai-job-disruption/</guid>
             <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
@@ -201,7 +208,6 @@
             <title><![CDATA[Why the Movements of a U.S. Oil Company in Greenland Have Attracted Attention]]></title>
             <link>https://time.com/article/2026/08/13/us-oil-company-greenland-energy-drilling-project-delayed-warning/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/13/us-oil-company-greenland-energy-drilling-project-delayed-warning/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3306,12 +3312,6 @@
             <link>https://time.com/article/2026/06/29/hearing-aids-doctors-tips/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/29/hearing-aids-doctors-tips/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[After Venezuela’s Earthquakes, Neighbors Become Rescuers]]></title>
-            <link>https://time.com/article/2026/06/29/Venezuela-earthquakes-Caracas-La-Guaira-rescue/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/29/Venezuela-earthquakes-Caracas-La-Guaira-rescue/</guid>
             <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
