@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 13:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 14:13:23 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 13:23:38 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 14:13:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Congress Is Headed for a Massive Turnover]]></title>
@@ -189,6 +189,12 @@
             <link>https://time.com/article/2026/08/13/flirting-is-a-lost-art/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/13/flirting-is-a-lost-art/</guid>
             <dc:creator><![CDATA[Meehika Barua]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the Movements of a U.S. Oil Company in Greenland Have Attracted Attention]]></title>
+            <link>https://time.com/article/2026/08/13/us-oil-company-greenland-energy-drilling-project-delayed-warning/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/13/us-oil-company-greenland-energy-drilling-project-delayed-warning/</guid>
             <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3306,13 +3312,6 @@
             <link>https://time.com/article/2026/06/29/recursive-self-improvement-is-the-human-skill-we-need-in-the-ai-age/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/29/recursive-self-improvement-is-the-human-skill-we-need-in-the-ai-age/</guid>
             <dc:creator><![CDATA[Arianna Huffington]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will This Summer Be a Record Hot One?]]></title>
-            <link>https://time.com/article/2026/06/29/what-are-the-three-hottest-years-on-record-and-how-will-this-summer-compare-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/29/what-are-the-three-hottest-years-on-record-and-how-will-this-summer-compare-/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
