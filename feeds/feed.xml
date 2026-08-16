@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 09:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 10:14:58 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 09:18:47 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 10:14:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[You Don’t Need 10,000 Steps to Help Your Heart]]></title>
+            <link>https://time.com/article/2026/08/16/every-step-counts-better-heart-health-sadiya-khan-essay/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/16/every-step-counts-better-heart-health-sadiya-khan-essay/</guid>
+            <dc:creator><![CDATA[Sadiya S. Khan]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Most Important Thing AI Can’t Do in Medicine]]></title>
             <link>https://time.com/article/2026/08/15/the-most-important-thing-ai-cannot-do-in-medicine/</link>
@@ -3305,13 +3312,6 @@
             <title><![CDATA[Introducing 'No. 10 North': Britain's Likely Next Prime Minister Lays Out Devolution Plans]]></title>
             <link>https://time.com/article/2026/06/29/andy-burnham-uk-prime-minister-plans-economics-devolution-backlash/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/29/andy-burnham-uk-prime-minister-plans-economics-devolution-backlash/</guid>
-            <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 Things Doctors Want You to Know About Hearing Aids]]></title>
-            <link>https://time.com/article/2026/06/29/hearing-aids-doctors-tips/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/29/hearing-aids-doctors-tips/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
