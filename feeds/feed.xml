@@ -4,48 +4,68 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 14:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 15:17:02 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 14:18:21 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 15:17:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What to Say to Someone Blasting Their Phone in Public]]></title>
             <link>https://time.com/article/2026/08/17/how-to-ask-someone-to-use-headphones-in-public/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/17/how-to-ask-someone-to-use-headphones-in-public/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Power of Setting and Declaring a Goal]]></title>
             <link>https://time.com/article/2026/08/17/the-power-of-setting-and-declaring-a-goal/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/17/the-power-of-setting-and-declaring-a-goal/</guid>
-            <dc:creator><![CDATA[Adrian Gore]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s South Korea Shift Tests a Key U.S. Alliance]]></title>
+            <link>https://time.com/article/2026/08/17/trump-south-korea-joint-drills-kim-north-nuclear-iran-analysis/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/17/trump-south-korea-joint-drills-kim-north-nuclear-iran-analysis/</guid>
+            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tributes Pour In for Actress Hayden Panettiere After Her Death at 36]]></title>
+            <link>https://time.com/article/2026/08/17/tributes-pour-in-for-actress-hayden-panettiere-after-death-at-36/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/17/tributes-pour-in-for-actress-hayden-panettiere-after-death-at-36/</guid>
+            <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Other Side of Paradise: How Pakistan Crushed Protests in Kashmir]]></title>
+            <link>https://time.com/article/2026/08/17/pakistan-civilian-killings-protests-in-kashmir/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/17/pakistan-civilian-killings-protests-in-kashmir/</guid>
+            <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frailty Is More Than Just Weakness. Here's What to Know]]></title>
+            <link>https://time.com/article/2026/08/17/frailty-is-more-than-weakness-what-to-know/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/17/frailty-is-more-than-weakness-what-to-know/</guid>
             <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[You Don’t Need 10,000 Steps to Help Your Heart]]></title>
             <link>https://time.com/article/2026/08/16/every-step-counts-better-heart-health-sadiya-khan-essay/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/16/every-step-counts-better-heart-health-sadiya-khan-essay/</guid>
-            <dc:creator><![CDATA[Sadiya S. Khan]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[30 Years After Tupac Shakur Was Killed, a Murder Trial Begins]]></title>
-            <description><![CDATA[Tupac Shakur was gunned down in 1996. Nearly 30 years later, a man allegedly linked to his death faces trial.]]></description>
             <link>https://time.com/article/2026/08/16/30-years-after-tupac-shakur-was-killed-a-murder-trial-begins/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/16/30-years-after-tupac-shakur-was-killed-a-murder-trial-begins/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ukraine Launches One of the War’s Largest Drone Attacks, Killing 6]]></title>
             <link>https://time.com/article/2026/08/16/ukraine-launches-one-of-the-wars-largest-drone-attacks-killing-6/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/16/ukraine-launches-one-of-the-wars-largest-drone-attacks-killing-6/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The People Building a Way to Slow Down the AI Race]]></title>
+            <description><![CDATA[As the race to build ever more powerful AI accelerates, a small group of engineers is working on the technology that could make slowing down possible.]]></description>
             <link>https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification/</guid>
             <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
@@ -101,6 +121,7 @@
             <title><![CDATA[Exclusive: Claude Was Put in Charge of Human Workers—and Fired One]]></title>
             <link>https://time.com/article/2026/08/14/claude-fired-worker-ai-job-disruption/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/14/claude-fired-worker-ai-job-disruption/</guid>
+            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
             <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3289,33 +3310,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/06/30/why-learning-a-language-still-matters/</guid>
             <dc:creator><![CDATA[Douglas Hofstadter]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Republicans Push for Constitutional Amendment Restricting Birthright Citizenship After Supreme Court Ruling]]></title>
-            <link>https://time.com/article/2026/06/30/birthright-citizenship-constitutional-amendment-republicans-supreme-court/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/30/birthright-citizenship-constitutional-amendment-republicans-supreme-court/</guid>
-            <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet Melat Kiros, the Democratic Socialist Who Won Colorado's Primary]]></title>
-            <link>https://time.com/article/2026/06/30/melat-kiros-democratic-socialist-colorado-congressional-race/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/30/melat-kiros-democratic-socialist-colorado-congressional-race/</guid>
-            <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bosnia and Herzegovina’s World Cup Team Is Already Changing the Country’s Story]]></title>
-            <link>https://time.com/article/2026/06/30/bosnia-herzegovina-world-cup/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/30/bosnia-herzegovina-world-cup/</guid>
-            <dc:creator><![CDATA[Arminka Helic]]></dc:creator>
-            <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The World Cup Knockout Stage Is Finally Here. Co-Host Canada Kicked It Off Right]]></title>
-            <description><![CDATA[For 10 consecutive days, starting with Canada’s triumphant Sunday, global soccer fans will be treated to a steady diet of win-or-go-home games.]]></description>
-            <link>https://time.com/article/2026/06/29/world-cup-knockout-stage-canada-south-africa-jesse-marsch/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/29/world-cup-knockout-stage-canada-south-africa-jesse-marsch/</guid>
-            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
