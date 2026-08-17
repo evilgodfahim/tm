@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 22:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 23:14:10 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 22:14:42 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 23:14:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What to Say to Someone Blasting Their Phone in Public]]></title>
@@ -55,6 +55,12 @@
             <title><![CDATA[Supreme Court Rejects Trump Appeal in Sexual Abuse Case—Again]]></title>
             <link>https://time.com/article/2026/08/17/supreme-court-again-rejects-trump-appeal-in-carroll-sexual-abuse-case/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/17/supreme-court-again-rejects-trump-appeal-in-carroll-sexual-abuse-case/</guid>
+            <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About the Earthquake in Indonesia]]></title>
+            <link>https://time.com/article/2026/08/17/indonesia-earthquake-damage-death-toll/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/17/indonesia-earthquake-damage-death-toll/</guid>
             <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3301,12 +3307,6 @@
             <link>https://time.com/article/2026/06/30/tom-kean-returns-congress-depression-diagnosis/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/30/tom-kean-returns-congress-depression-diagnosis/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Witkoff and Kushner in Doha to Meet Mediators, But No High-Level Talks Set With Iran, Says Qatar]]></title>
-            <link>https://time.com/article/2026/06/30/us-iran-peace-deal-talks-technical-doha-mediators-strait-of-hormuz/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/30/us-iran-peace-deal-talks-technical-doha-mediators-strait-of-hormuz/</guid>
             <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
