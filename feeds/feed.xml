@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 13:35:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 14:23:27 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 13:35:26 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 14:23:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Can AI Help Us Connect With the Real World?]]></title>
@@ -39,6 +39,13 @@
             <title><![CDATA[Is the World Getting Uglier?]]></title>
             <link>https://time.com/article/2026/08/18/is-the-world-getting-uglier/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/18/is-the-world-getting-uglier/</guid>
+            <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Forget Nonna-Maxxing. Ask Your Grandmother One Question Instead]]></title>
+            <link>https://time.com/article/2026/08/18/life-advice-from-older-women/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/18/life-advice-from-older-women/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3303,13 +3310,6 @@
             <link>https://time.com/article/2026/07/01/health-environment-benefits-car-free-city-streets/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/01/health-environment-benefits-car-free-city-streets/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We Need to Invest in the Dignity of Work for the AI Era]]></title>
-            <link>https://time.com/article/2026/07/01/in-the-ai-era-we-need-to-invest-in-the-dignity-of-work/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/01/in-the-ai-era-we-need-to-invest-in-the-dignity-of-work/</guid>
-            <dc:creator><![CDATA[Gene Sperling]]></dc:creator>
             <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
