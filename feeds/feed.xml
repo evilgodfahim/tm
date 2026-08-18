@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 03:36:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 04:26:13 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 03:36:45 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 04:26:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What to Say to Someone Blasting Their Phone in Public]]></title>
@@ -37,6 +37,7 @@
             <title><![CDATA[The Other Side of Paradise: How Pakistan Crushed Protests in Kashmir]]></title>
             <link>https://time.com/article/2026/08/17/pakistan-civilian-killings-protests-in-kashmir/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/17/pakistan-civilian-killings-protests-in-kashmir/</guid>
+            <dc:creator><![CDATA[Aqil Shah]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -61,6 +62,20 @@
             <title><![CDATA[What to Know About the Earthquake in Indonesia]]></title>
             <link>https://time.com/article/2026/08/17/indonesia-earthquake-damage-death-toll/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/17/indonesia-earthquake-damage-death-toll/</guid>
+            <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pilots and Flight Attendants Face a Real Cancer Risk. Frequent Flyers Shouldn’t Panic]]></title>
+            <link>https://time.com/article/2026/08/17/pilots-and-flight-attendants-face-a-real-cancer-risk/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/17/pilots-and-flight-attendants-face-a-real-cancer-risk/</guid>
+            <dc:creator><![CDATA[Vishal R. Patel]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Danger of Todd Blanche’s Statements on Abortion]]></title>
+            <link>https://time.com/article/2026/08/17/the-danger-of-todd-blanche-statements-on-abortion/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/17/the-danger-of-todd-blanche-statements-on-abortion/</guid>
+            <dc:creator><![CDATA[Brittany Fonteno]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3293,20 +3308,6 @@
             <title><![CDATA[A Splash of Color Might Be the Easiest Way to Boost Happiness]]></title>
             <link>https://time.com/article/2026/06/30/splash-of-color-happiness/</link>
             <guid isPermaLink="true">https://time.com/article/2026/06/30/splash-of-color-happiness/</guid>
-            <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 4 Best Foods for Acid Reflux]]></title>
-            <link>https://time.com/article/2026/06/30/4-best-foods-for-acid-reflux/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/30/4-best-foods-for-acid-reflux/</guid>
-            <dc:creator><![CDATA[Sarah Klein]]></dc:creator>
-            <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rep. Tom Kean Returns to Congress, Explains Mysterious Four-Month Absence]]></title>
-            <link>https://time.com/article/2026/06/30/tom-kean-returns-congress-depression-diagnosis/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/06/30/tom-kean-returns-congress-depression-diagnosis/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
