@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 17:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 18:23:53 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 17:19:09 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 18:23:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Can AI Help Us Connect With the Real World?]]></title>
@@ -53,7 +53,19 @@
             <title><![CDATA[Russia Warns U.K. It 'Will Pay' Over Ukraine Drone Support]]></title>
             <link>https://time.com/article/2026/08/18/-we-wont-be-bullied-uk-responds-to-russian-threat-over-ukraine-drone-support/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/18/-we-wont-be-bullied-uk-responds-to-russian-threat-over-ukraine-drone-support/</guid>
+            <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump-Appointed Prosecutor Sigal Chattah Loses Appeals Court Fight]]></title>
+            <link>https://time.com/article/2026/08/18/appeals-court-upholds-sigal-chattah-disqualification-as-nevada-attorney-in-latest-trump-legal-blow/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/18/appeals-court-upholds-sigal-chattah-disqualification-as-nevada-attorney-in-latest-trump-legal-blow/</guid>
             <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Is Double Jeopardy, and Why Are Luigi Mangione’s Lawyers Claiming It?]]></title>
+            <link>https://time.com/article/2026/08/18/double-jeopardy-luigi-mangione/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/18/double-jeopardy-luigi-mangione/</guid>
             <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -151,6 +163,7 @@
             <title><![CDATA[The People Building a Way to Slow Down the AI Race]]></title>
             <link>https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification/</guid>
+            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3296,20 +3309,6 @@
             <title><![CDATA[Captain Grandpa Has Heard All the Old Jokes]]></title>
             <link>https://time.com/article/2026/07/01/tim-ream-world-cup-age-usa/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/01/tim-ream-world-cup-age-usa/</guid>
-            <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Myth of the National Team]]></title>
-            <link>https://time.com/article/2026/07/01/the-myth-of-the-national-team/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/01/the-myth-of-the-national-team/</guid>
-            <dc:creator><![CDATA[Michael Morris]]></dc:creator>
-            <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nearly 450,000 New Yorkers Are Losing Health Coverage July 1]]></title>
-            <link>https://time.com/article/2026/07/01/new-yorkers-lose-health-coverage-trump-cuts-health-care/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/01/new-yorkers-lose-health-coverage-trump-cuts-health-care/</guid>
-            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
             <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
