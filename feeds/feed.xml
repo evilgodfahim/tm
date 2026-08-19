@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 21:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 22:15:15 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 21:17:02 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 22:15:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How to Recover From an Embarrassing Faux Pas]]></title>
@@ -36,6 +36,7 @@
             <title><![CDATA[Promising Results for mRNA Cancer Vaccine from Moderna and Merck]]></title>
             <link>https://time.com/article/2026/08/19/mrna-cancer-vaccine-moderna-merck/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/19/mrna-cancer-vaccine-moderna-merck/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -63,7 +64,6 @@
             <title><![CDATA[How One Small Section of Trump's Planned Border Wall Became the Center of a Big Battle]]></title>
             <link>https://time.com/article/2026/08/19/trump-border-wall-big-bend-national-park-texas/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/19/trump-border-wall-big-bend-national-park-texas/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -97,6 +97,20 @@
             <link>https://time.com/article/2026/08/19/natalie-harp-trump-white-house-aide-jon-ossoff/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/19/natalie-harp-trump-white-house-aide-jon-ossoff/</guid>
             <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zelenskyy Faces Pressure to Hold Elections. What Stands in the Way?]]></title>
+            <link>https://time.com/article/2026/08/19/zelenskyy-faces-pressure-to-hold-elections-what-stands-in-the-way-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/19/zelenskyy-faces-pressure-to-hold-elections-what-stands-in-the-way-/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Climate Change Is Messing With Your Blood]]></title>
+            <link>https://time.com/article/2026/08/19/climate-change-impacting-blood-carbon-dioxide-levels/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/19/climate-change-impacting-blood-carbon-dioxide-levels/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3292,19 +3306,6 @@
             <link>https://time.com/article/2026/07/03/how-to-make-ai-data-centers-more-sustainable/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/03/how-to-make-ai-data-centers-more-sustainable/</guid>
             <dc:creator><![CDATA[Sasha Luccioni]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Healing America Means Rethinking Patriotism]]></title>
-            <link>https://time.com/article/2026/07/03/healing-america-means-rethinking-patriotism/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/03/healing-america-means-rethinking-patriotism/</guid>
-            <dc:creator><![CDATA[Dominic Erdozain]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran Prepares for Week of Funeral Processions for Ayatollah Ali Khamenei]]></title>
-            <link>https://time.com/article/2026/07/03/iran-supreme-leader-ayatollah-ali-khamenei-funeral-mass-mourning/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/03/iran-supreme-leader-ayatollah-ali-khamenei-funeral-mass-mourning/</guid>
             <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
