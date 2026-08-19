@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 18:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 19:18:33 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 18:20:28 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 19:18:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How to Recover From an Embarrassing Faux Pas]]></title>
@@ -85,6 +85,12 @@
             <title><![CDATA[U.K. Signals Willingness to Reconsider Digital Services Tax After Trump Tariff Threat]]></title>
             <link>https://time.com/article/2026/08/19/uk-responds-to-mounting-trump-pressure-over-digital-services-tax/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/19/uk-responds-to-mounting-trump-pressure-over-digital-services-tax/</guid>
+            <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UAE Suspends Trade With Iran After Reported Missile Strikes]]></title>
+            <link>https://time.com/article/2026/08/19/uae-suspends-trade-with-iran-after-reported-missile-strikes/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/19/uae-suspends-trade-with-iran-after-reported-missile-strikes/</guid>
             <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3301,12 +3307,6 @@
             <link>https://time.com/article/2026/07/03/trump-nato-defense-spending-row-alliance-summit/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/03/trump-nato-defense-spending-row-alliance-summit/</guid>
             <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tucker Carlson Floats Idea of New Political Party Amid Split From Trump]]></title>
-            <link>https://time.com/article/2026/07/03/tucker-carlson-new-political-party-trump-maga-rift/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/03/tucker-carlson-new-political-party-trump-maga-rift/</guid>
             <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
