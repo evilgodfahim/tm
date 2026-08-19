@@ -4,15 +4,22 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 10:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 11:16:56 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 10:19:45 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 11:16:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How to Recover From an Embarrassing Faux Pas]]></title>
             <link>https://time.com/article/2026/08/19/how-to-recover-after-faux-pas/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/19/how-to-recover-after-faux-pas/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defense Department Orders 30 Universities to Audit China Ties]]></title>
+            <link>https://time.com/article/2026/08/19/higher-education-universities-china-research-defense-department-harvard-mit/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/19/higher-education-universities-china-research-defense-department-harvard-mit/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -82,7 +89,6 @@
             <title><![CDATA[FDA Approves First Drug to Treat a Cause of Narcolepsy]]></title>
             <link>https://time.com/article/2026/08/18/fda-approves-first-drug-to-treat-narcolepsy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/18/fda-approves-first-drug-to-treat-narcolepsy/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -98,6 +104,12 @@
             <link>https://time.com/article/2026/08/18/florida-rep-cory-mills-loses-primary-after-scandal-filled-campaign/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/18/florida-rep-cory-mills-loses-primary-after-scandal-filled-campaign/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI Is Slowing Down Its AI Training]]></title>
+            <link>https://time.com/article/2026/08/18/openai-slowing-training/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/18/openai-slowing-training/</guid>
             <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3294,20 +3306,6 @@
             <link>https://time.com/article/2026/07/02/the-far-gates-a-father-a-daughter-and-flights-from-iran/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/02/the-far-gates-a-father-a-daughter-and-flights-from-iran/</guid>
             <dc:creator><![CDATA[Mahsa Alimardani]]></dc:creator>
-            <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['The Five-Star Weekend' Is Five-Star Escapism]]></title>
-            <link>https://time.com/article/2026/07/02/five-star-weekend-peacock-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/02/five-star-weekend-peacock-review/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Little House on the Prairie' Reboot: Review]]></title>
-            <link>https://time.com/article/2026/07/02/little-house-on-the-prairie-review-netflix/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/02/little-house-on-the-prairie-review-netflix/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
