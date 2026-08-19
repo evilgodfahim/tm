@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 16:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 17:18:45 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 16:20:21 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 17:18:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How to Recover From an Embarrassing Faux Pas]]></title>
@@ -50,7 +50,35 @@
             <title><![CDATA[ICC Slams Trump Administration Sanctions]]></title>
             <link>https://time.com/article/2026/08/19/-international-criminal-court-slams-trump-administration-sanctions/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/19/-international-criminal-court-slams-trump-administration-sanctions/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ICE Is Asking Gate Agents To Help Arrest Passengers. Some Are Pushing Back]]></title>
+            <description><![CDATA[An airline manager warned a passenger that ICE agents were trying to locate her, helping her avoid a possible arrest.]]></description>
+            <link>https://time.com/article/2026/08/19/ice-is-asking-gate-agents-to-help-arrest-passengers-some-are-pushing-back/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/19/ice-is-asking-gate-agents-to-help-arrest-passengers-some-are-pushing-back/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How One Small Section of Trump's Planned Border Wall Became the Center of a Big Battle]]></title>
+            <link>https://time.com/article/2026/08/19/trump-border-wall-big-bend-national-park-texas/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/19/trump-border-wall-big-bend-national-park-texas/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Cathartic Ending of 'Lucky']]></title>
+            <link>https://time.com/article/2026/08/19/lucky-apple-tv-ending-explained/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/19/lucky-apple-tv-ending-explained/</guid>
+            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The True Story Behind 'Freefall: A Reckoning for Boeing']]></title>
+            <link>https://time.com/article/2026/08/19/freefall-a-reckoning-for-boeing-documentary/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/19/freefall-a-reckoning-for-boeing-documentary/</guid>
+            <dc:creator><![CDATA[Rory Doherty]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3278,32 +3306,6 @@
             <title><![CDATA[Russia Launches Drone and Missile Attack on Kyiv in Deadly 'Night of Horror']]></title>
             <link>https://time.com/article/2026/07/02/russia-drone-missile-attack-kyiv-ukraine-death-toll/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/02/russia-drone-missile-attack-kyiv-ukraine-death-toll/</guid>
-            <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Couple Arrested After Climbing Empire State Building: What to Know]]></title>
-            <link>https://time.com/article/2026/07/02/empire-state-building-climb-russian-couple/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/02/empire-state-building-climb-russian-couple/</guid>
-            <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America's World Cup Dreams Fueled By 'Pretty' Soccer]]></title>
-            <link>https://time.com/article/2026/07/02/us-bosnia-herzegovina-world-cup/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/02/us-bosnia-herzegovina-world-cup/</guid>
-            <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ebola Returns: How We Can Fight Back]]></title>
-            <link>https://time.com/article/2026/07/02/ebola-returns-how-we-can-fight-back/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/02/ebola-returns-how-we-can-fight-back/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
-            <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Business Model of Colleges Is Broken. It’s About to Get Worse]]></title>
-            <link>https://time.com/article/2026/07/02/the-business-model-of-colleges-is-broken-it-s-about-to-get-worse/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/02/the-business-model-of-colleges-is-broken-it-s-about-to-get-worse/</guid>
-            <dc:creator><![CDATA[Jeffrey Selingo]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
