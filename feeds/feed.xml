@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 02:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 03:38:32 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 02:13:02 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 03:38:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Can AI Help Us Connect With the Real World?]]></title>
@@ -29,10 +29,8 @@
         </item>
         <item>
             <title><![CDATA[SharkNinja’s Billionaire Chinese Backer on Building an American Success Story]]></title>
-            <description><![CDATA[In his first international media interview, SharkNinja chairman CJ Wang discusses the company’s rise at a time of growing U.S.-China tensions.]]></description>
             <link>https://time.com/article/2026/08/18/sharkninja-cj-wang-us-china/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/18/sharkninja-cj-wang-us-china/</guid>
-            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
             <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -58,7 +56,6 @@
             <title><![CDATA[Trump-Appointed Prosecutor Sigal Chattah Loses Appeals Court Fight]]></title>
             <link>https://time.com/article/2026/08/18/appeals-court-upholds-sigal-chattah-disqualification-as-nevada-attorney-in-latest-trump-legal-blow/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/18/appeals-court-upholds-sigal-chattah-disqualification-as-nevada-attorney-in-latest-trump-legal-blow/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -79,6 +76,21 @@
             <link>https://time.com/article/2026/08/18/fda-approves-first-drug-to-treat-narcolepsy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/18/fda-approves-first-drug-to-treat-narcolepsy/</guid>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who Is Byron Donalds, the Trump-Backed Favorite for Florida Governor?]]></title>
+            <description><![CDATA[The Naples-area congressman won the primary Tuesday and is largely favored to replace Gov. Ron DeSantis.]]></description>
+            <link>https://time.com/article/2026/08/18/byron-donalds-congressman-trump-republican-governor-florida/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/18/byron-donalds-congressman-trump-republican-governor-florida/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Florida Rep. Cory Mills Loses Primary After Scandal-Filled Campaign]]></title>
+            <link>https://time.com/article/2026/08/18/florida-rep-cory-mills-loses-primary-after-scandal-filled-campaign/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/18/florida-rep-cory-mills-loses-primary-after-scandal-filled-campaign/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3297,19 +3309,6 @@
             <link>https://time.com/article/2026/07/01/gop-republican-house-defense-save-america-act/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/01/gop-republican-house-defense-save-america-act/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
-            <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Reports Over $1 Billion in Income From Crypto Ventures]]></title>
-            <link>https://time.com/article/2026/07/01/trump-2025-financial-disclosure-crypto-world-liberty-financial/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/01/trump-2025-financial-disclosure-crypto-world-liberty-financial/</guid>
-            <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Best Thing to Say to Someone Who’s Crying]]></title>
-            <link>https://time.com/article/2026/07/01/what-to-say-when-someone-is-crying/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/01/what-to-say-when-someone-is-crying/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
