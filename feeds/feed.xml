@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 12:28:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 13:38:40 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 12:28:53 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 13:38:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[TIME's Longevity Leaders Are Racing to Add Good Years to Your Life]]></title>
+            <description><![CDATA[TIME set out to find some of the most innovative leaders who are starting to show concrete results in helping us to live longer, better.]]></description>
+            <link>https://time.com/article/2026/08/20/how-time-chose-longevity-leaders/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/20/how-time-chose-longevity-leaders/</guid>
+            <pubDate>Thu, 20 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to Recover From an Embarrassing Faux Pas]]></title>
             <link>https://time.com/article/2026/08/19/how-to-recover-after-faux-pas/</link>
@@ -54,10 +61,8 @@
         </item>
         <item>
             <title><![CDATA[ICE Is Asking Gate Agents To Help Arrest Passengers. Some Are Pushing Back]]></title>
-            <description><![CDATA[An airline manager warned a passenger that ICE agents were trying to locate her, helping her avoid a possible arrest.]]></description>
             <link>https://time.com/article/2026/08/19/ice-is-asking-gate-agents-to-help-arrest-passengers-some-are-pushing-back/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/19/ice-is-asking-gate-agents-to-help-arrest-passengers-some-are-pushing-back/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -102,7 +107,6 @@
             <title><![CDATA[Zelenskyy Faces Pressure to Hold Elections. What Stands in the Way?]]></title>
             <link>https://time.com/article/2026/08/19/zelenskyy-faces-pressure-to-hold-elections-what-stands-in-the-way-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/19/zelenskyy-faces-pressure-to-hold-elections-what-stands-in-the-way-/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -117,6 +121,13 @@
             <link>https://time.com/article/2026/08/19/heidi-overton-trump-fda-nominee/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/19/heidi-overton-trump-fda-nominee/</guid>
             <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Series Finale of 'Outer Banks']]></title>
+            <link>https://time.com/article/2026/08/19/outer-banks-season-5-ending/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/19/outer-banks-season-5-ending/</guid>
+            <dc:creator><![CDATA[Isadora Wandermurem]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3292,20 +3303,6 @@
             <link>https://time.com/article/2026/07/04/pope-leo-releases-letter-for-america-s-250th-birthday-calling-for-welcoming-immigrants/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/04/pope-leo-releases-letter-for-america-s-250th-birthday-calling-for-welcoming-immigrants/</guid>
             <pubDate>Sat, 04 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Watch D.C.'s Record-Breaking Fireworks Show]]></title>
-            <link>https://time.com/article/2026/07/04/how-to-watch-the-record-breaking-fourth-of-july-fireworks-show-on-the-national-mall/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/04/how-to-watch-the-record-breaking-fourth-of-july-fireworks-show-on-the-national-mall/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
-            <pubDate>Sat, 04 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI Woos Trump Administration as Investor]]></title>
-            <link>https://time.com/article/2026/07/03/openai-invest-ai-trump-administration-sam-altman/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/03/openai-invest-ai-trump-administration-sam-altman/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
