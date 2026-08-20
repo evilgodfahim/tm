@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 18:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 19:23:57 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 18:25:05 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 19:23:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME's Longevity Leaders Are Racing to Add Good Years to Your Life]]></title>
@@ -161,6 +161,12 @@
             <link>https://time.com/article/2026/08/19/as-students-return-to-school-america-s-classrooms-are-dangerously-hot/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/19/as-students-return-to-school-america-s-classrooms-are-dangerously-hot/</guid>
             <dc:creator><![CDATA[Bill Frist]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About Israel’s Probe Into the Killing of Hind Rajab]]></title>
+            <link>https://time.com/article/2026/08/19/israel-gaza-idf-hind-rajab-death-criminal-investigation/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/19/israel-gaza-idf-hind-rajab-death-criminal-investigation/</guid>
             <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3297,13 +3303,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/07/06/gail-daughtry-and-the-celebrity-sex-pass-review/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France, the World Cup Favorite, Lives On]]></title>
-            <link>https://time.com/article/2026/07/05/france-the-world-cup-favorite-lives-on-with-a-little-love-from-local-fans/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/05/france-the-world-cup-favorite-lives-on-with-a-little-love-from-local-fans/</guid>
-            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
-            <pubDate>Sun, 05 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
