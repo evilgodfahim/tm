@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 16:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 17:20:13 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 16:23:28 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 17:20:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[TIME's Longevity Leaders Are Racing to Add Good Years to Your Life]]></title>
@@ -26,6 +26,12 @@
             <link>https://time.com/article/2026/08/20/future-of-lettuce-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/20/future-of-lettuce-interview/</guid>
             <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran Hits Back at Trump’s Threat of a ‘Crushing’ Economic ‘D-Day’ Campaign]]></title>
+            <link>https://time.com/article/2026/08/20/iran-hits-back-at-trump-s-threat-of-a-crushing-economic-d-day-campaign/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/20/iran-hits-back-at-trump-s-threat-of-a-crushing-economic-d-day-campaign/</guid>
             <pubDate>Thu, 20 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -141,6 +147,13 @@
             <link>https://time.com/article/2026/08/19/outer-banks-season-5-ending/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/19/outer-banks-season-5-ending/</guid>
             <dc:creator><![CDATA[Isadora Wandermurem]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As Students Return, America’s Classrooms Are Dangerously Hot]]></title>
+            <link>https://time.com/article/2026/08/19/as-students-return-to-school-america-s-classrooms-are-dangerously-hot/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/19/as-students-return-to-school-america-s-classrooms-are-dangerously-hot/</guid>
+            <dc:creator><![CDATA[Bill Frist]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3290,19 +3303,6 @@
             <link>https://time.com/article/2026/07/05/khamenei-s-funeral-is-meant-to-project-strength-but-iran-s-new-leader-has-yet-to-appear/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/05/khamenei-s-funeral-is-meant-to-project-strength-but-iran-s-new-leader-has-yet-to-appear/</guid>
             <pubDate>Sun, 05 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Common Sense Prevails at the FIFA World Cup]]></title>
-            <link>https://time.com/article/2026/07/05/common-sense-prevails-at-fifa-world-cup/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/05/common-sense-prevails-at-fifa-world-cup/</guid>
-            <pubDate>Sun, 05 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America’s Greatest Strength]]></title>
-            <link>https://time.com/article/2026/07/04/america-s-greatest-strength/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/04/america-s-greatest-strength/</guid>
-            <dc:creator><![CDATA[Robert Hormats]]></dc:creator>
-            <pubDate>Sat, 04 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
