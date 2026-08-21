@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 19:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 20:15:22 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 19:19:22 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 20:15:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How Much the National Debt Grew Under Trump and Biden]]></title>
@@ -26,6 +26,19 @@
             <link>https://time.com/article/2026/08/21/trump-michael-cohen-radio/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/21/trump-michael-cohen-radio/</guid>
             <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Announces a Tariff Deal Aimed at Lowering Beef Prices]]></title>
+            <link>https://time.com/article/2026/08/21/beef-prices-trump-deal-tariffs/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/21/beef-prices-trump-deal-tariffs/</guid>
+            <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[XPrize Healthspan Is Testing the Best Ideas for Slowing Aging]]></title>
+            <link>https://time.com/article/2026/08/21/xprize-healthspan-best-longevity-ideas-top-10/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/21/xprize-healthspan-best-longevity-ideas-top-10/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3287,20 +3300,6 @@
             <title><![CDATA[Trump's FIFA Intervention Draws Global Backlash]]></title>
             <link>https://time.com/article/2026/07/06/trump-inserts-himself-in-world-cup-call-with-global-blowback/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/06/trump-inserts-himself-in-world-cup-call-with-global-blowback/</guid>
-            <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Heavier Weights Aren’t Always Better]]></title>
-            <link>https://time.com/article/2026/07/06/why-heavier-weights-are-not-always-better-strength-training/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/06/why-heavier-weights-are-not-always-better-strength-training/</guid>
-            <dc:creator><![CDATA[Jennifer Heimlich]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cognitive Rehabilitation May Help Treat Long Covid]]></title>
-            <link>https://time.com/article/2026/07/06/cognitive-rehabilitation-help-long-covid-study/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/06/cognitive-rehabilitation-help-long-covid-study/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
