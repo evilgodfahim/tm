@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 16:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 17:20:26 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 16:21:36 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 17:20:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How Much the National Debt Grew Under Trump and Biden]]></title>
@@ -19,6 +19,13 @@
             <title><![CDATA[What 72,000 Bodies at a Fence Revealed about Africa and Europe]]></title>
             <link>https://time.com/article/2026/08/21/spain-migrants-europe-morocco-border-africa/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/21/spain-migrants-europe-morocco-border-africa/</guid>
+            <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump and Michael Cohen Make Peace]]></title>
+            <link>https://time.com/article/2026/08/21/trump-michael-cohen-radio/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/21/trump-michael-cohen-radio/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -66,7 +73,6 @@
             <title><![CDATA[Woman Charged in Alleged Plot to Bomb the New York State Capitol]]></title>
             <link>https://time.com/article/2026/08/20/new-york-state-capitol-alleged-isis-bomb-plot/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/20/new-york-state-capitol-alleged-isis-bomb-plot/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Thu, 20 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3295,12 +3301,6 @@
             <link>https://time.com/article/2026/07/06/cognitive-rehabilitation-help-long-covid-study/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/06/cognitive-rehabilitation-help-long-covid-study/</guid>
             <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Accounts for Kids Are Now Live. Here's What Parents Need to Know]]></title>
-            <link>https://time.com/article/2026/07/06/trump-accounts-explained-children-investments-what-parents-should-know/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/06/trump-accounts-explained-children-investments-what-parents-should-know/</guid>
             <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
