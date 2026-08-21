@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 20:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 21:14:43 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 20:15:22 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 21:14:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How Much the National Debt Grew Under Trump and Biden]]></title>
@@ -39,6 +39,13 @@
             <link>https://time.com/article/2026/08/21/xprize-healthspan-best-longevity-ideas-top-10/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/21/xprize-healthspan-best-longevity-ideas-top-10/</guid>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Companies Are Bracing Themselves For El Niño’s Ripple Effects]]></title>
+            <link>https://time.com/article/2026/08/21/el-nino-economic-business-disruption/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/21/el-nino-economic-business-disruption/</guid>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3294,12 +3301,6 @@
             <title><![CDATA[Lincoln Memorial Reflecting Pool Repairs Awarded to Same Contractor]]></title>
             <link>https://time.com/article/2026/07/06/lincoln-memorial-reflecting-pool-repairs-Doug-Burgum-Algae-Gash/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/06/lincoln-memorial-reflecting-pool-repairs-Doug-Burgum-Algae-Gash/</guid>
-            <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump's FIFA Intervention Draws Global Backlash]]></title>
-            <link>https://time.com/article/2026/07/06/trump-inserts-himself-in-world-cup-call-with-global-blowback/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/06/trump-inserts-himself-in-world-cup-call-with-global-blowback/</guid>
             <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
