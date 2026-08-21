@@ -4,10 +4,23 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 14:25:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 15:24:09 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 14:25:25 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 15:24:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Much the National Debt Grew Under Trump and Biden]]></title>
+            <link>https://time.com/article/2026/08/21/national-debt-trump-biden/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/21/national-debt-trump-biden/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What 72,000 Bodies at a Fence Revealed about Africa and Europe]]></title>
+            <link>https://time.com/article/2026/08/21/spain-migrants-europe-morocco-border-africa/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/21/spain-migrants-europe-morocco-border-africa/</guid>
+            <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TIME's Longevity Leaders Are Racing to Add Good Years to Your Life]]></title>
             <description><![CDATA[TIME set out to find some of the most innovative leaders who are starting to show concrete results in helping us to live longer, better.]]></description>
@@ -17,8 +30,10 @@
         </item>
         <item>
             <title><![CDATA[Inside the DSA’s Push to Remake the Democratic Party]]></title>
+            <description><![CDATA[Socialists are winning primaries, inspiring young voters and rattling Democrats. Now comes the hard part.]]></description>
             <link>https://time.com/article/2026/08/20/inside-dsa-reshape-democratic-party/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/20/inside-dsa-reshape-democratic-party/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
             <pubDate>Thu, 20 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -45,13 +60,25 @@
             <title><![CDATA[Americans Are (Still) Drinking Less than Ever Before]]></title>
             <link>https://time.com/article/2026/08/20/americans-drinking-less-gallup-poll/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/20/americans-drinking-less-gallup-poll/</guid>
-            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
             <pubDate>Thu, 20 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Woman Charged in Alleged Plot to Bomb the New York State Capitol]]></title>
             <link>https://time.com/article/2026/08/20/new-york-state-capitol-alleged-isis-bomb-plot/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/20/new-york-state-capitol-alleged-isis-bomb-plot/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About Trump’s 250 Grand Prix]]></title>
+            <link>https://time.com/article/2026/08/20/freedom-250-grand-prix-indycar-washington-dc-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/20/freedom-250-grand-prix-indycar-washington-dc-trump/</guid>
+            <pubDate>Thu, 20 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[State Farm Is Sending $5 Billion in Dividend Payments to Customers]]></title>
+            <link>https://time.com/article/2026/08/20/state-farm-5-billion-dividend-payments/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/20/state-farm-5-billion-dividend-payments/</guid>
             <pubDate>Thu, 20 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3274,33 +3301,6 @@
             <title><![CDATA[Trump Accounts for Kids Are Now Live. Here's What Parents Need to Know]]></title>
             <link>https://time.com/article/2026/07/06/trump-accounts-explained-children-investments-what-parents-should-know/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/06/trump-accounts-explained-children-investments-what-parents-should-know/</guid>
-            <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China's Missile Test Is Putting the Pacific on Edge]]></title>
-            <link>https://time.com/article/2026/07/06/why-china-s-latest-missile-test-is-drawing-anger-unwelcome-and-concerning-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/06/why-china-s-latest-missile-test-is-drawing-anger-unwelcome-and-concerning-/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Elaborate Pageant of Khamenei’s Funeral, in Photos]]></title>
-            <description><![CDATA[Hundreds of thousands gathered in Tehran on Monday for the funeral procession of Supreme Leader Ayatollah Ali Khamenei.]]></description>
-            <link>https://time.com/article/2026/07/06/iran-ayatollah-ali-khamenei-funeral/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/06/iran-ayatollah-ali-khamenei-funeral/</guid>
-            <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Ending of 'Reborn Rookie']]></title>
-            <link>https://time.com/article/2026/07/06/reborn-rookie-ending-explained/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/06/reborn-rookie-ending-explained/</guid>
-            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
-            <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Reignites Tensions With Meloni Ahead of NATO Summit]]></title>
-            <link>https://time.com/article/2026/07/06/trump-reignites-tensions-with-meloni-ahead-of-nato-summit/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/06/trump-reignites-tensions-with-meloni-ahead-of-nato-summit/</guid>
             <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
