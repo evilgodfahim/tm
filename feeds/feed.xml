@@ -4,15 +4,22 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 19:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 20:12:18 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 19:15:52 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 20:12:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Supreme Court Let Trump’s Ballroom Proceed—for Now. Here’s What That Means]]></title>
             <description><![CDATA[An administrative stay allows aboveground construction to continue while the Court considers the Trump Administration’s emergency request.]]></description>
             <link>https://time.com/article/2026/08/23/the-supreme-court-let-trumps-ballroom-proceed-for-now-heres-what-that-means/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/23/the-supreme-court-let-trumps-ballroom-proceed-for-now-heres-what-that-means/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About the USPS’s Rule for Mail-In Ballots]]></title>
+            <link>https://time.com/article/2026/08/23/what-to-know-about-the-usps-s-rule-for-mail-in-ballots/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/23/what-to-know-about-the-usps-s-rule-for-mail-in-ballots/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 12:00:00 GMT</pubDate>
         </item>
@@ -33,7 +40,6 @@
             <title><![CDATA[How Much the National Debt Grew Under Trump and Biden]]></title>
             <link>https://time.com/article/2026/08/21/national-debt-trump-biden/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/21/national-debt-trump-biden/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3293,13 +3299,6 @@
             <title><![CDATA[Erling Haaland Is Proving Himself Wrong]]></title>
             <link>https://time.com/article/2026/07/06/erling-haaland-norway-brazil-world-cup-win-impossible-viking-row/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/06/erling-haaland-norway-brazil-world-cup-win-impossible-viking-row/</guid>
-            <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Govern AI in a World in Rupture]]></title>
-            <link>https://time.com/article/2026/07/06/how-to-govern-ai-in-a-world-in-rupture/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/06/how-to-govern-ai-in-a-world-in-rupture/</guid>
-            <dc:creator><![CDATA[Alain Berset]]></dc:creator>
             <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
