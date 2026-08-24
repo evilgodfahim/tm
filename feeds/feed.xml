@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 12:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 14:32:42 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 12:29:11 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 14:32:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[A ‘Tsunami’ for Ukraine: Zelensky Rejects Wartime Elections]]></title>
@@ -20,6 +20,20 @@
             <link>https://time.com/article/2026/08/24/silicon-valley-vision-of-the-ai-future-should-worry-you/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/24/silicon-valley-vision-of-the-ai-future-should-worry-you/</guid>
             <dc:creator><![CDATA[Liz Bucar]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Backlash After Hakeem Jeffries Holds Private Meeting With Jared Kushner Ahead of Midterms]]></title>
+            <description><![CDATA[The meeting, an unusual instance of a top Democrat and a Trump confidant coming together to discuss potential areas of agreement, has drawn scrutiny from some within Democratic circles.]]></description>
+            <link>https://time.com/article/2026/08/24/hakeem-jeffries-private-meeting-with-jared-kushner-draws-backlash-ahead-of-midterms/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/24/hakeem-jeffries-private-meeting-with-jared-kushner-draws-backlash-ahead-of-midterms/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Art of Mess in the AI Era]]></title>
+            <link>https://time.com/article/2026/08/24/the-art-of-mess-in-the-ai-era/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/24/the-art-of-mess-in-the-ai-era/</guid>
             <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -37,10 +51,8 @@
         </item>
         <item>
             <title><![CDATA[Canada to Match Trump’s 50% Tariffs, Dollar for Dollar]]></title>
-            <description><![CDATA[The latest escalation comes after last-minute changes derailed weeks of negotiations between the neighboring countries.]]></description>
             <link>https://time.com/article/2026/08/22/us-canada-trade-negotiations-breakdown-tariffs/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/22/us-canada-trade-negotiations-breakdown-tariffs/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sat, 22 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3286,20 +3298,6 @@
             <link>https://time.com/article/2026/07/07/why-we-view-the-past-as-better-than-present/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/07/why-we-view-the-past-as-better-than-present/</guid>
             <dc:creator><![CDATA[Markham Heid]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Which Side Are You On? Swift, Trump, and America's 250th]]></title>
-            <link>https://time.com/article/2026/07/07/july-4th-taylor-swift-america250-donald-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/07/july-4th-taylor-swift-america250-donald-trump/</guid>
-            <dc:creator><![CDATA[Jeffrey Sonnenfeld]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Emotional Ending of 'Five Star Weekend']]></title>
-            <link>https://time.com/article/2026/07/07/five-star-weekend-ending/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/07/five-star-weekend-ending/</guid>
-            <dc:creator><![CDATA[Olivia B. Waxman]]></dc:creator>
             <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
