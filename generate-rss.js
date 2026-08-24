@@ -13,9 +13,19 @@ const MAX_ITEMS = 500;
 
 fs.mkdirSync("./feeds", { recursive: true });
 
+// ===== BDT RFC 2822 =====
+function toBDTRFC(date = new Date()) {
+  const OFFSET_MS = 6 * 60 * 60 * 1000;
+  const bd = new Date(date.getTime() + OFFSET_MS);
+
+  const D = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+  const M = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+  const p = n => String(n).padStart(2, "0");
+
+  return `${D[bd.getUTCDay()]}, ${p(bd.getUTCDate())} ${M[bd.getUTCMonth()]} ${bd.getUTCFullYear()} ${p(bd.getUTCHours())}:${p(bd.getUTCMinutes())}:${p(bd.getUTCSeconds())} +0600`;
+}
+
 // ===== DATE PARSING =====
-// TIME article URLs carry the publish date: /article/YYYY/MM/DD/slug/
-// Fall back to parseItemDate for any date strings in the feed.
 function extractDateFromURL(href) {
   const m = (href || "").match(/\/article\/(\d{4})\/(\d{2})\/(\d{2})\//);
   if (m) {
@@ -23,8 +33,6 @@ function extractDateFromURL(href) {
     if (!isNaN(d.getTime())) return d;
   }
 
-  // Also support TIME's numeric article pages like:
-  // https://time.com/7383185/some-slug/
   const n = (href || "").match(/time\.com\/(\d{6,})\//);
   if (n) {
     const d = new Date();
@@ -44,8 +52,8 @@ function parseItemDate(raw) {
     const unit = relMatch[2].toLowerCase();
     const ms =
       unit === "minute" ? n * 60_000 :
-      unit === "hour" ? n * 3_600_000 :
-      n * 86_400_000;
+      unit === "hour"   ? n * 3_600_000 :
+                          n * 86_400_000;
     return new Date(Date.now() - ms);
   }
 
@@ -67,12 +75,12 @@ function loadExistingItems() {
 
     $("item").each((_, el) => {
       const $el = $(el);
-      const title = $el.find("title").first().text().trim();
-      const link = $el.find("link").first().text().trim()
-                || $el.find("guid").first().text().trim();
-      const desc = $el.find("description").first().text().trim();
-      const author = $el.find("author").first().text().trim()
-                  || $el.find("dc\\:creator").first().text().trim();
+      const title   = $el.find("title").first().text().trim();
+      const link    = $el.find("link").first().text().trim()
+                   || $el.find("guid").first().text().trim();
+      const desc    = $el.find("description").first().text().trim();
+      const author  = $el.find("author").first().text().trim()
+                   || $el.find("dc\\:creator").first().text().trim();
       const pubDate = $el.find("pubDate").first().text().trim();
 
       if (!title || !link) return;
@@ -113,12 +121,6 @@ async function fetchWithFlareSolverr(url) {
 
 function isLikelyTimeArticleLink(link) {
   if (!link) return false;
-
-  // Accept:
-  // 1) /article/YYYY/MM/DD/slug/
-  // 2) /7383185/slug/ style pages
-  // 3) absolute versions of the above
-  // Excluded: /collection/... pages
   if (/time\.com\/collection\//.test(link)) return false;
   return /time\.com\/(?:article\/\d{4}\/\d{2}\/\d{2}\/|[0-9]{6,}\/)/.test(link);
 }
@@ -132,7 +134,6 @@ function scrapeArticles(htmlContent) {
   $("article").each((_, el) => {
     const $card = $(el);
 
-    // Title + link
     const $heading = $card
       .find("h1, h2, h3, h4, h5")
       .filter((_, h) => ($(h).attr("class") || "").includes("font-editorial"))
@@ -152,13 +153,10 @@ function scrapeArticles(htmlContent) {
 
     const link = href.startsWith("http") ? href : baseURL + href;
 
-    // Important: check the normalized absolute URL, not the raw href only.
     if (!isLikelyTimeArticleLink(link)) return;
-
     if (seen.has(link)) return;
     seen.add(link);
 
-    // Description
     const description = $card
       .find("p")
       .filter((_, p) => ($(p).attr("class") || "").includes("text-caption-large"))
@@ -166,7 +164,6 @@ function scrapeArticles(htmlContent) {
       .text()
       .trim();
 
-    // Author
     let author = $card
       .find("p")
       .filter((_, p) => ($(p).attr("class") || "").includes("text-grey-1"))
@@ -192,7 +189,6 @@ function scrapeArticles(htmlContent) {
       });
     }
 
-    // Category
     const category = $card
       .find("a")
       .filter((_, a) => ($(a).attr("class") || "").includes("rounded-2"))
@@ -200,7 +196,6 @@ function scrapeArticles(htmlContent) {
       .text()
       .trim();
 
-    // Date
     const date = extractDateFromURL(link) || extractDateFromURL(href) || new Date();
 
     items.push({ title, link, description, author, category, date });
@@ -217,7 +212,6 @@ async function generateRSS() {
 
     console.log(`🆕 Scraped ${newItems.length} articles from TIME homepage`);
 
-    // Merge: new items take priority; deduplicate by link
     const existingItems = loadExistingItems();
     const existingByLink = new Map(existingItems.map(i => [i.link, i]));
 
@@ -247,7 +241,7 @@ async function generateRSS() {
       feed_url: `${baseURL}/feed`,
       site_url: baseURL,
       language: "en",
-      pubDate: new Date().toUTCString(),
+      pubDate: toBDTRFC(),
     });
 
     merged.forEach(item => {
@@ -278,7 +272,7 @@ async function generateRSS() {
       feed_url: `${baseURL}/feed`,
       site_url: baseURL,
       language: "en",
-      pubDate: new Date().toUTCString(),
+      pubDate: toBDTRFC(),
     });
 
     feed.item({
