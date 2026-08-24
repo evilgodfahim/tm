@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 18:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 19:21:55 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 18:26:37 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 19:21:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[A ‘Tsunami’ for Ukraine: Zelensky Rejects Wartime Elections]]></title>
@@ -104,6 +104,13 @@
             <link>https://time.com/article/2026/08/21/el-nino-economic-business-disruption/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/21/el-nino-economic-business-disruption/</guid>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Ending of 'Spooky in Love']]></title>
+            <link>https://time.com/article/2026/08/21/spooky-in-love-ending-explained/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/21/spooky-in-love-ending-explained/</guid>
+            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
             <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3290,13 +3297,6 @@
             <title><![CDATA[Hamas Says It Will Cede Power in Gaza. What Comes Next?]]></title>
             <link>https://time.com/article/2026/07/07/who-will-govern-gaza-after-hamas-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/07/who-will-govern-gaza-after-hamas-/</guid>
-            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Democrats Mull Platner Replacement—as Platner Weighs His Future]]></title>
-            <link>https://time.com/article/2026/07/07/race-to-replace-graham-platner-names/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/07/race-to-replace-graham-platner-names/</guid>
-            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
             <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
