@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 21:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 22:16:29 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 21:20:10 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 22:16:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[A ‘Tsunami’ for Ukraine: Zelensky Rejects Wartime Elections]]></title>
@@ -26,7 +26,6 @@
             <title><![CDATA[Backlash After Hakeem Jeffries Holds Private Meeting With Jared Kushner Ahead of Midterms]]></title>
             <link>https://time.com/article/2026/08/24/hakeem-jeffries-private-meeting-with-jared-kushner-draws-backlash-ahead-of-midterms/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/24/hakeem-jeffries-private-meeting-with-jared-kushner-draws-backlash-ahead-of-midterms/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -41,6 +40,13 @@
             <link>https://time.com/article/2026/08/24/-we-don-t-need-canada-trump-escalates-trade-war-with-threat-of-50-auto-tariffs/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/24/-we-don-t-need-canada-trump-escalates-trade-war-with-threat-of-50-auto-tariffs/</guid>
             <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iranian Rial Hits Record Low as the U.S. Unveils New Sanctions]]></title>
+            <link>https://time.com/article/2026/08/24/iranian-rial-hits-record-low-new-us-sanctions/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/24/iranian-rial-hits-record-low-new-us-sanctions/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3291,12 +3297,6 @@
             <link>https://time.com/article/2026/07/07/we-need-planetary-intelligence-in-the-age-of-ai/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/07/we-need-planetary-intelligence-in-the-age-of-ai/</guid>
             <dc:creator><![CDATA[Will Marshall]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hamas Says It Will Cede Power in Gaza. What Comes Next?]]></title>
-            <link>https://time.com/article/2026/07/07/who-will-govern-gaza-after-hamas-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/07/who-will-govern-gaza-after-hamas-/</guid>
             <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
