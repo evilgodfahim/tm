@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 22:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 23:17:35 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 22:16:55 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 23:17:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why AI Watermarks and Detectors Could Backfire]]></title>
@@ -75,7 +75,7 @@
         </item>
         <item>
             <title><![CDATA[Dolly Parton Dies at 80]]></title>
-            <description><![CDATA[Dolly Parton, the country music icon, businesswoman, and philanthropist, whose career spanned decades, has passed away.]]></description>
+            <description><![CDATA[Tributes to the late country music icon and philanthropist have poured in from friends and admirers.]]></description>
             <link>https://time.com/article/2026/08/25/dolly-parton-dead-tributes/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/dolly-parton-dead-tributes/</guid>
             <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
