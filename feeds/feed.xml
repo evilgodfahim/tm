@@ -4,15 +4,42 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 12:29:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 13:41:27 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 12:29:48 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 13:41:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why AI Watermarks and Detectors Could Backfire]]></title>
             <link>https://time.com/article/2026/08/25/why-ai-watermarks-and-detectors-could-backfire/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/why-ai-watermarks-and-detectors-could-backfire/</guid>
             <dc:creator><![CDATA[Nadav Ziv]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran Vows Retaliation After U.S. Widens ‘Economic D-Day’ Sanctions]]></title>
+            <description><![CDATA[After the measures were announced, Iran said its government was prepared to counter the newly unveiled U.S. sanctions.]]></description>
+            <link>https://time.com/article/2026/08/25/iran-vows-retaliation-after-u-s-widens-economic-d-day-sanctions/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/25/iran-vows-retaliation-after-u-s-widens-economic-d-day-sanctions/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Summer Is Ending With a 'Blood Moon' Lunar Eclipse]]></title>
+            <link>https://time.com/article/2026/08/25/blood-moon-lunar-eclipse-how-to-watch/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/25/blood-moon-lunar-eclipse-how-to-watch/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lawmakers Respond as Supreme Court Hands Trump Win on Mail-in Voting]]></title>
+            <link>https://time.com/article/2026/08/25/-supreme-court-mail-in-voting-trump-order-explainer/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/25/-supreme-court-mail-in-voting-trump-order-explainer/</guid>
+            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[America's Best Colleges of 2027]]></title>
+            <link>https://time.com/article/2026/08/25/americas-best-colleges-2027/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/25/americas-best-colleges-2027/</guid>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +80,19 @@
             <title><![CDATA[Iranian Rial Hits Record Low as the U.S. Unveils New Sanctions]]></title>
             <link>https://time.com/article/2026/08/24/iranian-rial-hits-record-low-new-us-sanctions/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/24/iranian-rial-hits-record-low-new-us-sanctions/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[J.D. Vance Calls Canada a ‘State,’ Claims ‘Freudian Slip’]]></title>
+            <link>https://time.com/article/2026/08/24/vance-canada-state-freudian-slip-us-trade-trump-carney-ford/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/24/vance-canada-state-freudian-slip-us-trade-trump-carney-ford/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tens of Thousands of Nevadans Evacuated in Latest Wildfire of Record-Breaking Year]]></title>
+            <link>https://time.com/article/2026/08/24/reno-nevada-hawk-fire-evacuations/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/24/reno-nevada-hawk-fire-evacuations/</guid>
             <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3257,47 +3296,6 @@
             <title><![CDATA[How a Stranger Used One Text Message to Steal My Entire Digital Life]]></title>
             <link>https://time.com/article/2026/07/07/how-a-stranger-used-one-text-message-to-steal-my-entire-digital-life/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/07/how-a-stranger-used-one-text-message-to-steal-my-entire-digital-life/</guid>
-            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China May Restrict Access to Its Most Powerful AI Models]]></title>
-            <link>https://time.com/article/2026/07/07/china-ai-models-alibaba-bytedance/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/07/china-ai-models-alibaba-bytedance/</guid>
-            <dc:creator><![CDATA[Harry Booth]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pressure Mounts for Platner as Allies Pull Support]]></title>
-            <description><![CDATA[Key Democratic allies are pulling endorsements for Graham Platner, a Maine Senate candidate, amid sexual assault allegations that he denies. Some are encouraging him to drop out.]]></description>
-            <link>https://time.com/article/2026/07/07/pressure-mounts-for-platner-as-allies-pull-support/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/07/pressure-mounts-for-platner-as-allies-pull-support/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump's Latest White House Renovation Project? A Multimillion-Dollar Helipad]]></title>
-            <link>https://time.com/article/2026/07/07/trumps-white-house-renovation-project-multimillion-dollar-helipad-backlash/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/07/trumps-white-house-renovation-project-multimillion-dollar-helipad-backlash/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zelensky Insists Ukraine 'Belongs in NATO,' Appeals for More Air Defense Systems]]></title>
-            <link>https://time.com/article/2026/07/07/zelensky-ukraine-nato-membership-air-defense-systems-summit/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/07/zelensky-ukraine-nato-membership-air-defense-systems-summit/</guid>
-            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[13 Summer Skin-Care Tips Dermatologists Swear By]]></title>
-            <link>https://time.com/article/2026/07/07/summer-skin-care-tips-dermatologists/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/07/summer-skin-care-tips-dermatologists/</guid>
-            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Latest AI Safety Rankings Are In. Nobody Gets an A]]></title>
-            <link>https://time.com/article/2026/07/07/ai-safety-rankings-openai-anthropic-meta/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/07/ai-safety-rankings-openai-anthropic-meta/</guid>
-            <dc:creator><![CDATA[Harry Booth]]></dc:creator>
             <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
