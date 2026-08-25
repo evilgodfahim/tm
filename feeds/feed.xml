@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 17:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 18:25:34 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 17:23:27 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 18:25:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why AI Watermarks and Detectors Could Backfire]]></title>
@@ -17,10 +17,8 @@
         </item>
         <item>
             <title><![CDATA[Iran Vows Retaliation After U.S. Widens ‘Economic D-Day’ Sanctions]]></title>
-            <description><![CDATA[After the measures were announced, Iran said its government was prepared to counter the newly unveiled U.S. sanctions.]]></description>
             <link>https://time.com/article/2026/08/25/iran-vows-retaliation-after-u-s-widens-economic-d-day-sanctions/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/iran-vows-retaliation-after-u-s-widens-economic-d-day-sanctions/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -59,6 +57,21 @@
             <title><![CDATA[Why Google Bid $10 Million for a Failed Airline’s Data]]></title>
             <link>https://time.com/article/2026/08/25/google-spirit-airlines-ai-data-RL/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/google-spirit-airlines-ai-data-RL/</guid>
+            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the Trump Administration Is Purging ‘Woke’ Art From U.S. Embassies]]></title>
+            <description><![CDATA[The painting was removed from an embassy in the Dominican Republic over so-called “woke ideologies.”]]></description>
+            <link>https://time.com/article/2026/08/25/kehinde-wiley-obama-artist-painting-us-embassy-art/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/25/kehinde-wiley-obama-artist-painting-us-embassy-art/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canada Retaliates Against Trump’s Tariffs With Levies of Up to 50% on U.S. Goods]]></title>
+            <link>https://time.com/article/2026/08/25/canada-retaliates-trumps-tariffs-with-levies/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/25/canada-retaliates-trumps-tariffs-with-levies/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3282,19 +3295,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/07/08/how-to-ensure-ai-serves-the-public-good/</guid>
             <dc:creator><![CDATA[Paschal Donohoe]]></dc:creator>
             <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How 'Evil Dead Burn' Fits Into the Horror Franchise]]></title>
-            <link>https://time.com/article/2026/07/08/evil-dead-burn-evil-dead-rise-connection/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/08/evil-dead-burn-evil-dead-rise-connection/</guid>
-            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stop Mourning the Old NATO. Build the New One.]]></title>
-            <link>https://time.com/article/2026/07/07/europe-nato-trump-ankara-summit-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/07/europe-nato-trump-ankara-summit-/</guid>
-            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
