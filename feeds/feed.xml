@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 18:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 19:23:57 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 18:25:34 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 19:23:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why AI Watermarks and Detectors Could Backfire]]></title>
@@ -61,7 +61,6 @@
         </item>
         <item>
             <title><![CDATA[Why the Trump Administration Is Purging ‘Woke’ Art From U.S. Embassies]]></title>
-            <description><![CDATA[The painting was removed from an embassy in the Dominican Republic over so-called “woke ideologies.”]]></description>
             <link>https://time.com/article/2026/08/25/kehinde-wiley-obama-artist-painting-us-embassy-art/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/kehinde-wiley-obama-artist-painting-us-embassy-art/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
@@ -72,6 +71,14 @@
             <link>https://time.com/article/2026/08/25/canada-retaliates-trumps-tariffs-with-levies/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/canada-retaliates-trumps-tariffs-with-levies/</guid>
             <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dolly Parton Dies at 80]]></title>
+            <description><![CDATA[Dolly Parton, the country music icon, businesswoman, and philanthropist, whose career spanned decades, has passed away.]]></description>
+            <link>https://time.com/article/2026/08/25/dolly-parton-dead-tributes/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/25/dolly-parton-dead-tributes/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3287,13 +3294,6 @@
             <link>https://time.com/article/2026/07/08/graham-platner-drops-out-of-maine-senate-race-after-series-of-allegations/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/08/graham-platner-drops-out-of-maine-senate-race-after-series-of-allegations/</guid>
             <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Ensure AI Serves the Public Good]]></title>
-            <link>https://time.com/article/2026/07/08/how-to-ensure-ai-serves-the-public-good/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/08/how-to-ensure-ai-serves-the-public-good/</guid>
-            <dc:creator><![CDATA[Paschal Donohoe]]></dc:creator>
             <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
