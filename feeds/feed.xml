@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 15:34:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 16:25:43 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 15:34:08 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 16:25:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why AI Watermarks and Detectors Could Backfire]]></title>
@@ -47,21 +47,18 @@
             <title><![CDATA[How to Break Up With Your Therapist]]></title>
             <link>https://time.com/article/2026/08/25/how-to-break-up-with-your-therapist/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/how-to-break-up-with-your-therapist/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why You Should Hang from a Bar for 30 Seconds]]></title>
             <link>https://time.com/article/2026/08/25/hanging-from-bar-benefits/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/hanging-from-bar-benefits/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Google Bid $10 Million for a Failed Airline’s Data]]></title>
             <link>https://time.com/article/2026/08/25/google-spirit-airlines-ai-data-RL/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/google-spirit-airlines-ai-data-RL/</guid>
-            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -114,6 +111,12 @@
             <title><![CDATA[Tens of Thousands of Nevadans Evacuated in Latest Wildfire of Record-Breaking Year]]></title>
             <link>https://time.com/article/2026/08/24/reno-nevada-hawk-fire-evacuations/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/24/reno-nevada-hawk-fire-evacuations/</guid>
+            <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Woolly Mammoth’s Comeback Is Taking Longer Than Expected]]></title>
+            <link>https://time.com/article/2026/08/24/woolly-mammoth-de-extinct-colossal-biosciences/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/24/woolly-mammoth-de-extinct-colossal-biosciences/</guid>
             <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -183,14 +186,12 @@
             <title><![CDATA[Breaking Down the Ending of 'Spooky in Love']]></title>
             <link>https://time.com/article/2026/08/21/spooky-in-love-ending-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/21/spooky-in-love-ending-explained/</guid>
-            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
             <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The True Story Behind 'Death of the Pastor's Wife']]></title>
             <link>https://time.com/article/2026/08/21/mica-miller-death-of-pastors-wife-true-story/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/21/mica-miller-death-of-pastors-wife-true-story/</guid>
-            <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
             <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -230,6 +231,7 @@
             <title><![CDATA[Americans Are (Still) Drinking Less than Ever Before]]></title>
             <link>https://time.com/article/2026/08/20/americans-drinking-less-gallup-poll/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/20/americans-drinking-less-gallup-poll/</guid>
+            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
             <pubDate>Thu, 20 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -407,6 +409,7 @@
             <title><![CDATA[Is the World Getting Uglier?]]></title>
             <link>https://time.com/article/2026/08/18/is-the-world-getting-uglier/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/18/is-the-world-getting-uglier/</guid>
+            <dc:creator><![CDATA[Debbie Millman]]></dc:creator>
             <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3291,12 +3294,6 @@
             <title><![CDATA[Stop Mourning the Old NATO. Build the New One.]]></title>
             <link>https://time.com/article/2026/07/07/europe-nato-trump-ankara-summit-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/07/europe-nato-trump-ankara-summit-/</guid>
-            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Belgium Silences U.S. Amid World Cup Noise]]></title>
-            <link>https://time.com/article/2026/07/07/us-world-cup-exit-belgium/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/07/us-world-cup-exit-belgium/</guid>
             <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
