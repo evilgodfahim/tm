@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 13:41:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 14:35:07 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 13:41:27 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 14:35:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why AI Watermarks and Detectors Could Backfire]]></title>
@@ -40,6 +40,13 @@
             <title><![CDATA[America's Best Colleges of 2027]]></title>
             <link>https://time.com/article/2026/08/25/americas-best-colleges-2027/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/americas-best-colleges-2027/</guid>
+            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Break Up With Your Therapist]]></title>
+            <link>https://time.com/article/2026/08/25/how-to-break-up-with-your-therapist/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/25/how-to-break-up-with-your-therapist/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3290,12 +3297,6 @@
             <link>https://time.com/article/2026/07/07/will-an-evening-workout-ruin-your-sleep/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/07/will-an-evening-workout-ruin-your-sleep/</guid>
             <dc:creator><![CDATA[Jennifer Heimlich]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How a Stranger Used One Text Message to Steal My Entire Digital Life]]></title>
-            <link>https://time.com/article/2026/07/07/how-a-stranger-used-one-text-message-to-steal-my-entire-digital-life/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/07/how-a-stranger-used-one-text-message-to-steal-my-entire-digital-life/</guid>
             <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
