@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 20:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 21:18:50 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 20:18:19 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 21:18:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why AI Watermarks and Detectors Could Backfire]]></title>
@@ -57,13 +57,13 @@
             <title><![CDATA[Why Google Bid $10 Million for a Failed Airline’s Data]]></title>
             <link>https://time.com/article/2026/08/25/google-spirit-airlines-ai-data-RL/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/google-spirit-airlines-ai-data-RL/</guid>
+            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why the Trump Administration Is Purging ‘Woke’ Art From U.S. Embassies]]></title>
             <link>https://time.com/article/2026/08/25/kehinde-wiley-obama-artist-painting-us-embassy-art/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/kehinde-wiley-obama-artist-painting-us-embassy-art/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +85,6 @@
             <title><![CDATA[Two People Have Died of Measles in Pennsylvania]]></title>
             <link>https://time.com/article/2026/08/25/two-people-have-died-of-measles-in-pennsylvania/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/two-people-have-died-of-measles-in-pennsylvania/</guid>
-            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -93,6 +92,12 @@
             <link>https://time.com/article/2026/08/25/data-centers-republican-reset-midterms/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/data-centers-republican-reset-midterms/</guid>
             <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Lake America’: Trump Floats Renaming Lake Ontario Amid Canada Tensions]]></title>
+            <link>https://time.com/article/2026/08/25/trump-lake-america-ontario-name-change-canada/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/25/trump-lake-america-ontario-name-change-canada/</guid>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3288,12 +3293,6 @@
             <title><![CDATA[What We Know About the Fatal ICE Shooting in Houston]]></title>
             <link>https://time.com/article/2026/07/08/what-we-know-about-the-fatal-ice-shooting-in-houston/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/08/what-we-know-about-the-fatal-ice-shooting-in-houston/</guid>
-            <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Moves to Revoke Syria's Designation as State Sponsor of Terrorism]]></title>
-            <link>https://time.com/article/2026/07/08/trump-syria-state-sponsor-terrorism-list-sanctions/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/08/trump-syria-state-sponsor-terrorism-list-sanctions/</guid>
             <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
