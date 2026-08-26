@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 09:31:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 10:25:19 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 09:31:47 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 10:25:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why I Stopped Fighting AI in My Classroom and Started Teaching With It]]></title>
+            <link>https://time.com/article/2026/08/26/why-i-stopped-fighting-ai-in-my-classroom-and-started-teaching-with-it/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/26/why-i-stopped-fighting-ai-in-my-classroom-and-started-teaching-with-it/</guid>
+            <dc:creator><![CDATA[Jason Corso]]></dc:creator>
+            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why AI Watermarks and Detectors Could Backfire]]></title>
             <link>https://time.com/article/2026/08/25/why-ai-watermarks-and-detectors-could-backfire/</link>
@@ -3289,13 +3296,6 @@
             <link>https://time.com/article/2026/07/08/trump-s-attacks-on-the-smithsonian-are-an-attack-on-american-history/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/08/trump-s-attacks-on-the-smithsonian-are-an-attack-on-american-history/</guid>
             <dc:creator><![CDATA[Marc Stein]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We’re Conservative Republicans. The SAVE Act Is a Mistake]]></title>
-            <link>https://time.com/article/2026/07/08/we-re-conservative-republicans-the-save-act-is-a-mistake/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/08/we-re-conservative-republicans-the-save-act-is-a-mistake/</guid>
-            <dc:creator><![CDATA[Reid Ribble]]></dc:creator>
             <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
