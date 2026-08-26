@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 14:35:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 16:10:33 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 14:35:35 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 16:10:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why I Stopped Fighting AI in My Classroom and Started Teaching With It]]></title>
@@ -17,17 +17,15 @@
         </item>
         <item>
             <title><![CDATA[Inside OpenAI’s Reboot]]></title>
+            <description><![CDATA[In extensive interviews, the leaders of the company that ushered in the AI boom lay out their vision for its future.]]></description>
             <link>https://time.com/article/2026/08/26/openai-sam-altman-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/26/openai-sam-altman-interview/</guid>
-            <dc:creator><![CDATA[Alex Heath]]></dc:creator>
             <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump Administration Warns Kennedy Center Could Be Demolished If It Isn’t Fixed]]></title>
-            <description><![CDATA[The Justice Department argues the memorial faces a "financial and structural death spiral" without Trump’s help.]]></description>
             <link>https://time.com/article/2026/08/26/kennedy-center-demolish-threat-trump-justice-department/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/26/kennedy-center-demolish-threat-trump-justice-department/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -41,6 +39,24 @@
             <title><![CDATA[Darline Graham Nordone Wins Runoff in South Carolina’s Special GOP Senate Primary]]></title>
             <link>https://time.com/article/2026/08/26/darline-graham-nordone-runoff-south-carolina-special-gop-senate-primary/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/26/darline-graham-nordone-runoff-south-carolina-special-gop-senate-primary/</guid>
+            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dolly Parton’s Death Prompts Rare Bipartisan Outpouring From U.S. Political Leaders]]></title>
+            <link>https://time.com/article/2026/08/26/dolly-parton-death-prompts-rare-bipartisan-outpouring/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/26/dolly-parton-death-prompts-rare-bipartisan-outpouring/</guid>
+            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flash Foods Leave Dozens Dead and Hundreds Missing in Nepal]]></title>
+            <link>https://time.com/article/2026/08/26/hundreds-feared-dead-including-foreign-tourists-after-flash-floods-in-nepal/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/26/hundreds-feared-dead-including-foreign-tourists-after-flash-floods-in-nepal/</guid>
+            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Toilet Paper Bad For You?]]></title>
+            <link>https://time.com/article/2026/08/26/is-toilet-paper-bad-for-you/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/26/is-toilet-paper-bad-for-you/</guid>
             <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -118,12 +134,14 @@
             <title><![CDATA[Two People Have Died of Measles in Pennsylvania]]></title>
             <link>https://time.com/article/2026/08/25/two-people-have-died-of-measles-in-pennsylvania/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/two-people-have-died-of-measles-in-pennsylvania/</guid>
+            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The GOP'S Data Center Panic]]></title>
             <link>https://time.com/article/2026/08/25/data-centers-republican-reset-midterms/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/data-centers-republican-reset-midterms/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -134,9 +152,9 @@
         </item>
         <item>
             <title><![CDATA[Dolly Parton Loved Us All, Darlin']]></title>
+            <description><![CDATA[The beloved country-music legend, who has died at 80, saw the light in everyone and sought to bring people together above all else.]]></description>
             <link>https://time.com/article/2026/08/25/dolly-parton-remembrance/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/dolly-parton-remembrance/</guid>
-            <dc:creator><![CDATA[Shima Oliaee]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -279,6 +297,7 @@
             <title><![CDATA[Breaking Down the Ending of 'Spooky in Love']]></title>
             <link>https://time.com/article/2026/08/21/spooky-in-love-ending-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/21/spooky-in-love-ending-explained/</guid>
+            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
             <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3276,26 +3295,6 @@
             <link>https://time.com/article/2026/07/09/florida-airport-officially-renamed-after-trump-here-s-what-to-know/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/09/florida-airport-officially-renamed-after-trump-here-s-what-to-know/</guid>
             <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About the Trump-Backed Freedom Fuel Network Gas Stations]]></title>
-            <link>https://time.com/article/2026/07/09/freedom-fuel-network-gas-stations-trump-white-house-prices/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/09/freedom-fuel-network-gas-stations-trump-white-house-prices/</guid>
-            <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Lucky' Makes Anya Taylor-Joy an Action Hero]]></title>
-            <link>https://time.com/article/2026/07/09/lucky-review-apple/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/09/lucky-review-apple/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Carries Out New Strikes Against Iran as Trump Says Cease-Fire Is 'Over']]></title>
-            <link>https://time.com/article/2026/07/08/us-iran-ceasefire-over-trump-strikes-strait-of-hormuz/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/08/us-iran-ceasefire-over-trump-strikes-strait-of-hormuz/</guid>
-            <dc:creator><![CDATA[Olivia-Anne Cleary, Callum Sutherland and Annika Neklason]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
