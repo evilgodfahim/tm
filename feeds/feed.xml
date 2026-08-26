@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 18:51:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 21:29:51 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 18:51:25 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 21:29:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why I Stopped Fighting AI in My Classroom and Started Teaching With It]]></title>
@@ -48,7 +48,7 @@
             <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Flash Foods Leave Dozens Dead and Hundreds Missing in Nepal]]></title>
+            <title><![CDATA[Nepal Flash Floods Leave Over 150 Dead Near Tibet Border]]></title>
             <link>https://time.com/article/2026/08/26/hundreds-feared-dead-including-foreign-tourists-after-flash-floods-in-nepal/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/26/hundreds-feared-dead-including-foreign-tourists-after-flash-floods-in-nepal/</guid>
             <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
@@ -77,6 +77,38 @@
             <link>https://time.com/article/2026/08/26/dolly-parton-buffy-the-vampire-slayer-producer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/26/dolly-parton-buffy-the-vampire-slayer-producer/</guid>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dolly Parton's Life, in Pictures]]></title>
+            <link>https://time.com/article/2026/08/26/dolly-partons-life-in-pictures/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/26/dolly-partons-life-in-pictures/</guid>
+            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here Are Tim Curry's Most Unforgettable Roles]]></title>
+            <link>https://time.com/article/2026/08/26/tim-curry-movies-and-tv-shows-unforgettable/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/26/tim-curry-movies-and-tv-shows-unforgettable/</guid>
+            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[E. coli, Salmonella, Cyclospora: Is the U.S. Seeing a Surge in Foodborne Illnesses?]]></title>
+            <link>https://time.com/article/2026/08/26/e-coli-salmonella-cyclospora-is-the-u-s-seeing-a-surge-in-foodborne-illnesses-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/26/e-coli-salmonella-cyclospora-is-the-u-s-seeing-a-surge-in-foodborne-illnesses-/</guid>
+            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Do When Someone Gives You the Silent Treatment]]></title>
+            <link>https://time.com/article/2026/08/26/what-to-do-when-someone-gives-you-the-silent-treatment/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/26/what-to-do-when-someone-gives-you-the-silent-treatment/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Experts Shrink Their Home's Water Usage]]></title>
+            <link>https://time.com/article/2026/08/26/water-experts-s-habits-to-reduce-their-water-footprint/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/26/water-experts-s-habits-to-reduce-their-water-footprint/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3263,38 +3295,6 @@
             <link>https://time.com/article/2026/07/10/election-assistance-commission-trump-firings/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/10/election-assistance-commission-trump-firings/</guid>
             <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[European Lawmakers Demand Investigation Into FIFA President Over U.S. Red Card Reversal]]></title>
-            <link>https://time.com/article/2026/07/10/world-cup-fifa-infantino-trump-us-balogun-red-card-european-lawmakers/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/10/world-cup-fifa-infantino-trump-us-balogun-red-card-european-lawmakers/</guid>
-            <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China Is Already Trying to Control Who the Next Dalai Lama Will Be]]></title>
-            <description><![CDATA[The fight over the 91-year-old’s reincarnation is becoming a test of China’s power over Tibet—and whether his spiritual legacy can outlast him.]]></description>
-            <link>https://time.com/article/2026/07/09/china-dalai-lama-succession-tibet/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/09/china-dalai-lama-succession-tibet/</guid>
-            <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. and Iran Trade Strikes For Second Night In a Row]]></title>
-            <link>https://time.com/article/2026/07/09/us-iran-strikes-trump-ceasefire-gulf-region/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/09/us-iran-strikes-trump-ceasefire-gulf-region/</guid>
-            <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Religion’s Longstanding Gender Gap Is Narrowing Among Gen Z]]></title>
-            <link>https://time.com/article/2026/07/09/religion-gender-gap-gen-z-young-men-women/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/09/religion-gender-gap-gen-z-young-men-women/</guid>
-            <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate Change Could Shrink the Brain of One of the Ocean's Most Intelligent Creatures]]></title>
-            <link>https://time.com/article/2026/07/09/climate-change-shrink-squid-brain-study/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/09/climate-change-shrink-squid-brain-study/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
