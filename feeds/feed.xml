@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 00:44:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 02:19:36 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 00:44:35 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 02:19:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why AI Watermarks and Detectors Could Backfire]]></title>
@@ -98,6 +98,13 @@
             <title><![CDATA[‘Lake America’: Trump Floats Renaming Lake Ontario Amid Canada Tensions]]></title>
             <link>https://time.com/article/2026/08/25/trump-lake-america-ontario-name-change-canada/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/trump-lake-america-ontario-name-change-canada/</guid>
+            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dolly Parton Loved Us All, Darlin']]></title>
+            <link>https://time.com/article/2026/08/25/dolly-parton-remembrance/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/25/dolly-parton-remembrance/</guid>
+            <dc:creator><![CDATA[Shima Oliaee]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3287,12 +3294,6 @@
             <title><![CDATA[Trump Says Ukraine Will Be Allowed to Manufacture Patriot Missile Interceptors]]></title>
             <link>https://time.com/article/2026/07/08/trump-zelensky-ukraine-patriot-missile-interceptors-russia-nato/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/08/trump-zelensky-ukraine-patriot-missile-interceptors-russia-nato/</guid>
-            <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What We Know About the Fatal ICE Shooting in Houston]]></title>
-            <link>https://time.com/article/2026/07/08/what-we-know-about-the-fatal-ice-shooting-in-houston/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/08/what-we-know-about-the-fatal-ice-shooting-in-houston/</guid>
             <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
