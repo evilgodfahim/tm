@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 16:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 18:51:25 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 16:10:33 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 18:51:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why I Stopped Fighting AI in My Classroom and Started Teaching With It]]></title>
@@ -57,6 +57,26 @@
             <title><![CDATA[Is Toilet Paper Bad For You?]]></title>
             <link>https://time.com/article/2026/08/26/is-toilet-paper-bad-for-you/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/26/is-toilet-paper-bad-for-you/</guid>
+            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Americans Feel Guilty Spending on Joyful Things]]></title>
+            <link>https://time.com/article/2026/08/26/survey-economy-personal-finance-purchases-usa/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/26/survey-economy-personal-finance-purchases-usa/</guid>
+            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift’s Coping Mantra—and How to Find Yours]]></title>
+            <link>https://time.com/article/2026/08/26/taylor-swift-coping-mantra-how-to-find-yours/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/26/taylor-swift-coping-mantra-how-to-find-yours/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dolly Parton Was the Real Buffy Summers]]></title>
+            <link>https://time.com/article/2026/08/26/dolly-parton-buffy-the-vampire-slayer-producer/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/26/dolly-parton-buffy-the-vampire-slayer-producer/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3274,26 +3294,6 @@
             <link>https://time.com/article/2026/07/09/climate-change-shrink-squid-brain-study/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/09/climate-change-shrink-squid-brain-study/</guid>
             <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Are Democrats Choosing Graham Platner's Replacement—and Who Could It Be?]]></title>
-            <link>https://time.com/article/2026/07/09/graham-platner-maine-senate-midterms-democrats/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/09/graham-platner-maine-senate-midterms-democrats/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Taking the Waters' Was the Original Summer Getaway]]></title>
-            <link>https://time.com/article/2026/07/09/taking-the-waters-spa-wellness-culture-history/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/09/taking-the-waters-spa-wellness-culture-history/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Florida Airport Officially Renamed After Trump]]></title>
-            <link>https://time.com/article/2026/07/09/florida-airport-officially-renamed-after-trump-here-s-what-to-know/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/09/florida-airport-officially-renamed-after-trump-here-s-what-to-know/</guid>
             <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
