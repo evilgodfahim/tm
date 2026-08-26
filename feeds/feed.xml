@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 12:32:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 14:35:35 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 12:32:50 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 14:35:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why I Stopped Fighting AI in My Classroom and Started Teaching With It]]></title>
@@ -20,6 +20,27 @@
             <link>https://time.com/article/2026/08/26/openai-sam-altman-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/26/openai-sam-altman-interview/</guid>
             <dc:creator><![CDATA[Alex Heath]]></dc:creator>
+            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Administration Warns Kennedy Center Could Be Demolished If It Isn’t Fixed]]></title>
+            <description><![CDATA[The Justice Department argues the memorial faces a "financial and structural death spiral" without Trump’s help.]]></description>
+            <link>https://time.com/article/2026/08/26/kennedy-center-demolish-threat-trump-justice-department/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/26/kennedy-center-demolish-threat-trump-justice-department/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About the Apparent Iranian Threat Against Barron Trump]]></title>
+            <link>https://time.com/article/2026/08/26/iran-state-media-threat-barron-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/26/iran-state-media-threat-barron-trump/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Darline Graham Nordone Wins Runoff in South Carolina’s Special GOP Senate Primary]]></title>
+            <link>https://time.com/article/2026/08/26/darline-graham-nordone-runoff-south-carolina-special-gop-senate-primary/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/26/darline-graham-nordone-runoff-south-carolina-special-gop-senate-primary/</guid>
             <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -84,12 +105,10 @@
             <title><![CDATA[Canada Retaliates Against Trump’s Tariffs With Levies of Up to 50% on U.S. Goods]]></title>
             <link>https://time.com/article/2026/08/25/canada-retaliates-trumps-tariffs-with-levies/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/canada-retaliates-trumps-tariffs-with-levies/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolly Parton Dies at 80]]></title>
-            <description><![CDATA[Tributes to the late country music icon and philanthropist have poured in from friends and admirers.]]></description>
             <link>https://time.com/article/2026/08/25/dolly-parton-dead-tributes/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/dolly-parton-dead-tributes/</guid>
             <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
@@ -105,7 +124,6 @@
             <title><![CDATA[The GOP'S Data Center Panic]]></title>
             <link>https://time.com/article/2026/08/25/data-centers-republican-reset-midterms/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/data-centers-republican-reset-midterms/</guid>
-            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3277,25 +3295,6 @@
             <link>https://time.com/article/2026/07/08/us-iran-ceasefire-over-trump-strikes-strait-of-hormuz/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/08/us-iran-ceasefire-over-trump-strikes-strait-of-hormuz/</guid>
             <dc:creator><![CDATA[Olivia-Anne Cleary, Callum Sutherland and Annika Neklason]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Orders U.S. to Cut All Trade With Spain as Feud Escalates at NATO Summit]]></title>
-            <link>https://time.com/article/2026/07/08/trump-united-states-spain-trade-cuts-nato-feud/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/08/trump-united-states-spain-trade-cuts-nato-feud/</guid>
-            <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Losing Even an Hour of Sleep a Night Is Linked to Weight Gain]]></title>
-            <link>https://time.com/article/2026/07/08/losing-hour-sleep-linked-to-weight-gain/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/08/losing-hour-sleep-linked-to-weight-gain/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Abdul El-Sayed Is Running Against Both Parties]]></title>
-            <link>https://time.com/article/2026/07/08/democratic-senate-hopeful-abdul-el-sayed-is-running-against-two-parties/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/08/democratic-senate-hopeful-abdul-el-sayed-is-running-against-two-parties/</guid>
             <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
