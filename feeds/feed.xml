@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Aug 2026 13:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 23:23:11 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 27 Aug 2026 13:22:55 GMT</pubDate>
+        <pubDate>Thu, 27 Aug 2026 23:23:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How We Chose the 2026 TIME100 AI]]></title>
@@ -25,6 +25,40 @@
             <title><![CDATA[3 Big Questions After Meta’s $18 Billion Teen Safety Settlement]]></title>
             <link>https://time.com/article/2026/08/27/meta-settlement-facebook-instagram-child-safety/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/27/meta-settlement-facebook-instagram-child-safety/</guid>
+            <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Signs Order to Rename Lake Ontario as 'Lake America']]></title>
+            <link>https://time.com/article/2026/08/27/trump-lake-ontario-america-order-canadians-boycott-us-travel-trade-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/27/trump-lake-ontario-america-order-canadians-boycott-us-travel-trade-war/</guid>
+            <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Eating a ‘Retinol Salad’ Improve Your Skin?]]></title>
+            <link>https://time.com/article/2026/08/27/will-eating-retinol-salad-improve-your-skin/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/27/will-eating-retinol-salad-improve-your-skin/</guid>
+            <dc:creator><![CDATA[Erica Sweeney]]></dc:creator>
+            <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Your Body Adapts to Changing Temperatures]]></title>
+            <link>https://time.com/article/2026/08/27/how-your-body-adapts-to-heat-temperature-changes/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/27/how-your-body-adapts-to-heat-temperature-changes/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[At Least One in Four NFL Players May Have CTE]]></title>
+            <link>https://time.com/article/2026/08/27/one-in-four-nfl-football-players-may-have-cte/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/27/one-in-four-nfl-football-players-may-have-cte/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI’s Models Went Rogue. Investigating Them Required More AI]]></title>
+            <link>https://time.com/article/2026/08/27/openai-hack-hugging-face-investigation/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/27/openai-hack-hugging-face-investigation/</guid>
+            <dc:creator><![CDATA[Billy Perrigo and Harry Booth]]></dc:creator>
             <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -67,7 +101,7 @@
             <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nepal Flash Floods Leave Over 300 Dead and Hundreds More Missing]]></title>
+            <title><![CDATA[Nepal Flash Floods Leave Over 380 Dead and Hundreds More Missing]]></title>
             <link>https://time.com/article/2026/08/26/hundreds-feared-dead-including-foreign-tourists-after-flash-floods-in-nepal/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/26/hundreds-feared-dead-including-foreign-tourists-after-flash-floods-in-nepal/</guid>
             <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
@@ -1498,6 +1532,12 @@
             <title><![CDATA[Breaking Down the End of 'Camp Miasma']]></title>
             <link>https://time.com/article/2026/08/06/teenage-sex-and-death-at-camp-miasma-ending-explained-jane-schoenbrun/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/06/teenage-sex-and-death-at-camp-miasma-ending-explained-jane-schoenbrun/</guid>
+            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Security Nightmare': Ireland Braces For Major Protests During Trump’s Visit]]></title>
+            <link>https://time.com/article/2026/08/06/trump-ireland-visit-irish-open-golf-protests-planned-security/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/06/trump-ireland-visit-irish-open-golf-protests-planned-security/</guid>
             <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3257,48 +3297,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/07/11/climate-aspen-institute-business-and-society/</guid>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Serious Are Iran’s Threats Against Trump?]]></title>
-            <link>https://time.com/article/2026/07/11/how-serious-are-iran-s-threats-against-trump-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/11/how-serious-are-iran-s-threats-against-trump-/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Tech Bro-ification of Marketing]]></title>
-            <link>https://time.com/article/2026/07/10/tech-bro-ification-of-marketing/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/10/tech-bro-ification-of-marketing/</guid>
-            <dc:creator><![CDATA[Miranda Shanahan]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the Iran War Worsens the Climate Crisis]]></title>
-            <link>https://time.com/article/2026/07/10/iran-war-middle-east-water-scarcity-climate-crisis/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/10/iran-war-middle-east-water-scarcity-climate-crisis/</guid>
-            <dc:creator><![CDATA[Sarah Yerkes]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Political Candidates Have An Opening on Clean Energy]]></title>
-            <link>https://time.com/article/2026/07/10/political-candidates-have-an-opening-on-clean-energy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/10/political-candidates-have-an-opening-on-clean-energy/</guid>
-            <dc:creator><![CDATA[David Kieve]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bipartisan Housing Bill Is Set to Become Law, Despite Trump’s Refusal to Sign It]]></title>
-            <description><![CDATA[Trump reiterated that he won’t sign the sweeping housing package “in protest” over the fact that Congress hasn’t passed the SAVE America Act.]]></description>
-            <link>https://time.com/article/2026/07/10/housing-bill-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/10/housing-bill-trump/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Palestinian Authority to Hold First Major Elections in 20 Years]]></title>
-            <link>https://time.com/article/2026/07/10/palestinian-authority-elections-gaza-west-bank-east-jerusalem-israel-explainer/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/10/palestinian-authority-elections-gaza-west-bank-east-jerusalem-israel-explainer/</guid>
-            <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
