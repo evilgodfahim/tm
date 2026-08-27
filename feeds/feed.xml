@@ -4,10 +4,29 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Aug 2026 02:26:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 13:22:55 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 27 Aug 2026 02:26:30 GMT</pubDate>
+        <pubDate>Thu, 27 Aug 2026 13:22:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How We Chose the 2026 TIME100 AI]]></title>
+            <description><![CDATA[Our fourth edition of the most influential people in AI features the best new additions to our community of AI leaders]]></description>
+            <link>https://time.com/article/2026/08/27/how-we-chose-time100-ai-2026/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/27/how-we-chose-time100-ai-2026/</guid>
+            <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. Says Chinese Hackers Targeted Senate, NASA, Hospitals, and More]]></title>
+            <link>https://time.com/article/2026/08/27/china-hack-federal-agencies-cybersecurity-qtfy-senate-nasa/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/27/china-hack-federal-agencies-cybersecurity-qtfy-senate-nasa/</guid>
+            <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3 Big Questions After Meta’s $18 Billion Teen Safety Settlement]]></title>
+            <link>https://time.com/article/2026/08/27/meta-settlement-facebook-instagram-child-safety/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/27/meta-settlement-facebook-instagram-child-safety/</guid>
+            <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why I Stopped Fighting AI in My Classroom and Started Teaching With It]]></title>
             <link>https://time.com/article/2026/08/26/why-i-stopped-fighting-ai-in-my-classroom-and-started-teaching-with-it/</link>
@@ -48,7 +67,7 @@
             <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nepal Flash Floods Leave Over 150 Dead Near Tibet Border]]></title>
+            <title><![CDATA[Nepal Flash Floods Leave Over 300 Dead and Hundreds More Missing]]></title>
             <link>https://time.com/article/2026/08/26/hundreds-feared-dead-including-foreign-tourists-after-flash-floods-in-nepal/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/26/hundreds-feared-dead-including-foreign-tourists-after-flash-floods-in-nepal/</guid>
             <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
@@ -83,18 +102,21 @@
             <title><![CDATA[Dolly Parton's Life, in Pictures]]></title>
             <link>https://time.com/article/2026/08/26/dolly-partons-life-in-pictures/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/26/dolly-partons-life-in-pictures/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Here Are Tim Curry's Most Unforgettable Roles]]></title>
             <link>https://time.com/article/2026/08/26/tim-curry-movies-and-tv-shows-unforgettable/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/26/tim-curry-movies-and-tv-shows-unforgettable/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[E. coli, Salmonella, Cyclospora: Is the U.S. Seeing a Surge in Foodborne Illnesses?]]></title>
             <link>https://time.com/article/2026/08/26/e-coli-salmonella-cyclospora-is-the-u-s-seeing-a-surge-in-foodborne-illnesses-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/26/e-coli-salmonella-cyclospora-is-the-u-s-seeing-a-surge-in-foodborne-illnesses-/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3276,25 +3298,6 @@
             <title><![CDATA[Palestinian Authority to Hold First Major Elections in 20 Years]]></title>
             <link>https://time.com/article/2026/07/10/palestinian-authority-elections-gaza-west-bank-east-jerusalem-israel-explainer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/10/palestinian-authority-elections-gaza-west-bank-east-jerusalem-israel-explainer/</guid>
-            <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Historic Bayeux Tapestry Returns to U.K. for First Time in Nearly 1,000 Years]]></title>
-            <link>https://time.com/article/2026/07/10/historic-bayeux-tapestry-returns-to-u-k-for-first-time-in-900-years-here-s-what-to-know/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/10/historic-bayeux-tapestry-returns-to-u-k-for-first-time-in-900-years-here-s-what-to-know/</guid>
-            <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Best Foods to Eat for Constipation]]></title>
-            <link>https://time.com/article/2026/07/10/best-foods-for-constipation/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/10/best-foods-for-constipation/</guid>
-            <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Review: Ross McElwee's 'Remake']]></title>
-            <link>https://time.com/article/2026/07/10/remake-review-ross-mcelwee/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/10/remake-review-ross-mcelwee/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
