@@ -4,10 +4,76 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Aug 2026 08:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 20:30:54 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 28 Aug 2026 08:06:16 GMT</pubDate>
+        <pubDate>Fri, 28 Aug 2026 20:30:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA['Preposterous': Lawmakers Reject Trump's Renaming of Lake Ontario]]></title>
+            <description><![CDATA[Canadian Prime Minister Mark Carney has said Lake Ontario will continue to be called by that name, despite Trump's Executive Order.]]></description>
+            <link>https://time.com/article/2026/08/28/lawmakers-reject-trump-renaming-lake-ontario-us-canada-trade-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/28/lawmakers-reject-trump-renaming-lake-ontario-us-canada-trade-war/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rep. Chuck Edwards Makes Last-Minute Attempt to Avoid Censure]]></title>
+            <link>https://time.com/article/2026/08/28/chuck-edwards-house-ethics-probe-censure/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/28/chuck-edwards-house-ethics-probe-censure/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Trouble With Trump’s Attempt to Rename Lake Ontario]]></title>
+            <link>https://time.com/article/2026/08/28/the-trouble-with-trump-s-attempt-to-rename-lake-ontario/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/28/the-trouble-with-trump-s-attempt-to-rename-lake-ontario/</guid>
+            <dc:creator><![CDATA[Reuben Rose-Redwood and Derek Alderman]]></dc:creator>
+            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[King Harald V of Norway Has Died After 35 Years On the Throne. Meet His Successor]]></title>
+            <link>https://time.com/article/2026/08/28/king-harald-v-norway-dies-son-successor-haakon-family-controversy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/28/king-harald-v-norway-dies-son-successor-haakon-family-controversy/</guid>
+            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mounjaro Is Now Approved to Lower the Risk of Heart Events]]></title>
+            <link>https://time.com/article/2026/08/28/eli-lilly-drug-mounjaro-approved-to-lower-heart-events-risk/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/28/eli-lilly-drug-mounjaro-approved-to-lower-heart-events-risk/</guid>
+            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Bigger Bet Behind Nvidia’s Hugging Face Deal]]></title>
+            <link>https://time.com/article/2026/08/28/nvidia-hugging-face-chips-open-source/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/28/nvidia-hugging-face-chips-open-source/</guid>
+            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When Did It Become So Hard to Make Plans With Friends?]]></title>
+            <link>https://time.com/article/2026/08/28/when-did-it-become-so-hard-to-make-plans-with-friends-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/28/when-did-it-become-so-hard-to-make-plans-with-friends-/</guid>
+            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Barney, But Make It Horror]]></title>
+            <link>https://time.com/article/2026/08/28/buddy-casper-kelly-interview/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/28/buddy-casper-kelly-interview/</guid>
+            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Bond Market’s Supply and Demand Problem]]></title>
+            <link>https://time.com/article/2026/08/28/the-bond-market-s-supply-and-demand-problem/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/28/the-bond-market-s-supply-and-demand-problem/</guid>
+            <dc:creator><![CDATA[Ray Dalio]]></dc:creator>
+            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A One-Time Treatment for High Cholesterol]]></title>
+            <link>https://time.com/article/2026/08/28/one-time-treatment-high-cholesterol-crispr-results/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/28/one-time-treatment-high-cholesterol-crispr-results/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How We Chose the 2026 TIME100 AI]]></title>
             <description><![CDATA[Our fourth edition of the most influential people in AI features the best new additions to our community of AI leaders]]></description>
@@ -59,6 +125,19 @@
             <link>https://time.com/article/2026/08/27/openai-hack-hugging-face-investigation/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/27/openai-hack-hugging-face-investigation/</guid>
             <dc:creator><![CDATA[Billy Perrigo and Harry Booth]]></dc:creator>
+            <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Run, Don't Walk, to See 'Coyote vs. Acme']]></title>
+            <link>https://time.com/article/2026/08/27/coyote-vs-acme-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/27/coyote-vs-acme-review/</guid>
+            <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why We Love Watching Robots Fail]]></title>
+            <link>https://time.com/article/2026/08/27/why-we-love-watching-robots-fail/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/27/why-we-love-watching-robots-fail/</guid>
+            <dc:creator><![CDATA[Kyle MacNeill]]></dc:creator>
             <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -267,9 +346,9 @@
         </item>
         <item>
             <title><![CDATA[Dolly Parton Loved Us All, Darlin']]></title>
-            <description><![CDATA[The beloved country-music legend, who has died at 80, saw the light in everyone and sought to bring people together above all else.]]></description>
             <link>https://time.com/article/2026/08/25/dolly-parton-remembrance/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/dolly-parton-remembrance/</guid>
+            <dc:creator><![CDATA[Shima Oliaee]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -277,6 +356,12 @@
             <link>https://time.com/article/2026/08/25/countries-need-to-look-beyond-gdp/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/countries-need-to-look-beyond-gdp/</guid>
             <dc:creator><![CDATA[Katrín Jakobsdóttir]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Ending of 'The Whisper Man']]></title>
+            <link>https://time.com/article/2026/08/25/whisper-man-ending-explained/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/25/whisper-man-ending-explained/</guid>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3212,91 +3297,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/07/13/lindsey-graham-death-aortic-dissection/</guid>
             <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel’s Economy Is Thriving. Many Israelis Are Not.]]></title>
-            <link>https://time.com/article/2026/07/13/israel-war-economy-cost-ordinary-israelis-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/13/israel-war-economy-cost-ordinary-israelis-/</guid>
-            <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.K. Government to Designate Iran’s IRGC a Threat to National Security]]></title>
-            <link>https://time.com/article/2026/07/13/uk-government-iran-irgc-terror-threat-designation/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/13/uk-government-iran-irgc-terror-threat-designation/</guid>
-            <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Graham's Death, McConnell's Absence Could Doom Senate Priorities]]></title>
-            <link>https://time.com/article/2026/07/13/how-graham-s-death-and-mcconnell-s-absence-complicates-senate-gop-s-agenda/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/13/how-graham-s-death-and-mcconnell-s-absence-complicates-senate-gop-s-agenda/</guid>
-            <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mozilla Wants to Build a ‘Rebel Alliance’ for Open-Source AI]]></title>
-            <link>https://time.com/article/2026/07/13/open-source-ai-mozilla-rebel-alliance/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/13/open-source-ai-mozilla-rebel-alliance/</guid>
-            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump's Ex-Campaign Manager Is Running An Israeli Influence Operation Targeting the MAGA Base]]></title>
-            <description><![CDATA[Brad Parscale has a $1.5 million per month contract to run the digital messaging effort]]></description>
-            <link>https://time.com/article/2026/07/13/brad-parscale-israel-influence-operation/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/13/brad-parscale-israel-influence-operation/</guid>
-            <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Trump Is Changing the 'Horrible' Front of the White House]]></title>
-            <link>https://time.com/article/2026/07/13/how-trump-is-changing-front-of-the-white-house-renovation-project/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/13/how-trump-is-changing-front-of-the-white-house-renovation-project/</guid>
-            <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Livestreamed Child Abuse Is Challenging How We Think About Online Privacy]]></title>
-            <link>https://time.com/article/2026/07/13/how-livestreamed-child-abuse-is-challenging-how-we-think-about-online-privacy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/13/how-livestreamed-child-abuse-is-challenging-how-we-think-about-online-privacy/</guid>
-            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Erling Haaland’s World Cup Ends In a Shocking Place]]></title>
-            <link>https://time.com/article/2026/07/12/erling-haaland-world-cup-end-norway-england-defeat/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/12/erling-haaland-world-cup-end-norway-england-defeat/</guid>
-            <pubDate>Sun, 12 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The World Remembers Sen. Lindsey Graham]]></title>
-            <link>https://time.com/article/2026/07/12/the-world-pays-tribute-to-sen-lindsey-graham/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/12/the-world-pays-tribute-to-sen-lindsey-graham/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Is the Status of the Strait of Hormuz?]]></title>
-            <link>https://time.com/article/2026/07/12/what-is-the-status-of-the-strait-of-hormuz-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/12/what-is-the-status-of-the-strait-of-hormuz-/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chief's CEO Alison Moore on the Future of Work for Women]]></title>
-            <link>https://time.com/article/2026/07/12/chief-ceo-alison-moore-interview/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/12/chief-ceo-alison-moore-interview/</guid>
-            <pubDate>Sun, 12 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grand Slam: Why Wimbledon Is Still the Biggest Stage in Tennis]]></title>
-            <link>https://time.com/article/2026/07/11/why-wimbledon-is-still-the-biggest-stage-in-tennis/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/11/why-wimbledon-is-still-the-biggest-stage-in-tennis/</guid>
-            <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Business Case for Climate Action Is Stronger Than It Looks]]></title>
-            <link>https://time.com/article/2026/07/11/climate-aspen-institute-business-and-society/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/11/climate-aspen-institute-business-and-society/</guid>
-            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
