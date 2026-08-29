@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Aug 2026 09:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 14:50:01 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 29 Aug 2026 09:41:34 GMT</pubDate>
+        <pubDate>Sat, 29 Aug 2026 14:50:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Therapy Has a Relationship Problem]]></title>
+            <link>https://time.com/article/2026/08/29/therapy-has-a-relationship-problem/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/29/therapy-has-a-relationship-problem/</guid>
+            <dc:creator><![CDATA[David H. Rosmarin]]></dc:creator>
+            <pubDate>Sat, 29 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['Preposterous': Lawmakers Reject Trump's Renaming of Lake Ontario]]></title>
             <description><![CDATA[Canadian Prime Minister Mark Carney has said Lake Ontario will continue to be called by that name, despite Trump's Executive Order.]]></description>
@@ -27,7 +34,6 @@
             <title><![CDATA[The Trouble With Trump’s Attempt to Rename Lake Ontario]]></title>
             <link>https://time.com/article/2026/08/28/the-trouble-with-trump-s-attempt-to-rename-lake-ontario/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/28/the-trouble-with-trump-s-attempt-to-rename-lake-ontario/</guid>
-            <dc:creator><![CDATA[Reuben Rose-Redwood and Derek Alderman]]></dc:creator>
             <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3289,13 +3295,6 @@
             <link>https://time.com/article/2026/07/13/ice-officers-involved-in-fatal-shooting-in-maine/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/13/ice-officers-involved-in-fatal-shooting-in-maine/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About Aortic Dissection, the Condition That Killed Lindsey Graham]]></title>
-            <link>https://time.com/article/2026/07/13/lindsey-graham-death-aortic-dissection/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/13/lindsey-graham-death-aortic-dissection/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
