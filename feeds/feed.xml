@@ -4,22 +4,27 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 30 Aug 2026 18:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 21:45:05 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 30 Aug 2026 18:17:11 GMT</pubDate>
+        <pubDate>Sun, 30 Aug 2026 21:45:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Doing Random Acts of Kindness Is Good for You]]></title>
             <link>https://time.com/article/2026/08/30/doing-random-acts-of-kindness-is-good-for-you/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/30/doing-random-acts-of-kindness-is-good-for-you/</guid>
-            <dc:creator><![CDATA[Joan M. Cook]]></dc:creator>
+            <pubDate>Sun, 30 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Is Trump’s U.S. Space Academy?]]></title>
+            <link>https://time.com/article/2026/08/30/what-is-trumps-us-space-academy-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/30/what-is-trumps-us-space-academy-/</guid>
+            <dc:creator><![CDATA[T. Michelle Murphy]]></dc:creator>
             <pubDate>Sun, 30 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Therapy Has a Relationship Problem]]></title>
             <link>https://time.com/article/2026/08/29/therapy-has-a-relationship-problem/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/29/therapy-has-a-relationship-problem/</guid>
-            <dc:creator><![CDATA[David H. Rosmarin]]></dc:creator>
             <pubDate>Sat, 29 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -46,6 +51,7 @@
             <title><![CDATA[The Trouble With Trump’s Attempt to Rename Lake Ontario]]></title>
             <link>https://time.com/article/2026/08/28/the-trouble-with-trump-s-attempt-to-rename-lake-ontario/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/28/the-trouble-with-trump-s-attempt-to-rename-lake-ontario/</guid>
+            <dc:creator><![CDATA[Reuben Rose-Redwood and Derek Alderman]]></dc:creator>
             <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3287,12 +3293,6 @@
             <title><![CDATA[Trump Insists U.S. Should 'Run' the Strait of Hormuz and Get Paid For It]]></title>
             <link>https://time.com/article/2026/07/13/us-iran-conflict-oil-prices-strait-of-hormuz-trump-control/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/13/us-iran-conflict-oil-prices-strait-of-hormuz-trump-control/</guid>
-            <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gap Years Are Wasted on the Young]]></title>
-            <link>https://time.com/article/2026/07/13/gap-years-are-wasted-on-the-young/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/13/gap-years-are-wasted-on-the-young/</guid>
             <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
