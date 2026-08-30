@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 30 Aug 2026 08:43:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 14:07:42 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 30 Aug 2026 08:43:48 GMT</pubDate>
+        <pubDate>Sun, 30 Aug 2026 14:07:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Doing Random Acts of Kindness Is Good for You]]></title>
+            <link>https://time.com/article/2026/08/30/doing-random-acts-of-kindness-is-good-for-you/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/30/doing-random-acts-of-kindness-is-good-for-you/</guid>
+            <dc:creator><![CDATA[Joan M. Cook]]></dc:creator>
+            <pubDate>Sun, 30 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Therapy Has a Relationship Problem]]></title>
             <link>https://time.com/article/2026/08/29/therapy-has-a-relationship-problem/</link>
@@ -27,7 +34,6 @@
             <title><![CDATA['Preposterous': Lawmakers Reject Trump's Renaming of Lake Ontario]]></title>
             <link>https://time.com/article/2026/08/28/lawmakers-reject-trump-renaming-lake-ontario-us-canada-trade-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/28/lawmakers-reject-trump-renaming-lake-ontario-us-canada-trade-war/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -58,6 +64,7 @@
             <title><![CDATA[The Bigger Bet Behind Nvidia’s Hugging Face Deal]]></title>
             <link>https://time.com/article/2026/08/28/nvidia-hugging-face-chips-open-source/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/28/nvidia-hugging-face-chips-open-source/</guid>
+            <dc:creator><![CDATA[Harry Booth]]></dc:creator>
             <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3286,14 +3293,6 @@
             <title><![CDATA[Gap Years Are Wasted on the Young]]></title>
             <link>https://time.com/article/2026/07/13/gap-years-are-wasted-on-the-young/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/13/gap-years-are-wasted-on-the-young/</guid>
-            <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lindsey Graham's Sister Appointed to Serve Out His Senate Term]]></title>
-            <description><![CDATA[South Carolina Gov. Henry McMaster named Darline Graham Nordone as the late senator's temporary replacement Monday afternoon.]]></description>
-            <link>https://time.com/article/2026/07/13/darline-nordone-lindsey-graham-sister-south-carolina-senate-trump-mcmaster/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/13/darline-nordone-lindsey-graham-sister-south-carolina-senate-trump-mcmaster/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
