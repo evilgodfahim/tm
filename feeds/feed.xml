@@ -4,16 +4,16 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 31 Aug 2026 14:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 20:30:52 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 31 Aug 2026 14:38:39 GMT</pubDate>
+        <pubDate>Mon, 31 Aug 2026 20:30:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[U.S. Strikes Iran in First Military Action in a Month]]></title>
-            <description><![CDATA[Iran reportedly retaliated with missile launches at a U.S. base in Jordan.]]></description>
+            <title><![CDATA[Trump Vows to Hit Iran ‘Hard’ After First Fresh Strikes in a Month]]></title>
+            <description><![CDATA[The President said the U.S. would respond to strikes Iran launched against American forces in Jordan in retaliation for an American attack.]]></description>
             <link>https://time.com/article/2026/08/31/us-iran-strikes-larak-island/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/31/us-iran-strikes-larak-island/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <dc:creator><![CDATA[Chad de Guzman and Annika Neklason]]></dc:creator>
             <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -24,7 +24,7 @@
             <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[1 Dead and 15 Missing After Flash Flooding at the Grand Canyon]]></title>
+            <title><![CDATA[2 Dead and More Than a Dozen Missing After Flash Flooding at the Grand Canyon]]></title>
             <link>https://time.com/article/2026/08/31/grand-canyon-flash-flood/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/31/grand-canyon-flash-flood/</guid>
             <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
@@ -33,6 +33,33 @@
             <title><![CDATA[The Economics of Public Grocery Stores]]></title>
             <link>https://time.com/article/2026/08/31/the-economics-of-public-grocery-stores/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/31/the-economics-of-public-grocery-stores/</guid>
+            <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What We Know About ‘Dollyfest’]]></title>
+            <link>https://time.com/article/2026/08/31/dollyfest-dolly-parton-festival/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/31/dollyfest-dolly-parton-festival/</guid>
+            <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Pack a Low-Waste School Lunch]]></title>
+            <link>https://time.com/article/2026/08/31/how-to-reduce-school-lunch-food-waste/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/31/how-to-reduce-school-lunch-food-waste/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4 Easy Ways to Start the Mediterranean Diet]]></title>
+            <link>https://time.com/article/2026/08/31/how-to-start-mediterranean-diet/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/31/how-to-start-mediterranean-diet/</guid>
+            <dc:creator><![CDATA[Kari Sonde]]></dc:creator>
+            <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Should You Prepare For A Super El Niño?]]></title>
+            <link>https://time.com/article/2026/08/31/how-to-prepare-super-el-nino/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/31/how-to-prepare-super-el-nino/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -301,6 +328,13 @@
             <link>https://time.com/article/2026/08/26/dolly-parton-rejoicing-exercises/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/26/dolly-parton-rejoicing-exercises/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the 'Furious' Finale]]></title>
+            <link>https://time.com/article/2026/08/26/furious-season-1-finale-explained/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/26/furious-season-1-finale-explained/</guid>
+            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3262,37 +3296,6 @@
             <title><![CDATA[What Is the Antiquities Act?]]></title>
             <link>https://time.com/article/2026/07/14/what-is-the-antiquities-act-and-how-is-the-120-year-old-law-being-tested-by-trump-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/14/what-is-the-antiquities-act-and-how-is-the-120-year-old-law-being-tested-by-trump-/</guid>
-            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICE to Pause Most Traffic Stops Following Pair of Deadly Shootings, Sources Say]]></title>
-            <link>https://time.com/article/2026/07/14/ice-traffic-stops-following-deadly-shootings-maine-texas-DHS-immigration/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/14/ice-traffic-stops-following-deadly-shootings-maine-texas-DHS-immigration/</guid>
-            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[House Passes Bill to Make Daylight Saving Time Permanent]]></title>
-            <link>https://time.com/article/2026/07/14/daylight-saving-time-permanent-bill-house/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/14/daylight-saving-time-permanent-bill-house/</guid>
-            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia Sanctions Bill Championed by Graham Would Give Trump New Tariff Powers]]></title>
-            <link>https://time.com/article/2026/07/14/russia-sanctions-bill-championed-by-graham-would-give-trump-new-tariff-powers/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/14/russia-sanctions-bill-championed-by-graham-would-give-trump-new-tariff-powers/</guid>
-            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man Killed by Vehicle While Fleeing ‘Encounter’ With DHS Agents in Florida, Official Says]]></title>
-            <link>https://time.com/article/2026/07/14/florida-ice-dhs-death-immigration/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/14/florida-ice-dhs-death-immigration/</guid>
-            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Israel Elect Netanyahu Again?]]></title>
-            <link>https://time.com/article/2026/07/14/will-israel-elect-netanyahu-again-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/14/will-israel-elect-netanyahu-again-/</guid>
-            <dc:creator><![CDATA[Ian Bremmer]]></dc:creator>
             <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
