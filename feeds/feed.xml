@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 31 Aug 2026 20:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 00:14:00 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 31 Aug 2026 20:30:52 GMT</pubDate>
+        <pubDate>Tue, 01 Sep 2026 00:14:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump Vows to Hit Iran ‘Hard’ After First Fresh Strikes in a Month]]></title>
-            <description><![CDATA[The President said the U.S. would respond to strikes Iran launched against American forces in Jordan in retaliation for an American attack.]]></description>
             <link>https://time.com/article/2026/08/31/us-iran-strikes-larak-island/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/31/us-iran-strikes-larak-island/</guid>
             <dc:creator><![CDATA[Chad de Guzman and Annika Neklason]]></dc:creator>
@@ -60,6 +59,19 @@
             <link>https://time.com/article/2026/08/31/how-to-prepare-super-el-nino/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/31/how-to-prepare-super-el-nino/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Flying Blind’: Trump’s Mail-In Ballot Fight Leaves Campaigns Guessing]]></title>
+            <link>https://time.com/article/2026/08/31/mail-in-ballots-campaigns-flying-blind/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/31/mail-in-ballots-campaigns-flying-blind/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kalshi Is Imposing Its First-Ever Lifetime Ban on Former Rep. George Santos. Here’s Why]]></title>
+            <link>https://time.com/article/2026/08/31/kalshi-george-santos-lifetime-ban/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/31/kalshi-george-santos-lifetime-ban/</guid>
             <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3284,18 +3296,6 @@
             <title><![CDATA[Newsom Says Trump Is 'Gravest Threat to American Democracy']]></title>
             <link>https://time.com/article/2026/07/14/newsom-trump-feud-november-midterms-democrats-rallying/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/14/newsom-trump-feud-november-midterms-democrats-rallying/</guid>
-            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Says the FBI Would Be ‘Wasting Their Time’ Investigating Lindsey Graham’s Death]]></title>
-            <link>https://time.com/article/2026/07/14/trump-lindsey-graham-death-conspiracy-theories-fbi/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/14/trump-lindsey-graham-death-conspiracy-theories-fbi/</guid>
-            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Is the Antiquities Act?]]></title>
-            <link>https://time.com/article/2026/07/14/what-is-the-antiquities-act-and-how-is-the-120-year-old-law-being-tested-by-trump-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/14/what-is-the-antiquities-act-and-how-is-the-120-year-old-law-being-tested-by-trump-/</guid>
             <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
