@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Sep 2026 15:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 19:01:51 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 01 Sep 2026 15:19:39 GMT</pubDate>
+        <pubDate>Tue, 01 Sep 2026 19:01:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Supreme Court Allows Trump’s $400 Million White House Ballroom to Proceed]]></title>
-            <description><![CDATA[The Supreme Court allowed construction to proceed but did not rule on whether Trump’s White House ballroom project is legal.]]></description>
             <link>https://time.com/article/2026/09/01/white-house-east-wing-ballroom-trump-supreme-court/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/01/white-house-east-wing-ballroom-trump-supreme-court/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
@@ -58,6 +57,14 @@
             <link>https://time.com/article/2026/09/01/rogue-ai-chatgpt-hugging-face-invasive-species/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/01/rogue-ai-chatgpt-hugging-face-invasive-species/</guid>
             <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Responds to Talk of Hegseth Running for President in 2028]]></title>
+            <description><![CDATA[Trump has shown reluctance in naming his successor, but he previously expressed interest in a potential ticket boasting Vice President J.D. Vance and Secretary of State Marco Rubio.]]></description>
+            <link>https://time.com/article/2026/09/01/trump-response-hegseth-run-for-president-2028-top-contenders/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/01/trump-response-hegseth-run-for-president-2028-top-contenders/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3291,13 +3298,6 @@
             <link>https://time.com/article/2026/07/14/how-often-should-you-get-up-from-your-desk-movement-snack/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/14/how-often-should-you-get-up-from-your-desk-movement-snack/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Unimaginable Trauma—And Resilience—of the People of Gaza]]></title>
-            <link>https://time.com/article/2026/07/14/trauma-resilience-gaza-james-gordon-essay/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/14/trauma-resilience-gaza-james-gordon-essay/</guid>
-            <dc:creator><![CDATA[Dr. James S. Gordon]]></dc:creator>
             <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
