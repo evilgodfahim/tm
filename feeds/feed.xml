@@ -4,15 +4,27 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Sep 2026 05:53:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 10:49:51 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 01 Sep 2026 05:53:43 GMT</pubDate>
+        <pubDate>Tue, 01 Sep 2026 10:49:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[SCOTUS Clears Way For Trump’s $400 Million White House Ballroom]]></title>
+            <link>https://time.com/article/2026/09/01/white-house-east-wing-ballroom-trump-supreme-court/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/01/white-house-east-wing-ballroom-trump-supreme-court/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Duane ‘Keffe D’ Davis Found Guilty of Tupac Shakur’s Murder]]></title>
+            <link>https://time.com/article/2026/09/01/duane-davis-tupac-shakur-1996-killing-guilty-verdict/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/01/duane-davis-tupac-shakur-1996-killing-guilty-verdict/</guid>
+            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump Vows to Hit Iran ‘Hard’ After First Fresh Strikes in a Month]]></title>
             <link>https://time.com/article/2026/08/31/us-iran-strikes-larak-island/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/31/us-iran-strikes-larak-island/</guid>
-            <dc:creator><![CDATA[Chad de Guzman and Annika Neklason]]></dc:creator>
             <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -38,6 +50,7 @@
             <title><![CDATA[What We Know About ‘Dollyfest’]]></title>
             <link>https://time.com/article/2026/08/31/dollyfest-dolly-parton-festival/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/31/dollyfest-dolly-parton-festival/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3283,19 +3296,6 @@
             <link>https://time.com/article/2026/07/14/why-humans-need-to-parent-ai-and-not-the-other-way-around/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/14/why-humans-need-to-parent-ai-and-not-the-other-way-around/</guid>
             <dc:creator><![CDATA[Dana Suskind]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In Defense of Reading Books]]></title>
-            <link>https://time.com/article/2026/07/14/in-defense-of-reading-books/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/14/in-defense-of-reading-books/</guid>
-            <dc:creator><![CDATA[Jen Benka]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Newsom Says Trump Is 'Gravest Threat to American Democracy']]></title>
-            <link>https://time.com/article/2026/07/14/newsom-trump-feud-november-midterms-democrats-rallying/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/14/newsom-trump-feud-november-midterms-democrats-rallying/</guid>
             <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
