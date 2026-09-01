@@ -4,15 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Sep 2026 19:01:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 22:12:58 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 01 Sep 2026 19:01:51 GMT</pubDate>
+        <pubDate>Tue, 01 Sep 2026 22:12:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Supreme Court Allows Trump’s $400 Million White House Ballroom to Proceed]]></title>
             <link>https://time.com/article/2026/09/01/white-house-east-wing-ballroom-trump-supreme-court/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/01/white-house-east-wing-ballroom-trump-supreme-court/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -65,6 +64,26 @@
             <link>https://time.com/article/2026/09/01/trump-response-hegseth-run-for-president-2028-top-contenders/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/01/trump-response-hegseth-run-for-president-2028-top-contenders/</guid>
             <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran’s President Signals Willingness to Resume Peace Talks. What Stands in the Way?]]></title>
+            <link>https://time.com/article/2026/09/01/irans-president-willing-to-resume-peace-talks-what-stands-in-the-way-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/01/irans-president-willing-to-resume-peace-talks-what-stands-in-the-way-/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet Sean Parnell, a Contender to Succeed Army Secretary Driscoll]]></title>
+            <link>https://time.com/article/2026/09/01/sean-parnell-chief-pentagon-spokesperson-driscoll-army-secretary-replacement-contender/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/01/sean-parnell-chief-pentagon-spokesperson-driscoll-army-secretary-replacement-contender/</guid>
+            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Is Nepal So Vulnerable to Flooding?]]></title>
+            <link>https://time.com/article/2026/09/01/nepal-flooding-risk-climate-change/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/01/nepal-flooding-risk-climate-change/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3280,25 +3299,6 @@
             <link>https://time.com/article/2026/07/15/england-argentina-world-cup/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/15/england-argentina-world-cup/</guid>
             <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why It Is Time for the West to Crush Putin’s War Economy]]></title>
-            <link>https://time.com/article/2026/07/15/west-ukraine-russia-putin-sanctions-economy-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/15/west-ukraine-russia-putin-sanctions-economy-/</guid>
-            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Iran Target Another Critical Maritime Chokepoint?]]></title>
-            <link>https://time.com/article/2026/07/15/iran-war-bab-el-mandeb-strait-trade-route-houthis-threat/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/15/iran-war-bab-el-mandeb-strait-trade-route-houthis-threat/</guid>
-            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A 5-Minute 'Movement Snack' Will Give You More Energy]]></title>
-            <link>https://time.com/article/2026/07/14/how-often-should-you-get-up-from-your-desk-movement-snack/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/14/how-often-should-you-get-up-from-your-desk-movement-snack/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
