@@ -4,12 +4,13 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Sep 2026 10:49:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 15:19:39 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 01 Sep 2026 10:49:51 GMT</pubDate>
+        <pubDate>Tue, 01 Sep 2026 15:19:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[SCOTUS Clears Way For Trump’s $400 Million White House Ballroom]]></title>
+            <title><![CDATA[Supreme Court Allows Trump’s $400 Million White House Ballroom to Proceed]]></title>
+            <description><![CDATA[The Supreme Court allowed construction to proceed but did not rule on whether Trump’s White House ballroom project is legal.]]></description>
             <link>https://time.com/article/2026/09/01/white-house-east-wing-ballroom-trump-supreme-court/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/01/white-house-east-wing-ballroom-trump-supreme-court/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
@@ -19,6 +20,44 @@
             <title><![CDATA[Duane ‘Keffe D’ Davis Found Guilty of Tupac Shakur’s Murder]]></title>
             <link>https://time.com/article/2026/09/01/duane-davis-tupac-shakur-1996-killing-guilty-verdict/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/01/duane-davis-tupac-shakur-1996-killing-guilty-verdict/</guid>
+            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Defends Hosting Russia at G20 as Europeans Voice Disapproval]]></title>
+            <link>https://time.com/article/2026/09/01/trump-defends-hosting-russia-g20-european-disapproval-ukraine-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/01/trump-defends-hosting-russia-g20-european-disapproval-ukraine-war/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former U.K. PM Keir Starmer Steps Down From Parliament. Read His Statement Here]]></title>
+            <link>https://time.com/article/2026/09/01/keir-starmer-resigns-british-parliament-statement-new-role/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/01/keir-starmer-resigns-british-parliament-statement-new-role/</guid>
+            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Says He's Lowering Drug Prices. Is it True?]]></title>
+            <link>https://time.com/article/2026/09/01/what-trump-most-favored-nation-deal-means-for-drug-prices/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/01/what-trump-most-favored-nation-deal-means-for-drug-prices/</guid>
+            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s Head Start Overhaul Borrows a Playbook That Already Failed]]></title>
+            <link>https://time.com/article/2026/09/01/trump-s-head-start-overhaul-borrows-a-playbook-that-already-failed/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/01/trump-s-head-start-overhaul-borrows-a-playbook-that-already-failed/</guid>
+            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 5-Minute Habit That Can Bring You Closer to Your Kid]]></title>
+            <link>https://time.com/article/2026/09/01/ask-your-child-to-teach-you-something/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/01/ask-your-child-to-teach-you-something/</guid>
+            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Rogue AI Could Act Like an Invasive Species]]></title>
+            <link>https://time.com/article/2026/09/01/rogue-ai-chatgpt-hugging-face-invasive-species/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/01/rogue-ai-chatgpt-hugging-face-invasive-species/</guid>
+            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
             <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -48,9 +87,9 @@
         </item>
         <item>
             <title><![CDATA[What We Know About ‘Dollyfest’]]></title>
+            <description><![CDATA[Dolly Parton planned to host and perform at the festival. Now, it's being held to honor her legacy.]]></description>
             <link>https://time.com/article/2026/08/31/dollyfest-dolly-parton-festival/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/31/dollyfest-dolly-parton-festival/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -140,6 +179,7 @@
             <title><![CDATA[Mounjaro Is Now Approved to Lower the Risk of Heart Events]]></title>
             <link>https://time.com/article/2026/08/28/eli-lilly-drug-mounjaro-approved-to-lower-heart-events-risk/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/28/eli-lilly-drug-mounjaro-approved-to-lower-heart-events-risk/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -157,9 +197,9 @@
         </item>
         <item>
             <title><![CDATA[Barney, But Make It Horror]]></title>
-            <description><![CDATA[Casper Kelly's comedy slasher about kids stuck inside a Barney-like TV show is the culmination of a career that began with a viral YouTube '90s sitcom parody.]]></description>
             <link>https://time.com/article/2026/08/28/buddy-casper-kelly-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/28/buddy-casper-kelly-interview/</guid>
+            <dc:creator><![CDATA[James Grebey]]></dc:creator>
             <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3258,44 +3298,6 @@
             <link>https://time.com/article/2026/07/14/trauma-resilience-gaza-james-gordon-essay/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/14/trauma-resilience-gaza-james-gordon-essay/</guid>
             <dc:creator><![CDATA[Dr. James S. Gordon]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Enough Is Enough': Lawmakers Criticize Trump Over Resumption of Iran War]]></title>
-            <link>https://time.com/article/2026/07/14/democrats-republicans-lawmakers-criticize-trump-resumption-iran-war-strait-of-hormuz/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/14/democrats-republicans-lawmakers-criticize-trump-resumption-iran-war-strait-of-hormuz/</guid>
-            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How TIME Is Embracing the Age of Creators]]></title>
-            <link>https://time.com/article/2026/07/14/time100-creators-2026-list/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/14/time100-creators-2026-list/</guid>
-            <dc:creator><![CDATA[Sam Jacobs]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Administration Vows to Dismantle the International Criminal Court]]></title>
-            <link>https://time.com/article/2026/07/14/international-criminal-court-icc-trump-rubio-state-department/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/14/international-criminal-court-icc-trump-rubio-state-department/</guid>
-            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Democratic Socialists Face Crucial Test in Maine]]></title>
-            <link>https://time.com/article/2026/07/14/Maine-Democratic-Socialists-Graham-Platner-Senate-race-Democratic-primary/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/14/Maine-Democratic-Socialists-Graham-Platner-Senate-race-Democratic-primary/</guid>
-            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump to Give Primetime Speech on Thursday: What to Expect]]></title>
-            <link>https://time.com/article/2026/07/14/trump-to-give-primetime-speech-on-thursday-what-to-expect/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/14/trump-to-give-primetime-speech-on-thursday-what-to-expect/</guid>
-            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How AI is Shaping Childhood]]></title>
-            <link>https://time.com/article/2026/07/14/why-humans-need-to-parent-ai-and-not-the-other-way-around/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/14/why-humans-need-to-parent-ai-and-not-the-other-way-around/</guid>
-            <dc:creator><![CDATA[Dana Suskind]]></dc:creator>
             <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
