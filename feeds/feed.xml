@@ -4,10 +4,52 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Sep 2026 10:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 14:49:34 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Sep 2026 10:14:04 GMT</pubDate>
+        <pubDate>Wed, 02 Sep 2026 14:49:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Introducing the 2026 TIME Trailblazers]]></title>
+            <description><![CDATA[The inaugural list recognizes leaders who are building a better world.]]></description>
+            <link>https://time.com/article/2026/09/02/introducing-time-trailblazers/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/02/introducing-time-trailblazers/</guid>
+            <dc:creator><![CDATA[Cate Matthews and Jessica Hullinger]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. and Iran Exchange Most Intense Attacks in Weeks]]></title>
+            <link>https://time.com/article/2026/09/02/us-iran-deadly-strikes-attacks-civilians-sirik-strait-hormuz/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/02/us-iran-deadly-strikes-attacks-civilians-sirik-strait-hormuz/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam and Tiago Ventura]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suspect in Charlie Kirk’s Murder Could Face Death Penalty]]></title>
+            <link>https://time.com/article/2026/09/02/charlie-kirk-murder-trial-tyler-robinson/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/02/charlie-kirk-murder-trial-tyler-robinson/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[80-Year-Old Sen. Ed Markey Holds Off Younger Challenger in Democratic Primary]]></title>
+            <link>https://time.com/article/2026/09/02/markey-moulton-massachusetts-senate-democratic-primary-results/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/02/markey-moulton-massachusetts-senate-democratic-primary-results/</guid>
+            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Hidden Value of Back-to-School Shopping]]></title>
+            <description><![CDATA[Our identities are wrapped up in objects and they can help us transition in our roles, writes Carey Morewedge.]]></description>
+            <link>https://time.com/article/2026/09/02/the-hidden-value-of-back-to-school-shopping/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/02/the-hidden-value-of-back-to-school-shopping/</guid>
+            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Your Venting Too Much?]]></title>
+            <link>https://time.com/article/2026/09/02/signs-venting-hurting-relationships/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/02/signs-venting-hurting-relationships/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Supreme Court Allows Trump’s $400 Million White House Ballroom to Proceed]]></title>
             <link>https://time.com/article/2026/09/01/white-house-east-wing-ballroom-trump-supreme-court/</link>
@@ -37,6 +79,7 @@
             <title><![CDATA[Trump Says He's Lowering Drug Prices. Is it True?]]></title>
             <link>https://time.com/article/2026/09/01/what-trump-most-favored-nation-deal-means-for-drug-prices/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/01/what-trump-most-favored-nation-deal-means-for-drug-prices/</guid>
+            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
             <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -62,7 +105,6 @@
             <title><![CDATA[Trump Responds to Talk of Hegseth Running for President in 2028]]></title>
             <link>https://time.com/article/2026/09/01/trump-response-hegseth-run-for-president-2028-top-contenders/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/01/trump-response-hegseth-run-for-president-2028-top-contenders/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -112,9 +154,9 @@
         </item>
         <item>
             <title><![CDATA[What We Know About ‘Dollyfest’]]></title>
-            <description><![CDATA[Dolly Parton planned to host and perform at the festival. Now, it's being held to honor her legacy.]]></description>
             <link>https://time.com/article/2026/08/31/dollyfest-dolly-parton-festival/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/31/dollyfest-dolly-parton-festival/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -149,6 +191,12 @@
             <title><![CDATA[Kalshi Is Imposing Its First-Ever Lifetime Ban on Former Rep. George Santos. Here’s Why]]></title>
             <link>https://time.com/article/2026/08/31/kalshi-george-santos-lifetime-ban/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/31/kalshi-george-santos-lifetime-ban/</guid>
+            <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Says Tariffs Saved the U.S. Auto Industry. The Data Tells a Different Story]]></title>
+            <link>https://time.com/article/2026/08/31/is-trump-responsible-for-reviving-america-s-auto-industry-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/31/is-trump-responsible-for-reviving-america-s-auto-industry-/</guid>
             <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3252,51 +3300,6 @@
             <link>https://time.com/article/2026/07/15/ice-reverses-plan-to-halt-vehicle-stops-after-trump-complains/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/15/ice-reverses-plan-to-halt-vehicle-stops-after-trump-complains/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI Should Give Rise to an Ownership Economy]]></title>
-            <link>https://time.com/article/2026/07/15/ai-should-give-rise-to-an-ownership-economy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/15/ai-should-give-rise-to-an-ownership-economy/</guid>
-            <dc:creator><![CDATA[Lynn Forester de Rothschild]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump's Logging Goals Could Threaten Vital Drinking Water]]></title>
-            <link>https://time.com/article/2026/07/15/trump-roadless-rule-drinking-water-study/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/15/trump-roadless-rule-drinking-water-study/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Mint to Start Producing $1 Coin Featuring Trump’s Face]]></title>
-            <link>https://time.com/article/2026/07/15/trump-1-dollar-coin-commemorative-us-mint-250th-anniversary/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/15/trump-1-dollar-coin-commemorative-us-mint-250th-anniversary/</guid>
-            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s Pick to Lead CDC Grilled by Senators About Vaccines]]></title>
-            <link>https://time.com/article/2026/07/15/dr-erica-schwartz-trump-pick-cdc-director-confirmation-hearing/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/15/dr-erica-schwartz-trump-pick-cdc-director-confirmation-hearing/</guid>
-            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Permanent Daylight Saving Time Would Look Like Across the U.S.]]></title>
-            <link>https://time.com/article/2026/07/15/daylight-saving-time-permanent-congress-bill-sunrise-sunset/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/15/daylight-saving-time-permanent-congress-bill-sunrise-sunset/</guid>
-            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Says ICE Is ‘Loved and Respected’ in America. Is That True?]]></title>
-            <link>https://time.com/article/2026/07/15/trump-says-ice-is-loved-and-respected-in-america-is-that-true-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/15/trump-says-ice-is-loved-and-respected-in-america-is-that-true-/</guid>
-            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England’s Soul Is Crushed, Again, This Time by More Messi Magic]]></title>
-            <link>https://time.com/article/2026/07/15/england-argentina-world-cup/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/15/england-argentina-world-cup/</guid>
             <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
