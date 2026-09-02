@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Sep 2026 14:49:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 18:15:24 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Sep 2026 14:49:34 GMT</pubDate>
+        <pubDate>Wed, 02 Sep 2026 18:15:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Introducing the 2026 TIME Trailblazers]]></title>
@@ -27,7 +27,6 @@
             <title><![CDATA[Suspect in Charlie Kirk’s Murder Could Face Death Penalty]]></title>
             <link>https://time.com/article/2026/09/02/charlie-kirk-murder-trial-tyler-robinson/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/02/charlie-kirk-murder-trial-tyler-robinson/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -48,6 +47,34 @@
             <link>https://time.com/article/2026/09/02/signs-venting-hurting-relationships/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/02/signs-venting-hurting-relationships/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. Mint Begins Selling Trump $1 Coins. Are They Legal?]]></title>
+            <link>https://time.com/article/2026/09/02/trump-1-gold-coins-go-on-sale/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/02/trump-1-gold-coins-go-on-sale/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is 'Scromiting'? ER Doctors Are Seeing it More]]></title>
+            <link>https://time.com/article/2026/09/02/what-is-scromiting-er-doctors-are-seeing-it-more/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/02/what-is-scromiting-er-doctors-are-seeing-it-more/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Personality Is Linked to Genes, New Study Finds]]></title>
+            <link>https://time.com/article/2026/09/02/personality-is-linked-to-genes-study/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/02/personality-is-linked-to-genes-study/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: Danny Boyle's 'Ink']]></title>
+            <link>https://time.com/article/2026/09/02/ink-review-danny-boyle/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/02/ink-review-danny-boyle/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3272,34 +3299,6 @@
             <link>https://time.com/article/2026/07/15/why-sports-fans-break-out-into-song-world-cup/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/15/why-sports-fans-break-out-into-song-world-cup/</guid>
             <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Giant Statue Mocking Trump's War in Iran Draws Attention in D.C.]]></title>
-            <link>https://time.com/article/2026/07/15/giant-protest-statue-mocks-trump-iran-war-washington-dc/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/15/giant-protest-statue-mocks-trump-iran-war-washington-dc/</guid>
-            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blood Tests for Alzheimer's Disease Are Showing Promise]]></title>
-            <link>https://time.com/article/2026/07/15/alzheimers-disease-tau-protein/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/15/alzheimers-disease-tau-protein/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Review: 'The Odyssey' Is Just Another Reason for Despair]]></title>
-            <link>https://time.com/article/2026/07/15/the-odyssey-review-christopher-nolan/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/15/the-odyssey-review-christopher-nolan/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICE Reverses Plan to Halt Vehicle Stops After Trump Complains]]></title>
-            <description><![CDATA[The walk back came a day after ICE agents had been told to avoid vehicle stops in the wake of deadly shootings in Maine and Houston.]]></description>
-            <link>https://time.com/article/2026/07/15/ice-reverses-plan-to-halt-vehicle-stops-after-trump-complains/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/15/ice-reverses-plan-to-halt-vehicle-stops-after-trump-complains/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
