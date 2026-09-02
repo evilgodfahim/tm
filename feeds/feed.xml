@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Sep 2026 18:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 21:27:01 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Sep 2026 18:15:24 GMT</pubDate>
+        <pubDate>Wed, 02 Sep 2026 21:27:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Introducing the 2026 TIME Trailblazers]]></title>
@@ -78,6 +78,33 @@
             <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Trump Suggests Renaming Strait of Hormuz the 'Trump Strait']]></title>
+            <link>https://time.com/article/2026/09/02/trump-suggests-renaming-strait-of-hormuz-after-himself-iran-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/02/trump-suggests-renaming-strait-of-hormuz-after-himself-iran-war/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[E.U. Chief Says Alleged Russian Drone Plot Had 'Hallmarks of State-Sponsored Terrorism']]></title>
+            <link>https://time.com/article/2026/09/02/germany-russia-alleged-drone-attack-airport-european-retaliation/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/02/germany-russia-alleged-drone-attack-airport-european-retaliation/</guid>
+            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why America's AI Boom Isn't an Industrial Boom]]></title>
+            <link>https://time.com/article/2026/09/02/why-america-s-ai-boom-isn-t-an-industrial-boom/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/02/why-america-s-ai-boom-isn-t-an-industrial-boom/</guid>
+            <dc:creator><![CDATA[Shubham Singhal]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The World Can’t Ignore Nepal. We Are All in Danger.]]></title>
+            <link>https://time.com/article/2026/09/02/climate-change-melting-glaciers-himalayas-floods-nepal-danger-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/02/climate-change-melting-glaciers-himalayas-floods-nepal-danger-/</guid>
+            <dc:creator><![CDATA[Sumnima Udas]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Supreme Court Allows Trump’s $400 Million White House Ballroom to Proceed]]></title>
             <link>https://time.com/article/2026/09/01/white-house-east-wing-ballroom-trump-supreme-court/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/01/white-house-east-wing-ballroom-trump-supreme-court/</guid>
@@ -113,6 +140,7 @@
             <title><![CDATA[Trump’s Head Start Overhaul Borrows a Playbook That Already Failed]]></title>
             <link>https://time.com/article/2026/09/01/trump-s-head-start-overhaul-borrows-a-playbook-that-already-failed/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/01/trump-s-head-start-overhaul-borrows-a-playbook-that-already-failed/</guid>
+            <dc:creator><![CDATA[Peter Edelman]]></dc:creator>
             <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -152,6 +180,7 @@
             <title><![CDATA[Why Is Nepal So Vulnerable to Flooding?]]></title>
             <link>https://time.com/article/2026/09/01/nepal-flooding-risk-climate-change/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/01/nepal-flooding-risk-climate-change/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3272,34 +3301,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/07/16/they-fight-true-story-hulu/</guid>
             <dc:creator><![CDATA[Olivia B. Waxman]]></dc:creator>
             <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['House of the Dragon' Season 3 Is Setting Up Another Major Showdown]]></title>
-            <link>https://time.com/article/2026/07/16/house-of-the-dragon-season-3-episode-5-ormund-hightower-tumbleton/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/16/house-of-the-dragon-season-3-episode-5-ormund-hightower-tumbleton/</guid>
-            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Models Are AI’s Next Frontier]]></title>
-            <link>https://time.com/article/2026/07/15/world-models-are-ai-s-next-frontier/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/15/world-models-are-ai-s-next-frontier/</guid>
-            <dc:creator><![CDATA[Celine Herweijer]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 Mistakes That Can Make Diarrhea Worse]]></title>
-            <link>https://time.com/article/2026/07/15/mistakes-that-make-diarrhea-worse/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/15/mistakes-that-make-diarrhea-worse/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Singing Is One of Sports' Most Enduring Rituals]]></title>
-            <link>https://time.com/article/2026/07/15/why-sports-fans-break-out-into-song-world-cup/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/15/why-sports-fans-break-out-into-song-world-cup/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
