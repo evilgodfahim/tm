@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Sep 2026 21:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 23:42:21 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Sep 2026 21:27:01 GMT</pubDate>
+        <pubDate>Wed, 02 Sep 2026 23:42:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Introducing the 2026 TIME Trailblazers]]></title>
@@ -81,7 +81,6 @@
             <title><![CDATA[Trump Suggests Renaming Strait of Hormuz the 'Trump Strait']]></title>
             <link>https://time.com/article/2026/09/02/trump-suggests-renaming-strait-of-hormuz-after-himself-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/02/trump-suggests-renaming-strait-of-hormuz-after-himself-iran-war/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -102,6 +101,20 @@
             <link>https://time.com/article/2026/09/02/climate-change-melting-glaciers-himalayas-floods-nepal-danger-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/02/climate-change-melting-glaciers-himalayas-floods-nepal-danger-/</guid>
             <dc:creator><![CDATA[Sumnima Udas]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Republican Senator Calls On Trump to Replace Defense Secretary Pete Hegseth]]></title>
+            <link>https://time.com/article/2026/09/02/trump-hegseth-tillis-driscoll-resignation-pentagon/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/02/trump-hegseth-tillis-driscoll-resignation-pentagon/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boosting Africa's Farmers Is a Boost to the Economy]]></title>
+            <link>https://time.com/article/2026/09/02/africa-farmers-economy-future/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/02/africa-farmers-economy-future/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3286,20 +3299,6 @@
             <link>https://time.com/article/2026/07/16/the-odyssey-reading-list-greek-mythology/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/16/the-odyssey-reading-list-greek-mythology/</guid>
             <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Backlash to Anthropic's Ad Misses Something Bigger]]></title>
-            <link>https://time.com/article/2026/07/16/anthropic-ai-marketing-advertisement/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/16/anthropic-ai-marketing-advertisement/</guid>
-            <dc:creator><![CDATA[Harry Booth]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The True Story Behind They Fight]]></title>
-            <link>https://time.com/article/2026/07/16/they-fight-true-story-hulu/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/16/they-fight-true-story-hulu/</guid>
-            <dc:creator><![CDATA[Olivia B. Waxman]]></dc:creator>
             <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
