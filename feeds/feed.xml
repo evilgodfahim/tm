@@ -4,16 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Sep 2026 12:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 16:46:33 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Sep 2026 12:23:36 GMT</pubDate>
+        <pubDate>Thu, 03 Sep 2026 16:46:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Feminist Activist and Icon Gloria Steinem Dies at 92]]></title>
-            <description><![CDATA[Gloria Steinem, the feminist activist who inspired a generation of women and fought for gender equality, "passed away peacefully" at her home in New York City.]]></description>
             <link>https://time.com/article/2026/09/03/gloria-steinem-dead-at-92-feminist-activist-icon-tributes/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/03/gloria-steinem-dead-at-92-feminist-activist-icon-tributes/</guid>
-            <dc:creator><![CDATA[Olivia-Anne Cleary]]></dc:creator>
             <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -21,6 +19,21 @@
             <link>https://time.com/article/2026/09/03/gloria-steinem-dead-time-history/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/03/gloria-steinem-dead-time-history/</guid>
             <dc:creator><![CDATA[Belinda Luscombe]]></dc:creator>
+            <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gloria Steinem Brought Women Together to Change the World]]></title>
+            <description><![CDATA[Author Meg Wolitzer reflects on the feminist activist's lasting legacy]]></description>
+            <link>https://time.com/article/2026/09/03/gloria-steinem-remembrance-meg-wolitzer/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/03/gloria-steinem-remembrance-meg-wolitzer/</guid>
+            <dc:creator><![CDATA[Meg Wolitzer]]></dc:creator>
+            <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How 9/11 Shaped My Life]]></title>
+            <link>https://time.com/article/2026/09/03/how-9-11-shaped-my-life/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/03/how-9-11-shaped-my-life/</guid>
+            <dc:creator><![CDATA[TIME Staff]]></dc:creator>
             <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -208,6 +221,13 @@
             <link>https://time.com/article/2026/09/01/nepal-flooding-risk-climate-change/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/01/nepal-flooding-risk-climate-change/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Love Island USA' Fails to Protect Black Women]]></title>
+            <link>https://time.com/article/2026/09/01/love-island-usa-black-women/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/01/love-island-usa-black-women/</guid>
+            <dc:creator><![CDATA[Taylor Crumpton]]></dc:creator>
             <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3281,24 +3301,6 @@
             <title><![CDATA[Trump Administration Limits the Duration of Student and Journalist Visas]]></title>
             <link>https://time.com/article/2026/07/16/student-journalist-media-visa-limit-rule-trump-administration/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/16/student-journalist-media-visa-limit-rule-trump-administration/</guid>
-            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Hosts Conference on 'Far-Left Terrorism': What to Know]]></title>
-            <link>https://time.com/article/2026/07/16/far-left-terrorism-conference-us-rubio/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/16/far-left-terrorism-conference-us-rubio/</guid>
-            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scientists Discover a Planet With Earth-like Conditions]]></title>
-            <link>https://time.com/article/2026/07/16/earthlike-planet-atmosphere-science-discovery/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/16/earthlike-planet-atmosphere-science-discovery/</guid>
-            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIME100 Sports Honorees Toast to the Power of Sport and Support]]></title>
-            <link>https://time.com/article/2026/07/16/time100-sports-gala-toast-roundup/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/16/time100-sports-gala-toast-roundup/</guid>
             <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
