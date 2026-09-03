@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Sep 2026 19:31:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 22:02:50 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Sep 2026 19:31:03 GMT</pubDate>
+        <pubDate>Thu, 03 Sep 2026 22:02:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Feminist Activist and Icon Gloria Steinem Dies at 92]]></title>
@@ -41,6 +41,24 @@
             <link>https://time.com/article/2026/09/03/wild-horse-nine-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/03/wild-horse-nine-review/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘I Wouldn’t Call it a War’: Vance Downplays Situation in Iran]]></title>
+            <link>https://time.com/article/2026/09/03/vance-iran-war-press-briefing/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/03/vance-iran-war-press-briefing/</guid>
+            <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Americans and Canadians Are Feeling About the Escalating Trade War]]></title>
+            <link>https://time.com/article/2026/09/03/us-canada-trade-war-trump-carney-tariffs-lake-ontario-name-change-polls/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/03/us-canada-trade-war-trump-carney-tariffs-lake-ontario-name-change-polls/</guid>
+            <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Democrats Are Pushing for a Supreme Court Overhaul]]></title>
+            <link>https://time.com/article/2026/09/03/how-democrats-are-pushing-for-a-supreme-court-overhaul/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/03/how-democrats-are-pushing-for-a-supreme-court-overhaul/</guid>
             <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3281,27 +3299,6 @@
             <title><![CDATA[France Moves to Allow Assisted Dying. What Other Countries Have Legalized It?]]></title>
             <link>https://time.com/article/2026/07/16/france-assisted-dying-bill-where-legal/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/16/france-assisted-dying-bill-where-legal/</guid>
-            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet Sergii Koretskyi, Ukraine’s New Prime Minister]]></title>
-            <link>https://time.com/article/2026/07/16/meet-sergii-koretskyi-ukraine-new-prime-minister-energy-official-zelensky/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/16/meet-sergii-koretskyi-ukraine-new-prime-minister-energy-official-zelensky/</guid>
-            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fortune Feimster on The Hawk and Riffing With Will Ferrell]]></title>
-            <link>https://time.com/article/2026/07/16/Fortune-Feimster-the-hawk-interview/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/16/Fortune-Feimster-the-hawk-interview/</guid>
-            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Polling After McMorrow’s Exit Shakes Up Michigan Senate Race]]></title>
-            <description><![CDATA[The polls find Haley Stevens leading Abdul El-Sayed]]></description>
-            <link>https://time.com/article/2026/07/16/new-polling-after-mcmorrow-s-exit-shake-up-michigan-senate-race/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/16/new-polling-after-mcmorrow-s-exit-shake-up-michigan-senate-race/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
             <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
