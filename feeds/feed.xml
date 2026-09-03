@@ -4,13 +4,27 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Sep 2026 07:31:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 12:23:36 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Sep 2026 07:31:33 GMT</pubDate>
+        <pubDate>Thu, 03 Sep 2026 12:23:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Feminist Activist and Icon Gloria Steinem Dies at 92]]></title>
+            <description><![CDATA[Gloria Steinem, the feminist activist who inspired a generation of women and fought for gender equality, "passed away peacefully" at her home in New York City.]]></description>
+            <link>https://time.com/article/2026/09/03/gloria-steinem-dead-at-92-feminist-activist-icon-tributes/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/03/gloria-steinem-dead-at-92-feminist-activist-icon-tributes/</guid>
+            <dc:creator><![CDATA[Olivia-Anne Cleary]]></dc:creator>
+            <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gloria Steinem's Long History With TIME]]></title>
+            <link>https://time.com/article/2026/09/03/gloria-steinem-dead-time-history/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/03/gloria-steinem-dead-time-history/</guid>
+            <dc:creator><![CDATA[Belinda Luscombe]]></dc:creator>
+            <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Introducing the 2026 TIME Trailblazers]]></title>
-            <description><![CDATA[The inaugural list recognizes leaders who are building a better world.]]></description>
             <link>https://time.com/article/2026/09/02/introducing-time-trailblazers/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/02/introducing-time-trailblazers/</guid>
             <dc:creator><![CDATA[Cate Matthews and Jessica Hullinger]]></dc:creator>
@@ -97,7 +111,7 @@
             <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The World Can’t Ignore Nepal. We Are All in Danger.]]></title>
+            <title><![CDATA[The Danger of Ignoring Nepal]]></title>
             <link>https://time.com/article/2026/09/02/climate-change-melting-glaciers-himalayas-floods-nepal-danger-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/02/climate-change-melting-glaciers-himalayas-floods-nepal-danger-/</guid>
             <dc:creator><![CDATA[Sumnima Udas]]></dc:creator>
@@ -3285,20 +3299,6 @@
             <title><![CDATA[TIME100 Sports Honorees Toast to the Power of Sport and Support]]></title>
             <link>https://time.com/article/2026/07/16/time100-sports-gala-toast-roundup/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/16/time100-sports-gala-toast-roundup/</guid>
-            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Understanding Zeus' Law in 'The Odyssey']]></title>
-            <link>https://time.com/article/2026/07/16/the-odyssey-ending-zeus-law-xenia/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/16/the-odyssey-ending-zeus-law-xenia/</guid>
-            <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Read After Watching 'The Odyssey']]></title>
-            <link>https://time.com/article/2026/07/16/the-odyssey-reading-list-greek-mythology/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/16/the-odyssey-reading-list-greek-mythology/</guid>
-            <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
             <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
