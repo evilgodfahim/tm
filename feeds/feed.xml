@@ -4,10 +4,24 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Sep 2026 10:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 14:38:04 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Sep 2026 10:19:50 GMT</pubDate>
+        <pubDate>Fri, 04 Sep 2026 14:38:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why You Shouldn’t Work on Labor Day]]></title>
+            <link>https://time.com/article/2026/09/04/why-you-shouldn-t-work-on-labor-day/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/04/why-you-shouldn-t-work-on-labor-day/</guid>
+            <dc:creator><![CDATA[Kara Alaimo]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI Will Transform Work, But It Can't Replace Relationships]]></title>
+            <link>https://time.com/article/2026/09/04/ai-will-transform-work-but-it-can-t-replace-relationships/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/04/ai-will-transform-work-but-it-can-t-replace-relationships/</guid>
+            <dc:creator><![CDATA[Tom Flanagan]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Feminist Activist and Icon Gloria Steinem Dies at 92]]></title>
             <link>https://time.com/article/2026/09/03/gloria-steinem-dead-at-92-feminist-activist-icon-tributes/</link>
@@ -23,10 +37,8 @@
         </item>
         <item>
             <title><![CDATA[Gloria Steinem Brought Women Together to Change the World]]></title>
-            <description><![CDATA[Author Meg Wolitzer reflects on the feminist activist's lasting legacy]]></description>
             <link>https://time.com/article/2026/09/03/gloria-steinem-remembrance-meg-wolitzer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/03/gloria-steinem-remembrance-meg-wolitzer/</guid>
-            <dc:creator><![CDATA[Meg Wolitzer]]></dc:creator>
             <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -45,8 +57,10 @@
         </item>
         <item>
             <title><![CDATA[‘I Wouldn’t Call it a War’: Vance Downplays Situation in Iran]]></title>
+            <description><![CDATA[“Right now, there is no active shooting," Vance told reporters at a White House press briefing]]></description>
             <link>https://time.com/article/2026/09/03/vance-iran-war-press-briefing/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/03/vance-iran-war-press-briefing/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
             <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -59,6 +73,18 @@
             <title><![CDATA[How Democrats Are Pushing for a Supreme Court Overhaul]]></title>
             <link>https://time.com/article/2026/09/03/how-democrats-are-pushing-for-a-supreme-court-overhaul/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/03/how-democrats-are-pushing-for-a-supreme-court-overhaul/</guid>
+            <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FBI Probes Report of Breach Exposing 153 Million Driver’s License Scans]]></title>
+            <link>https://time.com/article/2026/09/03/fbi-probes-reported-dark-web-drivers-license-breach/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/03/fbi-probes-reported-dark-web-drivers-license-breach/</guid>
+            <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Stakes of America’s 2026 Midterm Elections]]></title>
+            <link>https://time.com/article/2026/09/03/stakes-of-2026-midterm-elections/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/03/stakes-of-2026-midterm-elections/</guid>
             <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3273,34 +3299,6 @@
             <link>https://time.com/article/2026/07/16/trump-iran-revolutionary-guards-wipe-out/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/16/trump-iran-revolutionary-guards-wipe-out/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Do When Someone Is Yelling at You]]></title>
-            <link>https://time.com/article/2026/07/16/what-to-do-when-someone-yells-at-you/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/16/what-to-do-when-someone-yells-at-you/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Risks of Extreme Heat Combined With Bad Air Quality]]></title>
-            <link>https://time.com/article/2026/07/16/risks-combined-bad-air-quality-extreme-heat-wildfires/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/16/risks-combined-bad-air-quality-extreme-heat-wildfires/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A War Neither America Nor Iran Can Win]]></title>
-            <link>https://time.com/article/2026/07/16/war-america-iran-trump-hormuz/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/16/war-america-iran-trump-hormuz/</guid>
-            <dc:creator><![CDATA[Sanam Vakil]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Emerging Link Between Microplastics and Heart Disease]]></title>
-            <link>https://time.com/article/2026/07/16/heart-attacks-microplastics-in-blood-study/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/16/heart-attacks-microplastics-in-blood-study/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
