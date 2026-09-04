@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Sep 2026 20:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 22:39:32 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Sep 2026 20:04:15 GMT</pubDate>
+        <pubDate>Fri, 04 Sep 2026 22:39:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why You Shouldn’t Work on Labor Day]]></title>
@@ -25,7 +25,6 @@
             <title><![CDATA[Who Is Adam Telle, Trump’s New Acting Army Secretary?]]></title>
             <link>https://time.com/article/2026/09/04/adam-telle-acting-army-secretary-trump-driscoll-resignation/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/04/adam-telle-acting-army-secretary-trump-driscoll-resignation/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -45,6 +44,13 @@
             <link>https://time.com/article/2026/09/04/bucking-fastard-review-werner-herzog/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/04/bucking-fastard-review-werner-herzog/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Falklands Dispute Escalates With Milei Seizing on Trump's Comments]]></title>
+            <link>https://time.com/article/2026/09/04/falkland-islands-britain-argentina-sovereignty-dispute-Milei-threats-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/04/falkland-islands-britain-argentina-sovereignty-dispute-Milei-threats-trump/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3289,13 +3295,6 @@
             <link>https://time.com/article/2026/07/17/the-east-palace-ending-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/17/the-east-palace-ending-explained/</guid>
             <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Emotional Ending of Heartstopper Forever]]></title>
-            <link>https://time.com/article/2026/07/17/heartstopper-forever-ending/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/17/heartstopper-forever-ending/</guid>
-            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
