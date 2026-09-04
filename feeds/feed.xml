@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Sep 2026 05:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 10:19:50 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Sep 2026 05:18:34 GMT</pubDate>
+        <pubDate>Fri, 04 Sep 2026 10:19:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Feminist Activist and Icon Gloria Steinem Dies at 92]]></title>
@@ -256,6 +256,13 @@
             <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Breaking Down 'Silo' Season 3]]></title>
+            <link>https://time.com/article/2026/09/01/silo-season-3-finale-ending-apple/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/01/silo-season-3-finale-ending-apple/</guid>
+            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
+            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Trump Vows to Hit Iran ‘Hard’ After First Fresh Strikes in a Month]]></title>
             <link>https://time.com/article/2026/08/31/us-iran-strikes-larak-island/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/31/us-iran-strikes-larak-island/</guid>
@@ -415,6 +422,13 @@
             <link>https://time.com/article/2026/08/28/one-time-treatment-high-cholesterol-crispr-results/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/28/one-time-treatment-high-cholesterol-crispr-results/</guid>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alix Earle's Underwhelming Reality Show]]></title>
+            <link>https://time.com/article/2026/08/28/earle-meets-world-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/08/28/earle-meets-world-review/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3287,18 +3301,6 @@
             <link>https://time.com/article/2026/07/16/heart-attacks-microplastics-in-blood-study/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/16/heart-attacks-microplastics-in-blood-study/</guid>
             <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brazil Condemns U.S. Decision to Impose 25% Tariffs, Vows to Retaliate]]></title>
-            <link>https://time.com/article/2026/07/16/brazil-condemns-us-tariffs-lula-trump-greer/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/16/brazil-condemns-us-tariffs-lula-trump-greer/</guid>
-            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France Moves to Allow Assisted Dying. What Other Countries Have Legalized It?]]></title>
-            <link>https://time.com/article/2026/07/16/france-assisted-dying-bill-where-legal/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/16/france-assisted-dying-bill-where-legal/</guid>
             <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
