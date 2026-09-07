@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Sep 2026 11:06:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 16:54:02 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Sep 2026 11:06:22 GMT</pubDate>
+        <pubDate>Mon, 07 Sep 2026 16:54:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Price of Privacy When It Comes to Dementia]]></title>
@@ -16,17 +16,30 @@
         </item>
         <item>
             <title><![CDATA[At Least 5 Killed As Plane Overshoots Miami Airport Runway]]></title>
-            <description><![CDATA[The Amazon cargo plane struck several vehicles amid its failed landing.]]></description>
             <link>https://time.com/article/2026/09/07/miami-airport-plane-overshoot-runway-amazon-cargo/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/07/miami-airport-plane-overshoot-runway-amazon-cargo/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <dc:creator><![CDATA[Chad de Guzman and Tiago Ventura]]></dc:creator>
             <pubDate>Mon, 07 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[German Far-Right Party Set to Finish Ahead in State Election]]></title>
+            <title><![CDATA[Merz Under Pressure After Far-Right Party Emerges Victorious in State Election]]></title>
             <link>https://time.com/article/2026/09/07/germany-saxony-anhalt-election-afd-party-far-right-ulrich-siegmund/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/07/germany-saxony-anhalt-election-afd-party-far-right-ulrich-siegmund/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <dc:creator><![CDATA[Miranda Jeyaretnam and Tiago Ventura]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Shares Map Renaming New Mexico as 'New America']]></title>
+            <description><![CDATA[The President recently floated renaming the Strait of Hormuz as "Trump Strait" and signed an Executive Order renaming Lake Ontario as "Lake America."]]></description>
+            <link>https://time.com/article/2026/09/07/trump-shares-map-renaming-new-mexico-as-new-america-amid-uproar/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/07/trump-shares-map-renaming-new-mexico-as-new-america-amid-uproar/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[E.U. to Give Greenland Investment Boost Amid Trump's Threats]]></title>
+            <link>https://time.com/article/2026/09/07/greenland-investment-boost-eu-trump-annexation-threats/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/07/greenland-investment-boost-eu-trump-annexation-threats/</guid>
             <pubDate>Mon, 07 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -105,7 +118,6 @@
             <title><![CDATA[Falklands Dispute Escalates With Milei Seizing on Trump's Comments]]></title>
             <link>https://time.com/article/2026/09/04/falkland-islands-britain-argentina-sovereignty-dispute-Milei-threats-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/04/falkland-islands-britain-argentina-sovereignty-dispute-Milei-threats-trump/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3283,19 +3295,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/07/18/-superteams-to-collide-at-world-cup-final/</guid>
             <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
             <pubDate>Sat, 18 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump's Endorsement Could Set the Stage for a Historic Senate Succession]]></title>
-            <link>https://time.com/article/2026/07/18/graham-nordone/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/18/graham-nordone/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Sat, 18 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 Takeaways From Trump’s Speech on Elections]]></title>
-            <link>https://time.com/article/2026/07/17/trump-speech-elections-china-save-act-takeaways/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/17/trump-speech-elections-china-save-act-takeaways/</guid>
-            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
