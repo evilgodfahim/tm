@@ -4,15 +4,30 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Sep 2026 05:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 11:06:22 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Sep 2026 05:28:26 GMT</pubDate>
+        <pubDate>Mon, 07 Sep 2026 11:06:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Price of Privacy When It Comes to Dementia]]></title>
             <link>https://time.com/article/2026/09/12/the-price-of-privacy-when-it-comes-to-dementia/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/12/the-price-of-privacy-when-it-comes-to-dementia/</guid>
             <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[At Least 5 Killed As Plane Overshoots Miami Airport Runway]]></title>
+            <description><![CDATA[The Amazon cargo plane struck several vehicles amid its failed landing.]]></description>
+            <link>https://time.com/article/2026/09/07/miami-airport-plane-overshoot-runway-amazon-cargo/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/07/miami-airport-plane-overshoot-runway-amazon-cargo/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[German Far-Right Party Set to Finish Ahead in State Election]]></title>
+            <link>https://time.com/article/2026/09/07/germany-saxony-anhalt-election-afd-party-far-right-ulrich-siegmund/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/07/germany-saxony-anhalt-election-afd-party-far-right-ulrich-siegmund/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What the Pentagon’s Sweeping Polygraph Hunt Has Revealed]]></title>
@@ -24,9 +39,15 @@
         </item>
         <item>
             <title><![CDATA[Review: Robert Pattinson in 'Primetime']]></title>
+            <description><![CDATA[Pattinson plays 'To Catch a Predator' host Chris Hansen in Lance Oppenheim's first narrative feature film.]]></description>
             <link>https://time.com/article/2026/09/06/primetime-review-robert-pattinson/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/06/primetime-review-robert-pattinson/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[America’s 911 System Is Dangerously Out of Date]]></title>
+            <link>https://time.com/article/2026/09/06/america-s-911-system-is-dangerously-out-of-date/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/06/america-s-911-system-is-dangerously-out-of-date/</guid>
             <pubDate>Sun, 06 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -37,8 +58,13 @@
             <pubDate>Sat, 05 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Everyman Economics: Why Growth Requires Measuring More than GDP]]></title>
+            <link>https://time.com/article/2026/09/05/economics-capitalism-growth-inequality-gdp/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/05/economics-capitalism-growth-inequality-gdp/</guid>
+            <pubDate>Sat, 05 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why You Shouldn’t Work on Labor Day]]></title>
-            <description><![CDATA[Labor Day is an obvious prompt for U.S. lawmakers to consider a right to disconnect, writes Kara Alaimois.]]></description>
             <link>https://time.com/article/2026/09/04/why-you-shouldn-t-work-on-labor-day/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/04/why-you-shouldn-t-work-on-labor-day/</guid>
             <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
@@ -47,6 +73,7 @@
             <title><![CDATA[AI Will Transform Work, But It Can't Replace Relationships]]></title>
             <link>https://time.com/article/2026/09/04/ai-will-transform-work-but-it-can-t-replace-relationships/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/04/ai-will-transform-work-but-it-can-t-replace-relationships/</guid>
+            <dc:creator><![CDATA[Tom Flanagan]]></dc:creator>
             <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -78,6 +105,7 @@
             <title><![CDATA[Falklands Dispute Escalates With Milei Seizing on Trump's Comments]]></title>
             <link>https://time.com/article/2026/09/04/falkland-islands-britain-argentina-sovereignty-dispute-Milei-threats-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/04/falkland-islands-britain-argentina-sovereignty-dispute-Milei-threats-trump/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3267,32 +3295,6 @@
             <title><![CDATA[5 Takeaways From Trump’s Speech on Elections]]></title>
             <link>https://time.com/article/2026/07/17/trump-speech-elections-china-save-act-takeaways/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/17/trump-speech-elections-china-save-act-takeaways/</guid>
-            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Media to Sell Traders ‘the Fastest’ Access to Truth Social Posts]]></title>
-            <link>https://time.com/article/2026/07/17/truth-social-api-wall-street-trump-media/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/17/truth-social-api-wall-street-trump-media/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Long Will This Wildfire Smoke Last?]]></title>
-            <link>https://time.com/article/2026/07/17/wildfire-smoke-air-quality-canada-fires-forecast/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/17/wildfire-smoke-air-quality-canada-fires-forecast/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
-            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Trump Is Calling For These Major TV Networks to Lose Their Licenses]]></title>
-            <link>https://time.com/article/2026/07/17/trump-demands-major-tv-networks-lose-licenses-speech-broadcast-row/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/17/trump-demands-major-tv-networks-lose-licenses-speech-broadcast-row/</guid>
-            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When ICE Kills, We Cannot Look Away]]></title>
-            <link>https://time.com/article/2026/07/17/when-ice-kills-we-cannot-look-away/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/17/when-ice-kills-we-cannot-look-away/</guid>
             <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
