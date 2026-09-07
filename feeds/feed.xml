@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Sep 2026 00:31:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 05:28:26 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Sep 2026 00:31:24 GMT</pubDate>
+        <pubDate>Mon, 07 Sep 2026 05:28:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Price of Privacy When It Comes to Dementia]]></title>
@@ -20,6 +20,13 @@
             <link>https://time.com/article/2026/09/06/what-the-pentagon-s-sweeping-polygraph-hunt-has-revealed/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/06/what-the-pentagon-s-sweeping-polygraph-hunt-has-revealed/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: Robert Pattinson in 'Primetime']]></title>
+            <link>https://time.com/article/2026/09/06/primetime-review-robert-pattinson/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/06/primetime-review-robert-pattinson/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Sun, 06 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3286,12 +3293,6 @@
             <title><![CDATA[When ICE Kills, We Cannot Look Away]]></title>
             <link>https://time.com/article/2026/07/17/when-ice-kills-we-cannot-look-away/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/17/when-ice-kills-we-cannot-look-away/</guid>
-            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What World Cup Hydration Breaks Tell Us About the Times We Live In]]></title>
-            <link>https://time.com/article/2026/07/17/what-the-world-cup-hydration-breaks-really-tell-us/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/17/what-the-world-cup-hydration-breaks-really-tell-us/</guid>
             <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
