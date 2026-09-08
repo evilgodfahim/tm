@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Sep 2026 19:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 22:12:03 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Sep 2026 19:41:30 GMT</pubDate>
+        <pubDate>Tue, 08 Sep 2026 22:12:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Price of Privacy When It Comes to Dementia]]></title>
@@ -26,7 +26,6 @@
             <title><![CDATA[Iran Threatens to Target U.S. Energy Assets in Gulf If U.S. Strikes Again]]></title>
             <link>https://time.com/article/2026/09/08/iran-us-war-strait-of-hormuz-gulf-targets/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/08/iran-us-war-strait-of-hormuz-gulf-targets/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam and Tiago Ventura]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -69,6 +68,13 @@
             <link>https://time.com/article/2026/09/08/how-to-fall-asleep-faster-to-do-list/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/08/how-to-fall-asleep-faster-to-do-list/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the U.K., Canada, and France Are Banning Trade With Israeli Settlements]]></title>
+            <link>https://time.com/article/2026/09/08/why-the-u-k-canada-and-france-are-banning-trade-with-israeli-settlements/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/08/why-the-u-k-canada-and-france-are-banning-trade-with-israeli-settlements/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3286,12 +3292,6 @@
             <title><![CDATA[The Eighteen U.S. Service Members Killed in the Iran War]]></title>
             <link>https://time.com/article/2026/07/20/us-service-members-killed-wounded-iran-war-casualties/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/20/us-service-members-killed-wounded-iran-war-casualties/</guid>
-            <pubDate>Mon, 20 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Key Moments From Burnham’s First Day as U.K. PM, Including His Invite to Trump]]></title>
-            <link>https://time.com/article/2026/07/20/andy-burnham-uk-prime-minister-day-one-trump-invitation/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/20/andy-burnham-uk-prime-minister-day-one-trump-invitation/</guid>
             <pubDate>Mon, 20 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
