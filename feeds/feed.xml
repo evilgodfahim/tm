@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Sep 2026 10:27:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 14:55:49 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 Sep 2026 10:27:15 GMT</pubDate>
+        <pubDate>Wed, 09 Sep 2026 14:55:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Price of Privacy When It Comes to Dementia]]></title>
@@ -18,15 +18,67 @@
             <title><![CDATA[White House Removes ‘Build the Wall’ Game After Tetris Rebuke]]></title>
             <link>https://time.com/article/2026/09/09/tetris-company-build-the-wall-video-game-trump-white-house/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/09/tetris-company-build-the-wall-video-game-trump-white-house/</guid>
+            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iceland Summons U.S. Ambassador Over Trump’s Expansionist Map]]></title>
+            <description><![CDATA[“There is nothing funny or normal about making fun of the sovereignty of states,” Prime Minister Kristrun Frostadottir told reporters.]]></description>
+            <link>https://time.com/article/2026/09/09/iceland-greenland-us-trump-map-ambassador-summons/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/09/iceland-greenland-us-trump-map-ambassador-summons/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tehran Targets U.S. Base In Jordan as Hostilities Escalate]]></title>
+            <link>https://time.com/article/2026/09/09/iran-us-base-jordan-oil-tankers-war-strikes/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/09/iran-us-base-jordan-oil-tankers-war-strikes/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[With Midterm Convention, Trump Tries to Pull Party Out of Tailspin]]></title>
+            <link>https://time.com/article/2026/09/09/Republican-Convention-dallas-trump-how-to-watch/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/09/Republican-Convention-dallas-trump-how-to-watch/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World's Best Companies of 2026]]></title>
+            <link>https://time.com/article/2026/09/09/worlds-best-companies-of-2026/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/09/worlds-best-companies-of-2026/</guid>
+            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dating Apps Are Dying]]></title>
+            <link>https://time.com/article/2026/09/09/dating-apps-are-dying/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/09/dating-apps-are-dying/</guid>
+            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It's Head Lice Season. Here's What to Know]]></title>
+            <link>https://time.com/article/2026/09/09/head-lice-season-back-to-school-what-to-know/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/09/head-lice-season-back-to-school-what-to-know/</guid>
+            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[12 Questions to Ask Your Grandparents]]></title>
+            <link>https://time.com/article/2026/09/09/questions-to-ask-your-grandparents/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/09/questions-to-ask-your-grandparents/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI Is at a Turning Point]]></title>
+            <link>https://time.com/article/2026/09/09/ai-is-at-a-turning-point/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/09/ai-is-at-a-turning-point/</guid>
+            <dc:creator><![CDATA[Yoshua Bengio]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Key Democrat Plans Ballroom Probe If Party Wins House]]></title>
-            <description><![CDATA[Jared Huffman intends to investigate major Trump controversies through his committee]]></description>
             <link>https://time.com/article/2026/09/08/exclusive-obscure-committee-set-to-be-at-center-of-trump-fight-if-democrats-win-house/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/08/exclusive-obscure-committee-set-to-be-at-center-of-trump-fight-if-democrats-win-house/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -80,7 +132,12 @@
             <title><![CDATA[Why the U.K., Canada, and France Are Banning Trade With Israeli Settlements]]></title>
             <link>https://time.com/article/2026/09/08/why-the-u-k-canada-and-france-are-banning-trade-with-israeli-settlements/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/08/why-the-u-k-canada-and-france-are-banning-trade-with-israeli-settlements/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yes, There Has Been an Uptick in High-Profile Art Heists. Here’s Why]]></title>
+            <link>https://time.com/article/2026/09/08/-we-are-under-siege-renoir-heist-joins-an-art-thievery-trend/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/08/-we-are-under-siege-renoir-heist-joins-an-art-thievery-trend/</guid>
             <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -117,9 +174,9 @@
         </item>
         <item>
             <title><![CDATA[Review: Robert Pattinson in 'Primetime']]></title>
-            <description><![CDATA[Pattinson plays 'To Catch a Predator' host Chris Hansen in Lance Oppenheim's first narrative feature film.]]></description>
             <link>https://time.com/article/2026/09/06/primetime-review-robert-pattinson/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/06/primetime-review-robert-pattinson/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Sun, 06 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -170,6 +227,7 @@
             <title><![CDATA[How to Support Someone With Postpartum Depression]]></title>
             <link>https://time.com/article/2026/09/04/how-to-support-someone-postpartum-depression/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/04/how-to-support-someone-postpartum-depression/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3230,69 +3288,6 @@
             <link>https://time.com/article/2026/07/21/new-jersey-non-citizen-voting-registration-error/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/21/new-jersey-non-citizen-voting-registration-error/</guid>
             <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Extreme Heat Has Impacted the Tour de France]]></title>
-            <link>https://time.com/article/2026/07/21/europe-extreme-heat-tour-de-france/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/21/europe-extreme-heat-tour-de-france/</guid>
-            <dc:creator><![CDATA[George Timms]]></dc:creator>
-            <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Secret Behind 'My Grandfather Charles Manson']]></title>
-            <link>https://time.com/article/2026/07/21/my-father-charles-manson-documentary-true-story/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/21/my-father-charles-manson-documentary-true-story/</guid>
-            <dc:creator><![CDATA[Jake Kring-Schreifels]]></dc:creator>
-            <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bizarre True Story Behind 'A Toxic Love Story']]></title>
-            <link>https://time.com/article/2026/07/21/a-toxic-love-story-documentary/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/21/a-toxic-love-story-documentary/</guid>
-            <dc:creator><![CDATA[Olivia B. Waxman]]></dc:creator>
-            <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump, Rubio and a Zombie State In Venezuela]]></title>
-            <link>https://time.com/article/2026/07/20/trump-rubio-rodriguez-earthquake-venezuela/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/20/trump-rubio-rodriguez-earthquake-venezuela/</guid>
-            <dc:creator><![CDATA[Rafael Osío Cabrices]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spain Finish Off a World Cup to Remember]]></title>
-            <link>https://time.com/article/2026/07/20/spain-world-cup-2026-final-argentina-tournament-recap/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/20/spain-world-cup-2026-final-argentina-tournament-recap/</guid>
-            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Cost of America's Broken Immigration System]]></title>
-            <link>https://time.com/article/2026/07/20/the-cost-of-america-s-broken-immigration-system/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/20/the-cost-of-america-s-broken-immigration-system/</guid>
-            <dc:creator><![CDATA[Ken Salazar]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI’s Execution Problem]]></title>
-            <link>https://time.com/article/2026/07/20/ai-execution-problem/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/20/ai-execution-problem/</guid>
-            <dc:creator><![CDATA[Nigel Vaz]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Democrats Demand End to Iran War After Three U.S. Service Members Killed]]></title>
-            <link>https://time.com/article/2026/07/20/iran-war-us-service-members-killed-trump-democrat-lawmakers-response/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/20/iran-war-us-service-members-killed-trump-democrat-lawmakers-response/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Biggest Hygiene Mistakes People Make in the Pool]]></title>
-            <link>https://time.com/article/2026/07/20/pool-hygiene-mistakes-that-can-make-you-sick/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/20/pool-hygiene-mistakes-that-can-make-you-sick/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
