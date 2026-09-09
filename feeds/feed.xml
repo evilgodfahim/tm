@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Sep 2026 18:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 21:24:01 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 Sep 2026 18:12:46 GMT</pubDate>
+        <pubDate>Wed, 09 Sep 2026 21:24:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Price of Privacy When It Comes to Dementia]]></title>
@@ -18,11 +18,11 @@
             <title><![CDATA[White House Removes ‘Build the Wall’ Game After Tetris Rebuke]]></title>
             <link>https://time.com/article/2026/09/09/tetris-company-build-the-wall-video-game-trump-white-house/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/09/tetris-company-build-the-wall-video-game-trump-white-house/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iceland Summons U.S. Ambassador Over Trump’s Expansionist Map]]></title>
-            <description><![CDATA[“There is nothing funny or normal about making fun of the sovereignty of states,” Prime Minister Kristrun Frostadottir told reporters.]]></description>
             <link>https://time.com/article/2026/09/09/iceland-greenland-us-trump-map-ambassador-summons/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/09/iceland-greenland-us-trump-map-ambassador-summons/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
@@ -32,7 +32,6 @@
             <title><![CDATA[Oil Hits $100 a Barrel for First Time Since July as U.S. and Iran Trade Strikes]]></title>
             <link>https://time.com/article/2026/09/09/iran-us-base-jordan-oil-tankers-war-strikes/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/09/iran-us-base-jordan-oil-tankers-war-strikes/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -87,6 +86,21 @@
             <link>https://time.com/article/2026/09/09/easy-recycling-mistakes-to-avoid/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/09/easy-recycling-mistakes-to-avoid/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the U.S. and Canada’s Trade War Could Mean for Prices]]></title>
+            <description><![CDATA[A slew of goods moving between the allied nations are being hit by sweeping tariffs as the conflict intensifies, threatening to raise costs for consumers.]]></description>
+            <link>https://time.com/article/2026/09/09/us-canada-trade-war-tariffs-prices/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/09/us-canada-trade-war-tariffs-prices/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An Anthropic Researcher Quit Over Fears AI Could Kill Us. Here’s Why]]></title>
+            <link>https://time.com/article/2026/09/09/ai-anthropic-openai-jacob-coxon/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/09/ai-anthropic-openai-jacob-coxon/</guid>
+            <dc:creator><![CDATA[Harry Booth]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3275,19 +3289,6 @@
             <link>https://time.com/article/2026/07/21/brag-folder-remember-your-wins/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/21/brag-folder-remember-your-wins/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nearly 100 U.S. Troops Injured in Two Weeks Since Iran War Resumed]]></title>
-            <link>https://time.com/article/2026/07/21/iran-war-injury-toll-us-service-members-pentagon-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/21/iran-war-injury-toll-us-service-members-pentagon-trump/</guid>
-            <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Postpartum Psychosis Is Rising. We Are Not Ready.]]></title>
-            <link>https://time.com/article/2026/07/21/postpartum-psychosis-is-rising-we-are-not-ready-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/21/postpartum-psychosis-is-rising-we-are-not-ready-/</guid>
-            <dc:creator><![CDATA[Dr. Uruj Kamal Haider]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
