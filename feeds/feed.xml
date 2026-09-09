@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Sep 2026 14:55:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 18:12:46 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 Sep 2026 14:55:49 GMT</pubDate>
+        <pubDate>Wed, 09 Sep 2026 18:12:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Price of Privacy When It Comes to Dementia]]></title>
@@ -29,7 +29,7 @@
             <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tehran Targets U.S. Base In Jordan as Hostilities Escalate]]></title>
+            <title><![CDATA[Oil Hits $100 a Barrel for First Time Since July as U.S. and Iran Trade Strikes]]></title>
             <link>https://time.com/article/2026/09/09/iran-us-base-jordan-oil-tankers-war-strikes/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/09/iran-us-base-jordan-oil-tankers-war-strikes/</guid>
             <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
@@ -73,6 +73,20 @@
             <link>https://time.com/article/2026/09/09/ai-is-at-a-turning-point/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/09/ai-is-at-a-turning-point/</guid>
             <dc:creator><![CDATA[Yoshua Bengio]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Your Step Count Too Low? Try Walking Faster]]></title>
+            <link>https://time.com/article/2026/09/09/low-your-step-count-walk-faster/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/09/low-your-step-count-walk-faster/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stop Making These Recycling Mistakes]]></title>
+            <link>https://time.com/article/2026/09/09/easy-recycling-mistakes-to-avoid/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/09/easy-recycling-mistakes-to-avoid/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -138,6 +152,20 @@
             <title><![CDATA[Yes, There Has Been an Uptick in High-Profile Art Heists. Here’s Why]]></title>
             <link>https://time.com/article/2026/09/08/-we-are-under-siege-renoir-heist-joins-an-art-thievery-trend/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/08/-we-are-under-siege-renoir-heist-joins-an-art-thievery-trend/</guid>
+            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We Must Defend the Refugee Convention]]></title>
+            <link>https://time.com/article/2026/09/08/we-must-defend-the-refugee-convention/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/08/we-must-defend-the-refugee-convention/</guid>
+            <dc:creator><![CDATA[Theo James]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Promise of the Kurdish Peace]]></title>
+            <link>https://time.com/article/2026/09/08/the-promise-of-the-kurdish-peace/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/08/the-promise-of-the-kurdish-peace/</guid>
+            <dc:creator><![CDATA[Galip Dalay]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -390,7 +418,7 @@
             <title><![CDATA[Why America's AI Boom Isn't an Industrial Boom]]></title>
             <link>https://time.com/article/2026/09/02/why-america-s-ai-boom-isn-t-an-industrial-boom/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/02/why-america-s-ai-boom-isn-t-an-industrial-boom/</guid>
-            <dc:creator><![CDATA[Shubham Singhal]]></dc:creator>
+            <dc:creator><![CDATA[Shubham Singhal, Anna Kortis and Jan Mischke]]></dc:creator>
             <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3260,33 +3288,6 @@
             <link>https://time.com/article/2026/07/21/postpartum-psychosis-is-rising-we-are-not-ready-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/21/postpartum-psychosis-is-rising-we-are-not-ready-/</guid>
             <dc:creator><![CDATA[Dr. Uruj Kamal Haider]]></dc:creator>
-            <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Lettuce Safe to Eat? The Latest on the Cyclosporiasis Outbreak]]></title>
-            <link>https://time.com/article/2026/07/21/is-lettuce-safe-to-eat-cyclosporiasis-diarrhea-outbreak/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/21/is-lettuce-safe-to-eat-cyclosporiasis-diarrhea-outbreak/</guid>
-            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
-            <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Summer Camps Are Adapting to Climate Change]]></title>
-            <link>https://time.com/article/2026/07/21/summer-camps-adapting-climate-change/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/21/summer-camps-adapting-climate-change/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Toxic Gases Keep Rescue Teams From Saving 13 Workers Trapped by Tunnel Explosion in India]]></title>
-            <link>https://time.com/article/2026/07/21/toxic-gases-keep-rescue-teams-from-saving-13-trapped-in-tunnel-in-india/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/21/toxic-gases-keep-rescue-teams-from-saving-13-trapped-in-tunnel-in-india/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thousands of Non-Citizens Registered to Vote in New Jersey Due to Software Issue]]></title>
-            <link>https://time.com/article/2026/07/21/new-jersey-non-citizen-voting-registration-error/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/21/new-jersey-non-citizen-voting-registration-error/</guid>
             <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
