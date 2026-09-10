@@ -4,15 +4,42 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Sep 2026 07:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 12:31:11 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Sep 2026 07:39:50 GMT</pubDate>
+        <pubDate>Thu, 10 Sep 2026 12:31:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Price of Privacy When It Comes to Dementia]]></title>
             <link>https://time.com/article/2026/09/12/the-price-of-privacy-when-it-comes-to-dementia/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/12/the-price-of-privacy-when-it-comes-to-dementia/</guid>
             <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Promises End to Iran War After Midterms]]></title>
+            <description><![CDATA[The President suggested that Iran’s government is holding out in hopes of hurting Republican political prospects.]]></description>
+            <link>https://time.com/article/2026/09/10/iran-us-war-attacks-shipping-midterm-elections-strait-hormuz/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/10/iran-us-war-attacks-shipping-midterm-elections-strait-hormuz/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Promises $5,000 Dividend if Republicans Win Midterms]]></title>
+            <link>https://time.com/article/2026/09/10/trump-dividend-five-thousand-dollars-midterms-republican-convention/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/10/trump-dividend-five-thousand-dollars-midterms-republican-convention/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[9/11 and the Substitute Mother]]></title>
+            <link>https://time.com/article/2026/09/10/9-11-and-the-substitute-mother/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/10/9-11-and-the-substitute-mother/</guid>
+            <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s Attacks on the Environment Are Out of Touch With America]]></title>
+            <link>https://time.com/article/2026/09/10/trump-s-attacks-on-the-environment-are-out-of-touch-with-america/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/10/trump-s-attacks-on-the-environment-are-out-of-touch-with-america/</guid>
+            <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[White House Removes ‘Build the Wall’ Game After Tetris Rebuke]]></title>
@@ -89,10 +116,8 @@
         </item>
         <item>
             <title><![CDATA[What the U.S. and Canada’s Trade War Could Mean for Prices]]></title>
-            <description><![CDATA[A slew of goods moving between the allied nations are being hit by sweeping tariffs as the conflict intensifies, threatening to raise costs for consumers.]]></description>
             <link>https://time.com/article/2026/09/09/us-canada-trade-war-tariffs-prices/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/09/us-canada-trade-war-tariffs-prices/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3261,34 +3286,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/07/22/june-heatwave-uk-economy/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['House of the Dragon' Just Killed Off a Main Character]]></title>
-            <link>https://time.com/article/2026/07/22/house-of-the-dragon-season-3-episode-6-criston-cole-death/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/22/house-of-the-dragon-season-3-episode-6-criston-cole-death/</guid>
-            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Rent Keeps Rising Because of Wall Street]]></title>
-            <link>https://time.com/article/2026/07/21/why-rent-keeps-rising-because-of-wall-street/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/21/why-rent-keeps-rising-because-of-wall-street/</guid>
-            <dc:creator><![CDATA[Anisha Steephen]]></dc:creator>
-            <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[6 Dementia Risk Factors You Can Change]]></title>
-            <link>https://time.com/article/2026/07/21/dementia-risk-factors-you-can-change/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/21/dementia-risk-factors-you-can-change/</guid>
-            <dc:creator><![CDATA[Kathleen Felton]]></dc:creator>
-            <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why You Should Start a Brag Folder]]></title>
-            <link>https://time.com/article/2026/07/21/brag-folder-remember-your-wins/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/21/brag-folder-remember-your-wins/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
