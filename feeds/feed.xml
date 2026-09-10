@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Sep 2026 16:46:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 19:22:00 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Sep 2026 16:46:35 GMT</pubDate>
+        <pubDate>Thu, 10 Sep 2026 19:22:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Price of Privacy When It Comes to Dementia]]></title>
@@ -52,6 +52,20 @@
             <link>https://time.com/article/2026/09/10/how-to-treat-age-spots-without-damaging-your-skin/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/10/how-to-treat-age-spots-without-damaging-your-skin/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Voters Are Turning to AI for Election Help. The Answers Aren't Always Right]]></title>
+            <link>https://time.com/article/2026/09/10/election-voting-gemini-chatgpt-claude/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/10/election-voting-gemini-chatgpt-claude/</guid>
+            <dc:creator><![CDATA[Naomi Nix]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI Is Developing a Culture of Its Own. That Could Be Dangerous]]></title>
+            <link>https://time.com/article/2026/09/10/ai-openai-hugging-face-hack-culture-swarm/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/10/ai-openai-hugging-face-hack-culture-swarm/</guid>
+            <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
             <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3273,19 +3287,6 @@
             <title><![CDATA[Angry Mobs Are Attacking Health Workers in Congo. It Will Only Make the Ebola Outbreak Worse]]></title>
             <link>https://time.com/article/2026/07/22/angry-mobs-are-attacking-health-workers-in-congo-it-will-only-make-the-ebola-outbreak-worse/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/22/angry-mobs-are-attacking-health-workers-in-congo-it-will-only-make-the-ebola-outbreak-worse/</guid>
-            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Is the Youth-Led ‘Cockroach Movement’ Staging Mass Protests in India?]]></title>
-            <link>https://time.com/article/2026/07/22/india-cockroach-janta-party-protest-movement/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/22/india-cockroach-janta-party-protest-movement/</guid>
-            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Astronomers Discover the First Known Moon Outside our Solar System]]></title>
-            <link>https://time.com/article/2026/07/22/astronomers-discover-exomoon/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/22/astronomers-discover-exomoon/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
             <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
