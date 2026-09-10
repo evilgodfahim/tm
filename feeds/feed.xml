@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Sep 2026 19:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 22:06:44 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Sep 2026 19:22:00 GMT</pubDate>
+        <pubDate>Thu, 10 Sep 2026 22:06:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Price of Privacy When It Comes to Dementia]]></title>
@@ -18,7 +18,6 @@
             <title><![CDATA[Trump Promises End to Iran War After Midterms]]></title>
             <link>https://time.com/article/2026/09/10/iran-us-war-attacks-shipping-midterm-elections-strait-hormuz/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/10/iran-us-war-attacks-shipping-midterm-elections-strait-hormuz/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -66,6 +65,26 @@
             <link>https://time.com/article/2026/09/10/ai-openai-hugging-face-hack-culture-swarm/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/10/ai-openai-hugging-face-hack-culture-swarm/</guid>
             <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Promises $500 Obamacare Refunds. Here's Who Qualifies]]></title>
+            <link>https://time.com/article/2026/09/10/trump-obamacare-refunds/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/10/trump-obamacare-refunds/</guid>
+            <dc:creator><![CDATA[Annika Neklason]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Incredible Shrinking Planet Mercury]]></title>
+            <link>https://time.com/article/2026/09/10/mercury-shrinking-study/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/10/mercury-shrinking-study/</guid>
+            <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI Should Be a Wake-Up Call For Universities]]></title>
+            <link>https://time.com/article/2026/09/10/ai-should-be-a-wake-up-call-for-universities/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/10/ai-should-be-a-wake-up-call-for-universities/</guid>
+            <dc:creator><![CDATA[Arianna Huffington]]></dc:creator>
             <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3268,25 +3287,6 @@
             <link>https://time.com/article/2026/07/22/cyclospora-outbreak-food-safety-experts-lettuce/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/22/cyclospora-outbreak-food-safety-experts-lettuce/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Mushroom Coffee Healthy? Here's What to Know]]></title>
-            <link>https://time.com/article/2026/07/22/what-is-mushroom-coffee-is-it-healthy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/22/what-is-mushroom-coffee-is-it-healthy/</guid>
-            <dc:creator><![CDATA[Stacey Colino]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Calls Out Canada For 'Disinviting' U.S. From Gordie Howe Bridge Opening]]></title>
-            <link>https://time.com/article/2026/07/22/canada-cancels-joint-us-gordie-howe-bridge-celebration-trump-trade-threat/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/22/canada-cancels-joint-us-gordie-howe-bridge-celebration-trump-trade-threat/</guid>
-            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Angry Mobs Are Attacking Health Workers in Congo. It Will Only Make the Ebola Outbreak Worse]]></title>
-            <link>https://time.com/article/2026/07/22/angry-mobs-are-attacking-health-workers-in-congo-it-will-only-make-the-ebola-outbreak-worse/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/22/angry-mobs-are-attacking-health-workers-in-congo-it-will-only-make-the-ebola-outbreak-worse/</guid>
             <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
