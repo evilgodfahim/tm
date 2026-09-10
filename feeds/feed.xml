@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Sep 2026 12:31:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 16:46:35 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Sep 2026 12:31:11 GMT</pubDate>
+        <pubDate>Thu, 10 Sep 2026 16:46:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Price of Privacy When It Comes to Dementia]]></title>
@@ -16,7 +16,6 @@
         </item>
         <item>
             <title><![CDATA[Trump Promises End to Iran War After Midterms]]></title>
-            <description><![CDATA[The President suggested that Iran’s government is holding out in hopes of hurting Republican political prospects.]]></description>
             <link>https://time.com/article/2026/09/10/iran-us-war-attacks-shipping-midterm-elections-strait-hormuz/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/10/iran-us-war-attacks-shipping-midterm-elections-strait-hormuz/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
@@ -39,6 +38,20 @@
             <title><![CDATA[Trump’s Attacks on the Environment Are Out of Touch With America]]></title>
             <link>https://time.com/article/2026/09/10/trump-s-attacks-on-the-environment-are-out-of-touch-with-america/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/10/trump-s-attacks-on-the-environment-are-out-of-touch-with-america/</guid>
+            <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thousands of Food-Packaging Chemicals Lack Safety Data]]></title>
+            <link>https://time.com/article/2026/09/10/thousands-of-food-packaging-chemicals-lack-safety-data/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/10/thousands-of-food-packaging-chemicals-lack-safety-data/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Treat Age Spots Without Damaging Your Skin]]></title>
+            <link>https://time.com/article/2026/09/10/how-to-treat-age-spots-without-damaging-your-skin/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/10/how-to-treat-age-spots-without-damaging-your-skin/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -128,6 +141,14 @@
             <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Meet the Canadians Boycotting American Products as Trade Rift Widens]]></title>
+            <description><![CDATA[Prime Minister Mark Carney has championed the "Buy Canadian" movement, saying the power lies in "decisions taken at the kitchen table, not the boardroom table."]]></description>
+            <link>https://time.com/article/2026/09/09/buy-canadian-movement-consumers-us-products-boycott-trump-trade-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/09/buy-canadian-movement-consumers-us-products-boycott-trump-trade-war/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Key Democrat Plans Ballroom Probe If Party Wins House]]></title>
             <link>https://time.com/article/2026/09/08/exclusive-obscure-committee-set-to-be-at-center-of-trump-fight-if-democrats-win-house/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/08/exclusive-obscure-committee-set-to-be-at-center-of-trump-fight-if-democrats-win-house/</guid>
@@ -204,6 +225,13 @@
             <link>https://time.com/article/2026/09/08/the-promise-of-the-kurdish-peace/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/08/the-promise-of-the-kurdish-peace/</guid>
             <dc:creator><![CDATA[Galip Dalay]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Truth Behind 'A Killer Story']]></title>
+            <link>https://time.com/article/2026/09/08/a-killer-story-hbo-dana-chandler/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/08/a-killer-story-hbo-dana-chandler/</guid>
+            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3258,33 +3286,6 @@
             <link>https://time.com/article/2026/07/22/astronomers-discover-exomoon/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/22/astronomers-discover-exomoon/</guid>
             <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[House Passes $1.15 Trillion Defense Spending Bill]]></title>
-            <link>https://time.com/article/2026/07/22/house-annual-defense-spending-bill-save-america-act-iran-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/22/house-annual-defense-spending-bill-save-america-act-iran-war/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About Andy Biggs, the Trump-Backed Republican in Arizona’s Governor Race]]></title>
-            <link>https://time.com/article/2026/07/22/what-to-know-about-andy-biggs-the-trump-backed-republican-in-arizonas-governor-race/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/22/what-to-know-about-andy-biggs-the-trump-backed-republican-in-arizonas-governor-race/</guid>
-            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Is a Ruptured Testicle? An MLB Player's Painful Injury, Explained]]></title>
-            <link>https://time.com/article/2026/07/22/what-happens-when-you-rupture-a-testicle-joshua-kuroda-grauer/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/22/what-happens-when-you-rupture-a-testicle-joshua-kuroda-grauer/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The June Heat Wave Cost The U.K. Economy Over $1.5 Billion]]></title>
-            <link>https://time.com/article/2026/07/22/june-heatwave-uk-economy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/22/june-heatwave-uk-economy/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
