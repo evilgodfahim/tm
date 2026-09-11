@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Sep 2026 14:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 18:01:16 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Sep 2026 14:43:40 GMT</pubDate>
+        <pubDate>Fri, 11 Sep 2026 18:01:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Price of Privacy When It Comes to Dementia]]></title>
@@ -30,9 +30,16 @@
             <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Yemen’s Houthis Capture Key Red Sea Port City]]></title>
+            <title><![CDATA[Yemen’s Houthis Reach Strategic Island in Key Shipping Route]]></title>
             <link>https://time.com/article/2026/09/11/yemen-houthi-red-sea-bab-el-mandeb-shipping-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/11/yemen-houthi-red-sea-bab-el-mandeb-shipping-iran-war/</guid>
+            <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nighttime Light Exposure Is Linked to Heart Changes]]></title>
+            <link>https://time.com/article/2026/09/11/light-exposure-at-night-is-linked-to-heart-changes/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/11/light-exposure-at-night-is-linked-to-heart-changes/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3281,13 +3288,6 @@
             <link>https://time.com/article/2026/07/23/war-powers-resolution-iran-trump-senate-house-republicans/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/23/war-powers-resolution-iran-trump-senate-house-republicans/</guid>
             <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Community Backlash to AI Data Centers Is Growing]]></title>
-            <link>https://time.com/article/2026/07/22/community-backlash-ai-data-centers/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/22/community-backlash-ai-data-centers/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
