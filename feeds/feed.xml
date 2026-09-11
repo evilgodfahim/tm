@@ -4,15 +4,36 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Sep 2026 10:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 14:43:40 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Sep 2026 10:16:47 GMT</pubDate>
+        <pubDate>Fri, 11 Sep 2026 14:43:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Price of Privacy When It Comes to Dementia]]></title>
             <link>https://time.com/article/2026/09/12/the-price-of-privacy-when-it-comes-to-dementia/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/12/the-price-of-privacy-when-it-comes-to-dementia/</guid>
             <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[25 Years After 9/11, Americans Must Remember What Binds Us]]></title>
+            <description><![CDATA[The victims of 9/11 “represented the American experiment itself,” writes Joe Daniels, founding president and CEO of the 9/11 Memorial & Museum.]]></description>
+            <link>https://time.com/article/2026/09/11/25-years-after-9-11-americans-must-remember-what-binds-us/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/11/25-years-after-9-11-americans-must-remember-what-binds-us/</guid>
+            <dc:creator><![CDATA[Joe Daniels]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How 9/11 Helped Shape Our Politics Today]]></title>
+            <link>https://time.com/article/2026/09/11/september-11-america-europe-far-right-immigration-muslims-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/11/september-11-america-europe-far-right-immigration-muslims-trump/</guid>
+            <dc:creator><![CDATA[Faisal Devji]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yemen’s Houthis Capture Key Red Sea Port City]]></title>
+            <link>https://time.com/article/2026/09/11/yemen-houthi-red-sea-bab-el-mandeb-shipping-iran-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/11/yemen-houthi-red-sea-bab-el-mandeb-shipping-iran-war/</guid>
+            <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump Promises End to Iran War After Midterms]]></title>
@@ -175,17 +196,14 @@
         </item>
         <item>
             <title><![CDATA[Meet the Canadians Boycotting American Products as Trade Rift Widens]]></title>
-            <description><![CDATA[Prime Minister Mark Carney has championed the "Buy Canadian" movement, saying the power lies in "decisions taken at the kitchen table, not the boardroom table."]]></description>
             <link>https://time.com/article/2026/09/09/buy-canadian-movement-consumers-us-products-boycott-trump-trade-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/09/buy-canadian-movement-consumers-us-products-boycott-trump-trade-war/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How the U.S. Treasury's Sanctions on Iran Extend Beyond Tehran]]></title>
             <link>https://time.com/article/2026/09/09/us-treasury-iran-sanctions-aviation-global-impact-economy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/09/us-treasury-iran-sanctions-aviation-global-impact-economy/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -271,6 +289,13 @@
             <title><![CDATA[The Truth Behind 'A Killer Story']]></title>
             <link>https://time.com/article/2026/09/08/a-killer-story-hbo-dana-chandler/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/08/a-killer-story-hbo-dana-chandler/</guid>
+            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The True Story Behind 'The Uprising']]></title>
+            <link>https://time.com/article/2026/09/08/the-true-story-behind-the-uprising/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/08/the-true-story-behind-the-uprising/</guid>
             <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
         </item>
@@ -400,6 +425,7 @@
             <title><![CDATA[How 9/11 Shaped My Life]]></title>
             <link>https://time.com/article/2026/09/03/how-9-11-shaped-my-life/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/03/how-9-11-shaped-my-life/</guid>
+            <dc:creator><![CDATA[TIME Staff]]></dc:creator>
             <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3261,32 +3287,6 @@
             <link>https://time.com/article/2026/07/22/community-backlash-ai-data-centers/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/22/community-backlash-ai-data-centers/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Allies Who Cannot Afford to Quit America]]></title>
-            <link>https://time.com/article/2026/07/22/us-asia-pacific-allies-china-hegemony-taiwan-japan-australia/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/22/us-asia-pacific-allies-china-hegemony-taiwan-japan-australia/</guid>
-            <dc:creator><![CDATA[Huong Le-Thu]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Want to Be More Successful? Think Like an Explorer]]></title>
-            <link>https://time.com/article/2026/07/22/want-to-be-more-successful-think-like-an-explorer/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/22/want-to-be-more-successful-think-like-an-explorer/</guid>
-            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Enduring Power of Bro Language]]></title>
-            <link>https://time.com/article/2026/07/22/the-enduring-power-of-bro-language/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/22/the-enduring-power-of-bro-language/</guid>
-            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Support Someone Without Giving Advice]]></title>
-            <link>https://time.com/article/2026/07/22/how-to-support-someone-without-giving-advice/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/22/how-to-support-someone-without-giving-advice/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
