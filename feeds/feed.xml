@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Sep 2026 22:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 00:41:58 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Sep 2026 22:06:44 GMT</pubDate>
+        <pubDate>Fri, 11 Sep 2026 00:41:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Price of Privacy When It Comes to Dementia]]></title>
@@ -179,6 +179,13 @@
             <link>https://time.com/article/2026/09/09/buy-canadian-movement-consumers-us-products-boycott-trump-trade-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/09/buy-canadian-movement-consumers-us-products-boycott-trump-trade-war/</guid>
             <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the U.S. Treasury's Sanctions on Iran Extend Beyond Tehran]]></title>
+            <link>https://time.com/article/2026/09/09/us-treasury-iran-sanctions-aviation-global-impact-economy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/09/us-treasury-iran-sanctions-aviation-global-impact-economy/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3279,13 +3286,6 @@
             <title><![CDATA[How to Support Someone Without Giving Advice]]></title>
             <link>https://time.com/article/2026/07/22/how-to-support-someone-without-giving-advice/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/22/how-to-support-someone-without-giving-advice/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Food Safety Experts Are Eating During the Cyclospora Outbreak]]></title>
-            <link>https://time.com/article/2026/07/22/cyclospora-outbreak-food-safety-experts-lettuce/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/22/cyclospora-outbreak-food-safety-experts-lettuce/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
         </item>
