@@ -4,14 +4,22 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 12 Sep 2026 14:40:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 17:33:06 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 12 Sep 2026 14:40:45 GMT</pubDate>
+        <pubDate>Sat, 12 Sep 2026 17:33:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Price of Privacy When It Comes to Dementia]]></title>
             <link>https://time.com/article/2026/09/12/the-price-of-privacy-when-it-comes-to-dementia/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/12/the-price-of-privacy-when-it-comes-to-dementia/</guid>
+            <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[At the U.S. Open, Ben Shelton Has America Believing Again]]></title>
+            <description><![CDATA[The 23-year-old will face Alexander Zverev on Sunday after becoming the first Black American man to reach the U.S. Open final since 1972.]]></description>
+            <link>https://time.com/article/2026/09/12/at-the-u-s-open-ben-shelton-has-america-believing-again/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/12/at-the-u-s-open-ben-shelton-has-america-believing-again/</guid>
+            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
             <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -47,6 +55,32 @@
             <link>https://time.com/article/2026/09/11/el-nino-fall-winter-weather-us/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/11/el-nino-fall-winter-weather-us/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Cyclospora Outbreak, By the Numbers]]></title>
+            <link>https://time.com/article/2026/09/11/cyclospora-outbreak-deaths-sickened-states/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/11/cyclospora-outbreak-deaths-sickened-states/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Record U.S. Diesel Prices Could Affect You]]></title>
+            <link>https://time.com/article/2026/09/11/us-diesel-prices-record-high-impact-groceries-american-consumers/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/11/us-diesel-prices-record-high-impact-groceries-american-consumers/</guid>
+            <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Trump’s Proposed Census Changes Could Impact States’ Funding—and Political Power]]></title>
+            <link>https://time.com/article/2026/09/11/trump-us-census-changes-proposal-state-federal-funding-congressional-seats/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/11/trump-us-census-changes-proposal-state-federal-funding-congressional-seats/</guid>
+            <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Africa's Next Growth Story Start on the Farm?]]></title>
+            <link>https://time.com/article/2026/09/11/future-africa-farming-sustainability/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/11/future-africa-farming-sustainability/</guid>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -310,7 +344,6 @@
             <title><![CDATA[The True Story Behind 'The Uprising']]></title>
             <link>https://time.com/article/2026/09/08/the-true-story-behind-the-uprising/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/08/the-true-story-behind-the-uprising/</guid>
-            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3254,40 +3287,6 @@
             <title><![CDATA[Meet Marie-France van Heel, Wife of Britain's New PM Andy Burnham]]></title>
             <link>https://time.com/article/2026/07/23/andy-burnham-wife-marie-france-van-heel-bio-family-new-prime-minister/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/23/andy-burnham-wife-marie-france-van-heel-bio-family-new-prime-minister/</guid>
-            <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tick Bites Are Causing Red-Meat Allergies. What to Know About Alpha-Gal Syndrome]]></title>
-            <link>https://time.com/article/2026/07/23/ticks-alpha-gal-red-meat-allergy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/23/ticks-alpha-gal-red-meat-allergy/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Mary Steenburgen Fell in Love With Pickleball]]></title>
-            <link>https://time.com/article/2026/07/23/mary-steenburgen-the-dink-pickleball-interview/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/23/mary-steenburgen-the-dink-pickleball-interview/</guid>
-            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Would Trump's Plan to Impose Tariffs on Generic Drugs Do to Prices?]]></title>
-            <link>https://time.com/article/2026/07/23/trump-generic-drug-tariff-prices-availability-impact/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/23/trump-generic-drug-tariff-prices-availability-impact/</guid>
-            <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An FDA Committee Just Voted in Favor of Peptides—Despite the Agency's Opposition]]></title>
-            <link>https://time.com/article/2026/07/23/fda-committee-peptides/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/23/fda-committee-peptides/</guid>
-            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Emotional Ending of Ransom Canyon Season 2]]></title>
-            <link>https://time.com/article/2026/07/23/ransom-canyon-season-2-ending/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/23/ransom-canyon-season-2-ending/</guid>
-            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
             <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
