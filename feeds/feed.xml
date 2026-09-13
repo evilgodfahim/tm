@@ -4,15 +4,22 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Sep 2026 21:57:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Sep 2026 23:52:04 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 13 Sep 2026 21:57:34 GMT</pubDate>
+        <pubDate>Sun, 13 Sep 2026 23:52:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[There’s a New Tennis Force in Town]]></title>
             <link>https://time.com/article/2026/09/13/there-s-a-new-tennis-force-in-town/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/13/there-s-a-new-tennis-force-in-town/</guid>
-            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Wants Ukraine to Stop Striking Russian Refineries. What Would That Mean for the War?]]></title>
+            <description><![CDATA[Most of the diesel squeeze stems from the U.S.-Iran war, but heeding Trump’s request could undercut Kyiv’s strategy to pressure Moscow.]]></description>
+            <link>https://time.com/article/2026/09/13/trump-wants-ukraine-to-stop-striking-russian-refineries-what-would-that-mean-for-the-war-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/13/trump-wants-ukraine-to-stop-striking-russian-refineries-what-would-that-mean-for-the-war-/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sun, 13 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -55,6 +62,7 @@
             <title><![CDATA[Yemen’s Houthis Reach Strategic Island in Key Shipping Route]]></title>
             <link>https://time.com/article/2026/09/11/yemen-houthi-red-sea-bab-el-mandeb-shipping-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/11/yemen-houthi-red-sea-bab-el-mandeb-shipping-iran-war/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam and Tiago Ventura]]></dc:creator>
             <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3282,12 +3290,6 @@
             <link>https://time.com/article/2026/07/23/the-moment-that-explains-why-troy-jackson-has-democrats-spooked/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/23/the-moment-that-explains-why-troy-jackson-has-democrats-spooked/</guid>
             <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
-            <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Reaches Landmark Nuclear Deal With Saudi Arabia]]></title>
-            <link>https://time.com/article/2026/07/23/us-saudi-arabia-nuclear-deal-explainer/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/23/us-saudi-arabia-nuclear-deal-explainer/</guid>
             <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
