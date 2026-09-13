@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Sep 2026 12:58:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Sep 2026 16:50:06 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 13 Sep 2026 12:58:16 GMT</pubDate>
+        <pubDate>Sun, 13 Sep 2026 16:50:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[There’s a New Tennis Force in Town]]></title>
+            <link>https://time.com/article/2026/09/13/there-s-a-new-tennis-force-in-town/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/13/there-s-a-new-tennis-force-in-town/</guid>
+            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Price of Privacy When It Comes to Dementia]]></title>
             <link>https://time.com/article/2026/09/12/the-price-of-privacy-when-it-comes-to-dementia/</link>
@@ -16,6 +23,7 @@
         </item>
         <item>
             <title><![CDATA[At the U.S. Open, Ben Shelton Has America Believing Again]]></title>
+            <description><![CDATA[The 23-year-old will face Alexander Zverev on Sunday after becoming the first Black American man to reach the U.S. Open final since 1972.]]></description>
             <link>https://time.com/article/2026/09/12/at-the-u-s-open-ben-shelton-has-america-believing-again/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/12/at-the-u-s-open-ben-shelton-has-america-believing-again/</guid>
             <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
@@ -23,7 +31,6 @@
         </item>
         <item>
             <title><![CDATA[The U.S. Is Having One of Its Most Active Wildfire Seasons. Here’s How the Costs Are Adding Up]]></title>
-            <description><![CDATA[Federal firefighting resources are stretched thin and states are spending more, while households face mounting expenses.]]></description>
             <link>https://time.com/article/2026/09/12/the-u-s-is-on-track-for-a-record-wildfire-season-here-s-what-it-could-cost-americans/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/12/the-u-s-is-on-track-for-a-record-wildfire-season-here-s-what-it-could-cost-americans/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
@@ -68,7 +75,6 @@
             <title><![CDATA[The Cyclospora Outbreak, By the Numbers]]></title>
             <link>https://time.com/article/2026/09/11/cyclospora-outbreak-deaths-sickened-states/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/11/cyclospora-outbreak-deaths-sickened-states/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -351,6 +357,7 @@
             <title><![CDATA[The True Story Behind 'The Uprising']]></title>
             <link>https://time.com/article/2026/09/08/the-true-story-behind-the-uprising/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/08/the-true-story-behind-the-uprising/</guid>
+            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3281,13 +3288,6 @@
             <title><![CDATA[U.S. Reaches Landmark Nuclear Deal With Saudi Arabia]]></title>
             <link>https://time.com/article/2026/07/23/us-saudi-arabia-nuclear-deal-explainer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/23/us-saudi-arabia-nuclear-deal-explainer/</guid>
-            <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 Foods That Food Safety Experts Never Eat]]></title>
-            <link>https://time.com/article/2026/07/23/what-food-safety-experts-never-eat/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/23/what-food-safety-experts-never-eat/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
