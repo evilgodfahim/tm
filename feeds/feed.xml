@@ -4,23 +4,20 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Sep 2026 20:04:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 23:36:55 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 14 Sep 2026 20:04:10 GMT</pubDate>
+        <pubDate>Mon, 14 Sep 2026 23:36:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How Escalating Attacks in Yemen Impact Global Oil Trade]]></title>
-            <description><![CDATA[Intensified fighting around the Red Sea could disrupt another maritime chokepoint and further elevate oil prices, possibly for months.]]></description>
             <link>https://time.com/article/2026/09/14/yemen-houthi-saudi-arabia-attacks-oil-red-sea-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/14/yemen-houthi-saudi-arabia-attacks-oil-red-sea-iran-war/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How the Iran War Forced the Gulf to Rethink Its Security]]></title>
             <link>https://time.com/article/2026/09/14/gulf-uae-saudi-arabia-qatar-iran-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/14/gulf-uae-saudi-arabia-qatar-iran-war/</guid>
-            <dc:creator><![CDATA[H.A. Hellyer]]></dc:creator>
             <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -53,6 +50,21 @@
             <title><![CDATA[The High Cost of Winning a Michelin Star]]></title>
             <link>https://time.com/article/2026/09/14/the-high-cost-of-winning-a-michelin-star/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/14/the-high-cost-of-winning-a-michelin-star/</guid>
+            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mitch McConnell Returns to the Senate]]></title>
+            <description><![CDATA[The Kentucky lawmaker announced that he’s casting a vote in the Senate on Monday, marking the end of his months-long absence from the upper chamber after he was hospitalized in June following a fall.]]></description>
+            <link>https://time.com/article/2026/09/14/mitch-mcconnell-senate-return-absence/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/14/mitch-mcconnell-senate-return-absence/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Canada's 'Unique Alliance' With the E.U. Could Look Like]]></title>
+            <link>https://time.com/article/2026/09/14/canada-alliance-european-union-membership-debate-us-trade-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/14/canada-alliance-european-union-membership-debate-us-trade-war/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3277,18 +3289,6 @@
             <title><![CDATA[Here Are the Candidates Vying for Sen. Lindsey Graham’s Seat]]></title>
             <link>https://time.com/article/2026/07/24/lindsey-graham-senate-south-carolina-special-republican-primary-election-candidates/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/24/lindsey-graham-senate-south-carolina-special-republican-primary-election-candidates/</guid>
-            <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Case for Investing in Local Government]]></title>
-            <link>https://time.com/article/2026/07/24/the-case-for-investing-in-local-government/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/24/the-case-for-investing-in-local-government/</guid>
-            <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet Me in the Notes App]]></title>
-            <link>https://time.com/article/2026/07/24/meet-me-in-the-notes-app/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/24/meet-me-in-the-notes-app/</guid>
             <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
