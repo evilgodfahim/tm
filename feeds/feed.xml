@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Sep 2026 15:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 20:04:10 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 14 Sep 2026 15:28:31 GMT</pubDate>
+        <pubDate>Mon, 14 Sep 2026 20:04:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How Escalating Attacks in Yemen Impact Global Oil Trade]]></title>
@@ -33,7 +33,6 @@
             <title><![CDATA[Why You Should Never Wear Shoes in Your House]]></title>
             <link>https://time.com/article/2026/09/14/why-you-should-never-wear-shoes-in-the-house/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/14/why-you-should-never-wear-shoes-in-the-house/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
             <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -44,17 +43,28 @@
             <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What It Was Like to Know Gloria Steinem]]></title>
+            <description><![CDATA[Gloria Steinem “recognized value and power where others didn’t,” writes Ai-jen Poo.]]></description>
+            <link>https://time.com/article/2026/09/14/what-it-was-like-to-know-gloria-steinem/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/14/what-it-was-like-to-know-gloria-steinem/</guid>
+            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The High Cost of Winning a Michelin Star]]></title>
+            <link>https://time.com/article/2026/09/14/the-high-cost-of-winning-a-michelin-star/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/14/the-high-cost-of-winning-a-michelin-star/</guid>
+            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[There’s a New Tennis Force in Town]]></title>
             <link>https://time.com/article/2026/09/13/there-s-a-new-tennis-force-in-town/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/13/there-s-a-new-tennis-force-in-town/</guid>
             <pubDate>Sun, 13 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trump Wants Ukraine to Stop Striking Russian Refineries. What Would That Mean for the War?]]></title>
-            <description><![CDATA[Most of the diesel squeeze stems from the U.S.-Iran war, but heeding Trump’s request could undercut Kyiv’s strategy to pressure Moscow.]]></description>
+            <title><![CDATA[Trump Blames Oil Shortages on the Russia-Ukraine War]]></title>
             <link>https://time.com/article/2026/09/13/trump-wants-ukraine-to-stop-striking-russian-refineries-what-would-that-mean-for-the-war-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/13/trump-wants-ukraine-to-stop-striking-russian-refineries-what-would-that-mean-for-the-war-/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sun, 13 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -118,6 +128,7 @@
             <title><![CDATA[The Cyclospora Outbreak, By the Numbers]]></title>
             <link>https://time.com/article/2026/09/11/cyclospora-outbreak-deaths-sickened-states/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/11/cyclospora-outbreak-deaths-sickened-states/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -311,6 +322,13 @@
             <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gen Z Romance's Strange Sports Obsession]]></title>
+            <link>https://time.com/article/2026/09/09/crew-girl-heated-rivalry-sports-romance/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/09/crew-girl-heated-rivalry-sports-romance/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Key Democrat Plans Ballroom Probe If Party Wins House]]></title>
             <link>https://time.com/article/2026/09/08/exclusive-obscure-committee-set-to-be-at-center-of-trump-fight-if-democrats-win-house/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/08/exclusive-obscure-committee-set-to-be-at-center-of-trump-fight-if-democrats-win-house/</guid>
@@ -401,6 +419,13 @@
             <link>https://time.com/article/2026/09/08/the-true-story-behind-the-uprising/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/08/the-true-story-behind-the-uprising/</guid>
             <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How 'The Early Spring' Ends]]></title>
+            <link>https://time.com/article/2026/09/08/breaking-down-the-ending-of-netflix-s-chinese-drama-the-early-spring/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/08/breaking-down-the-ending-of-netflix-s-chinese-drama-the-early-spring/</guid>
+            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3264,33 +3289,6 @@
             <title><![CDATA[Meet Me in the Notes App]]></title>
             <link>https://time.com/article/2026/07/24/meet-me-in-the-notes-app/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/24/meet-me-in-the-notes-app/</guid>
-            <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Christopher Nolan on the End of 'The Odyssey']]></title>
-            <link>https://time.com/article/2026/07/24/christopher-nolan-explains-the-end-of-the-odyssey/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/24/christopher-nolan-explains-the-end-of-the-odyssey/</guid>
-            <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What We Should Learn From AI's 'Warning Shot']]></title>
-            <link>https://time.com/article/2026/07/24/openai-hugging-face-attack/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/24/openai-hugging-face-attack/</guid>
-            <dc:creator><![CDATA[Harry Booth]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the World Is Reacting to Trump's 'Forced Labor' Tariffs]]></title>
-            <link>https://time.com/article/2026/07/24/trump-forced-labor-tariffs-world-reaction/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/24/trump-forced-labor-tariffs-world-reaction/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Is Joe Manchin’s New Independent Leadership Council?]]></title>
-            <link>https://time.com/article/2026/07/24/joe-manchin-independent-leadership-council/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/24/joe-manchin-independent-leadership-council/</guid>
             <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
