@@ -4,15 +4,48 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Sep 2026 14:00:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 18:36:09 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Sep 2026 14:00:52 GMT</pubDate>
+        <pubDate>Tue, 15 Sep 2026 18:36:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The AI Tipping Point]]></title>
             <description><![CDATA[Inside the industry's growing alarm—and the struggle to turn warnings into action.]]></description>
             <link>https://time.com/article/2026/09/15/ai-anthropic-researcher-quits-coxon-slowdown/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/15/ai-anthropic-researcher-quits-coxon-slowdown/</guid>
+            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran War Has Cost U.S. Nearly $40 Billion and Fueled Inflation, CBO Finds]]></title>
+            <link>https://time.com/article/2026/09/15/iran-war-cost-inflation-cbo-report/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/15/iran-war-cost-inflation-cbo-report/</guid>
+            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the 1980s Permanently Shaped America]]></title>
+            <link>https://time.com/article/2026/09/15/how-the-1980s-permanently-shaped-america/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/15/how-the-1980s-permanently-shaped-america/</guid>
+            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Get Stronger With These 5 Movements]]></title>
+            <link>https://time.com/article/2026/09/15/5-get-stronger-with-these-5-movements/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/15/5-get-stronger-with-these-5-movements/</guid>
+            <dc:creator><![CDATA[Sarah Klein]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Science Says About the Health Impact of Carbon Pollution]]></title>
+            <link>https://time.com/article/2026/09/15/trump-power-plant-emissions-climate-health-impact/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/15/trump-power-plant-emissions-climate-health-impact/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Signs Caregiving Is Harming Your Health]]></title>
+            <link>https://time.com/article/2026/09/15/caregiver-stress-health-warning-signs/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/15/caregiver-stress-health-warning-signs/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -49,15 +82,16 @@
         </item>
         <item>
             <title><![CDATA[What It Was Like to Know Gloria Steinem]]></title>
-            <description><![CDATA[Gloria Steinem “recognized value and power where others didn’t,” writes Ai-jen Poo.]]></description>
             <link>https://time.com/article/2026/09/14/what-it-was-like-to-know-gloria-steinem/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/14/what-it-was-like-to-know-gloria-steinem/</guid>
+            <dc:creator><![CDATA[Ai-jen Poo]]></dc:creator>
             <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The High Cost of Winning a Michelin Star]]></title>
             <link>https://time.com/article/2026/09/14/the-high-cost-of-winning-a-michelin-star/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/14/the-high-cost-of-winning-a-michelin-star/</guid>
+            <dc:creator><![CDATA[Tulasi Srinivas]]></dc:creator>
             <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -84,14 +118,12 @@
             <title><![CDATA[Mariska Hargitay Hosts a Lackluster Emmys]]></title>
             <link>https://time.com/article/2026/09/14/emmys-2026-review-mariska-hargitay/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/14/emmys-2026-review-mariska-hargitay/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Joseph Gordon-Levitt Calls on Government to Shut Down and Regulate AI Companies]]></title>
+            <title><![CDATA[TIME100 AI Honorees Speak to Perils and Promise of the Technology]]></title>
             <link>https://time.com/article/2026/09/14/ai-impact-dinner-toasts-joseph-gordon-levitt/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/14/ai-impact-dinner-toasts-joseph-gordon-levitt/</guid>
-            <dc:creator><![CDATA[Io Dodds]]></dc:creator>
             <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -99,6 +131,13 @@
             <link>https://time.com/article/2026/09/14/ai-impact-dinner-panel-intelligent-economy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/14/ai-impact-dinner-panel-intelligent-economy/</guid>
             <dc:creator><![CDATA[Io Dodds]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TIME Reveals the 2026 TIME Latino Leaders]]></title>
+            <description><![CDATA[TIME reveals the fourth annual TIME Latino Leaders list, recognizing 13 U.S.-based trailblazers changing their industries and the world.]]></description>
+            <link>https://time.com/article/2026/09/14/time-reveals-the-2026-time-latino-leaders/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/14/time-reveals-the-2026-time-latino-leaders/</guid>
             <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -371,7 +410,6 @@
             <title><![CDATA[Gen Z Romance's Strange Sports Obsession]]></title>
             <link>https://time.com/article/2026/09/09/crew-girl-heated-rivalry-sports-romance/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/09/crew-girl-heated-rivalry-sports-romance/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -471,7 +509,6 @@
             <title><![CDATA[How 'The Early Spring' Ends]]></title>
             <link>https://time.com/article/2026/09/08/breaking-down-the-ending-of-netflix-s-chinese-drama-the-early-spring/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/08/breaking-down-the-ending-of-netflix-s-chinese-drama-the-early-spring/</guid>
-            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3252,46 +3289,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/07/27/us-wildfire-preparedness-level-5-what-that-means/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mitch McConnell Shares New Health Update 6 Weeks After Hospitalization]]></title>
-            <link>https://time.com/article/2026/07/27/mitch-mcconnell-health-update-hospitalization-senate/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/27/mitch-mcconnell-health-update-hospitalization-senate/</guid>
-            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Measles Cases in the U.S. Are at a 35-Year High]]></title>
-            <link>https://time.com/article/2026/07/27/measles-cases-us-35-year-high/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/27/measles-cases-us-35-year-high/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Ending of Agent Kim Reactivated]]></title>
-            <link>https://time.com/article/2026/07/27/agent-kim-reactivated-ending/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/27/agent-kim-reactivated-ending/</guid>
-            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Photos Show Destruction in France and Spain From Ferocious Wildfires]]></title>
-            <description><![CDATA[French President Emmanuel Macron has said the wildfire situation is the "toughest since the Second World War."]]></description>
-            <link>https://time.com/article/2026/07/27/france-spain-europe-wildfires-destruction-photos/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/27/france-spain-europe-wildfires-destruction-photos/</guid>
-            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Berlin Pride Attack Suspect Dies in Police Confrontation]]></title>
-            <link>https://time.com/article/2026/07/26/berlin-pride-attack-suspect-dies-in-police-confrontation-after-daylong-manhunt/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/26/berlin-pride-attack-suspect-dies-in-police-confrontation-after-daylong-manhunt/</guid>
-            <pubDate>Sun, 26 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wildfire Disruptions to the Tour de France Show How Climate Change Is Shaping Sports]]></title>
-            <link>https://time.com/article/2026/07/26/wildfire-disruptions-to-the-tour-de-france-show-how-climate-change-is-shaping-sports/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/26/wildfire-disruptions-to-the-tour-de-france-show-how-climate-change-is-shaping-sports/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Sun, 26 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
