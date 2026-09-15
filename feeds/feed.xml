@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Sep 2026 18:36:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 21:50:19 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Sep 2026 18:36:09 GMT</pubDate>
+        <pubDate>Tue, 15 Sep 2026 21:50:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The AI Tipping Point]]></title>
@@ -46,6 +46,31 @@
             <link>https://time.com/article/2026/09/15/caregiver-stress-health-warning-signs/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/15/caregiver-stress-health-warning-signs/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Is the Status of the U.S.-Iran Peace Talks? Here's What Both Sides Are Saying]]></title>
+            <link>https://time.com/article/2026/09/15/us-iran-peace-talks-deal-stalled-houthis-leverage-shipping-disruptions/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/15/us-iran-peace-talks-deal-stalled-houthis-leverage-shipping-disruptions/</guid>
+            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Republican Congressman Introduces Articles of Impeachment Against Defense Secretary Pete Hegseth]]></title>
+            <link>https://time.com/article/2026/09/15/massie-hegseth-impeachment-iran/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/15/massie-hegseth-impeachment-iran/</guid>
+            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crisis at the Kennedy Center: Why Its Main Building Is Going Dark for Two Years]]></title>
+            <link>https://time.com/article/2026/09/15/kennedy-center-board-approves-immediate-2-year-building-closure/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/15/kennedy-center-board-approves-immediate-2-year-building-closure/</guid>
+            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More Americans Are Eating Fruit—But Fewer Are Eating Vegetables]]></title>
+            <link>https://time.com/article/2026/09/15/americans-eating-fruit-vegetables/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/15/americans-eating-fruit-vegetables/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -124,6 +149,7 @@
             <title><![CDATA[TIME100 AI Honorees Speak to Perils and Promise of the Technology]]></title>
             <link>https://time.com/article/2026/09/14/ai-impact-dinner-toasts-joseph-gordon-levitt/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/14/ai-impact-dinner-toasts-joseph-gordon-levitt/</guid>
+            <dc:creator><![CDATA[Io Dodds]]></dc:creator>
             <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3263,31 +3289,6 @@
             <link>https://time.com/article/2026/07/27/habits-infectious-disease-doctors-avoid-getting-sick/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/27/habits-infectious-disease-doctors-avoid-getting-sick/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jason Crow: From Paratrooper to Democratic Power Player]]></title>
-            <link>https://time.com/article/2026/07/27/jason-crow-power-player/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/27/jason-crow-power-player/</guid>
-            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Tensions Are Mounting Between Trump and Republican Senate Leader Thune]]></title>
-            <link>https://time.com/article/2026/07/27/trump-thune-senate-republicans-save-america-act/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/27/trump-thune-senate-republicans-save-america-act/</guid>
-            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About the Deadly Wildfires in Western Europe]]></title>
-            <link>https://time.com/article/2026/07/27/france-spain-wildfire-heat-wave-europe-climate-change/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/27/france-spain-wildfire-heat-wave-europe-climate-change/</guid>
-            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The U.S. Is Now At Its Worst Level of Wildfire Preparedness]]></title>
-            <link>https://time.com/article/2026/07/27/us-wildfire-preparedness-level-5-what-that-means/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/27/us-wildfire-preparedness-level-5-what-that-means/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
