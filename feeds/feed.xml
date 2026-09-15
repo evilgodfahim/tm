@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Sep 2026 02:35:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 08:12:33 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Sep 2026 02:35:44 GMT</pubDate>
+        <pubDate>Tue, 15 Sep 2026 08:12:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How Escalating Attacks in Yemen Impact Global Oil Trade]]></title>
@@ -71,6 +71,13 @@
             <link>https://time.com/article/2026/09/14/umar-kremlev-russian-businessman-donald-trump-jr-wedding-celebrations/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/14/umar-kremlev-russian-businessman-donald-trump-jr-wedding-celebrations/</guid>
             <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mariska Hargitay Hosts a Lackluster Emmys]]></title>
+            <link>https://time.com/article/2026/09/14/emmys-2026-review-mariska-hargitay/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/14/emmys-2026-review-mariska-hargitay/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3283,12 +3290,6 @@
             <link>https://time.com/article/2026/07/24/trump-tariffs-forced-labor-explainer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/24/trump-tariffs-forced-labor-explainer/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How NATO Is Quietly Reinventing Itself for Trump]]></title>
-            <link>https://time.com/article/2026/07/24/trump-mark-rutte-europe-nato-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/24/trump-mark-rutte-europe-nato-/</guid>
             <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
