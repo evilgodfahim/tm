@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Sep 2026 17:52:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 20:40:26 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Sep 2026 17:52:11 GMT</pubDate>
+        <pubDate>Wed, 16 Sep 2026 20:40:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Thanks to DOGE, Federal Employees Got Paid Billions to Not Work]]></title>
@@ -40,7 +40,27 @@
             <title><![CDATA[Trump Criticizes His Supreme Court Picks Over Mail-In Ballot Ruling]]></title>
             <link>https://time.com/article/2026/09/16/scotus-mail-ballot-ruling-trump-rant/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/16/scotus-mail-ballot-ruling-trump-rant/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Arabia Calls Mecca a ‘Red Line’ After Alleged Houthi Drone Attack]]></title>
+            <link>https://time.com/article/2026/09/16/saudi-arabia-declares-mecca-a-red-line-as-houthis-deny-targeting-holy-site/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/16/saudi-arabia-declares-mecca-a-red-line-as-houthis-deny-targeting-holy-site/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Surprising Health Benefits of Reading a Book]]></title>
+            <link>https://time.com/article/2026/09/16/health-benefits-reading-books-for-pleasure/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/16/health-benefits-reading-books-for-pleasure/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Americans Are Increasingly Worried About AI's Environmental Impact]]></title>
+            <link>https://time.com/article/2026/09/16/majority-americans-worried-ai-environment-impact/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/16/majority-americans-worried-ai-environment-impact/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3274,26 +3294,6 @@
             <title><![CDATA[Trump Pays Tribute to Lindsey Graham: ‘He Died Doing the Work He Was Born to Do’]]></title>
             <link>https://time.com/article/2026/07/28/trump-lindsey-graham-funeral/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/28/trump-lindsey-graham-funeral/</guid>
-            <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Iran War Exposed Africa’s Biggest Energy Weakness]]></title>
-            <link>https://time.com/article/2026/07/28/the-iran-war-exposed-africa-s-biggest-energy-weakness/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/28/the-iran-war-exposed-africa-s-biggest-energy-weakness/</guid>
-            <dc:creator><![CDATA[Michael Adu Okyere]]></dc:creator>
-            <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The True Story Behind Netflix's 'The Idaho Murders: College Nightmare']]></title>
-            <link>https://time.com/article/2026/07/28/netflix-documentary-idaho-college-murders/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/28/netflix-documentary-idaho-college-murders/</guid>
-            <dc:creator><![CDATA[Olivia B. Waxman]]></dc:creator>
-            <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Meaning of 'Roots' at 50]]></title>
-            <link>https://time.com/article/2026/07/28/roots-50th-anniversary-alex-haley/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/28/roots-50th-anniversary-alex-haley/</guid>
             <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
