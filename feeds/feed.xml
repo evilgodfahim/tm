@@ -4,14 +4,16 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Sep 2026 13:54:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 17:52:11 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Sep 2026 13:54:35 GMT</pubDate>
+        <pubDate>Wed, 16 Sep 2026 17:52:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Thanks to DOGE, Federal Employees Got Paid Billions to Not Work]]></title>
+            <description><![CDATA[The U.S. spent $6.7 billion last year on paid leave for workers departing under a DOGE workforce reduction program, a new government report found.]]></description>
             <link>https://time.com/article/2026/09/16/federal-spending-layoffs-deferred-resignation-opm-doge-gao-report/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/16/federal-spending-layoffs-deferred-resignation-opm-doge-gao-report/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -25,7 +27,6 @@
             <title><![CDATA[The Best Ways to Stop Yourself From Crying]]></title>
             <link>https://time.com/article/2026/09/16/how-to-stop-yourself-from-crying/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/16/how-to-stop-yourself-from-crying/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -33,6 +34,13 @@
             <link>https://time.com/article/2026/09/16/why-ai-makes-customer-service-worse-and-what-companies-can-do-to-fix-it/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/16/why-ai-makes-customer-service-worse-and-what-companies-can-do-to-fix-it/</guid>
             <dc:creator><![CDATA[Francine Berman]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Criticizes His Supreme Court Picks Over Mail-In Ballot Ruling]]></title>
+            <link>https://time.com/article/2026/09/16/scotus-mail-ballot-ruling-trump-rant/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/16/scotus-mail-ballot-ruling-trump-rant/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -58,7 +66,6 @@
             <title><![CDATA[Get Stronger With These 5 Movements]]></title>
             <link>https://time.com/article/2026/09/15/5-get-stronger-with-these-5-movements/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/15/5-get-stronger-with-these-5-movements/</guid>
-            <dc:creator><![CDATA[Sarah Klein]]></dc:creator>
             <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -97,7 +104,6 @@
             <title><![CDATA[More Americans Are Eating Fruit—But Fewer Are Eating Vegetables]]></title>
             <link>https://time.com/article/2026/09/15/americans-eating-fruit-vegetables/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/15/americans-eating-fruit-vegetables/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -105,6 +111,12 @@
             <description><![CDATA[The list features 13 U.S.-based trailblazers changing their industries and the world.]]></description>
             <link>https://time.com/article/2026/09/15/how-we-chose-2026-latino-leaders/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/15/how-we-chose-2026-latino-leaders/</guid>
+            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The U.S. Just Admitted it Has Weapons in Space]]></title>
+            <link>https://time.com/article/2026/09/15/us-space-weapons-why-it-matters/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/15/us-space-weapons-why-it-matters/</guid>
             <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -130,6 +142,7 @@
             <title><![CDATA[Why You Should Never Wear Shoes in Your House]]></title>
             <link>https://time.com/article/2026/09/14/why-you-should-never-wear-shoes-in-the-house/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/14/why-you-should-never-wear-shoes-in-the-house/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
             <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -165,6 +178,7 @@
             <title><![CDATA[E.U. Wants Canada to Become Bloc's First 'Associate Member']]></title>
             <link>https://time.com/article/2026/09/14/canada-alliance-european-union-membership-debate-us-trade-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/14/canada-alliance-european-union-membership-debate-us-trade-war/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -177,6 +191,7 @@
             <title><![CDATA[Mariska Hargitay Hosts a Lackluster Emmys]]></title>
             <link>https://time.com/article/2026/09/14/emmys-2026-review-mariska-hargitay/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/14/emmys-2026-review-mariska-hargitay/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -470,6 +485,7 @@
             <title><![CDATA[Gen Z Romance's Strange Sports Obsession]]></title>
             <link>https://time.com/article/2026/09/09/crew-girl-heated-rivalry-sports-romance/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/09/crew-girl-heated-rivalry-sports-romance/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3279,19 +3295,6 @@
             <link>https://time.com/article/2026/07/28/roots-50th-anniversary-alex-haley/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/28/roots-50th-anniversary-alex-haley/</guid>
             <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Contradiction at the Heart of Disability in America]]></title>
-            <link>https://time.com/article/2026/07/27/the-contradiction-at-the-heart-of-disability-in-america/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/27/the-contradiction-at-the-heart-of-disability-in-america/</guid>
-            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICE Reportedly Set to Ramp Up Operations Against Haitian Migrants After TPS Ruling]]></title>
-            <link>https://time.com/article/2026/07/27/haitian-immigrants-ice-operations-temporary-protected-status/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/27/haitian-immigrants-ice-operations-temporary-protected-status/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
