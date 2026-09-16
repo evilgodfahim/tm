@@ -4,10 +4,37 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Sep 2026 08:05:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 13:54:35 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Sep 2026 08:05:51 GMT</pubDate>
+        <pubDate>Wed, 16 Sep 2026 13:54:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Thanks to DOGE, Federal Employees Got Paid Billions to Not Work]]></title>
+            <link>https://time.com/article/2026/09/16/federal-spending-layoffs-deferred-resignation-opm-doge-gao-report/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/16/federal-spending-layoffs-deferred-resignation-opm-doge-gao-report/</guid>
+            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World's Top HealthTech Companies 2026]]></title>
+            <link>https://time.com/article/2026/09/16/worlds-top-healthtech-companies-2026/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/16/worlds-top-healthtech-companies-2026/</guid>
+            <dc:creator><![CDATA[Charlotte Hu]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Best Ways to Stop Yourself From Crying]]></title>
+            <link>https://time.com/article/2026/09/16/how-to-stop-yourself-from-crying/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/16/how-to-stop-yourself-from-crying/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why AI Makes Customer Service Worse, And What Companies Can Do To Fix It]]></title>
+            <link>https://time.com/article/2026/09/16/why-ai-makes-customer-service-worse-and-what-companies-can-do-to-fix-it/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/16/why-ai-makes-customer-service-worse-and-what-companies-can-do-to-fix-it/</guid>
+            <dc:creator><![CDATA[Francine Berman]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The AI Tipping Point]]></title>
             <description><![CDATA[Inside the industry's growing alarm—and the struggle to turn warnings into action.]]></description>
@@ -135,7 +162,7 @@
             <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What Canada's 'Unique Alliance' With the E.U. Could Look Like]]></title>
+            <title><![CDATA[E.U. Wants Canada to Become Bloc's First 'Associate Member']]></title>
             <link>https://time.com/article/2026/09/14/canada-alliance-european-union-membership-debate-us-trade-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/14/canada-alliance-european-union-membership-debate-us-trade-war/</guid>
             <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
@@ -3264,31 +3291,6 @@
             <link>https://time.com/article/2026/07/27/haitian-immigrants-ice-operations-temporary-protected-status/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/27/haitian-immigrants-ice-operations-temporary-protected-status/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[6 Easy Ways to Move More While Working from Home]]></title>
-            <link>https://time.com/article/2026/07/27/how-to-move-more-while-working-from-home/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/27/how-to-move-more-while-working-from-home/</guid>
-            <dc:creator><![CDATA[Jennifer Heimlich]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Republican Lawmaker Breaks Ranks With Trump Over Saudi Arabia Nuclear Deal]]></title>
-            <link>https://time.com/article/2026/07/27/republican-senator-kennedy-breaks-ranks-trump-us-saudi-arabia-nuclear-deal/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/27/republican-senator-kennedy-breaks-ranks-trump-us-saudi-arabia-nuclear-deal/</guid>
-            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What We Know About the Seattle Food Festival Shooting]]></title>
-            <link>https://time.com/article/2026/07/27/seattle-shooting-food-festival-suspects-victims/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/27/seattle-shooting-food-festival-suspects-victims/</guid>
-            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chalk One Up for Ukraine]]></title>
-            <link>https://time.com/article/2026/07/27/defense-innovation-drones-ground-robot-army-ukraine/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/27/defense-innovation-drones-ground-robot-army-ukraine/</guid>
             <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
