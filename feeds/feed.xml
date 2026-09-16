@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Sep 2026 20:40:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 23:25:42 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Sep 2026 20:40:26 GMT</pubDate>
+        <pubDate>Wed, 16 Sep 2026 23:25:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Thanks to DOGE, Federal Employees Got Paid Billions to Not Work]]></title>
-            <description><![CDATA[The U.S. spent $6.7 billion last year on paid leave for workers departing under a DOGE workforce reduction program, a new government report found.]]></description>
             <link>https://time.com/article/2026/09/16/federal-spending-layoffs-deferred-resignation-opm-doge-gao-report/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/16/federal-spending-layoffs-deferred-resignation-opm-doge-gao-report/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
@@ -46,7 +45,6 @@
             <title><![CDATA[Saudi Arabia Calls Mecca a ‘Red Line’ After Alleged Houthi Drone Attack]]></title>
             <link>https://time.com/article/2026/09/16/saudi-arabia-declares-mecca-a-red-line-as-houthis-deny-targeting-holy-site/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/16/saudi-arabia-declares-mecca-a-red-line-as-houthis-deny-targeting-holy-site/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -60,7 +58,14 @@
             <title><![CDATA[Americans Are Increasingly Worried About AI's Environmental Impact]]></title>
             <link>https://time.com/article/2026/09/16/majority-americans-worried-ai-environment-impact/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/16/majority-americans-worried-ai-environment-impact/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Democrats Are Mobilizing to Counter Potential Election Interference]]></title>
+            <description><![CDATA[With the midterm elections less than two months away, Democrats are training thousands of volunteers on how to respond to any voter intimidation.]]></description>
+            <link>https://time.com/article/2026/09/16/midterms-democrats-election-interference-voter-intimidation-trump-administration-concerns/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/16/midterms-democrats-election-interference-voter-intimidation-trump-administration-concerns/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3288,12 +3293,6 @@
             <link>https://time.com/article/2026/07/28/spider-man-brand-new-day-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/28/spider-man-brand-new-day-review/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Pays Tribute to Lindsey Graham: ‘He Died Doing the Work He Was Born to Do’]]></title>
-            <link>https://time.com/article/2026/07/28/trump-lindsey-graham-funeral/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/28/trump-lindsey-graham-funeral/</guid>
             <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
