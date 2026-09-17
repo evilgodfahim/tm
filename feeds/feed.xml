@@ -4,15 +4,57 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Sep 2026 08:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 13:58:20 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Sep 2026 08:12:20 GMT</pubDate>
+        <pubDate>Thu, 17 Sep 2026 13:58:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Having Health Insurance Doesn’t Prevent Medical Debt]]></title>
             <link>https://time.com/article/2026/09/17/having-health-insurance-doesnt-prevent-medical-debt/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/17/having-health-insurance-doesnt-prevent-medical-debt/</guid>
             <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Trump Helped Put a Texas Senate Seat In Play]]></title>
+            <description><![CDATA[Democrats may be within reach of their first statewide win in decades]]></description>
+            <link>https://time.com/article/2026/09/17/trump-paxton-talarico-texas-senate/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/17/trump-paxton-talarico-texas-senate/</guid>
+            <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carney Champions Canada and E.U. Alliance as Trump Threatens Europe Over 'Hostile Act']]></title>
+            <link>https://time.com/article/2026/09/17/canada-european-union-membership-carney-trump-tariff-threats/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/17/canada-european-union-membership-carney-trump-tariff-threats/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Southeast Asia Is Facing a Haze Crisis]]></title>
+            <link>https://time.com/article/2026/09/17/wildfire-haze-indonesia-malaysia-singapore-southeast-asia-super-el-nino/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/17/wildfire-haze-indonesia-malaysia-singapore-southeast-asia-super-el-nino/</guid>
+            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Govern the Existential Risk of AI]]></title>
+            <link>https://time.com/article/2026/09/17/how-to-govern-the-existential-risk-of-ai/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/17/how-to-govern-the-existential-risk-of-ai/</guid>
+            <dc:creator><![CDATA[Mary Robinson]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Attacks Against Judges Are an Attack Against America’s Constitution]]></title>
+            <link>https://time.com/article/2026/09/17/attacks-against-judges-are-an-attack-against-america-s-constitution/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/17/attacks-against-judges-are-an-attack-against-america-s-constitution/</guid>
+            <dc:creator><![CDATA[Paul R. Michel]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the U.S. Urgently Needs More Platelet Donors]]></title>
+            <link>https://time.com/article/2026/09/17/why-the-us-urgently-needs-more-platelet-donors/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/17/why-the-us-urgently-needs-more-platelet-donors/</guid>
+            <dc:creator><![CDATA[Robert Glatter]]></dc:creator>
             <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -73,6 +115,20 @@
             <link>https://time.com/article/2026/09/16/midterms-democrats-election-interference-voter-intimidation-trump-administration-concerns/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/16/midterms-democrats-election-interference-voter-intimidation-trump-administration-concerns/</guid>
             <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Politicization of ‘DEI’ Bike Lanes]]></title>
+            <link>https://time.com/article/2026/09/16/the-politicization-of-dei-bike-lanes/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/16/the-politicization-of-dei-bike-lanes/</guid>
+            <dc:creator><![CDATA[Evan Friss]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside Lizzie Borden's House Today]]></title>
+            <link>https://time.com/article/2026/09/16/lizzie-borden-monster-netflix-maplecroft-history/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/16/lizzie-borden-monster-netflix-maplecroft-history/</guid>
+            <dc:creator><![CDATA[Rosemary Counter]]></dc:creator>
             <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3241,59 +3297,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/07/29/what-is-a-fire-cloud-wildfires-europe-more-dangerous/</guid>
             <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Bloody Finale of Cape Fear]]></title>
-            <link>https://time.com/article/2026/07/29/cape-fear-finale-explained/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/29/cape-fear-finale-explained/</guid>
-            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Jean Grey Means for the Future of X-Men]]></title>
-            <link>https://time.com/article/2026/07/29/spider-man-brand-new-day-jean-grey-x-men/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/29/spider-man-brand-new-day-jean-grey-x-men/</guid>
-            <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Asks Supreme Court to Allow Restrictions on Mail-In Ballots Before Midterms]]></title>
-            <link>https://time.com/article/2026/07/28/trump-scotus-mail-in-ballots-order-elections/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/28/trump-scotus-mail-in-ballots-order-elections/</guid>
-            <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Walks Out In Protest During France's United Nations Remarks. Here's Why]]></title>
-            <link>https://time.com/article/2026/07/28/us-walks-out-protest-france-united-nations-address-europe-rift/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/28/us-walks-out-protest-france-united-nations-address-europe-rift/</guid>
-            <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can't Sleep? Try Getting Out of Bed]]></title>
-            <link>https://time.com/article/2026/07/28/what-to-do-when-you-cant-sleep/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/28/what-to-do-when-you-cant-sleep/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Biggest Fight in AI Right Now]]></title>
-            <link>https://time.com/article/2026/07/28/open-source-ai-hugging-face-openai/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/28/open-source-ai-hugging-face-openai/</guid>
-            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
-            <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Europe Is Heading for a Historic Wildfire Season]]></title>
-            <link>https://time.com/article/2026/07/28/history-of-wildfires-in-europe/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/28/history-of-wildfires-in-europe/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here’s Who Is Attending Lindsey Graham’s Funeral Services]]></title>
-            <link>https://time.com/article/2026/07/28/lindsey-graham-funeral-services-who-attending/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/28/lindsey-graham-funeral-services-who-attending/</guid>
-            <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
