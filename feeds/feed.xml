@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Sep 2026 17:56:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 23:17:15 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Sep 2026 17:56:38 GMT</pubDate>
+        <pubDate>Thu, 17 Sep 2026 23:17:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Having Health Insurance Doesn’t Prevent Medical Debt]]></title>
@@ -27,7 +27,6 @@
             <title><![CDATA[Carney Champions Canada-E.U. Alliance as Trump Threatens Europe Over 'Hostile Act']]></title>
             <link>https://time.com/article/2026/09/17/canada-european-union-membership-carney-trump-tariff-threats/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/17/canada-european-union-membership-carney-trump-tariff-threats/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -55,6 +54,38 @@
             <link>https://time.com/article/2026/09/17/why-the-us-urgently-needs-more-platelet-donors/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/17/why-the-us-urgently-needs-more-platelet-donors/</guid>
             <dc:creator><![CDATA[Robert Glatter]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Withdraws ICE Director Nominee After Republican Senator Blocks Confirmation Hearing]]></title>
+            <link>https://time.com/article/2026/09/17/trump-ice-director-nominee-lance-schroyer-rand-paul/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/17/trump-ice-director-nominee-lance-schroyer-rand-paul/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump-Backed Republican Congresswoman Says the President’s Immigration Crackdown Has Gone ‘Too Far’]]></title>
+            <link>https://time.com/article/2026/09/17/trump-immigration-florida-republican-maria-elvira-salazar-midterms/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/17/trump-immigration-florida-republican-maria-elvira-salazar-midterms/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘You’re Eroding Trust’: What Trump Shifting Tens of Millions in Military Aid Means for U.S. Alliances]]></title>
+            <link>https://time.com/article/2026/09/17/trump-military-aid-us-alliances-europe-middle-east-americas/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/17/trump-military-aid-us-alliances-europe-middle-east-americas/</guid>
+            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colin Kaepernick Still Won't Stand for the National Anthem]]></title>
+            <link>https://time.com/article/2026/09/17/colin-kaepernick-memoir-interview/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/17/colin-kaepernick-memoir-interview/</guid>
+            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Genetic Mutation May Help Explain Lung Cancer in Nonsmokers]]></title>
+            <link>https://time.com/article/2026/09/17/genetic-mutation-lung-cancer-nonsmokers/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/17/genetic-mutation-lung-cancer-nonsmokers/</guid>
             <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -107,6 +138,7 @@
             <title><![CDATA[Americans Are Increasingly Worried About AI's Environmental Impact]]></title>
             <link>https://time.com/article/2026/09/16/majority-americans-worried-ai-environment-impact/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/16/majority-americans-worried-ai-environment-impact/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3261,41 +3293,6 @@
             <title><![CDATA[The Lone Republican Who Voted Against Advancing Bill to Put Tougher Sanctions on Russia]]></title>
             <link>https://time.com/article/2026/07/29/why-republican-rand-paul-voted-against-advancing-russia-sanctions-bill/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/29/why-republican-rand-paul-voted-against-advancing-russia-sanctions-bill/</guid>
-            <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Farmers’ Market Produce Safer During the Cyclospora Outbreak?]]></title>
-            <link>https://time.com/article/2026/07/29/is-farmers-market-produce-safer-during-cyclospora-outbreak/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/29/is-farmers-market-produce-safer-during-cyclospora-outbreak/</guid>
-            <dc:creator><![CDATA[Angela Haupt and Dominique Mosbergen]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Could Wildfires Overshadow Spain’s Solar Eclipse?]]></title>
-            <link>https://time.com/article/2026/07/29/could-wildfires-overshadow-spain-s-solar-eclipse-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/29/could-wildfires-overshadow-spain-s-solar-eclipse-/</guid>
-            <dc:creator><![CDATA[T. Michelle Murphy and Rebecca Schneid]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Surprisingly Emotional Ending of Shark Thriller The Devil’s Mouth]]></title>
-            <link>https://time.com/article/2026/07/29/devils-mouth-ending/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/29/devils-mouth-ending/</guid>
-            <dc:creator><![CDATA[Isadora Wandermurem]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[John Thune Isn’t Bowing to Trump’s Pressure: ‘Show Me How This Ends’]]></title>
-            <link>https://time.com/article/2026/07/29/trump-thune-senate-republicans-save-america-act/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/29/trump-thune-senate-republicans-save-america-act/</guid>
-            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Is a Fire Cloud and How Are They Making Europe's Wildfires More Dangerous?]]></title>
-            <link>https://time.com/article/2026/07/29/what-is-a-fire-cloud-wildfires-europe-more-dangerous/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/29/what-is-a-fire-cloud-wildfires-europe-more-dangerous/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
