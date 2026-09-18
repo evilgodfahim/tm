@@ -4,22 +4,20 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Sep 2026 16:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 22:05:43 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Sep 2026 16:50:09 GMT</pubDate>
+        <pubDate>Fri, 18 Sep 2026 22:05:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[U.S. May Have Committed War Crimes in Iran, U.N. Report Says]]></title>
             <link>https://time.com/article/2026/09/18/us-iran-israel-war-crimes-strike-minab-school-un-report/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/18/us-iran-israel-war-crimes-strike-minab-school-un-report/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Earthshot Prize Is Embracing the Idea of Positive Tipping Points]]></title>
             <link>https://time.com/article/2026/09/18/earthshot-prize-finalists-2026-tipping-points/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/18/earthshot-prize-finalists-2026-tipping-points/</guid>
-            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -34,6 +32,49 @@
             <link>https://time.com/article/2026/09/18/your-shoe-size-can-change-as-you-age/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/18/your-shoe-size-can-change-as-you-age/</guid>
             <dc:creator><![CDATA[Erica Sweeney]]></dc:creator>
+            <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Announces Ban of CNN, Politico and MS Now From White House]]></title>
+            <description><![CDATA[Trump said there were no particular stories that prompted the decision.]]></description>
+            <link>https://time.com/article/2026/09/18/trump-bans-3-news-organizations-from-white-house/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/18/trump-bans-3-news-organizations-from-white-house/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How a New Trump Administration Rule Is Set to Restrict Green Card Access]]></title>
+            <link>https://time.com/article/2026/09/18/trump-green-card-public-assistance-benefits-immigration/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/18/trump-green-card-public-assistance-benefits-immigration/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the Outcome of Russia's Elections Is All But Assured]]></title>
+            <link>https://time.com/article/2026/09/18/russia-elections-parliament-state-duma-putin/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/18/russia-elections-parliament-state-duma-putin/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Monster: The Lizzie Borden Story' Disappoints]]></title>
+            <link>https://time.com/article/2026/09/18/monster-lizzie-borden-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/18/monster-lizzie-borden-review/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Resident Evil Is a Fleet, Entertaining Reboot]]></title>
+            <link>https://time.com/article/2026/09/18/resident-evil-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/18/resident-evil-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Ending of 'The Scandal']]></title>
+            <link>https://time.com/article/2026/09/18/breaking-down-the-ending-of-the-scandal/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/18/breaking-down-the-ending-of-the-scandal/</guid>
+            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
             <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -117,6 +158,12 @@
             <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Russia Sanctions Bill Could 'Harm' Americans, Say Democratic Leaders]]></title>
+            <link>https://time.com/article/2026/09/17/russian-sanctions-bill-trump-new-tariffs-power-democrats-backlash/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/17/russian-sanctions-bill-trump-new-tariffs-power-democrats-backlash/</guid>
+            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Thanks to DOGE, Federal Employees Got Paid Billions to Not Work]]></title>
             <link>https://time.com/article/2026/09/16/federal-spending-layoffs-deferred-resignation-opm-doge-gao-report/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/16/federal-spending-layoffs-deferred-resignation-opm-doge-gao-report/</guid>
@@ -189,6 +236,20 @@
             <link>https://time.com/article/2026/09/16/lizzie-borden-monster-netflix-maplecroft-history/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/16/lizzie-borden-monster-netflix-maplecroft-history/</guid>
             <dc:creator><![CDATA[Rosemary Counter]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Brutal Ending of 'Resident Evil']]></title>
+            <link>https://time.com/article/2026/09/16/resident-evil-zach-cregger-ending-explained/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/16/resident-evil-zach-cregger-ending-explained/</guid>
+            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside 'Best of the Best']]></title>
+            <link>https://time.com/article/2026/09/16/best-of-the-best-netflix-hasan-minhaj-maitreyi-ramakrishnan/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/16/best-of-the-best-netflix-hasan-minhaj-maitreyi-ramakrishnan/</guid>
+            <dc:creator><![CDATA[Radheyan Simonpillai]]></dc:creator>
             <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -265,6 +326,13 @@
             <title><![CDATA[The U.S. Just Admitted it Has Weapons in Space]]></title>
             <link>https://time.com/article/2026/09/15/us-space-weapons-why-it-matters/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/15/us-space-weapons-why-it-matters/</guid>
+            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: The History of Concrete]]></title>
+            <link>https://time.com/article/2026/09/15/the-history-of-concrete-review-john-wilson/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/15/the-history-of-concrete-review-john-wilson/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3229,71 +3297,6 @@
             <title><![CDATA[How Delcy Rodríguez Went From Maduro Loyalist to Trump Proxy]]></title>
             <link>https://time.com/article/2026/07/30/venezuelan-president-delcy-rodriguez-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/07/30/venezuelan-president-delcy-rodriguez-interview/</guid>
-            <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Read the Transcript of TIME‘s Interview With Venezuelan President Delcy Rodríguez]]></title>
-            <link>https://time.com/article/2026/07/30/venezuelan-president-delcy-rodriguez-interview-transcript/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/30/venezuelan-president-delcy-rodriguez-interview-transcript/</guid>
-            <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Iran Cannot Fight a Forever War]]></title>
-            <link>https://time.com/article/2026/07/30/iran-america-hormuz-forever-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/30/iran-america-hormuz-forever-war/</guid>
-            <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stop Saying There's a Nursing Shortage]]></title>
-            <link>https://time.com/article/2026/07/30/stop-saying-theres-a-nursing-shortage/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/30/stop-saying-theres-a-nursing-shortage/</guid>
-            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Is Frozen Shoulder Syndrome?]]></title>
-            <link>https://time.com/article/2026/07/30/what-is-frozen-shoulder-syndrome/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/30/what-is-frozen-shoulder-syndrome/</guid>
-            <dc:creator><![CDATA[Holly Burns]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Says He Has ‘No Objection’ to Withdrawing Todd Blanche’s Nomination]]></title>
-            <link>https://time.com/article/2026/07/30/trump-says-no-objection-withdrawing-todd-blanche-doj-attorney-general/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/30/trump-says-no-objection-withdrawing-todd-blanche-doj-attorney-general/</guid>
-            <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russian Attack Kills at Least Eight in Ukraine as Zelensky Renews Plea for Supplies]]></title>
-            <link>https://time.com/article/2026/07/30/russia-ukraine-attack-drones-missiles-defense-death-toll/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/30/russia-ukraine-attack-drones-missiles-defense-death-toll/</guid>
-            <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Major Incident' Declared as England Wildfire Swells to Size of 210 Soccer Pitches]]></title>
-            <link>https://time.com/article/2026/07/30/england-wildfire-swells-suffolk-evacuations-high-temperatures/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/30/england-wildfire-swells-suffolk-evacuations-high-temperatures/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What It Means to Plead the Fifth Amendment]]></title>
-            <link>https://time.com/article/2026/07/30/fifth-amendment-fauci-rand-paul-covid-hearing-contempt-of-congress/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/30/fifth-amendment-fauci-rand-paul-covid-hearing-contempt-of-congress/</guid>
-            <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Studying Daily Life Help Us Envision the Future?]]></title>
-            <link>https://time.com/article/2026/07/30/how-studying-daily-life-can-help-us-envision-the-future/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/30/how-studying-daily-life-can-help-us-envision-the-future/</guid>
-            <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About That Aegon Twist in 'House of the Dragon' Season 3]]></title>
-            <link>https://time.com/article/2026/07/30/house-of-the-dragon-season-3-episode-7-aegon-dragon-sunfyre-alive/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/30/house-of-the-dragon-season-3-episode-7-aegon-dragon-sunfyre-alive/</guid>
-            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
