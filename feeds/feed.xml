@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Sep 2026 12:31:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 16:50:09 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Sep 2026 12:31:45 GMT</pubDate>
+        <pubDate>Fri, 18 Sep 2026 16:50:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[U.S. May Have Committed War Crimes in Iran, U.N. Report Says]]></title>
@@ -27,6 +27,13 @@
             <link>https://time.com/article/2026/09/18/south-korea-abortion-pill-mifepristone-misoprostol/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/18/south-korea-abortion-pill-mifepristone-misoprostol/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Your Shoe Size Can Change as You Age. Here's Why]]></title>
+            <link>https://time.com/article/2026/09/18/your-shoe-size-can-change-as-you-age/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/18/your-shoe-size-can-change-as-you-age/</guid>
+            <dc:creator><![CDATA[Erica Sweeney]]></dc:creator>
             <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -449,6 +456,13 @@
             <link>https://time.com/article/2026/09/11/future-africa-farming-sustainability/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/11/future-africa-farming-sustainability/</guid>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sharon Horgan's 'Youth': TV Review]]></title>
+            <link>https://time.com/article/2026/09/11/youth-review-sharon-horgan-hbo/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/11/youth-review-sharon-horgan-hbo/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -893,6 +907,13 @@
             <title><![CDATA[The Stakes of America’s 2026 Midterm Elections]]></title>
             <link>https://time.com/article/2026/09/03/stakes-of-2026-midterm-elections/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/03/stakes-of-2026-midterm-elections/</guid>
+            <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PBS Period Romance 'Trespasses': TV Review]]></title>
+            <link>https://time.com/article/2026/09/03/trespasses-review-pbs/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/03/trespasses-review-pbs/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3274,27 +3295,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/07/30/house-of-the-dragon-season-3-episode-7-aegon-dragon-sunfyre-alive/</guid>
             <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How India’s Young Faced Down Modi]]></title>
-            <link>https://time.com/article/2026/07/29/india-cockroach-youth-protests-unemployment-modi/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/29/india-cockroach-youth-protests-unemployment-modi/</guid>
-            <dc:creator><![CDATA[Yamini Aiyar]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kentucky Governor to McConnell: Prove Fitness to Serve or ‘Resign’]]></title>
-            <link>https://time.com/article/2026/07/29/andy-beshear-mitch-mcconnell-resign-fitness-letter-kentucky/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/29/andy-beshear-mitch-mcconnell-resign-fitness-letter-kentucky/</guid>
-            <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fauci Pleads the Fifth at Senate Hearing on COVID]]></title>
-            <description><![CDATA[The hearing escalates Fauci's long-running clash with Republicans as they seek to revisit the disputed origins of the coronavirus and the U.S. pandemic response.]]></description>
-            <link>https://time.com/article/2026/07/29/fauci-fifth-amendment-senate-hearing-covid-rand-paul-republicans/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/29/fauci-fifth-amendment-senate-hearing-covid-rand-paul-republicans/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
