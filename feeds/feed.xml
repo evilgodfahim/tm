@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Sep 2026 17:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 21:27:26 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 21 Sep 2026 17:29:42 GMT</pubDate>
+        <pubDate>Mon, 21 Sep 2026 21:27:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[ICE Shooting of Immigrant in Texas Under Investigation: What to Know]]></title>
-            <description><![CDATA[The Department of Homeland Security’s investigative arm is leading a probe into the shooting of a Venezuelan immigrant in Austin.]]></description>
             <link>https://time.com/article/2026/09/21/ice-austin-texas-shooting-venezuela-immigrant-investigation/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/21/ice-austin-texas-shooting-venezuela-immigrant-investigation/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
@@ -57,11 +56,30 @@
             <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What Russia’s Parliamentary Election Results Mean for Putin and the War]]></title>
+            <description><![CDATA[United Russia’s projected record majority reinforces Putin’s control over parliament—and gives the Kremlin a result it can portray as support for the war against Ukraine.]]></description>
+            <link>https://time.com/article/2026/09/21/what-russia-s-parliamentary-election-results-mean-for-putin-and-the-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/21/what-russia-s-parliamentary-election-results-mean-for-putin-and-the-war/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why K-Pop Took Off When C-Pop Didn’t]]></title>
+            <link>https://time.com/article/2026/09/21/why-k-pop-took-off-when-c-pop-did-not/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/21/why-k-pop-took-off-when-c-pop-did-not/</guid>
+            <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Older Americans Are Drinking More Alcohol—Not Less]]></title>
+            <link>https://time.com/article/2026/09/21/why-older-americans-are-drinking-more-alcohol—not-less/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/21/why-older-americans-are-drinking-more-alcohol—not-less/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How National Security Became Central to Trump’s D.C. Construction Projects]]></title>
-            <description><![CDATA[The President’s new plan for a militarized triumphal arch echoes the national-security rationale used to defend construction of the White House ballroom.]]></description>
             <link>https://time.com/article/2026/09/20/why-trumps-building-projects-national-security/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/20/why-trumps-building-projects-national-security/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sun, 20 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3280,26 +3298,6 @@
             <link>https://time.com/article/2026/08/02/what-to-know-about-the-u-s-water-systems-cyberattacks/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/02/what-to-know-about-the-u-s-water-systems-cyberattacks/</guid>
             <pubDate>Sun, 02 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Powerful Photos Show a Surge of Moroccan Migrants Crossing Into Spain]]></title>
-            <link>https://time.com/article/2026/08/01/powerful-photos-show-a-surge-of-moroccan-migrants-crossing-into-spain/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/01/powerful-photos-show-a-surge-of-moroccan-migrants-crossing-into-spain/</guid>
-            <dc:creator><![CDATA[T. Michelle Murphy]]></dc:creator>
-            <pubDate>Sat, 01 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FIFA’s Infantino Scraps World Cup Investment Plan. But Is It Too Little, Too Late?]]></title>
-            <link>https://time.com/article/2026/08/01/fifa-s-infantino-scraps-world-cup-investment-plan-but-is-it-too-little-too-late-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/01/fifa-s-infantino-scraps-world-cup-investment-plan-but-is-it-too-little-too-late-/</guid>
-            <pubDate>Sat, 01 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revolt of the Cockroaches: How India’s Gen Z Humbled Modi]]></title>
-            <link>https://time.com/article/2026/08/01/cockroaches-protests-gen-z-india-delhi-narendra-modi-prime-minister/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/01/cockroaches-protests-gen-z-india-delhi-narendra-modi-prime-minister/</guid>
-            <dc:creator><![CDATA[Asim Ali]]></dc:creator>
-            <pubDate>Sat, 01 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
