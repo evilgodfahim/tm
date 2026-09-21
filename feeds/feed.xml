@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Sep 2026 11:31:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 17:29:42 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 21 Sep 2026 11:31:03 GMT</pubDate>
+        <pubDate>Mon, 21 Sep 2026 17:29:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[ICE Shooting of Immigrant in Texas Under Investigation: What to Know]]></title>
@@ -27,13 +27,33 @@
             <title><![CDATA[German Far-Right Surges in ‘Disaster’ State Elections for Chancellor Merz]]></title>
             <link>https://time.com/article/2026/09/21/german-far-right-expands-gains-in-disaster-to-chancellor-merz/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/21/german-far-right-expands-gains-in-disaster-to-chancellor-merz/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We Need to Stop Talking Like Climate Change Is Partisan]]></title>
             <link>https://time.com/article/2026/09/21/we-need-to-stop-talking-like-climate-change-is-partisan/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/21/we-need-to-stop-talking-like-climate-change-is-partisan/</guid>
+            <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CNN, MS NOW, and Politico Sue Trump Administration Over White House Ban]]></title>
+            <link>https://time.com/article/2026/09/21/cnn-ms-now-politico-to-sue-trump-administration-over-white-house-ban/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/21/cnn-ms-now-politico-to-sue-trump-administration-over-white-house-ban/</guid>
+            <dc:creator><![CDATA[Olivia-Anne Cleary and Callum Sutherland]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RSV Vaccines Are Highly Effective in Older Adults]]></title>
+            <link>https://time.com/article/2026/09/21/rsv-vaccines-are-highly-effective-in-older-adults/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/21/rsv-vaccines-are-highly-effective-in-older-adults/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can ‘Pink Noise’ Help You Sleep Better?]]></title>
+            <link>https://time.com/article/2026/09/21/can-pink-noise-improve-your-sleep/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/21/can-pink-noise-improve-your-sleep/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3280,24 +3300,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/08/01/cockroaches-protests-gen-z-india-delhi-narendra-modi-prime-minister/</guid>
             <dc:creator><![CDATA[Asim Ali]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Thousands of Moroccan Migrants Crossed Into the Spanish Exclave Ceuta]]></title>
-            <link>https://time.com/article/2026/07/31/ceuta-spain-morocco-africa-explainer/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/31/ceuta-spain-morocco-africa-explainer/</guid>
-            <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3 Republicans Break Ranks in Attempt to Limit Trump's Iran War Powers]]></title>
-            <link>https://time.com/article/2026/07/31/republicans-break-ranks-attempt-to-limit-trump-iran-war-powers/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/31/republicans-break-ranks-attempt-to-limit-trump-iran-war-powers/</guid>
-            <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[State Department Releases 250,000 More Passports Featuring Trump’s Face]]></title>
-            <link>https://time.com/article/2026/07/31/state-department-releases-250-000-more-passports-featuring-trump-s-face/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/07/31/state-department-releases-250-000-more-passports-featuring-trump-s-face/</guid>
-            <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
