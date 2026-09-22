@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Sep 2026 15:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 19:25:00 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Sep 2026 15:17:09 GMT</pubDate>
+        <pubDate>Tue, 22 Sep 2026 19:25:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Priest Preparing to Care for 31 Children if ICE Detains Their Parents]]></title>
-            <description><![CDATA[“I feel a lot of responsibility, and a very heavy weight," says Rev. Vidal Rivas.]]></description>
             <link>https://time.com/article/2026/09/22/El-Salvador-priest-standby-guardian-31-kids-immigration-TPS/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/22/El-Salvador-priest-standby-guardian-31-kids-immigration-TPS/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
@@ -40,6 +39,35 @@
             <link>https://time.com/article/2026/09/22/emissions-paris-agreement-europe-heat-waves-study/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/22/emissions-paris-agreement-europe-heat-waves-study/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump's Deal With Denmark—and What It Means for Greenland's Sovereignty]]></title>
+            <description><![CDATA[The signed agreement follows Trump’s repeated threats to annex Greenland—a pursuit he insisted was a matter of “national security” for the U.S.]]></description>
+            <link>https://time.com/article/2026/09/22/trump-greenland-security-deal-sovereignty-annexation-threats-military-guarantees/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/22/trump-greenland-security-deal-sovereignty-annexation-threats-military-guarantees/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Strange Reason You May Suddenly Feel Dizzy]]></title>
+            <link>https://time.com/article/2026/09/22/the-strange-reason-you-may-suddenly-feel-dizzy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/22/the-strange-reason-you-may-suddenly-feel-dizzy/</guid>
+            <dc:creator><![CDATA[Stacey Colino]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Narrow Path to a Trump-Xi AI Deal]]></title>
+            <link>https://time.com/article/2026/09/22/trump-xi-ai-deal-china/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/22/trump-xi-ai-deal-china/</guid>
+            <dc:creator><![CDATA[Charlie Campbell and Harry Booth]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What We Tell Our Kids About AI]]></title>
+            <link>https://time.com/article/2026/09/22/what-we-tell-our-kids-about-ai/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/22/what-we-tell-our-kids-about-ai/</guid>
+            <dc:creator><![CDATA[Alex Karnal and Brian Kreiter]]></dc:creator>
             <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3274,32 +3302,6 @@
             <title><![CDATA[Sen. Bernie Moreno Says Former Son-in-Law Max Miller Shouldn’t Serve in Congress]]></title>
             <link>https://time.com/article/2026/08/03/bernie-moreno-max-miller-ohio-abuse-allegations-congress/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/03/bernie-moreno-max-miller-ohio-abuse-allegations-congress/</guid>
-            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the U.S. Stepped In to Prop Up Japan’s Yen Currency]]></title>
-            <link>https://time.com/article/2026/08/03/why-us-trump-stepped-in-to-prop-up-japan-yen-currency/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/03/why-us-trump-stepped-in-to-prop-up-japan-yen-currency/</guid>
-            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clinical Trials Aren’t the Only Way to Know if Flu Shots Work]]></title>
-            <link>https://time.com/article/2026/08/03/clinical-trials-aren-t-the-only-way-to-know-if-flu-shots-work/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/03/clinical-trials-aren-t-the-only-way-to-know-if-flu-shots-work/</guid>
-            <dc:creator><![CDATA[Christopher M. Worsham]]></dc:creator>
-            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blanche Wins GOP Backing After Rescinding ‘Anti-Weaponization Fund’]]></title>
-            <link>https://time.com/article/2026/08/03/blanche-wins-gop-backing-after-rescinding-anti-weaponization-fund-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/03/blanche-wins-gop-backing-after-rescinding-anti-weaponization-fund-/</guid>
-            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Greece Battles Raging Wildfires After Fatal Helicopter Crash]]></title>
-            <link>https://time.com/article/2026/08/03/greece-wildfires-helicopter-crash-death-toll/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/03/greece-wildfires-helicopter-crash-death-toll/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
