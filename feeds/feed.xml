@@ -4,10 +4,30 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Sep 2026 05:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 10:37:55 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Sep 2026 05:38:44 GMT</pubDate>
+        <pubDate>Tue, 22 Sep 2026 10:37:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Priest Preparing to Care for 31 Children if ICE Detains Their Parents]]></title>
+            <description><![CDATA[“I feel a lot of responsibility, and a very heavy weight," says Rev. Vidal Rivas.]]></description>
+            <link>https://time.com/article/2026/09/22/El-Salvador-priest-standby-guardian-31-kids-immigration-TPS/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/22/El-Salvador-priest-standby-guardian-31-kids-immigration-TPS/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[White House Launches ‘Trump TV’ Amid Feud With Press]]></title>
+            <link>https://time.com/article/2026/09/22/trump-tv-white-house-press-pool-ban-boycott-state-media/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/22/trump-tv-white-house-press-pool-ban-boycott-state-media/</guid>
+            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Revisiting Childhood Hobbies Is a Way to Learn Who You Are as an Adult]]></title>
+            <link>https://time.com/article/2026/09/22/revisiting-childhood-hobbies-is-a-way-to-learn-who-you-are-as-an-adult/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/22/revisiting-childhood-hobbies-is-a-way-to-learn-who-you-are-as-an-adult/</guid>
+            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ICE Shooting of Immigrant in Texas Under Investigation: What to Know]]></title>
             <link>https://time.com/article/2026/09/21/ice-austin-texas-shooting-venezuela-immigrant-investigation/</link>
@@ -3278,26 +3298,6 @@
             <link>https://time.com/article/2026/08/03/mosquito-experts-summer-mistakes/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/03/mosquito-experts-summer-mistakes/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two People Have Died in the Cyclospora Outbreak]]></title>
-            <link>https://time.com/article/2026/08/03/two-people-have-died-in-the-cyclospora-outbreak-michigan/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/03/two-people-have-died-in-the-cyclospora-outbreak-michigan/</guid>
-            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
-            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Michigan’s Senate Primary Turns Ugly]]></title>
-            <link>https://time.com/article/2026/08/03/michigan-el-sayed-stevens-democrats-israel/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/03/michigan-el-sayed-stevens-democrats-israel/</guid>
-            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What We Know About the Suspected Idaho In-N-Out Shooter—and the Bystanders Who Intervened]]></title>
-            <link>https://time.com/article/2026/08/03/in-n-out-shooting-idaho-suspect-victims-bystanders/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/03/in-n-out-shooting-idaho-suspect-victims-bystanders/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
