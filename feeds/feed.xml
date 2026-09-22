@@ -4,12 +4,13 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Sep 2026 19:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 22:33:23 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Sep 2026 19:25:00 GMT</pubDate>
+        <pubDate>Tue, 22 Sep 2026 22:33:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Priest Preparing to Care for 31 Children if ICE Detains Their Parents]]></title>
+            <description><![CDATA[“I feel a lot of responsibility, and a very heavy weight," says Rev. Vidal Rivas.]]></description>
             <link>https://time.com/article/2026/09/22/El-Salvador-priest-standby-guardian-31-kids-immigration-TPS/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/22/El-Salvador-priest-standby-guardian-31-kids-immigration-TPS/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
@@ -43,10 +44,8 @@
         </item>
         <item>
             <title><![CDATA[Trump's Deal With Denmark—and What It Means for Greenland's Sovereignty]]></title>
-            <description><![CDATA[The signed agreement follows Trump’s repeated threats to annex Greenland—a pursuit he insisted was a matter of “national security” for the U.S.]]></description>
             <link>https://time.com/article/2026/09/22/trump-greenland-security-deal-sovereignty-annexation-threats-military-guarantees/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/22/trump-greenland-security-deal-sovereignty-annexation-threats-military-guarantees/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -68,6 +67,20 @@
             <link>https://time.com/article/2026/09/22/what-we-tell-our-kids-about-ai/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/22/what-we-tell-our-kids-about-ai/</guid>
             <dc:creator><![CDATA[Alex Karnal and Brian Kreiter]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Administration to Cancel Obamacare Coverage for 760,000 Enrollees Over Alleged Fraud]]></title>
+            <link>https://time.com/article/2026/09/22/obamacare-fraud-vance-trump-administration/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/22/obamacare-fraud-vance-trump-administration/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s U.N. Address Offers a Doctrine of Peace Through Force]]></title>
+            <link>https://time.com/article/2026/09/22/trump-s-u-n-address-offers-a-doctrine-of-peace-through-force/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/22/trump-s-u-n-address-offers-a-doctrine-of-peace-through-force/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -149,7 +162,6 @@
             <title><![CDATA[Why Older Americans Are Drinking More Alcohol—Not Less]]></title>
             <link>https://time.com/article/2026/09/21/why-older-americans-are-drinking-more-alcohol-not-less/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/21/why-older-americans-are-drinking-more-alcohol-not-less/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
             <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3291,18 +3303,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/08/04/tony-anthony-bourdain-true-story/</guid>
             <dc:creator><![CDATA[Olivia B. Waxman]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran Denies Talks With the U.S. Are Back On. Trump Insists They Are]]></title>
-            <link>https://time.com/article/2026/08/03/us-iran-war-talks-on-off-fighting-pause-history-timeline/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/03/us-iran-war-talks-on-off-fighting-pause-history-timeline/</guid>
-            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sen. Bernie Moreno Says Former Son-in-Law Max Miller Shouldn’t Serve in Congress]]></title>
-            <link>https://time.com/article/2026/08/03/bernie-moreno-max-miller-ohio-abuse-allegations-congress/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/03/bernie-moreno-max-miller-ohio-abuse-allegations-congress/</guid>
-            <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
