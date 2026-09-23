@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Sep 2026 13:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 18:04:50 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 23 Sep 2026 13:08:36 GMT</pubDate>
+        <pubDate>Wed, 23 Sep 2026 18:04:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Exclusive: Myanmar’s Dictator Wants to Rebuild Ties With the West]]></title>
@@ -33,7 +33,6 @@
             <title><![CDATA['Brothers' Coasts on Charm: TV Review]]></title>
             <link>https://time.com/article/2026/09/23/brothers-review-mcconaughey-harrelson/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/23/brothers-review-mcconaughey-harrelson/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -44,10 +43,41 @@
             <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Why California Declared a State of Emergency Due to El Niño]]></title>
+            <link>https://time.com/article/2026/09/23/california-state-of-emergency-el-nino/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/23/california-state-of-emergency-el-nino/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who Will Be the Next Leader of the U.N.?]]></title>
+            <link>https://time.com/article/2026/09/23/un-secretary-general-race-guterres/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/23/un-secretary-general-race-guterres/</guid>
+            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reimagining Early Childhood for a Changing World]]></title>
+            <link>https://time.com/article/2026/09/23/time100-talks-panel-early-childhood-development/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/23/time100-talks-panel-early-childhood-development/</guid>
+            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You Actually Don’t Need to See That Movie in IMAX]]></title>
+            <link>https://time.com/article/2026/09/23/you-actually-don-t-need-to-see-that-movie-in-imax/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/23/you-actually-don-t-need-to-see-that-movie-in-imax/</guid>
+            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Governments Must Prohibit Superintelligent AI While We Still Can]]></title>
+            <link>https://time.com/article/2026/09/23/governments-must-prohibit-superintelligent-ai-while-we-still-can/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/23/governments-must-prohibit-superintelligent-ai-while-we-still-can/</guid>
+            <dc:creator><![CDATA[Andrea Miotti]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Priest Preparing to Care for 31 Children if ICE Detains Their Parents]]></title>
             <link>https://time.com/article/2026/09/22/El-Salvador-priest-standby-guardian-31-kids-immigration-TPS/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/22/El-Salvador-priest-standby-guardian-31-kids-immigration-TPS/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -86,7 +116,6 @@
             <title><![CDATA[The Strange Reason You May Suddenly Feel Dizzy]]></title>
             <link>https://time.com/article/2026/09/22/the-strange-reason-you-may-suddenly-feel-dizzy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/22/the-strange-reason-you-may-suddenly-feel-dizzy/</guid>
-            <dc:creator><![CDATA[Stacey Colino]]></dc:creator>
             <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -115,6 +144,12 @@
             <link>https://time.com/article/2026/09/22/trump-s-u-n-address-offers-a-doctrine-of-peace-through-force/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/22/trump-s-u-n-address-offers-a-doctrine-of-peace-through-force/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TIME Names Inaugural List of Executives of the Year: Tech and Data]]></title>
+            <link>https://time.com/article/2026/09/22/time-names-inaugural-list-of-executives-of-the-year-tech-and-data/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/22/time-names-inaugural-list-of-executives-of-the-year-tech-and-data/</guid>
             <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -196,6 +231,7 @@
             <title><![CDATA[Why Older Americans Are Drinking More Alcohol—Not Less]]></title>
             <link>https://time.com/article/2026/09/21/why-older-americans-are-drinking-more-alcohol-not-less/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/21/why-older-americans-are-drinking-more-alcohol-not-less/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
             <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3263,46 +3299,6 @@
             <title><![CDATA[Israel Bombs Gaza, Casting Doubt on Trump Peace Plan]]></title>
             <link>https://time.com/article/2026/08/04/israel-gaza-airstrikes-hamas-disarmament-trump-peace-plan/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/04/israel-gaza-airstrikes-hamas-disarmament-trump-peace-plan/</guid>
-            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[These 25 U.S. States Are Suing the Trump Administration. Here's Why]]></title>
-            <link>https://time.com/article/2026/08/04/us-states-suing-trump-administration-tariffs-backlash/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/04/us-states-suing-trump-administration-tariffs-backlash/</guid>
-            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Democrats Lead Republicans in Polls Three Months Ahead of Midterms]]></title>
-            <link>https://time.com/article/2026/08/04/midterm-elections-republicans-democrats-polls-economy-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/04/midterm-elections-republicans-democrats-polls-economy-trump/</guid>
-            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why There's a Shortage of Chemotherapy Drugs]]></title>
-            <link>https://time.com/article/2026/08/04/chemotherapy-drug-shortage/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/04/chemotherapy-drug-shortage/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What OpenAI’s Hugging Face Hack Tells Us About AI’s Risks]]></title>
-            <link>https://time.com/article/2026/08/04/what-openai-s-hugging-face-hack-tells-us-about-ai-s-risks/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/04/what-openai-s-hugging-face-hack-tells-us-about-ai-s-risks/</guid>
-            <dc:creator><![CDATA[Garrison Lovely]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Morning Light Habit Sleep Experts Swear By]]></title>
-            <link>https://time.com/article/2026/08/04/morning-light-better-sleep/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/04/morning-light-better-sleep/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI Stories Are More Engaging, New University Study Finds]]></title>
-            <link>https://time.com/article/2026/08/04/is-ai-telling-better-stories-than-us/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/04/is-ai-telling-better-stories-than-us/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
