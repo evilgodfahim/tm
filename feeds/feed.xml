@@ -4,13 +4,47 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Sep 2026 07:01:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 13:08:36 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 23 Sep 2026 07:01:20 GMT</pubDate>
+        <pubDate>Wed, 23 Sep 2026 13:08:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Exclusive: Myanmar’s Dictator Wants to Rebuild Ties With the West]]></title>
+            <description><![CDATA[In his first Western media interview since seizing power, Min Aung Hlaing makes his case for engagement as Myanmar’s civil war grinds on.]]></description>
+            <link>https://time.com/article/2026/09/23/myanmar-president-interview-Min-Aung-Hlaing/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/23/myanmar-president-interview-Min-Aung-Hlaing/</guid>
+            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[America Must Win Back Its Global Standing]]></title>
+            <link>https://time.com/article/2026/09/23/america-united-nations-trump-global-leadership/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/23/america-united-nations-trump-global-leadership/</guid>
+            <dc:creator><![CDATA[Gordon Brown]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What a Diesel Export Ban Would Mean for U.S. Consumers]]></title>
+            <link>https://time.com/article/2026/09/23/diesel-export-ban-pump-prices-trump-energy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/23/diesel-export-ban-pump-prices-trump-energy/</guid>
+            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Brothers' Coasts on Charm: TV Review]]></title>
+            <link>https://time.com/article/2026/09/23/brothers-review-mcconaughey-harrelson/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/23/brothers-review-mcconaughey-harrelson/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hurricane Polo Intensifies Off Mexico’s Coast]]></title>
+            <link>https://time.com/article/2026/09/23/hurricane-polo-natural-disaster-el-nino-weather-mexico/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/23/hurricane-polo-natural-disaster-el-nino-weather-mexico/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Priest Preparing to Care for 31 Children if ICE Detains Their Parents]]></title>
-            <description><![CDATA[“I feel a lot of responsibility, and a very heavy weight," says Rev. Vidal Rivas.]]></description>
             <link>https://time.com/article/2026/09/22/El-Salvador-priest-standby-guardian-31-kids-immigration-TPS/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/22/El-Salvador-priest-standby-guardian-31-kids-immigration-TPS/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
@@ -3269,39 +3303,6 @@
             <link>https://time.com/article/2026/08/04/is-ai-telling-better-stories-than-us/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/04/is-ai-telling-better-stories-than-us/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Next Fight for Fair Housing Is Online]]></title>
-            <link>https://time.com/article/2026/08/04/the-next-fight-for-fair-housing-is-online/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/04/the-next-fight-for-fair-housing-is-online/</guid>
-            <dc:creator><![CDATA[Derrick Johnson]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Europeans Are Considering Placing This American-Born Singer on a New Banknote]]></title>
-            <link>https://time.com/article/2026/08/04/new-euro-banknotes-american-greek-maria-callas-culture-redesign/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/04/new-euro-banknotes-american-greek-maria-callas-culture-redesign/</guid>
-            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Is 'Russia's Amazon' Wildberries and Why Is Ukraine Targeting It?]]></title>
-            <link>https://time.com/article/2026/08/04/russia-amazon-wildberries-ukraine-target-strikes/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/04/russia-amazon-wildberries-ukraine-target-strikes/</guid>
-            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Cost of Extreme Heat Is Displacement]]></title>
-            <link>https://time.com/article/2026/08/04/the-cost-of-extreme-heat-is-displacement/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/04/the-cost-of-extreme-heat-is-displacement/</guid>
-            <dc:creator><![CDATA[Kathy Baughman McLeod]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The True Story Behind 'Tony']]></title>
-            <link>https://time.com/article/2026/08/04/tony-anthony-bourdain-true-story/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/04/tony-anthony-bourdain-true-story/</guid>
-            <dc:creator><![CDATA[Olivia B. Waxman]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
