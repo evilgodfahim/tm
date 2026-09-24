@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Sep 2026 15:36:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 19:38:01 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Sep 2026 15:36:37 GMT</pubDate>
+        <pubDate>Thu, 24 Sep 2026 19:38:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Netflix's 'A Different World' Revival: Review]]></title>
@@ -30,7 +30,7 @@
             <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[White House 'Repeatedly Violated' Court Order to Return Press Access, Say Media Outlets]]></title>
+            <title><![CDATA[White House Restores Access to Media Outlets Banned by Trump, Following Court Order]]></title>
             <link>https://time.com/article/2026/09/24/judge-overturns-trump-white-house-media-ban-temporary-order-appeal/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/24/judge-overturns-trump-white-house-media-ban-temporary-order-appeal/</guid>
             <dc:creator><![CDATA[Callum Sutherland and Olivia-Anne Cleary]]></dc:creator>
@@ -53,6 +53,26 @@
             <link>https://time.com/article/2026/09/24/fall-yard-cleanup-pollinators-winter/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/24/fall-yard-cleanup-pollinators-winter/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No More ‘Trump Avenue’: Canada’s Capital Votes to Rename Street Amid Trade War]]></title>
+            <link>https://time.com/article/2026/09/24/canada-cuts-trump-avenue-street-name-ottawa-trade-war-carney-alliances/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/24/canada-cuts-trump-avenue-street-name-ottawa-trade-war-carney-alliances/</guid>
+            <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 5 Best Strength Exercises for People Over 50]]></title>
+            <link>https://time.com/article/2026/09/24/5-best-strength-exercises-for-people-over-50/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/24/5-best-strength-exercises-for-people-over-50/</guid>
+            <dc:creator><![CDATA[Sarah Klein]]></dc:creator>
+            <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI Arrived at the Worst Possible Moment]]></title>
+            <link>https://time.com/article/2026/09/24/ai-arrived-at-the-worst-possible-moment/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/24/ai-arrived-at-the-worst-possible-moment/</guid>
+            <dc:creator><![CDATA[Tiffany Xingyu Wang]]></dc:creator>
             <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3277,26 +3297,6 @@
             <link>https://time.com/article/2026/08/05/abdul-el-sayed-haley-stevens-michigan-democratic-senate-primary-election-result/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/05/abdul-el-sayed-haley-stevens-michigan-democratic-senate-primary-election-result/</guid>
             <dc:creator><![CDATA[Nik Popli]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Michigan Senate Primary's Winners and Losers]]></title>
-            <link>https://time.com/article/2026/08/05/the-winners-and-losers-abdul-el-sayed-michigan-primary-win/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/05/the-winners-and-losers-abdul-el-sayed-michigan-primary-win/</guid>
-            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About the Jones Act Waiver as Trump Admin Seeks to Lower Gas Prices]]></title>
-            <link>https://time.com/article/2026/08/05/jones-act-waiver-fuel-gas-costs-maritime-industry-iran-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/05/jones-act-waiver-fuel-gas-costs-maritime-industry-iran-war/</guid>
-            <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Say to Someone Who Is Dying]]></title>
-            <link>https://time.com/article/2026/08/05/what-to-say-to-someone-who-is-dying/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/05/what-to-say-to-someone-who-is-dying/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
