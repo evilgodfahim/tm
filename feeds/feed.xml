@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Sep 2026 19:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 22:50:50 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Sep 2026 19:38:01 GMT</pubDate>
+        <pubDate>Thu, 24 Sep 2026 22:50:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Netflix's 'A Different World' Revival: Review]]></title>
@@ -76,10 +76,22 @@
             <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Trump and Xi Meet Ahead of State Dinner With A.I. Leaders]]></title>
+            <link>https://time.com/article/2026/09/24/Trump-Xi-meeting-White-House-2026-AI-trade-Iran/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/24/Trump-Xi-meeting-White-House-2026-AI-trade-Iran/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu Dismisses Gaza Genocide Allegations as Dozens of U.N. Delegates Walk Out]]></title>
+            <link>https://time.com/article/2026/09/24/netanyahu-dismisses-gaza-genocide-allegations-as-dozens-of-u-n-delegates-walk-out/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/24/netanyahu-dismisses-gaza-genocide-allegations-as-dozens-of-u-n-delegates-walk-out/</guid>
+            <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Myanmar’s Dictator Wants to Rebuild Ties With the West]]></title>
             <link>https://time.com/article/2026/09/23/myanmar-president-interview-Min-Aung-Hlaing/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/23/myanmar-president-interview-Min-Aung-Hlaing/</guid>
-            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
             <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3282,21 +3294,6 @@
             <title><![CDATA[Feds Investigate Armed Man Arrested at Trump Golf Course Before President’s Visit]]></title>
             <link>https://time.com/article/2026/08/05/jeanine-john-taele-arrested-charged-gun-trump-golf-club-california/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/05/jeanine-john-taele-arrested-charged-gun-trump-golf-club-california/</guid>
-            <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can AI Free Women from the Mental Load of Caregiving?]]></title>
-            <link>https://time.com/article/2026/08/05/can-ai-free-women-from-the-mental-load-of-caregiving-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/05/can-ai-free-women-from-the-mental-load-of-caregiving-/</guid>
-            <dc:creator><![CDATA[Marianne Cooper]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Abdul El-Sayed Wins Michigan Senate Primary]]></title>
-            <description><![CDATA[It’s a narrow but major victory for the Democrats' insurgent progressive wing.]]></description>
-            <link>https://time.com/article/2026/08/05/abdul-el-sayed-haley-stevens-michigan-democratic-senate-primary-election-result/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/05/abdul-el-sayed-haley-stevens-michigan-democratic-senate-primary-election-result/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
             <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
