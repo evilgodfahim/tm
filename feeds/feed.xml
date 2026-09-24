@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Sep 2026 21:54:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 00:07:34 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 23 Sep 2026 21:54:17 GMT</pubDate>
+        <pubDate>Thu, 24 Sep 2026 00:07:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Exclusive: Myanmar’s Dictator Wants to Rebuild Ties With the West]]></title>
@@ -46,7 +46,6 @@
             <title><![CDATA[Why California Declared a State of Emergency Due to El Niño]]></title>
             <link>https://time.com/article/2026/09/23/california-state-of-emergency-el-nino/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/23/california-state-of-emergency-el-nino/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -72,6 +71,25 @@
             <link>https://time.com/article/2026/09/23/governments-must-prohibit-superintelligent-ai-while-we-still-can/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/23/governments-must-prohibit-superintelligent-ai-while-we-still-can/</guid>
             <dc:creator><![CDATA[Andrea Miotti]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Democrat Plans to Work With Trump to End Debt Ceiling]]></title>
+            <link>https://time.com/article/2026/09/23/how-democrats-could-work-with-trump-to-eliminate-the-debt-ceiling-for-good/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/23/how-democrats-could-work-with-trump-to-eliminate-the-debt-ceiling-for-good/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why More Republicans Are Breaking With Trump on Iran]]></title>
+            <link>https://time.com/article/2026/09/23/republicans-trump-iran-war-midterms-gas-prices/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/23/republicans-trump-iran-war-midterms-gas-prices/</guid>
+            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About SpaceX's Wildlife Refuge Land Swap]]></title>
+            <link>https://time.com/article/2026/09/23/spacex-texas-land-swap-what-to-know/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/23/spacex-texas-land-swap-what-to-know/</guid>
             <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -150,6 +168,12 @@
             <title><![CDATA[TIME Names Inaugural List of Executives of the Year: Tech and Data]]></title>
             <link>https://time.com/article/2026/09/22/time-names-inaugural-list-of-executives-of-the-year-tech-and-data/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/22/time-names-inaugural-list-of-executives-of-the-year-tech-and-data/</guid>
+            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the U.K. Is Supporting Saudi Arabia In Its Fight Against the Houthis]]></title>
+            <link>https://time.com/article/2026/09/22/uk-military-saudi-arabia-support-yemen-iran-houthis-rebels-fight/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/22/uk-military-saudi-arabia-support-yemen-iran-houthis-rebels-fight/</guid>
             <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3273,33 +3297,6 @@
             <link>https://time.com/article/2026/08/05/california-wildfires-search-for-answers/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/05/california-wildfires-search-for-answers/</guid>
             <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Review: 'One Night Only']]></title>
-            <link>https://time.com/article/2026/08/05/one-night-only-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/05/one-night-only-review/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A SpaceX Rocket Is About to Crash Into the Moon]]></title>
-            <link>https://time.com/article/2026/08/04/spacex-moon-crash-what-to-know/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/04/spacex-moon-crash-what-to-know/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why ICE Is Quietly Buying Up Private Detention Centers]]></title>
-            <link>https://time.com/article/2026/08/04/ice-detention-strategy-private-prisons-immigration-deportation/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/04/ice-detention-strategy-private-prisons-immigration-deportation/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel Bombs Gaza, Casting Doubt on Trump Peace Plan]]></title>
-            <link>https://time.com/article/2026/08/04/israel-gaza-airstrikes-hamas-disarmament-trump-peace-plan/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/04/israel-gaza-airstrikes-hamas-disarmament-trump-peace-plan/</guid>
-            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
