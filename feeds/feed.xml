@@ -4,10 +4,24 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Sep 2026 06:52:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 12:26:33 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Sep 2026 06:52:31 GMT</pubDate>
+        <pubDate>Fri, 25 Sep 2026 12:26:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Surveys Show Socialism Growing in Popularity]]></title>
+            <link>https://time.com/article/2026/09/25/socialism-is-more-popular-than-ever-in-the-u-s-according-to-polls/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/25/socialism-is-more-popular-than-ever-in-the-u-s-according-to-polls/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Data Center Debate Taking Over Native American Tribes]]></title>
+            <link>https://time.com/article/2026/09/25/the-data-center-debate-taking-over-native-american-tribes/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/25/the-data-center-debate-taking-over-native-american-tribes/</guid>
+            <dc:creator><![CDATA[Petala Ironcloud]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Netflix's 'A Different World' Revival: Review]]></title>
             <link>https://time.com/article/2026/09/24/different-world-netflix-review/</link>
@@ -86,6 +100,13 @@
             <title><![CDATA[Netanyahu Dismisses Gaza Genocide Allegations as Dozens of U.N. Delegates Walk Out]]></title>
             <link>https://time.com/article/2026/09/24/netanyahu-dismisses-gaza-genocide-allegations-as-dozens-of-u-n-delegates-walk-out/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/24/netanyahu-dismisses-gaza-genocide-allegations-as-dozens-of-u-n-delegates-walk-out/</guid>
+            <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: Your Mother Your Mother Your Mother]]></title>
+            <link>https://time.com/article/2026/09/24/your-mother-your-mother-your-mother-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/24/your-mother-your-mother-your-mother-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3277,24 +3298,6 @@
             <link>https://time.com/article/2026/08/06/teenage-sex-and-death-at-camp-miasma-ending-explained-jane-schoenbrun/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/06/teenage-sex-and-death-at-camp-miasma-ending-explained-jane-schoenbrun/</guid>
             <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Security Nightmare': Ireland Braces For Major Protests During Trump’s Visit]]></title>
-            <link>https://time.com/article/2026/08/06/trump-ireland-visit-irish-open-golf-protests-planned-security/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/06/trump-ireland-visit-irish-open-golf-protests-planned-security/</guid>
-            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Gives Me Hope About the Future of Public Health in the U.S.]]></title>
-            <link>https://time.com/article/2026/08/05/future-public-health-cdc-debra-houry-essay/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/05/future-public-health-cdc-debra-houry-essay/</guid>
-            <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Feds Investigate Armed Man Arrested at Trump Golf Course Before President’s Visit]]></title>
-            <link>https://time.com/article/2026/08/05/jeanine-john-taele-arrested-charged-gun-trump-golf-club-california/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/05/jeanine-john-taele-arrested-charged-gun-trump-golf-club-california/</guid>
-            <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
