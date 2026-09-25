@@ -4,15 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Sep 2026 17:38:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 20:53:49 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Sep 2026 17:38:45 GMT</pubDate>
+        <pubDate>Fri, 25 Sep 2026 20:53:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Surveys Show Socialism Growing in Popularity]]></title>
             <link>https://time.com/article/2026/09/25/socialism-is-more-popular-than-ever-in-the-u-s-according-to-polls/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/25/socialism-is-more-popular-than-ever-in-the-u-s-according-to-polls/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -54,6 +53,28 @@
             <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[‘Hands Off!’: European Leaders Reject Trump's Call to Quit the ICC]]></title>
+            <description><![CDATA[Trump has called “on all nations that are members of the ICC to officially resign from this rogue institution, immediately.”]]></description>
+            <link>https://time.com/article/2026/09/25/-hands-off-european-leaders-reject-trump-s-call-to-quit-the-icc/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/25/-hands-off-european-leaders-reject-trump-s-call-to-quit-the-icc/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Does Climate Change Impact Nor'easters?]]></title>
+            <link>https://time.com/article/2026/09/25/climate-change-nor-easters/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/25/climate-change-nor-easters/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: Ha-Chan, Shake Your Booty!]]></title>
+            <link>https://time.com/article/2026/09/25/ha-chan-shake-your-booty-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/25/ha-chan-shake-your-booty-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Netflix's 'A Different World' Revival: Review]]></title>
             <link>https://time.com/article/2026/09/24/different-world-netflix-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/24/different-world-netflix-review/</guid>
@@ -69,7 +90,6 @@
         </item>
         <item>
             <title><![CDATA[Exclusive: The Admiral Who Must Prevent War With China]]></title>
-            <description><![CDATA[U.S Pacific Commander Samuel Paparo’s force covers more than half the earth’s surface. His goal? Winning without fighting.]]></description>
             <link>https://time.com/article/2026/09/24/admiral-paparo-war-china-taiwan/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/24/admiral-paparo-war-china-taiwan/</guid>
             <dc:creator><![CDATA[Richard Hall]]></dc:creator>
@@ -125,6 +145,7 @@
             <title><![CDATA[Trump and Xi Meet Ahead of State Dinner With A.I. Leaders]]></title>
             <link>https://time.com/article/2026/09/24/Trump-Xi-meeting-White-House-2026-AI-trade-Iran/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/24/Trump-Xi-meeting-White-House-2026-AI-trade-Iran/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -396,6 +417,13 @@
             <link>https://time.com/article/2026/09/21/we-have-a-climate-imagination-problem/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/21/we-have-a-climate-imagination-problem/</guid>
             <dc:creator><![CDATA[Solitaire Townsend]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The True Story Behind 'Unabomber']]></title>
+            <link>https://time.com/article/2026/09/21/the-true-story-behind-unabomber-netflix-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/21/the-true-story-behind-unabomber-netflix-/</guid>
+            <dc:creator><![CDATA[Isadora Wandermurem]]></dc:creator>
             <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3270,33 +3298,6 @@
             <description><![CDATA[If you’ve ever wanted a chance to see “shooting stars” streaking across the sky, you’re in luck: one of the best meteor showers of the year is happening right now.]]></description>
             <link>https://time.com/article/2026/08/06/perseid-meteor-shower-when-how-to-watch/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/06/perseid-meteor-shower-when-how-to-watch/</guid>
-            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba]]></title>
-            <link>https://time.com/article/2026/08/06/salmonella-outbreak-linked-to-jalapeno-peppers-from-chipotle-and-qdoba/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/06/salmonella-outbreak-linked-to-jalapeno-peppers-from-chipotle-and-qdoba/</guid>
-            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The True Story Behind 'Monsters of God']]></title>
-            <link>https://time.com/article/2026/08/06/Monsters-of-God-true-story/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/06/Monsters-of-God-true-story/</guid>
-            <dc:creator><![CDATA[Rory Doherty]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside Google DeepMind's Reshuffle After CEO Demis Hassabis Steps Aside]]></title>
-            <link>https://time.com/article/2026/08/06/google-deepmind-ai-demis-hassabis/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/06/google-deepmind-ai-demis-hassabis/</guid>
-            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tucker Carlson Lays Out Manifesto After Vow to Help Form a Third Party]]></title>
-            <link>https://time.com/article/2026/08/06/tucker-carlson-manifesto-third-party-speculation/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/06/tucker-carlson-manifesto-third-party-speculation/</guid>
             <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
