@@ -4,10 +4,24 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Sep 2026 20:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2026 23:15:29 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Sep 2026 20:24:29 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 23:15:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What Is a ‘Pocket Rescission’? Inside Trump’s Move to Cancel $810 Million in Federal Funding]]></title>
+            <description><![CDATA[The Trump Administration is seeking to claw back spending approved for programs serving immigrants, minority groups, and children.]]></description>
+            <link>https://time.com/article/2026/09/26/what-is-a-pocket-rescission-inside-trump-s-move-to-cancel-810-million-in-federal-funding/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/26/what-is-a-pocket-rescission-inside-trump-s-move-to-cancel-810-million-in-federal-funding/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We Turned Sleep Into Homework. Now We’re Losing Sleep Over It]]></title>
+            <link>https://time.com/article/2026/09/26/we-turned-sleep-into-homework-now-we-re-losing-sleep-over-it/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/26/we-turned-sleep-into-homework-now-we-re-losing-sleep-over-it/</guid>
+            <pubDate>Sat, 26 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Surveys Show Socialism Growing in Popularity]]></title>
             <link>https://time.com/article/2026/09/25/socialism-is-more-popular-than-ever-in-the-u-s-according-to-polls/</link>
@@ -54,10 +68,8 @@
         </item>
         <item>
             <title><![CDATA[‘Hands Off!’: European Leaders Reject Trump's Call to Quit the ICC]]></title>
-            <description><![CDATA[Trump has called “on all nations that are members of the ICC to officially resign from this rogue institution, immediately.”]]></description>
             <link>https://time.com/article/2026/09/25/-hands-off-european-leaders-reject-trump-s-call-to-quit-the-icc/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/25/-hands-off-european-leaders-reject-trump-s-call-to-quit-the-icc/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3285,19 +3297,6 @@
             <title><![CDATA[Canada's Carney Mocks Trump Over Conspiracy Claims]]></title>
             <link>https://time.com/article/2026/08/06/canada-carney-trump-rift-teleprompter-malfunction-conspiracy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/06/canada-carney-trump-rift-teleprompter-malfunction-conspiracy/</guid>
-            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's the Status of Trump's Border Wall?]]></title>
-            <link>https://time.com/article/2026/08/06/trump-border-wall-immigration/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/06/trump-border-wall-immigration/</guid>
-            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Best Watch the Perseid Meteor Shower]]></title>
-            <description><![CDATA[If you’ve ever wanted a chance to see “shooting stars” streaking across the sky, you’re in luck: one of the best meteor showers of the year is happening right now.]]></description>
-            <link>https://time.com/article/2026/08/06/perseid-meteor-shower-when-how-to-watch/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/06/perseid-meteor-shower-when-how-to-watch/</guid>
             <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
