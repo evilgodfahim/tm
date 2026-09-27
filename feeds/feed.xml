@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Sep 2026 14:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2026 18:46:51 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 27 Sep 2026 14:25:44 GMT</pubDate>
+        <pubDate>Sun, 27 Sep 2026 18:46:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Nursing Homes Have Become Last-Resort Housing]]></title>
@@ -15,8 +15,15 @@
             <pubDate>Sun, 27 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[U.K. Police Investigate Suspected Terror Plot Near Base Used by U.S. Forces]]></title>
+            <description><![CDATA[Five men were arrested near RAF Fairford, an air base used in U.S. strikes on Iran, on suspicion of explosives and terrorism offenses.]]></description>
+            <link>https://time.com/article/2026/09/27/5-men-arrested-in-suspected-terrorist-attack-at-uk-base-used-by-us-forces/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/27/5-men-arrested-in-suspected-terrorist-attack-at-uk-base-used-by-us-forces/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sun, 27 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What Is a ‘Pocket Rescission’? Inside Trump’s Move to Cancel $810 Million in Federal Funding]]></title>
-            <description><![CDATA[The Trump Administration is seeking to claw back spending approved for programs serving immigrants, minority groups, and children.]]></description>
             <link>https://time.com/article/2026/09/26/what-is-a-pocket-rescission-inside-trump-s-move-to-cancel-810-million-in-federal-funding/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/26/what-is-a-pocket-rescission-inside-trump-s-move-to-cancel-810-million-in-federal-funding/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
@@ -82,7 +89,6 @@
             <title><![CDATA[How Does Climate Change Impact Nor'easters?]]></title>
             <link>https://time.com/article/2026/09/25/climate-change-nor-easters/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/25/climate-change-nor-easters/</guid>
-            <dc:creator><![CDATA[Simmone Shah and Rebecca Schneid]]></dc:creator>
             <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3291,12 +3297,6 @@
             <link>https://time.com/article/2026/08/06/fauci-contempt-of-congress-vote-senate-what-next/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/06/fauci-contempt-of-congress-vote-senate-what-next/</guid>
             <dc:creator><![CDATA[Connor Greene]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What We Know About the Explosive Drone Found Near Runway at German Airport]]></title>
-            <link>https://time.com/article/2026/08/06/germany-airport-explosive-drone-counterterrorism-investigation-europe-security/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/06/germany-airport-explosive-drone-counterterrorism-investigation-europe-security/</guid>
             <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
