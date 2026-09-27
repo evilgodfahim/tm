@@ -4,10 +4,16 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Sep 2026 08:44:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2026 14:25:44 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 27 Sep 2026 08:44:30 GMT</pubDate>
+        <pubDate>Sun, 27 Sep 2026 14:25:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Nursing Homes Have Become Last-Resort Housing]]></title>
+            <link>https://time.com/article/2026/09/27/nursing-homes-have-become-last-resort-housing/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/27/nursing-homes-have-become-last-resort-housing/</guid>
+            <pubDate>Sun, 27 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Is a ‘Pocket Rescission’? Inside Trump’s Move to Cancel $810 Million in Federal Funding]]></title>
             <description><![CDATA[The Trump Administration is seeking to claw back spending approved for programs serving immigrants, minority groups, and children.]]></description>
@@ -3291,12 +3297,6 @@
             <title><![CDATA[What We Know About the Explosive Drone Found Near Runway at German Airport]]></title>
             <link>https://time.com/article/2026/08/06/germany-airport-explosive-drone-counterterrorism-investigation-europe-security/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/06/germany-airport-explosive-drone-counterterrorism-investigation-europe-security/</guid>
-            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canada's Carney Mocks Trump Over Conspiracy Claims]]></title>
-            <link>https://time.com/article/2026/08/06/canada-carney-trump-rift-teleprompter-malfunction-conspiracy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/06/canada-carney-trump-rift-teleprompter-malfunction-conspiracy/</guid>
             <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
