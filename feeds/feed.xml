@@ -4,10 +4,38 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 28 Sep 2026 06:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Sep 2026 14:44:28 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 28 Sep 2026 06:07:52 GMT</pubDate>
+        <pubDate>Mon, 28 Sep 2026 14:44:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump's Taxpayer-Funded Ads Draw Bipartisan Criticism]]></title>
+            <description><![CDATA[Critics have called the ads “propaganda,” but the White House says they’re “public service announcements.”]]></description>
+            <link>https://time.com/article/2026/09/28/trump-ads-democrats-republicans-bipartisan-criticism-taxpayer-funds/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/28/trump-ads-democrats-republicans-bipartisan-criticism-taxpayer-funds/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three Mass Shootings Kill at Least 32 in South Africa]]></title>
+            <link>https://time.com/article/2026/09/28/south-africa-mass-shootings-wedela-lwadle-khayelitsha-johannesburg-western-cape/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/28/south-africa-mass-shootings-wedela-lwadle-khayelitsha-johannesburg-western-cape/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. Embassy Issues Security Alert to Citizens in U.K. Amid Suspected Terror Plot]]></title>
+            <link>https://time.com/article/2026/09/28/raf-fairford-uk-us-airbase-suspected-terror-plot-security-alert/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/28/raf-fairford-uk-us-airbase-suspected-terror-plot-security-alert/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Money Reveals What Kind of Friend You Are]]></title>
+            <link>https://time.com/article/2026/09/28/money-reveals-what-kind-of-friend-you-are/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/28/money-reveals-what-kind-of-friend-you-are/</guid>
+            <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nursing Homes Have Become Last-Resort Housing]]></title>
             <link>https://time.com/article/2026/09/27/nursing-homes-have-become-last-resort-housing/</link>
@@ -3270,33 +3298,6 @@
             <title><![CDATA[America Is Finally Taking Extraterrestrials Seriously]]></title>
             <link>https://time.com/article/2026/08/06/america-taking-extraterrestrials-seriously/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/06/america-taking-extraterrestrials-seriously/</guid>
-            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Labels Abdul El-Sayed a Hateful ‘Communist’]]></title>
-            <link>https://time.com/article/2026/08/06/trump-abdul-el-sayed-hate-communist/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/06/trump-abdul-el-sayed-hate-communist/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Congress May Phase Out Billions in Military Funding to Israel—but Deepen Ties Another Way]]></title>
-            <link>https://time.com/article/2026/08/06/us-israel-military-funding-defense-bill-ndaa/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/06/us-israel-military-funding-defense-bill-ndaa/</guid>
-            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FDA Approves the First mRNA Flu Vaccine]]></title>
-            <link>https://time.com/article/2026/08/06/fda-approves-first-mrna-flu-vaccine/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/06/fda-approves-first-mrna-flu-vaccine/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Senate Panel Has Voted to Hold Fauci in Contempt of Congress. What Happens Next?]]></title>
-            <link>https://time.com/article/2026/08/06/fauci-contempt-of-congress-vote-senate-what-next/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/06/fauci-contempt-of-congress-vote-senate-what-next/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
