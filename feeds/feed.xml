@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 28 Sep 2026 14:44:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Sep 2026 20:56:41 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 28 Sep 2026 14:44:28 GMT</pubDate>
+        <pubDate>Mon, 28 Sep 2026 20:56:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump's Taxpayer-Funded Ads Draw Bipartisan Criticism]]></title>
-            <description><![CDATA[Critics have called the ads “propaganda,” but the White House says they’re “public service announcements.”]]></description>
             <link>https://time.com/article/2026/09/28/trump-ads-democrats-republicans-bipartisan-criticism-taxpayer-funds/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/28/trump-ads-democrats-republicans-bipartisan-criticism-taxpayer-funds/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
@@ -20,20 +19,47 @@
             <title><![CDATA[Three Mass Shootings Kill at Least 32 in South Africa]]></title>
             <link>https://time.com/article/2026/09/28/south-africa-mass-shootings-wedela-lwadle-khayelitsha-johannesburg-western-cape/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/28/south-africa-mass-shootings-wedela-lwadle-khayelitsha-johannesburg-western-cape/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[U.S. Embassy Issues Security Alert to Citizens in U.K. Amid Suspected Terror Plot]]></title>
             <link>https://time.com/article/2026/09/28/raf-fairford-uk-us-airbase-suspected-terror-plot-security-alert/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/28/raf-fairford-uk-us-airbase-suspected-terror-plot-security-alert/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Money Reveals What Kind of Friend You Are]]></title>
             <link>https://time.com/article/2026/09/28/money-reveals-what-kind-of-friend-you-are/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/28/money-reveals-what-kind-of-friend-you-are/</guid>
+            <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A SpaceX Starship Rocket Finally Reached Orbit]]></title>
+            <description><![CDATA[SpaceX achieves a long-promised orbit—with the moon and Mars the long-term goal.]]></description>
+            <link>https://time.com/article/2026/09/28/spacex-starship-orbit-what-to-know/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/28/spacex-starship-orbit-what-to-know/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Insists Canada Has 'Big Unemployment.' Here's What the Data Says]]></title>
+            <link>https://time.com/article/2026/09/28/canada-unemployment-rate-trump-claims-data-us-trade-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/28/canada-unemployment-rate-trump-claims-data-us-trade-war/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Truth About ‘Addictive Personalities’]]></title>
+            <link>https://time.com/article/2026/09/28/truth-about-addictive-personality/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/28/truth-about-addictive-personality/</guid>
+            <dc:creator><![CDATA[Stacey Colino]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Case Against Pacing the AI Frontier]]></title>
+            <link>https://time.com/article/2026/09/28/the-case-against-pacing-the-ai-frontier/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/28/the-case-against-pacing-the-ai-frontier/</guid>
+            <dc:creator><![CDATA[Ravi Kumar S, Babak Hodjat and Jeff DeMarrais]]></dc:creator>
             <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -117,6 +143,7 @@
             <title><![CDATA[How Does Climate Change Impact Nor'easters?]]></title>
             <link>https://time.com/article/2026/09/25/climate-change-nor-easters/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/25/climate-change-nor-easters/</guid>
+            <dc:creator><![CDATA[Simmone Shah and Rebecca Schneid]]></dc:creator>
             <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3272,33 +3299,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/08/07/lymealert-at-home-tick-test-lyme-disease/</guid>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Hopeful Ending of 'The Last House']]></title>
-            <link>https://time.com/article/2026/08/07/the-last-house-ending/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/07/the-last-house-ending/</guid>
-            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why California Is Still a Climate Bellwether]]></title>
-            <link>https://time.com/article/2026/08/07/california-climate-change-policy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/07/california-climate-change-policy/</guid>
-            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Sweet Ending of 'Our Sticky Love']]></title>
-            <link>https://time.com/article/2026/08/07/our-sticky-love-k-drama-ending/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/07/our-sticky-love-k-drama-ending/</guid>
-            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America Is Finally Taking Extraterrestrials Seriously]]></title>
-            <link>https://time.com/article/2026/08/06/america-taking-extraterrestrials-seriously/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/06/america-taking-extraterrestrials-seriously/</guid>
-            <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
