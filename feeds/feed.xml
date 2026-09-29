@@ -4,10 +4,37 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Sep 2026 06:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 13:34:30 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 29 Sep 2026 06:26:06 GMT</pubDate>
+        <pubDate>Tue, 29 Sep 2026 13:34:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What to Know About the Pentagon Breach Affecting Millions]]></title>
+            <description><![CDATA[A reported breach at the department’s massive personnel database exposed sensitive personal information of current and former military personnel.]]></description>
+            <link>https://time.com/article/2026/09/29/pentagon-department-defense-manpower-data-center-breach-personnel-information/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/29/pentagon-department-defense-manpower-data-center-breach-personnel-information/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. and China to Cut Tariffs on $60 Billion of Goods]]></title>
+            <link>https://time.com/article/2026/09/29/us-china-reciprocal-tariffs-cut-trade-goods-60-billion/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/29/us-china-reciprocal-tariffs-cut-trade-goods-60-billion/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Millions of Americans Live in a County Without a Surgeon]]></title>
+            <link>https://time.com/article/2026/09/29/millions-of-americans-live-in-a-county-without-a-surgeon/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/29/millions-of-americans-live-in-a-county-without-a-surgeon/</guid>
+            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[After 23 Years of Oversight, Oakland’s Police Reform Offers New Hope]]></title>
+            <link>https://time.com/article/2026/09/29/23-years-oversight-oakland-police-reform-offers-new-hope/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/29/23-years-oversight-oakland-police-reform-offers-new-hope/</guid>
+            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump's Taxpayer-Funded Ads Draw Bipartisan Criticism]]></title>
             <link>https://time.com/article/2026/09/28/trump-ads-democrats-republicans-bipartisan-criticism-taxpayer-funds/</link>
@@ -34,10 +61,8 @@
         </item>
         <item>
             <title><![CDATA[A SpaceX Starship Rocket Finally Reached Orbit]]></title>
-            <description><![CDATA[SpaceX achieves a long-promised orbit—with the moon and Mars the long-term goal.]]></description>
             <link>https://time.com/article/2026/09/28/spacex-starship-orbit-what-to-know/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/28/spacex-starship-orbit-what-to-know/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
             <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -58,7 +83,6 @@
             <title><![CDATA[The Case Against Pacing the AI Frontier]]></title>
             <link>https://time.com/article/2026/09/28/the-case-against-pacing-the-ai-frontier/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/28/the-case-against-pacing-the-ai-frontier/</guid>
-            <dc:creator><![CDATA[Ravi Kumar S, Babak Hodjat and Jeff DeMarrais]]></dc:creator>
             <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3272,32 +3296,6 @@
             <link>https://time.com/article/2026/08/07/midlife-risk-factors-dementia/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/07/midlife-risk-factors-dementia/</guid>
             <dc:creator><![CDATA[Kathleen Felton]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI Won’t Fix American Education]]></title>
-            <link>https://time.com/article/2026/08/07/ai-won-t-fix-american-education/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/07/ai-won-t-fix-american-education/</guid>
-            <dc:creator><![CDATA[Sonia Murrow]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside the Race to Make AI Build Itself]]></title>
-            <link>https://time.com/article/2026/08/07/ai-recursive-self-improvement-anthropic-openai/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/07/ai-recursive-self-improvement-anthropic-openai/</guid>
-            <dc:creator><![CDATA[Harry Booth]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About Thailand's Deadliest School Shooting in Years]]></title>
-            <link>https://time.com/article/2026/08/07/thailand-school-shooting/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/07/thailand-school-shooting/</guid>
-            <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Says Voters Are Angry With Republicans—But Not With Him. Here’s What Polls Show]]></title>
-            <link>https://time.com/article/2026/08/07/trump-republicans-polls-approval-rating-midterms-economy-iran-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/07/trump-republicans-polls-approval-rating-midterms-economy-iran-war/</guid>
             <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
