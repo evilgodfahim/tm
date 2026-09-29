@@ -4,15 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Sep 2026 19:00:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 22:52:18 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 29 Sep 2026 19:00:02 GMT</pubDate>
+        <pubDate>Tue, 29 Sep 2026 22:52:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What to Know About the Pentagon Breach Affecting Millions]]></title>
             <link>https://time.com/article/2026/09/29/pentagon-department-defense-manpower-data-center-breach-personnel-information/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/29/pentagon-department-defense-manpower-data-center-breach-personnel-information/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -72,6 +71,40 @@
             <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[TV Networks Resume White House Pool Coverage—With a Caveat]]></title>
+            <link>https://time.com/article/2026/09/29/trump-white-house-press-pool-tv-networks-cnn/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/29/trump-white-house-press-pool-tv-networks-cnn/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Trump's Hunt for Non-Citizen Voters Is Showing]]></title>
+            <link>https://time.com/article/2026/09/29/trump-non-citizen-voting-voter-fraud-claims/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/29/trump-non-citizen-voting-voter-fraud-claims/</guid>
+            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eli Lilly’s Experimental Weight-Loss Drug Shows Promising Results]]></title>
+            <link>https://time.com/article/2026/09/29/eli-lilly-triple-targeting-experimental-weight-loss-drug-promising-results/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/29/eli-lilly-triple-targeting-experimental-weight-loss-drug-promising-results/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six Flags Closes Its X2 Roller Coaster After Brain-Injury Lawsuits]]></title>
+            <link>https://time.com/article/2026/09/29/six-flags-x2-roller-coaster-linked-to-brain-damage/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/29/six-flags-x2-roller-coaster-linked-to-brain-damage/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tom Cruise Bloviates His Way Through the Aggressively Unfunny Digger]]></title>
+            <link>https://time.com/article/2026/09/29/digger-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/29/digger-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Trump's Taxpayer-Funded Ads Draw Bipartisan Criticism]]></title>
             <link>https://time.com/article/2026/09/28/trump-ads-democrats-republicans-bipartisan-criticism-taxpayer-funds/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/28/trump-ads-democrats-republicans-bipartisan-criticism-taxpayer-funds/</guid>
@@ -93,6 +126,7 @@
             <title><![CDATA[Money Reveals What Kind of Friend You Are]]></title>
             <link>https://time.com/article/2026/09/28/money-reveals-what-kind-of-friend-you-are/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/28/money-reveals-what-kind-of-friend-you-are/</guid>
+            <dc:creator><![CDATA[Meehika Barua]]></dc:creator>
             <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -119,7 +153,7 @@
             <title><![CDATA[The Case Against Pacing the AI Frontier]]></title>
             <link>https://time.com/article/2026/09/28/the-case-against-pacing-the-ai-frontier/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/28/the-case-against-pacing-the-ai-frontier/</guid>
-            <dc:creator><![CDATA[Ravi Kumar S, Babak Hodjat and Jeff DeMarrais]]></dc:creator>
+            <dc:creator><![CDATA[Ravi Kumar S]]></dc:creator>
             <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -127,6 +161,13 @@
             <link>https://time.com/article/2026/09/28/trump-rolls-back-fuel-economy-standards-will-cars-really-get-cheaper-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/28/trump-rolls-back-fuel-economy-standards-will-cars-really-get-cheaper-/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Story of 'The Swan: Behind the Mirror']]></title>
+            <link>https://time.com/article/2026/09/28/the-swan-behind-the-mirror-true-story/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/28/the-swan-behind-the-mirror-true-story/</guid>
+            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
             <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3258,44 +3299,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/08/10/why-nagasaki-matters/</guid>
             <dc:creator><![CDATA[James M. Scott]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['The End of Oak Street' Is the Best Dinosaur Movie Since 'Jurassic Park']]></title>
-            <link>https://time.com/article/2026/08/10/the-end-of-oak-street-jurassic-park-comparison/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/10/the-end-of-oak-street-jurassic-park-comparison/</guid>
-            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hunter Biden Says His Father’s Cancer Has Spread Further]]></title>
-            <link>https://time.com/article/2026/08/09/-very-debilitating-hunter-biden-says-his-father-s-cancer-has-spread-further/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/09/-very-debilitating-hunter-biden-says-his-father-s-cancer-has-spread-further/</guid>
-            <pubDate>Sun, 09 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu Rejects Trump’s 15-Point Plan for Gaza]]></title>
-            <link>https://time.com/article/2026/08/09/netanyahu-says-israel-to-reject-trumps-plan-for-gaza/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/09/netanyahu-says-israel-to-reject-trumps-plan-for-gaza/</guid>
-            <pubDate>Sun, 09 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rhaenyra's Harsh 'House of the Dragon' Finale]]></title>
-            <link>https://time.com/article/2026/08/09/house-of-the-dragon-season-3-finale-rhaenyra/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/09/house-of-the-dragon-season-3-finale-rhaenyra/</guid>
-            <pubDate>Sun, 09 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Death Toll of a Mass Shooting Doesn’t End at the Scene]]></title>
-            <link>https://time.com/article/2026/08/09/the-death-toll-of-a-mass-shooting-does-not-end-at-the-scene/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/09/the-death-toll-of-a-mass-shooting-does-not-end-at-the-scene/</guid>
-            <dc:creator><![CDATA[Vishal R. Patel]]></dc:creator>
-            <pubDate>Sun, 09 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The U.S. Army Is Fast-Tracking New Weapons]]></title>
-            <link>https://time.com/article/2026/08/08/the-army-fast-tracks-weapons/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/08/the-army-fast-tracks-weapons/</guid>
-            <pubDate>Sat, 08 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
