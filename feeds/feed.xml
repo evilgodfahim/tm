@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Sep 2026 13:34:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 19:00:02 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 29 Sep 2026 13:34:30 GMT</pubDate>
+        <pubDate>Tue, 29 Sep 2026 19:00:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What to Know About the Pentagon Breach Affecting Millions]]></title>
-            <description><![CDATA[A reported breach at the department’s massive personnel database exposed sensitive personal information of current and former military personnel.]]></description>
             <link>https://time.com/article/2026/09/29/pentagon-department-defense-manpower-data-center-breach-personnel-information/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/29/pentagon-department-defense-manpower-data-center-breach-personnel-information/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
@@ -20,7 +19,6 @@
             <title><![CDATA[U.S. and China to Cut Tariffs on $60 Billion of Goods]]></title>
             <link>https://time.com/article/2026/09/29/us-china-reciprocal-tariffs-cut-trade-goods-60-billion/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/29/us-china-reciprocal-tariffs-cut-trade-goods-60-billion/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -33,6 +31,44 @@
             <title><![CDATA[After 23 Years of Oversight, Oakland’s Police Reform Offers New Hope]]></title>
             <link>https://time.com/article/2026/09/29/23-years-oversight-oakland-police-reform-offers-new-hope/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/29/23-years-oversight-oakland-police-reform-offers-new-hope/</guid>
+            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fetterman, a Democrat, Turns to Republicans for Campaign Cash]]></title>
+            <link>https://time.com/article/2026/09/29/john-fetterman-democrat-turns-to-republicans-for-campaign-cash/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/29/john-fetterman-democrat-turns-to-republicans-for-campaign-cash/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Google Is Quietly Turning Millions of People Into AI Users]]></title>
+            <link>https://time.com/article/2026/09/29/google-search-ai-mode-chat/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/29/google-search-ai-mode-chat/</guid>
+            <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the War is Changing the Geography of Iran’s Influence]]></title>
+            <link>https://time.com/article/2026/09/29/iran-war-houthis-red-sea-chokepoints-regional-influence/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/29/iran-war-houthis-red-sea-chokepoints-regional-influence/</guid>
+            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why You Should Make a Reverse Bucket List]]></title>
+            <link>https://time.com/article/2026/09/29/reverse-bucket-list-benefits-how-to-make/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/29/reverse-bucket-list-benefits-how-to-make/</guid>
+            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why That Mucus in Your Throat Won’t Go Away]]></title>
+            <link>https://time.com/article/2026/09/29/postnasal-drip-mucus-throat/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/29/postnasal-drip-mucus-throat/</guid>
+            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flying Doesn’t Have to Be This Miserable]]></title>
+            <link>https://time.com/article/2026/09/29/flying-doesn-t-have-to-be-this-miserable/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/29/flying-doesn-t-have-to-be-this-miserable/</guid>
             <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -83,6 +119,7 @@
             <title><![CDATA[The Case Against Pacing the AI Frontier]]></title>
             <link>https://time.com/article/2026/09/28/the-case-against-pacing-the-ai-frontier/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/28/the-case-against-pacing-the-ai-frontier/</guid>
+            <dc:creator><![CDATA[Ravi Kumar S, Babak Hodjat and Jeff DeMarrais]]></dc:creator>
             <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -295,6 +332,7 @@
             <title><![CDATA['Brothers' Coasts on Charm: TV Review]]></title>
             <link>https://time.com/article/2026/09/23/brothers-review-mcconaughey-harrelson/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/23/brothers-review-mcconaughey-harrelson/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -371,6 +409,7 @@
             <title><![CDATA[Revisiting Childhood Hobbies Is a Way to Learn Who You Are as an Adult]]></title>
             <link>https://time.com/article/2026/09/22/revisiting-childhood-hobbies-is-a-way-to-learn-who-you-are-as-an-adult/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/22/revisiting-childhood-hobbies-is-a-way-to-learn-who-you-are-as-an-adult/</guid>
+            <dc:creator><![CDATA[Rainesford Stauffer]]></dc:creator>
             <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3257,46 +3296,6 @@
             <link>https://time.com/article/2026/08/08/the-army-fast-tracks-weapons/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/08/the-army-fast-tracks-weapons/</guid>
             <pubDate>Sat, 08 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Happens When the World is on Fire]]></title>
-            <link>https://time.com/article/2026/08/08/what-happens-when-the-world-is-on-fire/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/08/what-happens-when-the-world-is-on-fire/</guid>
-            <dc:creator><![CDATA[John Vaillant]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Loss Teaches Us About Living]]></title>
-            <link>https://time.com/article/2026/08/08/what-loss-teaches-us-about-living/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/08/what-loss-teaches-us-about-living/</guid>
-            <dc:creator><![CDATA[Dr. Lucy McBride]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Seeks to Restrict Birthright Citizenship With New Orders]]></title>
-            <link>https://time.com/article/2026/08/07/trump-executive-orders-birth-tourism-birthright-citizenship/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/07/trump-executive-orders-birth-tourism-birthright-citizenship/</guid>
-            <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When the Government Outsources Safety, Families Pick up the Slack]]></title>
-            <link>https://time.com/article/2026/08/07/when-the-government-outsources-safety-families-pick-up-the-slack/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/07/when-the-government-outsources-safety-families-pick-up-the-slack/</guid>
-            <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cassidy to Support Trump-Backed Blanche for Attorney General]]></title>
-            <link>https://time.com/article/2026/08/07/blanche-confirmation-attorney-general-republicans-murkowski-revolt-trump-pick/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/07/blanche-confirmation-attorney-general-republicans-murkowski-revolt-trump-pick/</guid>
-            <dc:creator><![CDATA[Tiago Ventura and Olivia-Anne Cleary]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3 Midlife Risk Factors Linked to Dementia]]></title>
-            <link>https://time.com/article/2026/08/07/midlife-risk-factors-dementia/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/07/midlife-risk-factors-dementia/</guid>
-            <dc:creator><![CDATA[Kathleen Felton]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
