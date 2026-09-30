@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Sep 2026 14:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 19:44:47 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 30 Sep 2026 14:26:33 GMT</pubDate>
+        <pubDate>Wed, 30 Sep 2026 19:44:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[This Interview With Raye May Contain Hope]]></title>
@@ -39,6 +39,55 @@
             <link>https://time.com/article/2026/09/30/children-are-back-in-school-measles-is-too-debra-houry-essay/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/30/children-are-back-in-school-measles-is-too-debra-houry-essay/</guid>
             <dc:creator><![CDATA[Dr. Debra Houry]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hegseth to Announce More Sweeping Cuts to Military's Top Ranks]]></title>
+            <link>https://time.com/article/2026/09/30/hegseth-pentagon-us-military-generals-admirals-cuts/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/30/hegseth-pentagon-us-military-generals-admirals-cuts/</guid>
+            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flydubai Pilot Arrested After 'Apparently' Trying to Crash Israel-Bound Plane, Says Netanyahu]]></title>
+            <link>https://time.com/article/2026/09/30/flydubai-pilot-arrested-crash-attempt-stabbing-cockpit-israel-bound-plane/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/30/flydubai-pilot-arrested-crash-attempt-stabbing-cockpit-israel-bound-plane/</guid>
+            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump's Title IX Announcement Is Cruel. But It Does Not Change The Law]]></title>
+            <link>https://time.com/article/2026/09/30/trump-s-title-ix-announcement-is-cruel-but-it-does-not-change-the-law/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/30/trump-s-title-ix-announcement-is-cruel-but-it-does-not-change-the-law/</guid>
+            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing the 2026 TIME100 Next]]></title>
+            <description><![CDATA[We created TIME100 Next knowing that influence can come early. These are the emerging leaders who best represent the stories shaping our world.]]></description>
+            <link>https://time.com/article/2026/09/30/how-we-chose-time100-next/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/30/how-we-chose-time100-next/</guid>
+            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Walking Faster May Help Reverse Frailty]]></title>
+            <link>https://time.com/article/2026/09/30/walking-briskly-may-help-reverse-frailty/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/30/walking-briskly-may-help-reverse-frailty/</guid>
+            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Talk to Your Child About Body Image]]></title>
+            <link>https://time.com/article/2026/09/30/what-to-say-child-body-image/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/30/what-to-say-child-body-image/</guid>
+            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Druski]]></title>
+            <link>https://time.com/article/2026/09/30/druski-time100-next/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/30/druski-time100-next/</guid>
+            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ashley Padilla]]></title>
+            <link>https://time.com/article/2026/09/30/ashley-padilla-time100-next/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/30/ashley-padilla-time100-next/</guid>
             <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -91,6 +140,7 @@
             <title><![CDATA[Why You Should Make a Reverse Bucket List]]></title>
             <link>https://time.com/article/2026/09/29/reverse-bucket-list-benefits-how-to-make/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/29/reverse-bucket-list-benefits-how-to-make/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -122,6 +172,7 @@
             <title><![CDATA[Eli Lilly’s Experimental Weight-Loss Drug Shows Promising Results]]></title>
             <link>https://time.com/article/2026/09/29/eli-lilly-triple-targeting-experimental-weight-loss-drug-promising-results/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/29/eli-lilly-triple-targeting-experimental-weight-loss-drug-promising-results/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -136,6 +187,12 @@
             <link>https://time.com/article/2026/09/29/digger-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/29/digger-review/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Oil and Trump Are Escalating the Falklands Dispute]]></title>
+            <link>https://time.com/article/2026/09/29/falkland-islands-dispute-argentina-milei-oil-project-uk-legal-action/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/29/falkland-islands-dispute-argentina-milei-oil-project-uk-legal-action/</guid>
             <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3243,63 +3300,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/08/11/julys-record-breaking-heat/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIME Is Looking For America's Most Innovative Companies of 2027]]></title>
-            <link>https://time.com/article/2026/08/11/americas-most-innovative-companies-2027-search/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/11/americas-most-innovative-companies-2027-search/</guid>
-            <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIME Is Looking For India's Fastest Growing Companies of 2027]]></title>
-            <link>https://time.com/article/2026/08/11/indias-fastest-growing-companies-2027-search/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/11/indias-fastest-growing-companies-2027-search/</guid>
-            <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iceland’s E.U. Referendum, Explained]]></title>
-            <link>https://time.com/article/2026/08/11/iceland-european-union-referendum-what-it-means/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/11/iceland-european-union-referendum-what-it-means/</guid>
-            <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moderates Scramble to Stop Socialist in Wisconsin]]></title>
-            <link>https://time.com/article/2026/08/10/wisconsin-governor-primary-tuesday-francesca-hong-david-crowley/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/10/wisconsin-governor-primary-tuesday-francesca-hong-david-crowley/</guid>
-            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The U.S.’s Largest Reservoir Just Fell to Its Lowest Water Level]]></title>
-            <link>https://time.com/article/2026/08/10/lake-mead-low-water-level/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/10/lake-mead-low-water-level/</guid>
-            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Europe Is Set For Its First Total Solar Eclipse in Over 25 Years]]></title>
-            <description><![CDATA[From Greenland to Spain, a rare sky show will dazzle a few lucky million.]]></description>
-            <link>https://time.com/article/2026/08/10/europe-total-solar-eclipse-what-to-know/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/10/europe-total-solar-eclipse-what-to-know/</guid>
-            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As ICE Detention Expands, Deaths Reach a 22-Year High]]></title>
-            <link>https://time.com/article/2026/08/10/ice-detention-deaths-immigration/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/10/ice-detention-deaths-immigration/</guid>
-            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Responds as Iran Says U.S. Must Meet These Six Demands If Strait Is to Reopen]]></title>
-            <link>https://time.com/article/2026/08/10/iran-us-strait-of-hormuz-conditions-trump-negotiations/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/10/iran-us-strait-of-hormuz-conditions-trump-negotiations/</guid>
-            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 Things Infectious-Disease Experts Don’t Worry About]]></title>
-            <link>https://time.com/article/2026/08/10/infectious-disease-experts-germs/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/10/infectious-disease-experts-germs/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
