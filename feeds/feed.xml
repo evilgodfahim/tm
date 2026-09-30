@@ -4,10 +4,43 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Sep 2026 07:44:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 14:26:33 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 30 Sep 2026 07:44:09 GMT</pubDate>
+        <pubDate>Wed, 30 Sep 2026 14:26:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[This Interview With Raye May Contain Hope]]></title>
+            <link>https://time.com/article/2026/09/30/raye-time100-next/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/30/raye-time100-next/</guid>
+            <dc:creator><![CDATA[Olivia-Anne Cleary]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How James Talarico Made Texas Competitive Again]]></title>
+            <link>https://time.com/article/2026/09/30/can-james-talarico-make-texas-competitive-again/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/30/can-james-talarico-make-texas-competitive-again/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran’s Revolutionary Guard Corps Pens Open Letter to American Voters]]></title>
+            <link>https://time.com/article/2026/09/30/iran-war-irgc-open-letter-us-midterm-elections-american-voters/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/30/iran-war-irgc-open-letter-us-midterm-elections-american-voters/</guid>
+            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Half of Girls Who Want to Play Sports Never Get the Chance]]></title>
+            <link>https://time.com/article/2026/09/30/half-of-girls-who-want-to-play-sports-never-get-the-chance/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/30/half-of-girls-who-want-to-play-sports-never-get-the-chance/</guid>
+            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Children Are Back in School. Measles Is, Too]]></title>
+            <link>https://time.com/article/2026/09/30/children-are-back-in-school-measles-is-too-debra-houry-essay/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/30/children-are-back-in-school-measles-is-too-debra-houry-essay/</guid>
+            <dc:creator><![CDATA[Dr. Debra Houry]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What to Know About the Pentagon Breach Affecting Millions]]></title>
             <link>https://time.com/article/2026/09/29/pentagon-department-defense-manpower-data-center-breach-personnel-information/</link>
@@ -24,6 +57,7 @@
             <title><![CDATA[Millions of Americans Live in a County Without a Surgeon]]></title>
             <link>https://time.com/article/2026/09/29/millions-of-americans-live-in-a-county-without-a-surgeon/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/29/millions-of-americans-live-in-a-county-without-a-surgeon/</guid>
+            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
             <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -50,6 +84,7 @@
             <title><![CDATA[How the War is Changing the Geography of Iran’s Influence]]></title>
             <link>https://time.com/article/2026/09/29/iran-war-houthis-red-sea-chokepoints-regional-influence/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/29/iran-war-houthis-red-sea-chokepoints-regional-influence/</guid>
+            <dc:creator><![CDATA[Hamidreza Azizi]]></dc:creator>
             <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -87,7 +122,6 @@
             <title><![CDATA[Eli Lilly’s Experimental Weight-Loss Drug Shows Promising Results]]></title>
             <link>https://time.com/article/2026/09/29/eli-lilly-triple-targeting-experimental-weight-loss-drug-promising-results/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/29/eli-lilly-triple-targeting-experimental-weight-loss-drug-promising-results/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3265,39 +3299,6 @@
             <link>https://time.com/article/2026/08/10/infectious-disease-experts-germs/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/10/infectious-disease-experts-germs/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Your Dog Really Can Tell When You're Happy]]></title>
-            <link>https://time.com/article/2026/08/10/your-dog-can-tell-when-youre-happy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/10/your-dog-can-tell-when-youre-happy/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About the Earthquake in Colombia]]></title>
-            <link>https://time.com/article/2026/08/10/colombia-earthquake-death-toll-damage/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/10/colombia-earthquake-death-toll-damage/</guid>
-            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Trump Administration Has Revoked More Than 175,000 Visas]]></title>
-            <link>https://time.com/article/2026/08/10/trump-state-department-visa-revocations/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/10/trump-state-department-visa-revocations/</guid>
-            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet Will Scharf, Trump's New White House Counsel]]></title>
-            <link>https://time.com/article/2026/08/10/will-scharf-new-white-house-counsel-trump-lawyer-history/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/10/will-scharf-new-white-house-counsel-trump-lawyer-history/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We Must Remember Nagasaki]]></title>
-            <link>https://time.com/article/2026/08/10/why-nagasaki-matters/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/10/why-nagasaki-matters/</guid>
-            <dc:creator><![CDATA[James M. Scott]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
