@@ -4,14 +4,15 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Oct 2026 14:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2026 19:40:53 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 02 Oct 2026 14:19:34 GMT</pubDate>
+        <pubDate>Fri, 02 Oct 2026 19:40:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The System That Failed Cornell’s Jane Doe]]></title>
             <link>https://time.com/article/2026/10/02/the-system-that-failed-cornell-jane-doe/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/02/the-system-that-failed-cornell-jane-doe/</guid>
+            <dc:creator><![CDATA[Kendra Barkoff Lamy]]></dc:creator>
             <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -24,6 +25,19 @@
             <title><![CDATA[What Martin Luther King Jr.'s Granddaughter's First Vote Is Up Against]]></title>
             <link>https://time.com/article/2026/10/02/what-martin-luther-king-jr-granddaughter-first-vote-is-up-against/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/02/what-martin-luther-king-jr-granddaughter-first-vote-is-up-against/</guid>
+            <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About the Dengue Outbreak in the U.S.]]></title>
+            <link>https://time.com/article/2026/10/02/what-to-know-about-dengue-outbreak-florida-mosquito/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/02/what-to-know-about-dengue-outbreak-florida-mosquito/</guid>
+            <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Awe in the Age of AI]]></title>
+            <link>https://time.com/article/2026/10/02/awe-in-the-age-of-ai/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/02/awe-in-the-age-of-ai/</guid>
+            <dc:creator><![CDATA[Arianna Huffington]]></dc:creator>
             <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -65,6 +79,7 @@
             <title><![CDATA[Why the U.S. Must Simultaneously Compete—and Cooperate—With China on AI]]></title>
             <link>https://time.com/article/2026/10/01/the-u-s-must-compete-and-cooperate-with-china-on-ai/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/01/the-u-s-must-compete-and-cooperate-with-china-on-ai/</guid>
+            <dc:creator><![CDATA[Gina Raimondo]]></dc:creator>
             <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -84,14 +99,18 @@
             <title><![CDATA[What the Flydubai Incident Reveals About When a Pilot Becomes the Threat]]></title>
             <link>https://time.com/article/2026/10/01/flydubai-incident-dubai-israel-cockpit-pilot-stabbing-plane-crash-attempt/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/01/flydubai-incident-dubai-israel-cockpit-pilot-stabbing-plane-crash-attempt/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
             <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Tip Toe' Captures a World Gone Mad: Review]]></title>
             <link>https://time.com/article/2026/10/01/tip-toe-review-starz/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/01/tip-toe-review-starz/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Is Being Accused of Interfering in Brazil's Election. Here's Why]]></title>
+            <link>https://time.com/article/2026/10/01/trump-brazil-election-interference-accusations-lula-bolsonaro-tensions/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/01/trump-brazil-election-interference-accusations-lula-bolsonaro-tensions/</guid>
             <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -161,6 +180,7 @@
             <title><![CDATA[How to Talk to Your Child About Body Image]]></title>
             <link>https://time.com/article/2026/09/30/what-to-say-child-body-image/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/30/what-to-say-child-body-image/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -363,7 +383,6 @@
             <title><![CDATA[The True Story Behind 'Atonement']]></title>
             <link>https://time.com/article/2026/09/28/atonement-true-story-iraq-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/28/atonement-true-story-iraq-war/</guid>
-            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
             <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3277,27 +3296,6 @@
             <link>https://time.com/article/2026/08/12/what-trump-executive-order-could-mean-for-childhood-vaccines/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/12/what-trump-executive-order-could-mean-for-childhood-vaccines/</guid>
             <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Living Through the Hottest July On Record Looked Like]]></title>
-            <link>https://time.com/article/2026/08/12/us-record-hottest-july-photos/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/12/us-record-hottest-july-photos/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Karoline Leavitt to Step Down as White House Press Secretary]]></title>
-            <description><![CDATA[Trump said Leavitt will depart to spend more time with her family.]]></description>
-            <link>https://time.com/article/2026/08/12/Karoline-Leavitt-to-step-down-white-house-press-secretary-Donald-Trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/12/Karoline-Leavitt-to-step-down-white-house-press-secretary-Donald-Trump/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Plan to Equip ICE Agents With Electric Shock Gloves Draws Alarm]]></title>
-            <link>https://time.com/article/2026/08/12/ice-electric-shock-gloves/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/12/ice-electric-shock-gloves/</guid>
             <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
