@@ -4,10 +4,28 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Oct 2026 07:45:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2026 14:19:34 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 02 Oct 2026 07:45:56 GMT</pubDate>
+        <pubDate>Fri, 02 Oct 2026 14:19:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The System That Failed Cornell’s Jane Doe]]></title>
+            <link>https://time.com/article/2026/10/02/the-system-that-failed-cornell-jane-doe/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/02/the-system-that-failed-cornell-jane-doe/</guid>
+            <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tennessee Reviews Lethal Injection Process After Botched Execution]]></title>
+            <link>https://time.com/article/2026/10/02/christa-pike-botched-execution-lethal-injection-tennessee-pentobarbital/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/02/christa-pike-botched-execution-lethal-injection-tennessee-pentobarbital/</guid>
+            <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Martin Luther King Jr.'s Granddaughter's First Vote Is Up Against]]></title>
+            <link>https://time.com/article/2026/10/02/what-martin-luther-king-jr-granddaughter-first-vote-is-up-against/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/02/what-martin-luther-king-jr-granddaughter-first-vote-is-up-against/</guid>
+            <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Next Generation of Weight-Loss Drugs Is Almost Here]]></title>
             <link>https://time.com/article/2026/10/01/next-generation-of-weight-loss-drugs-is-almost-here/</link>
@@ -66,6 +84,14 @@
             <title><![CDATA[What the Flydubai Incident Reveals About When a Pilot Becomes the Threat]]></title>
             <link>https://time.com/article/2026/10/01/flydubai-incident-dubai-israel-cockpit-pilot-stabbing-plane-crash-attempt/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/01/flydubai-incident-dubai-israel-cockpit-pilot-stabbing-plane-crash-attempt/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Tip Toe' Captures a World Gone Mad: Review]]></title>
+            <link>https://time.com/article/2026/10/01/tip-toe-review-starz/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/01/tip-toe-review-starz/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -331,6 +357,13 @@
             <link>https://time.com/article/2026/09/28/the-widower-thomas-randolph-netflix/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/28/the-widower-thomas-randolph-netflix/</guid>
             <dc:creator><![CDATA[Jake Kring-Schreifels]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The True Story Behind 'Atonement']]></title>
+            <link>https://time.com/article/2026/09/28/atonement-true-story-iraq-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/28/atonement-true-story-iraq-war/</guid>
+            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
             <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3265,37 +3298,6 @@
             <title><![CDATA[Plan to Equip ICE Agents With Electric Shock Gloves Draws Alarm]]></title>
             <link>https://time.com/article/2026/08/12/ice-electric-shock-gloves/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/12/ice-electric-shock-gloves/</guid>
-            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICE Is Getting Body Cameras. But Will They Help Hold Agents Accountable?]]></title>
-            <link>https://time.com/article/2026/08/12/ice-is-getting-body-cameras-but-will-they-help-hold-agents-accountable-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/12/ice-is-getting-body-cameras-but-will-they-help-hold-agents-accountable-/</guid>
-            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Experimental Pediatric Cancer Treatment Shows Promise]]></title>
-            <link>https://time.com/article/2026/08/12/experimental-pediatric-cancer-treatment/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/12/experimental-pediatric-cancer-treatment/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Karoline Leavitt’s Most Memorable Moments as White House Press Secretary]]></title>
-            <link>https://time.com/article/2026/08/12/karoline-leavitt-white-house-press-secretary-memorable-moments/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/12/karoline-leavitt-white-house-press-secretary-memorable-moments/</guid>
-            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s New Medicaid Rule Targets Gender-Affirming Care for Minors]]></title>
-            <link>https://time.com/article/2026/08/12/trans-youth-face-a-new-barrier-to-gender-affirming-care-medicaid/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/12/trans-youth-face-a-new-barrier-to-gender-affirming-care-medicaid/</guid>
-            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America's Top Venture Capital Firms of 2026]]></title>
-            <link>https://time.com/article/2026/08/12/americas-top-venture-capital-firms-2026/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/12/americas-top-venture-capital-firms-2026/</guid>
             <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
