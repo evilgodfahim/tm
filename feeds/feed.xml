@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Oct 2026 09:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Oct 2026 14:28:56 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 03 Oct 2026 09:32:32 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 14:28:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why I Bring My Kids to Vote with Me]]></title>
+            <link>https://time.com/article/2026/10/03/why-i-bring-my-kids-to-vote-with-me/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/03/why-i-bring-my-kids-to-vote-with-me/</guid>
+            <dc:creator><![CDATA[Jeanette Senecal]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The System That Failed Cornell’s Jane Doe]]></title>
             <link>https://time.com/article/2026/10/02/the-system-that-failed-cornell-jane-doe/</link>
@@ -69,17 +76,14 @@
         </item>
         <item>
             <title><![CDATA[What Trump Has Built]]></title>
-            <description><![CDATA[An interview with the President at a pivotal moment in his second term.]]></description>
             <link>https://time.com/article/2026/10/01/donald-trump-2026-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/01/donald-trump-2026-interview/</guid>
-            <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
             <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fact-Checking What Trump Said in His Latest TIME Interview]]></title>
             <link>https://time.com/article/2026/10/01/donald-trump-2026-interview-fact-check/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/01/donald-trump-2026-interview-fact-check/</guid>
-            <dc:creator><![CDATA[Leslie Dickstein, Simmone Shah and Olivia B. Waxman]]></dc:creator>
             <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -219,6 +223,14 @@
             <title><![CDATA[Cornell Sex Assault Case Raises Questions About Title IX Accountability and New York’s Intoxicated Consent Law]]></title>
             <link>https://time.com/article/2026/09/30/cornell-fraternity-rape-case-title-ix-new-york-intoxicated-consent/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/30/cornell-fraternity-rape-case-title-ix-new-york-intoxicated-consent/</guid>
+            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Your 2026 Midterm Elections Voting Guide]]></title>
+            <description><![CDATA[From using mail-in ballots to finding your polling place, here’s everything you need to know.]]></description>
+            <link>https://time.com/article/2026/09/30/your-questions-about-voting-in-the-2026-midterm-elections-answered/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/09/30/your-questions-about-voting-in-the-2026-midterm-elections-answered/</guid>
+            <dc:creator><![CDATA[TIME Staff]]></dc:creator>
             <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3284,19 +3296,6 @@
             <title><![CDATA[What to Know About the E.U.’s New Biometric Entry System]]></title>
             <link>https://time.com/article/2026/08/12/eu-europe-travel-entry-exit-system-ees-passport-biometric/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/12/eu-europe-travel-entry-exit-system-ees-passport-biometric/</guid>
-            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Demuth Won Minnesota's GOP Governor Primary, But Lindell Won’t Concede]]></title>
-            <link>https://time.com/article/2026/08/12/minnesota-governor-republican-primary-election-result-demuth-lindell-qualls/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/12/minnesota-governor-republican-primary-election-result-demuth-lindell-qualls/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crowley Beats Hong in Wisconsin Governor Democratic Primary]]></title>
-            <link>https://time.com/article/2026/08/12/wisconsin-democratic-gubernatorial-primary-result-hong-crowley/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/12/wisconsin-democratic-gubernatorial-primary-result-hong-crowley/</guid>
             <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
