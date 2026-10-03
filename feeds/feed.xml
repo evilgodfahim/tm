@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Oct 2026 03:01:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Oct 2026 09:32:32 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 03 Oct 2026 03:01:44 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 09:32:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The System That Failed Cornell’s Jane Doe]]></title>
@@ -51,6 +51,13 @@
             <link>https://time.com/article/2026/10/02/east-of-eden-netflix-cathy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/02/east-of-eden-netflix-cathy/</guid>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Europe’s Approach to Climate Change Is Entering a New Era]]></title>
+            <link>https://time.com/article/2026/10/02/europe-s-approach-to-climate-is-entering-a-new-era/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/02/europe-s-approach-to-climate-is-entering-a-new-era/</guid>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3290,12 +3297,6 @@
             <title><![CDATA[Crowley Beats Hong in Wisconsin Governor Democratic Primary]]></title>
             <link>https://time.com/article/2026/08/12/wisconsin-democratic-gubernatorial-primary-result-hong-crowley/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/12/wisconsin-democratic-gubernatorial-primary-result-hong-crowley/</guid>
-            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should You Let Your Dog Lick Your Face?]]></title>
-            <link>https://time.com/article/2026/08/12/should-you-let-your-dog-lick-your-face/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/12/should-you-let-your-dog-lick-your-face/</guid>
             <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
