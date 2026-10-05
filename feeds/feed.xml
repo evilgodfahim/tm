@@ -4,10 +4,31 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Oct 2026 03:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2026 11:00:27 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 05 Oct 2026 03:10:25 GMT</pubDate>
+        <pubDate>Mon, 05 Oct 2026 11:00:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Democrats in Key Senate Races Embrace 'Capitalist' Label]]></title>
+            <description><![CDATA[Candidates in Michigan, Texas and Florida are making clear they are not socialists]]></description>
+            <link>https://time.com/article/2026/10/05/democrats-in-key-senate-races-embrace-capitalist-label/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/05/democrats-in-key-senate-races-embrace-capitalist-label/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gambling Is Sending More People to the ER]]></title>
+            <link>https://time.com/article/2026/10/05/gambling-emergency-room-visits/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/05/gambling-emergency-room-visits/</guid>
+            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Case Against Wearing Headphones in Public]]></title>
+            <link>https://time.com/article/2026/10/05/the-case-against-wearing-headphones-in-public/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/05/the-case-against-wearing-headphones-in-public/</guid>
+            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[America’s Health Care Workforce Is in Crisis]]></title>
             <link>https://time.com/article/2026/10/04/us-health-care-workforce-in-crisis/</link>
@@ -17,7 +38,6 @@
         </item>
         <item>
             <title><![CDATA[Trump Is Promising Health Care Checks Before the Midterms. How Far Will They Go?]]></title>
-            <description><![CDATA[Trump’s promised rebates come as Americans worry about health care costs. For Medicare recipients, a one-time payment may offer limited relief from rising premiums.]]></description>
             <link>https://time.com/article/2026/10/04/trump-is-promising-health-care-checks-before-the-midterms-how-far-will-they-go-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/04/trump-is-promising-health-care-checks-before-the-midterms-how-far-will-they-go-/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
@@ -59,6 +79,7 @@
             <title><![CDATA[What to Know About the Dengue Outbreak in the U.S.]]></title>
             <link>https://time.com/article/2026/10/02/what-to-know-about-dengue-outbreak-florida-mosquito/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/02/what-to-know-about-dengue-outbreak-florida-mosquito/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -250,7 +271,6 @@
             <title><![CDATA[Your 2026 Midterm Elections Voting Guide]]></title>
             <link>https://time.com/article/2026/09/30/your-questions-about-voting-in-the-2026-midterm-elections-answered/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/30/your-questions-about-voting-in-the-2026-midterm-elections-answered/</guid>
-            <dc:creator><![CDATA[TIME Staff]]></dc:creator>
             <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3280,25 +3300,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/08/13/flirting-is-a-lost-art/</guid>
             <dc:creator><![CDATA[Meehika Barua]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the Movements of a U.S. Oil Company in Greenland Have Attracted Attention]]></title>
-            <link>https://time.com/article/2026/08/13/us-oil-company-greenland-energy-drilling-project-delayed-warning/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/13/us-oil-company-greenland-energy-drilling-project-delayed-warning/</guid>
-            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An AI Tax Could Be the Great Equalizer America Needs]]></title>
-            <link>https://time.com/article/2026/08/12/an-ai-tax-could-be-the-great-equalizer/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/12/an-ai-tax-could-be-the-great-equalizer/</guid>
-            <dc:creator><![CDATA[Sarah Polcz and Jeremy Bearer-Friend]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Breaks Silence on Secret Plane Switch in Turkey Over Iranian Threat]]></title>
-            <link>https://time.com/article/2026/08/12/trump-plane-switch-turkey-iranian-threat-secret-service-decoy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/12/trump-plane-switch-turkey-iranian-threat-secret-service-decoy/</guid>
-            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
