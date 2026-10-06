@@ -4,10 +4,38 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Oct 2026 08:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Oct 2026 15:34:21 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 06 Oct 2026 08:20:25 GMT</pubDate>
+        <pubDate>Tue, 06 Oct 2026 15:34:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Meta’s Muse AI Agent Is Building a Dossier On You]]></title>
+            <description><![CDATA[Internal instructions reviewed by TIME show the AI assistant mapping users and their contacts—including people who don’t use Muse—and sharing anonymized insights across its system.]]></description>
+            <link>https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/</guid>
+            <dc:creator><![CDATA[Harry Booth]]></dc:creator>
+            <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Administration Mounts ‘Largest Denaturalization Effort in Modern History’]]></title>
+            <link>https://time.com/article/2026/10/06/denaturalization-citizenship-immigration-justice-department-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/06/denaturalization-citizenship-immigration-justice-department-trump/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Expands Access to Tax-Exempt Dyed Diesel to Try to Lower Fuel Costs]]></title>
+            <link>https://time.com/article/2026/10/06/us-dyed-diesel-federal-highway-tax-fuel-costs-trump-farmers/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/06/us-dyed-diesel-federal-highway-tax-fuel-costs-trump-farmers/</guid>
+            <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don't Cancel Your Plans. Shrink Them]]></title>
+            <link>https://time.com/article/2026/10/06/dont-cancel-plans-shrink-them/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/06/dont-cancel-plans-shrink-them/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Democrats in Key Senate Races Embrace 'Capitalist' Label]]></title>
             <link>https://time.com/article/2026/10/05/democrats-in-key-senate-races-embrace-capitalist-label/</link>
@@ -29,8 +57,7 @@
             <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What We Know About Russia Pneumonic 'Plague' After Dozens Quarantined in Siberia]]></title>
-            <description><![CDATA[Outbreak control measures are underway after a laboratory worker at the Irkutsk Research Anti-Plague Institute of Siberia died last week in undisclosed circumstances.]]></description>
+            <title><![CDATA[WHO Says No Plague Cases Found After Russian Lab Worker’s Death]]></title>
             <link>https://time.com/article/2026/10/05/russia-plague-fears-siberia-quarantine-lab-worker-died/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/05/russia-plague-fears-siberia-quarantine-lab-worker-died/</guid>
             <dc:creator><![CDATA[Veronique Greenwood and Callum Sutherland]]></dc:creator>
@@ -65,6 +92,7 @@
             <title><![CDATA[The Elon Musk Documentary That Has Him Fighting Back]]></title>
             <link>https://time.com/article/2026/10/05/elon-musk-gibney-documentary/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/05/elon-musk-gibney-documentary/</guid>
+            <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
             <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +105,26 @@
             <title><![CDATA[Now Is the Best Time to Get Your Flu Shot]]></title>
             <link>https://time.com/article/2026/10/05/now-is-the-best-time-to-get-your-flu-shot/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/05/now-is-the-best-time-to-get-your-flu-shot/</guid>
-            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Cornell 7’ Case Renews Scrutiny of Fraternities]]></title>
+            <link>https://time.com/article/2026/10/05/cornell-university-sexual-assault-allegations-fraternity-jane-doe-lawsuit/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/05/cornell-university-sexual-assault-allegations-fraternity-jane-doe-lawsuit/</guid>
+            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TIME100 Art Honorees Toast to Imagination, Inspiration, and Influence Across Generations]]></title>
+            <description><![CDATA[Ronald Lauder, Matthew Bogdanos, Amy Sherald, Marie Watt, Ken Griffin, and Alicia Keys and Swizz Beatz gave remarks at the first TIME100 Art Impact Dinner.]]></description>
+            <link>https://time.com/article/2026/10/05/time100-art-impact-dinner-toasts/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/05/time100-art-impact-dinner-toasts/</guid>
+            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Fossil Fuel Turning Point]]></title>
+            <link>https://time.com/article/2026/10/05/the-fossil-fuel-turning-point/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/05/the-fossil-fuel-turning-point/</guid>
+            <dc:creator><![CDATA[André Corrêa do Lago]]></dc:creator>
             <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -92,6 +139,13 @@
             <link>https://time.com/article/2026/10/04/trump-is-promising-health-care-checks-before-the-midterms-how-far-will-they-go-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/04/trump-is-promising-health-care-checks-before-the-midterms-how-far-will-they-go-/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We Must Fight Health Misinformation With Empathy]]></title>
+            <link>https://time.com/article/2026/10/04/we-must-fight-health-misinformation-with-empathy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/04/we-must-fight-health-misinformation-with-empathy/</guid>
+            <dc:creator><![CDATA[Megan L. Ranney]]></dc:creator>
             <pubDate>Sun, 04 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -500,7 +554,7 @@
             <title><![CDATA[The Case Against Pacing the AI Frontier]]></title>
             <link>https://time.com/article/2026/09/28/the-case-against-pacing-the-ai-frontier/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/28/the-case-against-pacing-the-ai-frontier/</guid>
-            <dc:creator><![CDATA[Ravi Kumar S]]></dc:creator>
+            <dc:creator><![CDATA[Ravi Kumar S, Babak Hodjat and Jeff DeMarrais]]></dc:creator>
             <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3247,60 +3301,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/08/14/climate-change-wildfire-air-pollution-risks/</guid>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About Concerns Over the Long-Deployed USS Abraham Lincoln]]></title>
-            <link>https://time.com/article/2026/08/14/uss-abraham-lincoln-conditions-trump-iran-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/14/uss-abraham-lincoln-conditions-trump-iran-war/</guid>
-            <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eurovision Bars Warring Countries From Hosting]]></title>
-            <link>https://time.com/article/2026/08/13/eurovision-song-contest-rule-war-boycott-israel-palestine-ukraine-russia/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/13/eurovision-song-contest-rule-war-boycott-israel-palestine-ukraine-russia/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Community Leader is Stuck in Limbo in Ohio]]></title>
-            <description><![CDATA[Viles Dorsainvil, a lifeline for fellow Haitians, is fighting to stay in America himself]]></description>
-            <link>https://time.com/article/2026/08/13/haitians-Springfield-Ohio-Florida-TPS-deportation-fear-ICE-DHS/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/13/haitians-Springfield-Ohio-Florida-TPS-deportation-fear-ICE-DHS/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the World Is Still Investing in America]]></title>
-            <link>https://time.com/article/2026/08/13/the-world-is-still-choosing-america/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/13/the-world-is-still-choosing-america/</guid>
-            <dc:creator><![CDATA[Jane Fraser]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Aryna Sabalenka Became the Most Compelling Player in Tennis]]></title>
-            <link>https://time.com/article/2026/08/13/aryna-sabalenka-interview/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/13/aryna-sabalenka-interview/</guid>
-            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[11 Charged in ‘One of the Largest Marriage Fraud Prosecutions’ in U.S.]]></title>
-            <link>https://time.com/article/2026/08/13/justice-department-indictment-sham-marriage-immigration-china/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/13/justice-department-indictment-sham-marriage-immigration-china/</guid>
-            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Rise of Telehealth 'Pill Mills']]></title>
-            <link>https://time.com/article/2026/08/13/the-rise-of-telehealth-pill-mills/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/13/the-rise-of-telehealth-pill-mills/</guid>
-            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Estrogen Therapy May Help Protect Against Alzheimer’s Disease, Study Says]]></title>
-            <link>https://time.com/article/2026/08/13/estrogen-therapy-may-protect-against-alzheimers-disease/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/13/estrogen-therapy-may-protect-against-alzheimers-disease/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
