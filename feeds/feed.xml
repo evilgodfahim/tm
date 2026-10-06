@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Oct 2026 11:00:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Oct 2026 01:03:03 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 05 Oct 2026 11:00:27 GMT</pubDate>
+        <pubDate>Tue, 06 Oct 2026 01:03:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Democrats in Key Senate Races Embrace 'Capitalist' Label]]></title>
-            <description><![CDATA[Candidates in Michigan, Texas and Florida are making clear they are not socialists]]></description>
             <link>https://time.com/article/2026/10/05/democrats-in-key-senate-races-embrace-capitalist-label/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/05/democrats-in-key-senate-races-embrace-capitalist-label/</guid>
             <dc:creator><![CDATA[Nik Popli]]></dc:creator>
@@ -27,6 +26,58 @@
             <title><![CDATA[The Case Against Wearing Headphones in Public]]></title>
             <link>https://time.com/article/2026/10/05/the-case-against-wearing-headphones-in-public/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/05/the-case-against-wearing-headphones-in-public/</guid>
+            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What We Know About Russia Pneumonic 'Plague' After Dozens Quarantined in Siberia]]></title>
+            <description><![CDATA[Outbreak control measures are underway after a laboratory worker at the Irkutsk Research Anti-Plague Institute of Siberia died last week in undisclosed circumstances.]]></description>
+            <link>https://time.com/article/2026/10/05/russia-plague-fears-siberia-quarantine-lab-worker-died/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/05/russia-plague-fears-siberia-quarantine-lab-worker-died/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood and Callum Sutherland]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spain’s Leader Is Betting His Government on the Housing Crisis]]></title>
+            <link>https://time.com/article/2026/10/05/spain-snap-elections-sanchez-housing-crisis/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/05/spain-snap-elections-sanchez-housing-crisis/</guid>
+            <dc:creator><![CDATA[T. Michelle Murphy]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[POLITICO Blocked From Air Force One Amid Battle Over Media Access]]></title>
+            <link>https://time.com/article/2026/10/05/politico-white-house-pool-air-force-one-trump-media-ban/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/05/politico-white-house-pool-air-force-one-trump-media-ban/</guid>
+            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the U.S. Bomber Withdrawal From a U.K. Air Base Is Significant]]></title>
+            <link>https://time.com/article/2026/10/05/why-us-bomber-withdrawal-from-raf-fairford-air-base-matters/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/05/why-us-bomber-withdrawal-from-raf-fairford-air-base-matters/</guid>
+            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Despite the Polls Republicans Think This Senate Seat Remains in Play]]></title>
+            <link>https://time.com/article/2026/10/05/new-hampshire-blue-wave-republicans-sununu-pappas/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/05/new-hampshire-blue-wave-republicans-sununu-pappas/</guid>
+            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Elon Musk Documentary That Has Him Fighting Back]]></title>
+            <link>https://time.com/article/2026/10/05/elon-musk-gibney-documentary/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/05/elon-musk-gibney-documentary/</guid>
+            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When Is the Best Time to See Peak Fall Foliage?]]></title>
+            <link>https://time.com/article/2026/10/05/when-is-the-best-time-to-see-peak-fall-foliage-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/05/when-is-the-best-time-to-see-peak-fall-foliage-/</guid>
+            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Now Is the Best Time to Get Your Flu Shot]]></title>
+            <link>https://time.com/article/2026/10/05/now-is-the-best-time-to-get-your-flu-shot/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/05/now-is-the-best-time-to-get-your-flu-shot/</guid>
+            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
             <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -55,6 +106,12 @@
             <link>https://time.com/article/2026/10/03/the-g7-is-releasing-emergency-fuel-reserves-how-much-will-it-help-americans-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/03/the-g7-is-releasing-emergency-fuel-reserves-how-much-will-it-help-americans-/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We Won't Know the Answers to AI's Most Important Questions Until It's Too Late]]></title>
+            <link>https://time.com/article/2026/10/03/we-won-t-know-the-answers-to-ai-s-most-important-questions-until-its-too-late/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/03/we-won-t-know-the-answers-to-ai-s-most-important-questions-until-its-too-late/</guid>
             <pubDate>Sat, 03 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -171,12 +228,26 @@
             <title><![CDATA['Tip Toe' Captures a World Gone Mad: Review]]></title>
             <link>https://time.com/article/2026/10/01/tip-toe-review-starz/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/01/tip-toe-review-starz/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump Is Being Accused of Interfering in Brazil's Election. Here's Why]]></title>
             <link>https://time.com/article/2026/10/01/trump-brazil-election-interference-accusations-lula-bolsonaro-tensions/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/01/trump-brazil-election-interference-accusations-lula-bolsonaro-tensions/</guid>
+            <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Making Sense of Verity's Ambiguous Ending]]></title>
+            <link>https://time.com/article/2026/10/01/verity-ending-explained/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/01/verity-ending-explained/</guid>
+            <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Ending of 'Four Hands, Two Sonatas']]></title>
+            <link>https://time.com/article/2026/10/01/four-hands-two-sonatas-ending/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/01/four-hands-two-sonatas-ending/</guid>
+            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
             <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -240,6 +311,7 @@
             <title><![CDATA[Walking Faster May Help Reverse Frailty]]></title>
             <link>https://time.com/article/2026/09/30/walking-briskly-may-help-reverse-frailty/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/30/walking-briskly-may-help-reverse-frailty/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -336,6 +408,7 @@
             <title><![CDATA[Flying Doesn’t Have to Be This Miserable]]></title>
             <link>https://time.com/article/2026/09/29/flying-doesn-t-have-to-be-this-miserable/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/29/flying-doesn-t-have-to-be-this-miserable/</guid>
+            <dc:creator><![CDATA[Ganesh Sitaraman]]></dc:creator>
             <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -455,6 +528,7 @@
             <title><![CDATA[The True Story Behind 'Atonement']]></title>
             <link>https://time.com/article/2026/09/28/atonement-true-story-iraq-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/28/atonement-true-story-iraq-war/</guid>
+            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
             <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3226,79 +3300,6 @@
             <link>https://time.com/article/2026/08/13/estrogen-therapy-may-protect-against-alzheimers-disease/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/13/estrogen-therapy-may-protect-against-alzheimers-disease/</guid>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GOP Anti-Muslim Campaign Targets Abdul El-Sayed]]></title>
-            <link>https://time.com/article/2026/08/13/muslim-republicans-abdul-el-sayed/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/13/muslim-republicans-abdul-el-sayed/</guid>
-            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Sued Over Selling Early Access to Truth Social Posts Amid Mounting Backlash]]></title>
-            <link>https://time.com/article/2026/08/13/trump-sued-truth-social-posts-early-access-lawsuit-democrat-investigations/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/13/trump-sued-truth-social-posts-early-access-lawsuit-democrat-investigations/</guid>
-            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Most Spectacular Photos of Europe's Total Solar Eclipse]]></title>
-            <description><![CDATA[From Iceland to Spain, crowds were dazzled by the celestial phenomenon.]]></description>
-            <link>https://time.com/article/2026/08/13/best-europe-solar-eclipse-photos/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/13/best-europe-solar-eclipse-photos/</guid>
-            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Wild True Story Behind 'A Child of My Own']]></title>
-            <link>https://time.com/article/2026/08/13/netflix-documentary-a-child-of-my-own/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/13/netflix-documentary-a-child-of-my-own/</guid>
-            <dc:creator><![CDATA[Olivia B. Waxman]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who Might Replace Karoline Leavitt as Press Secretary?]]></title>
-            <link>https://time.com/article/2026/08/13/karoline-leavitt-press-secretary-replacement-potential-candidates/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/13/karoline-leavitt-press-secretary-replacement-potential-candidates/</guid>
-            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kennedy Center Board Votes to Put Trump's Name Back on the Building]]></title>
-            <link>https://time.com/article/2026/08/13/kennedy-center-trump-name-board-vote-judge-order/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/13/kennedy-center-trump-name-board-vote-judge-order/</guid>
-            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Renews Push to Pass Bill That Would Make Daylight Saving Time Permanent]]></title>
-            <link>https://time.com/article/2026/08/13/trump-permanent-daylight-saving-time-bill-senate/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/13/trump-permanent-daylight-saving-time-bill-senate/</guid>
-            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why States Are the Key to the Modern Labor Movement]]></title>
-            <link>https://time.com/article/2026/08/13/why-states-are-the-key-to-the-modern-labor-movement/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/13/why-states-are-the-key-to-the-modern-labor-movement/</guid>
-            <dc:creator><![CDATA[Sharon Block]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can You Engineer Civic Pride? Dubai Thinks So]]></title>
-            <link>https://time.com/article/2026/08/13/civic-pride-cleanliness-dubai-migration/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/13/civic-pride-cleanliness-dubai-migration/</guid>
-            <dc:creator><![CDATA[Bobby Ghosh]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How College Education Divided America]]></title>
-            <link>https://time.com/article/2026/08/13/how-college-education-divided-america/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/13/how-college-education-divided-america/</guid>
-            <dc:creator><![CDATA[Daron Acemoglu]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flirting Is a Lost Art]]></title>
-            <link>https://time.com/article/2026/08/13/flirting-is-a-lost-art/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/13/flirting-is-a-lost-art/</guid>
-            <dc:creator><![CDATA[Meehika Barua]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
