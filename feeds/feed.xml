@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Oct 2026 15:34:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Oct 2026 20:40:33 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 06 Oct 2026 15:34:21 GMT</pubDate>
+        <pubDate>Tue, 06 Oct 2026 20:40:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Meta’s Muse AI Agent Is Building a Dossier On You]]></title>
-            <description><![CDATA[Internal instructions reviewed by TIME show the AI assistant mapping users and their contacts—including people who don’t use Muse—and sharing anonymized insights across its system.]]></description>
             <link>https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/</guid>
             <dc:creator><![CDATA[Harry Booth]]></dc:creator>
@@ -20,7 +19,6 @@
             <title><![CDATA[Trump Administration Mounts ‘Largest Denaturalization Effort in Modern History’]]></title>
             <link>https://time.com/article/2026/10/06/denaturalization-citizenship-immigration-justice-department-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/06/denaturalization-citizenship-immigration-justice-department-trump/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -34,6 +32,19 @@
             <link>https://time.com/article/2026/10/06/dont-cancel-plans-shrink-them/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/06/dont-cancel-plans-shrink-them/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hoping for Better, 3 Years Since Oct. 7]]></title>
+            <link>https://time.com/article/2026/10/06/hoping-for-better-3-years-since-oct-7/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/06/hoping-for-better-3-years-since-oct-7/</guid>
+            <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Photos Show Scenes of Unrest as French Student Protest Goes Nationwide]]></title>
+            <description><![CDATA[More than 250,000 people took to streets across France on Tuesday as teachers, parents, and union activists joined students who have spent the past two weeks protesting, what they say is, a poorly-funded high school system.]]></description>
+            <link>https://time.com/article/2026/10/06/france-student-protest-in-photos/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/06/france-student-protest-in-photos/</guid>
             <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -57,7 +68,7 @@
             <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WHO Says No Plague Cases Found After Russian Lab Worker’s Death]]></title>
+            <title><![CDATA[Russia Tells WHO No Plague Found After Lab Worker’s Death]]></title>
             <link>https://time.com/article/2026/10/05/russia-plague-fears-siberia-quarantine-lab-worker-died/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/05/russia-plague-fears-siberia-quarantine-lab-worker-died/</guid>
             <dc:creator><![CDATA[Veronique Greenwood and Callum Sutherland]]></dc:creator>
@@ -105,6 +116,7 @@
             <title><![CDATA[Now Is the Best Time to Get Your Flu Shot]]></title>
             <link>https://time.com/article/2026/10/05/now-is-the-best-time-to-get-your-flu-shot/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/05/now-is-the-best-time-to-get-your-flu-shot/</guid>
+            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
             <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -125,6 +137,12 @@
             <link>https://time.com/article/2026/10/05/the-fossil-fuel-turning-point/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/05/the-fossil-fuel-turning-point/</guid>
             <dc:creator><![CDATA[André Corrêa do Lago]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet the 2026 Nobel Prize Winners]]></title>
+            <link>https://time.com/article/2026/10/05/nobel-prize-2026-winners/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/05/nobel-prize-2026-winners/</guid>
             <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -202,8 +220,10 @@
         </item>
         <item>
             <title><![CDATA[Why Are Students Protesting Across France?]]></title>
+            <description><![CDATA[More than 250,000 protesters took to the streets on Tuesday, marking the biggest day of demonstrations yet in the escalating unrest over conditions in the country's school system.]]></description>
             <link>https://time.com/article/2026/10/02/france-student-protests-arrests-injuries-school-closures/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/02/france-student-protests-arrests-injuries-school-closures/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3279,27 +3299,6 @@
             <link>https://time.com/article/2026/08/14/lanterns-review-hbo/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/14/lanterns-review-hbo/</guid>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exclusive: Claude Was Put in Charge of Human Workers—and Fired One]]></title>
-            <link>https://time.com/article/2026/08/14/claude-fired-worker-ai-job-disruption/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/14/claude-fired-worker-ai-job-disruption/</guid>
-            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The True Story Behind 'The Brink of War']]></title>
-            <link>https://time.com/article/2026/08/14/brink-of-war-true-story/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/14/brink-of-war-true-story/</guid>
-            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Wildfire Smoke Reveals About How We Respond to Climate Risk]]></title>
-            <link>https://time.com/article/2026/08/14/climate-change-wildfire-air-pollution-risks/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/14/climate-change-wildfire-air-pollution-risks/</guid>
-            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
