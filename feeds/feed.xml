@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Oct 2026 20:40:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 00:14:55 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 06 Oct 2026 20:40:33 GMT</pubDate>
+        <pubDate>Wed, 07 Oct 2026 00:14:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Meta’s Muse AI Agent Is Building a Dossier On You]]></title>
@@ -48,6 +48,20 @@
             <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pressure Mounts on Cornell to Explain Its Handling of Sexual Assault Allegations]]></title>
+            <description><![CDATA[Student protests and a possible faculty no-confidence vote are intensifying scrutiny of the university’s response.]]></description>
+            <link>https://time.com/article/2026/10/06/pressure-mounts-on-cornell-to-explain-its-handling-of-sexual-assault-allegations/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/06/pressure-mounts-on-cornell-to-explain-its-handling-of-sexual-assault-allegations/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Could Texas Elect a Democratic Governor? Polls Show a Tight Race]]></title>
+            <link>https://time.com/article/2026/10/06/texas-governor-race-polls-abbott-hinojosa/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/06/texas-governor-race-polls-abbott-hinojosa/</guid>
+            <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Democrats in Key Senate Races Embrace 'Capitalist' Label]]></title>
             <link>https://time.com/article/2026/10/05/democrats-in-key-senate-races-embrace-capitalist-label/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/05/democrats-in-key-senate-races-embrace-capitalist-label/</guid>
@@ -71,7 +85,6 @@
             <title><![CDATA[Russia Tells WHO No Plague Found After Lab Worker’s Death]]></title>
             <link>https://time.com/article/2026/10/05/russia-plague-fears-siberia-quarantine-lab-worker-died/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/05/russia-plague-fears-siberia-quarantine-lab-worker-died/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood and Callum Sutherland]]></dc:creator>
             <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -220,7 +233,6 @@
         </item>
         <item>
             <title><![CDATA[Why Are Students Protesting Across France?]]></title>
-            <description><![CDATA[More than 250,000 protesters took to the streets on Tuesday, marking the biggest day of demonstrations yet in the escalating unrest over conditions in the country's school system.]]></description>
             <link>https://time.com/article/2026/10/02/france-student-protests-arrests-injuries-school-closures/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/02/france-student-protests-arrests-injuries-school-closures/</guid>
             <dc:creator><![CDATA[Connor Greene]]></dc:creator>
@@ -3285,20 +3297,6 @@
             <title><![CDATA[Luigi Mangione Pleads Guilty to Federal Charges]]></title>
             <link>https://time.com/article/2026/08/14/luigi-mangione-guilty-plea-federal-case-unitedhealthcare-brian-thompson/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/14/luigi-mangione-guilty-plea-federal-case-unitedhealthcare-brian-thompson/</guid>
-            <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Problem With Being Told Your Symptoms Are ‘Normal’]]></title>
-            <link>https://time.com/article/2026/08/14/why-it-can-be-a-problem-when-your-doctor-says-it-s-normal-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/14/why-it-can-be-a-problem-when-your-doctor-says-it-s-normal-/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HBO's Green Lantern Series 'Lanterns': Review]]></title>
-            <link>https://time.com/article/2026/08/14/lanterns-review-hbo/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/14/lanterns-review-hbo/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
