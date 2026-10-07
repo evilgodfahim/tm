@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Oct 2026 14:04:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 20:20:23 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 07 Oct 2026 14:04:45 GMT</pubDate>
+        <pubDate>Wed, 07 Oct 2026 20:20:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Nevada Braces For Election Havoc From Trump]]></title>
@@ -33,7 +33,6 @@
             <title><![CDATA[Why Audiobook Walking Clubs Are Taking Off]]></title>
             <link>https://time.com/article/2026/10/07/audiobook-walking-clubs/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/07/audiobook-walking-clubs/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -47,14 +46,39 @@
             <title><![CDATA[Omar Sy on 'Lupin' Season 4]]></title>
             <link>https://time.com/article/2026/10/07/omar-sy-lupin-season-4/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/07/omar-sy-lupin-season-4/</guid>
-            <dc:creator><![CDATA[TIME France]]></dc:creator>
             <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What Are Kelvin Waves?]]></title>
             <link>https://time.com/article/2026/10/07/kelvin-waves-california-el-nino/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/07/kelvin-waves-california-el-nino/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Oct. 7 Changed Israel]]></title>
+            <link>https://time.com/article/2026/10/07/how-oct-7-changed-israel/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/07/how-oct-7-changed-israel/</guid>
+            <dc:creator><![CDATA[Dahlia Scheindlin]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Most Americans Want to Stop Changing the Clocks. Here’s Why Senators Are Hesitating]]></title>
+            <link>https://time.com/article/2026/10/07/senate-permanent-daylight-saving-time-sunshine-protection-act/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/07/senate-permanent-daylight-saving-time-sunshine-protection-act/</guid>
+            <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Worries Experts About the Russia 'Plague' Incident]]></title>
+            <link>https://time.com/article/2026/10/07/what-worries-experts-about-the-russia-plague-incident/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/07/what-worries-experts-about-the-russia-plague-incident/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood and Dominique Mosbergen]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Say When Someone Shows Up Sick]]></title>
+            <link>https://time.com/article/2026/10/07/what-to-say-when-someone-shows-up-sick/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/07/what-to-say-when-someone-shows-up-sick/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -119,7 +143,12 @@
             <title><![CDATA[Review: 'Artificial']]></title>
             <link>https://time.com/article/2026/10/06/artificial-review-andrew-garfield-sam-altman/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/06/artificial-review-andrew-garfield-sam-altman/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Women Behind 'The Social Reckoning']]></title>
+            <link>https://time.com/article/2026/10/06/mikey-madison-frances-haugen-the-social-reckoning/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/06/mikey-madison-frances-haugen-the-social-reckoning/</guid>
             <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -140,12 +169,14 @@
             <title><![CDATA[The Case Against Wearing Headphones in Public]]></title>
             <link>https://time.com/article/2026/10/05/the-case-against-wearing-headphones-in-public/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/05/the-case-against-wearing-headphones-in-public/</guid>
+            <dc:creator><![CDATA[Meehika Barua]]></dc:creator>
             <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Russia Tells WHO No Plague Found After Lab Worker’s Death]]></title>
             <link>https://time.com/article/2026/10/05/russia-plague-fears-siberia-quarantine-lab-worker-died/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/05/russia-plague-fears-siberia-quarantine-lab-worker-died/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood and Callum Sutherland]]></dc:creator>
             <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -184,6 +215,7 @@
             <title><![CDATA[When Is the Best Time to See Peak Fall Foliage?]]></title>
             <link>https://time.com/article/2026/10/05/when-is-the-best-time-to-see-peak-fall-foliage-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/05/when-is-the-best-time-to-see-peak-fall-foliage-/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -388,6 +420,7 @@
             <title><![CDATA[Making Sense of Verity's Ambiguous Ending]]></title>
             <link>https://time.com/article/2026/10/01/verity-ending-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/01/verity-ending-explained/</guid>
+            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
             <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3268,38 +3301,6 @@
             <link>https://time.com/article/2026/08/17/frailty-is-more-than-weakness-what-to-know/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/17/frailty-is-more-than-weakness-what-to-know/</guid>
             <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kentucky Gov. Beshear Says He's 'Heard Absolutely Nothing Back' About McConnell’s Health]]></title>
-            <link>https://time.com/article/2026/08/17/andy-beshear-mitch-mcconnell-health-kentucky/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/17/andy-beshear-mitch-mcconnell-health-kentucky/</guid>
-            <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Supreme Court Rejects Trump Appeal in Sexual Abuse Case—Again]]></title>
-            <link>https://time.com/article/2026/08/17/supreme-court-again-rejects-trump-appeal-in-carroll-sexual-abuse-case/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/17/supreme-court-again-rejects-trump-appeal-in-carroll-sexual-abuse-case/</guid>
-            <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About the Earthquake in Indonesia]]></title>
-            <link>https://time.com/article/2026/08/17/indonesia-earthquake-damage-death-toll/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/17/indonesia-earthquake-damage-death-toll/</guid>
-            <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pilots and Flight Attendants Face a Real Cancer Risk. Frequent Flyers Shouldn’t Panic]]></title>
-            <link>https://time.com/article/2026/08/17/pilots-and-flight-attendants-face-a-real-cancer-risk/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/17/pilots-and-flight-attendants-face-a-real-cancer-risk/</guid>
-            <dc:creator><![CDATA[Vishal R. Patel]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Danger of Todd Blanche’s Statements on Abortion]]></title>
-            <link>https://time.com/article/2026/08/17/the-danger-of-todd-blanche-statements-on-abortion/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/17/the-danger-of-todd-blanche-statements-on-abortion/</guid>
-            <dc:creator><![CDATA[Brittany Fonteno]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
