@@ -4,10 +4,50 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Oct 2026 06:51:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 14:14:23 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Oct 2026 06:51:43 GMT</pubDate>
+        <pubDate>Thu, 08 Oct 2026 14:14:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[He's Running In a District Trump Won By 21 Points. Democrats See an Opening]]></title>
+            <description><![CDATA[National Democrats are putting resources into Justin Pearson's bid for a gerrymandered district in Tennessee]]></description>
+            <link>https://time.com/article/2026/10/08/Tennessee-Justin-Pearson-poll-election-gerrymandering-DCCC/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/08/Tennessee-Justin-Pearson-poll-election-gerrymandering-DCCC/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[At San Antonio Rally, Trump Warns He’ll ‘Never Forgive’ Texas if Talarico Wins]]></title>
+            <link>https://time.com/article/2026/10/08/trump-rally-san-antonio-texas-talarico/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/08/trump-rally-san-antonio-texas-talarico/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Administration Proposes $70K Fee for International Students to Work in U.S.]]></title>
+            <link>https://time.com/article/2026/10/08/international-student-training-opt-fee-work-trump-administration/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/08/international-student-training-opt-fee-work-trump-administration/</guid>
+            <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Houthi Attacks on Saudi Airports Kill 3 Amid Escalating War in Yemen]]></title>
+            <link>https://time.com/article/2026/10/08/saudi-arabia-yemen-houthi-rebels-airport-attacks-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/08/saudi-arabia-yemen-houthi-rebels-airport-attacks-war/</guid>
+            <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Excellence of Shai Gilgeous-Alexander]]></title>
+            <description><![CDATA[The OKC Thunder superstar believes he's the best player in the NBA]]></description>
+            <link>https://time.com/article/2026/10/08/shai-gilgeous-alexander-sga-interview/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/08/shai-gilgeous-alexander-sga-interview/</guid>
+            <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Cupertino' Is the Best Network Lawyer Show in Ages]]></title>
+            <link>https://time.com/article/2026/10/08/cupertino-review-cbs/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/08/cupertino-review-cbs/</guid>
+            <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nevada Braces For Election Havoc From Trump]]></title>
             <description><![CDATA[The state's top election official talks to TIME about how he's preparing for a midterm election like no other]]></description>
@@ -33,6 +73,7 @@
             <title><![CDATA[Why Audiobook Walking Clubs Are Taking Off]]></title>
             <link>https://time.com/article/2026/10/07/audiobook-walking-clubs/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/07/audiobook-walking-clubs/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -52,6 +93,7 @@
             <title><![CDATA[What Are Kelvin Waves?]]></title>
             <link>https://time.com/article/2026/10/07/kelvin-waves-california-el-nino/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/07/kelvin-waves-california-el-nino/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -86,6 +128,19 @@
             <link>https://time.com/article/2026/10/07/the-social-reckoning-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/07/the-social-reckoning-review/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kansas Has Emerged as a Senate Battleground State. Here’s Why It Matters]]></title>
+            <link>https://time.com/article/2026/10/07/why-kansas-has-emerged-as-a-new-battleground-state-and-why-it-matters/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/07/why-kansas-has-emerged-as-a-new-battleground-state-and-why-it-matters/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Student Protesters in France are Holding Signs Referencing May 1968. Here’s Why It’s Significant]]></title>
+            <link>https://time.com/article/2026/10/07/student-protests-france-signs-may-1968-strikes-police-clashes/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/07/student-protests-france-signs-may-1968-strikes-police-clashes/</guid>
             <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -156,6 +211,7 @@
             <title><![CDATA[The Women Behind 'The Social Reckoning']]></title>
             <link>https://time.com/article/2026/10/06/mikey-madison-frances-haugen-the-social-reckoning/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/06/mikey-madison-frances-haugen-the-social-reckoning/</guid>
+            <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
             <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -435,6 +491,12 @@
             <link>https://time.com/article/2026/10/01/four-hands-two-sonatas-ending/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/01/four-hands-two-sonatas-ending/</guid>
             <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Ending of 'Below']]></title>
+            <link>https://time.com/article/2026/10/01/below-netflix-ending/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/01/below-netflix-ending/</guid>
             <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3241,67 +3303,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/08/18/fda-approves-first-drug-to-treat-narcolepsy/</guid>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who Is Byron Donalds, the Trump-Backed Favorite for Florida Governor?]]></title>
-            <description><![CDATA[The Naples-area congressman won the primary Tuesday and is largely favored to replace Gov. Ron DeSantis.]]></description>
-            <link>https://time.com/article/2026/08/18/byron-donalds-congressman-trump-republican-governor-florida/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/18/byron-donalds-congressman-trump-republican-governor-florida/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Florida Rep. Cory Mills Loses Primary After Scandal-Filled Campaign]]></title>
-            <link>https://time.com/article/2026/08/18/florida-rep-cory-mills-loses-primary-after-scandal-filled-campaign/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/18/florida-rep-cory-mills-loses-primary-after-scandal-filled-campaign/</guid>
-            <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI Is Slowing Down Its AI Training]]></title>
-            <link>https://time.com/article/2026/08/18/openai-slowing-training/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/18/openai-slowing-training/</guid>
-            <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America’s Best Incubators and Accelerators 2026]]></title>
-            <link>https://time.com/article/2026/08/18/americas-best-incubators-accelerators-2026/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/18/americas-best-incubators-accelerators-2026/</guid>
-            <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Say to Someone Blasting Their Phone in Public]]></title>
-            <link>https://time.com/article/2026/08/17/how-to-ask-someone-to-use-headphones-in-public/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/17/how-to-ask-someone-to-use-headphones-in-public/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Power of Setting and Declaring a Goal]]></title>
-            <link>https://time.com/article/2026/08/17/the-power-of-setting-and-declaring-a-goal/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/17/the-power-of-setting-and-declaring-a-goal/</guid>
-            <dc:creator><![CDATA[Adrian Gore]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s South Korea Shift Tests a Key U.S. Alliance]]></title>
-            <link>https://time.com/article/2026/08/17/trump-south-korea-joint-drills-kim-north-nuclear-iran-analysis/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/17/trump-south-korea-joint-drills-kim-north-nuclear-iran-analysis/</guid>
-            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tributes Pour In for Actress Hayden Panettiere After Her Death at 36]]></title>
-            <link>https://time.com/article/2026/08/17/tributes-pour-in-for-actress-hayden-panettiere-after-death-at-36/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/17/tributes-pour-in-for-actress-hayden-panettiere-after-death-at-36/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Other Side of Paradise: How Pakistan Crushed Protests in Kashmir]]></title>
-            <link>https://time.com/article/2026/08/17/pakistan-civilian-killings-protests-in-kashmir/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/17/pakistan-civilian-killings-protests-in-kashmir/</guid>
-            <dc:creator><![CDATA[Aqil Shah]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
