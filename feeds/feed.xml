@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Oct 2026 14:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 20:23:18 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Oct 2026 14:14:23 GMT</pubDate>
+        <pubDate>Thu, 08 Oct 2026 20:23:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[He's Running In a District Trump Won By 21 Points. Democrats See an Opening]]></title>
@@ -46,6 +46,33 @@
             <title><![CDATA['Cupertino' Is the Best Network Lawyer Show in Ages]]></title>
             <link>https://time.com/article/2026/10/08/cupertino-review-cbs/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/08/cupertino-review-cbs/</guid>
+            <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet the Nobel Peace Prize Contenders Who Could Beat Trump This Year]]></title>
+            <link>https://time.com/article/2026/10/08/meet-the-nobel-peace-prize-contenders-that-could-beat-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/08/meet-the-nobel-peace-prize-contenders-that-could-beat-trump/</guid>
+            <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eye Cells May Have Been Rejuvenated for the First Time in People]]></title>
+            <link>https://time.com/article/2026/10/08/eye-cells-rejuvenated-for-the-first-time-in-people/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/08/eye-cells-rejuvenated-for-the-first-time-in-people/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Senate Investigation Challenges Big Tech’s Case for AI Data Centers]]></title>
+            <link>https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About Hurricane Isaias]]></title>
+            <link>https://time.com/article/2026/10/08/hurricane-isaias-what-to-know/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/08/hurricane-isaias-what-to-know/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -138,9 +165,30 @@
             <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Student Protesters in France are Holding Signs Referencing May 1968. Here’s Why It’s Significant]]></title>
+            <title><![CDATA[Why Student Protesters in France Are Referencing May 1968]]></title>
             <link>https://time.com/article/2026/10/07/student-protests-france-signs-may-1968-strikes-police-clashes/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/07/student-protests-france-signs-may-1968-strikes-police-clashes/</guid>
+            <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the Cornell 7 Case Reveals About Consent and Bravery]]></title>
+            <link>https://time.com/article/2026/10/07/what-the-cornell-7-case-reveals-about-consent-and-bravery/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/07/what-the-cornell-7-case-reveals-about-consent-and-bravery/</guid>
+            <dc:creator><![CDATA[Reshma Saujani]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The War in Iran Will Make It Harder for Americans to Stay Warm This Winter]]></title>
+            <link>https://time.com/article/2026/10/07/the-war-in-iran-will-make-it-harder-for-americans-to-stay-warm-this-winter/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/07/the-war-in-iran-will-make-it-harder-for-americans-to-stay-warm-this-winter/</guid>
+            <dc:creator><![CDATA[Sanya Carley]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Beat Trump’s Noise Machine]]></title>
+            <link>https://time.com/article/2026/10/07/trump-nebraska-los-angeles-iran-war-noise-machine/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/07/trump-nebraska-los-angeles-iran-war-noise-machine/</guid>
+            <dc:creator><![CDATA[Jeffrey Sonnenfeld]]></dc:creator>
             <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -312,6 +360,13 @@
             <title><![CDATA[Meet the 2026 Nobel Prize Winners]]></title>
             <link>https://time.com/article/2026/10/05/nobel-prize-2026-winners/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/05/nobel-prize-2026-winners/</guid>
+            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Finale of Mike Flanagan's 'Carrie']]></title>
+            <link>https://time.com/article/2026/10/05/carrie-mike-flanagan-finale-explained/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/05/carrie-mike-flanagan-finale-explained/</guid>
+            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3250,58 +3305,6 @@
             <title><![CDATA[Trump Again Threatens to Bomb Oman]]></title>
             <link>https://time.com/article/2026/08/18/us-iran-oman-war-peace-deal-strait-hormuz-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/18/us-iran-oman-war-peace-deal-strait-hormuz-trump/</guid>
-            <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SharkNinja’s Billionaire Chinese Backer on Building an American Success Story]]></title>
-            <link>https://time.com/article/2026/08/18/sharkninja-cj-wang-us-china/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/18/sharkninja-cj-wang-us-china/</guid>
-            <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the World Getting Uglier?]]></title>
-            <link>https://time.com/article/2026/08/18/is-the-world-getting-uglier/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/18/is-the-world-getting-uglier/</guid>
-            <dc:creator><![CDATA[Debbie Millman]]></dc:creator>
-            <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forget Nonna-Maxxing. Ask Your Grandmother One Question Instead]]></title>
-            <link>https://time.com/article/2026/08/18/life-advice-from-older-women/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/18/life-advice-from-older-women/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia Warns U.K. It 'Will Pay' Over Ukraine Drone Support]]></title>
-            <link>https://time.com/article/2026/08/18/-we-wont-be-bullied-uk-responds-to-russian-threat-over-ukraine-drone-support/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/18/-we-wont-be-bullied-uk-responds-to-russian-threat-over-ukraine-drone-support/</guid>
-            <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump-Appointed Prosecutor Sigal Chattah Loses Appeals Court Fight]]></title>
-            <link>https://time.com/article/2026/08/18/appeals-court-upholds-sigal-chattah-disqualification-as-nevada-attorney-in-latest-trump-legal-blow/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/18/appeals-court-upholds-sigal-chattah-disqualification-as-nevada-attorney-in-latest-trump-legal-blow/</guid>
-            <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Is Double Jeopardy, and Why Are Luigi Mangione’s Lawyers Claiming It?]]></title>
-            <link>https://time.com/article/2026/08/18/double-jeopardy-luigi-mangione/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/18/double-jeopardy-luigi-mangione/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
-            <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CNN Condemns the White House’s Attacks on Journalist Kristen Holmes]]></title>
-            <link>https://time.com/article/2026/08/18/cnn-white-house-kristen-holmes-journalist-attacks/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/18/cnn-white-house-kristen-holmes-journalist-attacks/</guid>
-            <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FDA Approves First Drug to Treat a Cause of Narcolepsy]]></title>
-            <link>https://time.com/article/2026/08/18/fda-approves-first-drug-to-treat-narcolepsy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/18/fda-approves-first-drug-to-treat-narcolepsy/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
