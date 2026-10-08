@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Oct 2026 20:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 00:36:16 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 07 Oct 2026 20:20:23 GMT</pubDate>
+        <pubDate>Thu, 08 Oct 2026 00:36:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Nevada Braces For Election Havoc From Trump]]></title>
@@ -79,6 +79,13 @@
             <link>https://time.com/article/2026/10/07/what-to-say-when-someone-shows-up-sick/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/07/what-to-say-when-someone-shows-up-sick/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: 'The Social Reckoning']]></title>
+            <link>https://time.com/article/2026/10/07/the-social-reckoning-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/07/the-social-reckoning-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3294,13 +3301,6 @@
             <link>https://time.com/article/2026/08/17/pakistan-civilian-killings-protests-in-kashmir/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/17/pakistan-civilian-killings-protests-in-kashmir/</guid>
             <dc:creator><![CDATA[Aqil Shah]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Frailty Is More Than Just Weakness. Here's What to Know]]></title>
-            <link>https://time.com/article/2026/08/17/frailty-is-more-than-weakness-what-to-know/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/17/frailty-is-more-than-weakness-what-to-know/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
