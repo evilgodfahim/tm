@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Oct 2026 20:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 00:51:37 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Oct 2026 20:23:18 GMT</pubDate>
+        <pubDate>Fri, 09 Oct 2026 00:51:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[He's Running In a District Trump Won By 21 Points. Democrats See an Opening]]></title>
-            <description><![CDATA[National Democrats are putting resources into Justin Pearson's bid for a gerrymandered district in Tennessee]]></description>
             <link>https://time.com/article/2026/10/08/Tennessee-Justin-Pearson-poll-election-gerrymandering-DCCC/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/08/Tennessee-Justin-Pearson-poll-election-gerrymandering-DCCC/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
@@ -20,7 +19,6 @@
             <title><![CDATA[At San Antonio Rally, Trump Warns He’ll ‘Never Forgive’ Texas if Talarico Wins]]></title>
             <link>https://time.com/article/2026/10/08/trump-rally-san-antonio-texas-talarico/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/08/trump-rally-san-antonio-texas-talarico/</guid>
-            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
             <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -63,6 +61,7 @@
         </item>
         <item>
             <title><![CDATA[Senate Investigation Challenges Big Tech’s Case for AI Data Centers]]></title>
+            <description><![CDATA[The report argues that major tech firms are misleading the public about the costs and benefits of the projects.]]></description>
             <link>https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/</guid>
             <dc:creator><![CDATA[Nik Popli]]></dc:creator>
@@ -72,7 +71,13 @@
             <title><![CDATA[What to Know About Hurricane Isaias]]></title>
             <link>https://time.com/article/2026/10/08/hurricane-isaias-what-to-know/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/08/hurricane-isaias-what-to-know/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[60 Million Kids Auto-Enrolled in Trump Accounts: What Parents Should Know]]></title>
+            <link>https://time.com/article/2026/10/08/trump-accounts-automatic-enrollment-children-investment/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/08/trump-accounts-automatic-enrollment-children-investment/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -161,7 +166,6 @@
             <title><![CDATA[Kansas Has Emerged as a Senate Battleground State. Here’s Why It Matters]]></title>
             <link>https://time.com/article/2026/10/07/why-kansas-has-emerged-as-a-new-battleground-state-and-why-it-matters/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/07/why-kansas-has-emerged-as-a-new-battleground-state-and-why-it-matters/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3299,12 +3303,6 @@
             <title><![CDATA[The New Science of Dreaming]]></title>
             <link>https://time.com/article/2026/08/18/new-science-of-dreaming/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/18/new-science-of-dreaming/</guid>
-            <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Again Threatens to Bomb Oman]]></title>
-            <link>https://time.com/article/2026/08/18/us-iran-oman-war-peace-deal-strait-hormuz-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/18/us-iran-oman-war-peace-deal-strait-hormuz-trump/</guid>
             <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
