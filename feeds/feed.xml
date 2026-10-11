@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Oct 2026 20:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 00:00:08 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 10 Oct 2026 20:23:36 GMT</pubDate>
+        <pubDate>Sun, 11 Oct 2026 00:00:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why We Must Invest in Scientists, Not Just Science]]></title>
@@ -23,9 +23,18 @@
             <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Trump Says U.S. May Join Saudi Strikes on Houthis After Riyadh Airport Attacks]]></title>
+            <description><![CDATA[Attacks on Saudi airports have killed several people and disrupted hundreds of flights, prompting Washington to consider a larger military role in Yemen.]]></description>
+            <link>https://time.com/article/2026/10/10/trump-says-u-s-may-join-saudi-strikes-on-houthis-after-riyadh-airport-attacks/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/10/trump-says-u-s-may-join-saudi-strikes-on-houthis-after-riyadh-airport-attacks/</guid>
+            <dc:creator><![CDATA[T. Michelle Murphy]]></dc:creator>
+            <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Navanethem 'Navi' Pillay Wins the 2026 Nobel Peace Prize]]></title>
             <link>https://time.com/article/2026/10/09/navanethem-navi-pillay-wins-the-2026-nobel-peace-prize/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/09/navanethem-navi-pillay-wins-the-2026-nobel-peace-prize/</guid>
+            <dc:creator><![CDATA[Olivia-Anne Cleary]]></dc:creator>
             <pubDate>Fri, 09 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -50,17 +59,14 @@
         </item>
         <item>
             <title><![CDATA[Trump Taps Katie Zacharia as Next White House Press Secretary]]></title>
-            <description><![CDATA[Zacharia, a conservative commentator, will succeed Karoline Leavitt in the position.]]></description>
             <link>https://time.com/article/2026/10/09/katie-zacharia-white-house-press-secretary-leavitt-trump/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/09/katie-zacharia-white-house-press-secretary-leavitt-trump/</guid>
-            <dc:creator><![CDATA[Nik Popli and Connor Greene]]></dc:creator>
             <pubDate>Fri, 09 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NYPD Releases ICE Shooting Bodycam Footage]]></title>
             <link>https://time.com/article/2026/10/09/nypd-releases-ice-shooting-bodycam-footage-Bronx/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/09/nypd-releases-ice-shooting-bodycam-footage-Bronx/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Fri, 09 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3302,13 +3308,6 @@
             <title><![CDATA[Trump Delays 50% Canada Tariffs as the Two Countries Race to Finalize a Deal]]></title>
             <link>https://time.com/article/2026/08/19/trump-delays-50-canada-tariffs-as-the-two-countries-race-to-finalize-a-deal/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/19/trump-delays-50-canada-tariffs-as-the-two-countries-race-to-finalize-a-deal/</guid>
-            <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Promising Results for mRNA Cancer Vaccine from Moderna and Merck]]></title>
-            <link>https://time.com/article/2026/08/19/mrna-cancer-vaccine-moderna-merck/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/19/mrna-cancer-vaccine-moderna-merck/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
