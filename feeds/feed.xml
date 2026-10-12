@@ -4,10 +4,18 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Oct 2026 21:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 00:51:53 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 11 Oct 2026 21:16:28 GMT</pubDate>
+        <pubDate>Mon, 12 Oct 2026 00:51:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What to Know About Trump’s Russia-Ukraine ‘Energy Ceasefire’ Claim]]></title>
+            <description><![CDATA[Days prior to the alleged ceasefire, the President announced a diesel deal with Russia and blamed Ukraine for high fuel prices in the U.S.]]></description>
+            <link>https://time.com/article/2026/10/11/trump-claims-russia-and-ukraine-have-agreed-to-an-energy-ceasefire-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/11/trump-claims-russia-and-ukraine-have-agreed-to-an-energy-ceasefire-/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sun, 11 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why We Must Invest in Scientists, Not Just Science]]></title>
             <link>https://time.com/article/2026/10/10/why-we-must-invest-in-scientists-not-just-science/</link>
@@ -19,12 +27,10 @@
             <title><![CDATA[Under the Gun: Understanding America’s Defense Spending Paradox]]></title>
             <link>https://time.com/article/2026/10/10/understanding-america-defense-spending-paradox/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/10/understanding-america-defense-spending-paradox/</guid>
-            <dc:creator><![CDATA[Joshua Keating]]></dc:creator>
             <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump Says U.S. May Join Saudi Strikes on Houthis After Riyadh Airport Attacks]]></title>
-            <description><![CDATA[Attacks on Saudi airports have killed several people and disrupted hundreds of flights, prompting Washington to consider a larger military role in Yemen.]]></description>
             <link>https://time.com/article/2026/10/10/trump-says-u-s-may-join-saudi-strikes-on-houthis-after-riyadh-airport-attacks/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/10/trump-says-u-s-may-join-saudi-strikes-on-houthis-after-riyadh-airport-attacks/</guid>
             <dc:creator><![CDATA[T. Michelle Murphy]]></dc:creator>
@@ -3302,12 +3308,6 @@
             <title><![CDATA[What to Say to Someone With Terrible Table Manners]]></title>
             <link>https://time.com/article/2026/08/19/how-to-address-bad-table-manners/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/19/how-to-address-bad-table-manners/</guid>
-            <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Delays 50% Canada Tariffs as the Two Countries Race to Finalize a Deal]]></title>
-            <link>https://time.com/article/2026/08/19/trump-delays-50-canada-tariffs-as-the-two-countries-race-to-finalize-a-deal/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/19/trump-delays-50-canada-tariffs-as-the-two-countries-race-to-finalize-a-deal/</guid>
             <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
