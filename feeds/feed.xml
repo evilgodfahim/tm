@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 19:40:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 23:32:15 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 13 Oct 2026 19:40:16 GMT</pubDate>
+        <pubDate>Tue, 13 Oct 2026 23:32:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Guilfoyle Resigns at Trump's Request Following Credit Card Scandal]]></title>
-            <description><![CDATA[The announcement follows allegations Guilfoyle asked a political donor to pay a $100,000 personal credit card bill]]></description>
             <link>https://time.com/article/2026/10/13/trump-has-asked-guilfoyle-to-resign-says-new-white-house-press-secretary/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/13/trump-has-asked-guilfoyle-to-resign-says-new-white-house-press-secretary/</guid>
             <dc:creator><![CDATA[Philip Elliott and Nik Popli]]></dc:creator>
@@ -27,6 +26,7 @@
             <title><![CDATA[In India, a Dark Shadow Falls on Its Vaunted Elections]]></title>
             <link>https://time.com/article/2026/10/13/india-modi-protests-voter-removal-election-commission/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/13/india-modi-protests-voter-removal-election-commission/</guid>
+            <dc:creator><![CDATA[Gautam Bhatia]]></dc:creator>
             <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -58,6 +58,20 @@
             <link>https://time.com/article/2026/10/13/toe-raises-benefits-how-to-do/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/13/toe-raises-benefits-how-to-do/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Most Americans Think Trump Is Profiting Illegally or Unethically]]></title>
+            <description><![CDATA[New polling shows that Americans see the President focused far more on his business interests than on people like them.]]></description>
+            <link>https://time.com/article/2026/10/13/most-americans-think-trump-is-profiting-from-the-presidency-illegally-or-unethically-poll-finds/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/13/most-americans-think-trump-is-profiting-from-the-presidency-illegally-or-unethically-poll-finds/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lawmakers Argue Trump's Russia Diesel Deal 'Violates' the Law. Here's What Legal Experts Say]]></title>
+            <link>https://time.com/article/2026/10/13/lawmakers-argue-trump-russia-diesel-deal-violates-law-legal-experts/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/13/lawmakers-argue-trump-russia-diesel-deal-violates-law-legal-experts/</guid>
             <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3299,19 +3313,6 @@
             <link>https://time.com/article/2026/08/21/trump-michael-cohen-radio/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/21/trump-michael-cohen-radio/</guid>
             <dc:creator><![CDATA[Connor Greene]]></dc:creator>
-            <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Announces a Tariff Deal Aimed at Lowering Beef Prices]]></title>
-            <link>https://time.com/article/2026/08/21/beef-prices-trump-deal-tariffs/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/21/beef-prices-trump-deal-tariffs/</guid>
-            <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[XPrize Healthspan Is Testing the Best Ideas for Slowing Aging]]></title>
-            <link>https://time.com/article/2026/08/21/xprize-healthspan-best-longevity-ideas-top-10/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/21/xprize-healthspan-best-longevity-ideas-top-10/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
