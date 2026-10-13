@@ -4,10 +4,62 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 12:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 19:40:16 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 13 Oct 2026 12:21:47 GMT</pubDate>
+        <pubDate>Tue, 13 Oct 2026 19:40:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Guilfoyle Resigns at Trump's Request Following Credit Card Scandal]]></title>
+            <description><![CDATA[The announcement follows allegations Guilfoyle asked a political donor to pay a $100,000 personal credit card bill]]></description>
+            <link>https://time.com/article/2026/10/13/trump-has-asked-guilfoyle-to-resign-says-new-white-house-press-secretary/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/13/trump-has-asked-guilfoyle-to-resign-says-new-white-house-press-secretary/</guid>
+            <dc:creator><![CDATA[Philip Elliott and Nik Popli]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cornell Halts Fraternity Parties After Jane Doe’s Lawsuit]]></title>
+            <link>https://time.com/article/2026/10/13/cornell-halts-fraternity-parties-after-jane-doe-s-lawsuit/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/13/cornell-halts-fraternity-parties-after-jane-doe-s-lawsuit/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In India, a Dark Shadow Falls on Its Vaunted Elections]]></title>
+            <link>https://time.com/article/2026/10/13/india-modi-protests-voter-removal-election-commission/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/13/india-modi-protests-voter-removal-election-commission/</guid>
+            <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[These Infections Are Linked to 12% of New Cancer Cases]]></title>
+            <link>https://time.com/article/2026/10/13/infections-linked-to-new-cancer-cases/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/13/infections-linked-to-new-cancer-cases/</guid>
+            <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Elon Musk Learned to Love Political Spending Again]]></title>
+            <link>https://time.com/article/2026/10/13/elon-musk-political-campaign-spending-trump-republicans/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/13/elon-musk-political-campaign-spending-trump-republicans/</guid>
+            <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The New Campaign Strategy: Don’t Debate]]></title>
+            <link>https://time.com/article/2026/10/13/new-candidate-strategy-don-t-debate/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/13/new-candidate-strategy-don-t-debate/</guid>
+            <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Crystal Lake' Is Totally Pointless]]></title>
+            <link>https://time.com/article/2026/10/13/crystal-lake-review-peacock/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/13/crystal-lake-review-peacock/</guid>
+            <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why You Should Do Toe Raises, Not Just Calf Raises]]></title>
+            <link>https://time.com/article/2026/10/13/toe-raises-benefits-how-to-do/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/13/toe-raises-benefits-how-to-do/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Republicans Denounce Trump’s Diesel Deal With Russia’s Putin]]></title>
             <description><![CDATA["We were very clear that Russia is the aggressor. Russia is the one who can end this war by backing out of [the] territory they occupied," said one GOP Senator.]]></description>
@@ -33,6 +85,7 @@
             <title><![CDATA[The Case for Shifting Mental Health Care From Institutions to Communities]]></title>
             <link>https://time.com/article/2026/10/12/the-case-for-shifting-mental-health-care-from-institutions-to-communities/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/12/the-case-for-shifting-mental-health-care-from-institutions-to-communities/</guid>
+            <dc:creator><![CDATA[Anura Kumara Dissanayake]]></dc:creator>
             <pubDate>Mon, 12 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -73,6 +126,13 @@
             <link>https://time.com/article/2026/10/10/trump-says-u-s-may-join-saudi-strikes-on-houthis-after-riyadh-airport-attacks/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/10/trump-says-u-s-may-join-saudi-strikes-on-houthis-after-riyadh-airport-attacks/</guid>
             <dc:creator><![CDATA[T. Michelle Murphy]]></dc:creator>
+            <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paternity Leave Is More Than a Perk. It Builds a Baby’s Brain]]></title>
+            <link>https://time.com/article/2026/10/10/paternity-leave-is-more-than-a-perk-it-builds-a-baby-s-brain/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/10/paternity-leave-is-more-than-a-perk-it-builds-a-baby-s-brain/</guid>
+            <dc:creator><![CDATA[Alvin Thomas]]></dc:creator>
             <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -203,6 +263,7 @@
             <title><![CDATA[Senate Investigation Challenges Big Tech’s Case for AI Data Centers]]></title>
             <link>https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
             <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3252,66 +3313,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/08/21/xprize-healthspan-best-longevity-ideas-top-10/</guid>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Companies Are Bracing Themselves For El Niño’s Ripple Effects]]></title>
-            <link>https://time.com/article/2026/08/21/el-nino-economic-business-disruption/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/21/el-nino-economic-business-disruption/</guid>
-            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
-            <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Ending of 'Spooky in Love']]></title>
-            <link>https://time.com/article/2026/08/21/spooky-in-love-ending-explained/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/21/spooky-in-love-ending-explained/</guid>
-            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
-            <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The True Story Behind 'Death of the Pastor's Wife']]></title>
-            <link>https://time.com/article/2026/08/21/mica-miller-death-of-pastors-wife-true-story/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/21/mica-miller-death-of-pastors-wife-true-story/</guid>
-            <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIME's Longevity Leaders Are Racing to Add Good Years to Your Life]]></title>
-            <description><![CDATA[TIME set out to find some of the most innovative leaders who are starting to show concrete results in helping us to live longer, better.]]></description>
-            <link>https://time.com/article/2026/08/20/how-time-chose-longevity-leaders/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/20/how-time-chose-longevity-leaders/</guid>
-            <pubDate>Thu, 20 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside the DSA’s Push to Remake the Democratic Party]]></title>
-            <link>https://time.com/article/2026/08/20/inside-dsa-reshape-democratic-party/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/20/inside-dsa-reshape-democratic-party/</guid>
-            <pubDate>Thu, 20 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here's What a Leading Lettuce Breeder Wants You to Know]]></title>
-            <link>https://time.com/article/2026/08/20/future-of-lettuce-interview/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/20/future-of-lettuce-interview/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran Hits Back at Trump’s Threat of a ‘Crushing’ Economic ‘D-Day’ Campaign]]></title>
-            <link>https://time.com/article/2026/08/20/iran-hits-back-at-trump-s-threat-of-a-crushing-economic-d-day-campaign/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/20/iran-hits-back-at-trump-s-threat-of-a-crushing-economic-d-day-campaign/</guid>
-            <pubDate>Thu, 20 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Happens When the World is Run on Code No One Understands?]]></title>
-            <link>https://time.com/article/2026/08/20/what-happens-when-the-world-is-run-on-code-no-one-understands-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/20/what-happens-when-the-world-is-run-on-code-no-one-understands-/</guid>
-            <dc:creator><![CDATA[Patrick Shafto, Ken Ono and Scott Duke Kominers]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Americans Are (Still) Drinking Less than Ever Before]]></title>
-            <link>https://time.com/article/2026/08/20/americans-drinking-less-gallup-poll/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/20/americans-drinking-less-gallup-poll/</guid>
-            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
