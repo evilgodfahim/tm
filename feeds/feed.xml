@@ -4,15 +4,48 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 08:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 14:12:54 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 Oct 2026 08:13:40 GMT</pubDate>
+        <pubDate>Wed, 14 Oct 2026 14:12:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How School Violence Catalyzed Philippine Lawmakers to Crack Down on Kids’ Social Media Use]]></title>
+            <link>https://time.com/article/2026/10/14/philippines-social-media-ban-school-violence/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/14/philippines-social-media-ban-school-violence/</guid>
+            <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Best Way to Respond to Passive-Aggressive Comments]]></title>
+            <link>https://time.com/article/2026/10/14/how-to-respond-passive-aggressive-comment/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/14/how-to-respond-passive-aggressive-comment/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Marvel's 'VisionQuest': TV Review]]></title>
+            <link>https://time.com/article/2026/10/14/visionquest-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/14/visionquest-review/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A New Report Sheds Light on the Secretive Race to Build Self-Improving AI]]></title>
+            <link>https://time.com/article/2026/10/14/recursive-self-improvement-AI-report/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/14/recursive-self-improvement-AI-report/</guid>
+            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate Change Is Accelerating Faster Than We Can Respond]]></title>
+            <link>https://time.com/article/2026/10/14/climate-change-accelerating-study/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/14/climate-change-accelerating-study/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Guilfoyle Resigns at Trump's Request Following Credit Card Scandal]]></title>
             <link>https://time.com/article/2026/10/13/trump-has-asked-guilfoyle-to-resign-says-new-white-house-press-secretary/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/13/trump-has-asked-guilfoyle-to-resign-says-new-white-house-press-secretary/</guid>
-            <dc:creator><![CDATA[Philip Elliott and Nik Popli]]></dc:creator>
             <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -26,13 +59,13 @@
             <title><![CDATA[In India, a Dark Shadow Falls on Its Vaunted Elections]]></title>
             <link>https://time.com/article/2026/10/13/india-modi-protests-voter-removal-election-commission/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/13/india-modi-protests-voter-removal-election-commission/</guid>
-            <dc:creator><![CDATA[Gautam Bhatia]]></dc:creator>
             <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[These Infections Are Linked to 12% of New Cancer Cases]]></title>
             <link>https://time.com/article/2026/10/13/infections-linked-to-new-cancer-cases/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/13/infections-linked-to-new-cancer-cases/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -62,16 +95,16 @@
         </item>
         <item>
             <title><![CDATA[Most Americans Think Trump Is Profiting Illegally or Unethically]]></title>
-            <description><![CDATA[New polling shows that Americans see the President focused far more on his business interests than on people like them.]]></description>
             <link>https://time.com/article/2026/10/13/most-americans-think-trump-is-profiting-from-the-presidency-illegally-or-unethically-poll-finds/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/13/most-americans-think-trump-is-profiting-from-the-presidency-illegally-or-unethically-poll-finds/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lawmakers Argue Trump's Russia Diesel Deal 'Violates' the Law. Here's What Legal Experts Say]]></title>
+            <title><![CDATA[Lawmakers Argue Trump's Russia Diesel Deal 'Violates' the Law]]></title>
+            <description><![CDATA[Some Republican and Democratic lawmakers insist that the controversial deal runs directly counter to an existing law. Here’s what legal experts say.]]></description>
             <link>https://time.com/article/2026/10/13/lawmakers-argue-trump-russia-diesel-deal-violates-law-legal-experts/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/13/lawmakers-argue-trump-russia-diesel-deal-violates-law-legal-experts/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3282,38 +3315,6 @@
             <link>https://time.com/article/2026/08/22/us-canada-trade-negotiations-breakdown-tariffs/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/22/us-canada-trade-negotiations-breakdown-tariffs/</guid>
             <pubDate>Sat, 22 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Make the U.N. Great Again: The Uphill Struggle Facing the Next Secretary General]]></title>
-            <link>https://time.com/article/2026/08/22/united-nations-secretary-general-race/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/22/united-nations-secretary-general-race/</guid>
-            <pubDate>Sat, 22 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Increase Mental-Health Literacy]]></title>
-            <link>https://time.com/article/2026/08/22/how-to-increase-mental-health-literacy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/22/how-to-increase-mental-health-literacy/</guid>
-            <dc:creator><![CDATA[Joan M. Cook]]></dc:creator>
-            <pubDate>Sat, 22 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Much the National Debt Grew Under Trump and Biden]]></title>
-            <link>https://time.com/article/2026/08/21/national-debt-trump-biden/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/21/national-debt-trump-biden/</guid>
-            <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What 72,000 Bodies at a Fence Revealed about Africa and Europe]]></title>
-            <link>https://time.com/article/2026/08/21/spain-migrants-europe-morocco-border-africa/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/21/spain-migrants-europe-morocco-border-africa/</guid>
-            <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump and Michael Cohen Make Peace]]></title>
-            <link>https://time.com/article/2026/08/21/trump-michael-cohen-radio/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/21/trump-michael-cohen-radio/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
-            <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
