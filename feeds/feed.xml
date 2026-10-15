@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 12:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 17:30:18 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 Oct 2026 12:19:05 GMT</pubDate>
+        <pubDate>Thu, 15 Oct 2026 17:30:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Unions Are the Key to America’s Cost of Living Crisis]]></title>
@@ -18,6 +18,32 @@
             <title><![CDATA[What is Palestine Action? Sally Rooney Books Pulled Over Ties]]></title>
             <link>https://time.com/article/2026/10/15/sally-rooney-palestine-action-uk-books/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/15/sally-rooney-palestine-action-uk-books/</guid>
+            <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who Are the Houthis and Why Are They Attacking Saudi Arabia’s Airports?]]></title>
+            <link>https://time.com/article/2026/10/15/who-are-the-houthi-rebels-saudi-arabia-oil-airport-attacks/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/15/who-are-the-houthi-rebels-saudi-arabia-oil-airport-attacks/</guid>
+            <dc:creator><![CDATA[Olivia-Anne Cleary and Callum Sutherland]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Cancels Fort Hood Execution Livestream]]></title>
+            <link>https://time.com/article/2026/10/15/trump-cancels-livestream-of-fort-hood-firing-squad-execution-amid-bipartisan-pushback/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/15/trump-cancels-livestream-of-fort-hood-firing-squad-execution-amid-bipartisan-pushback/</guid>
+            <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How We Chose the Best Inventions of 2026]]></title>
+            <link>https://time.com/article/2026/10/15/best-inventions-2026-list/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/15/best-inventions-2026-list/</guid>
+            <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Santa Ana Winds Trigger Wildfire Warnings in Southern California]]></title>
+            <link>https://time.com/article/2026/10/15/santa-ana-winds-wildfire-warnings-southern-california/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/15/santa-ana-winds-wildfire-warnings-southern-california/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +119,6 @@
             <title><![CDATA[Who Runs the Catholic Church While the Pope Is Hospitalized?]]></title>
             <link>https://time.com/article/2026/10/14/who-leads-catholic-church-when-the-pope-is-hospitalized-sick-pope-leo/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/14/who-leads-catholic-church-when-the-pope-is-hospitalized-sick-pope-leo/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -119,6 +144,7 @@
             <title><![CDATA[These Infections Are Linked to 12% of New Cancer Cases]]></title>
             <link>https://time.com/article/2026/10/13/infections-linked-to-new-cancer-cases/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/13/infections-linked-to-new-cancer-cases/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3292,34 +3318,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/08/25/dolly-parton-remembrance/</guid>
             <dc:creator><![CDATA[Shima Oliaee]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Countries Need to Look Beyond GDP]]></title>
-            <link>https://time.com/article/2026/08/25/countries-need-to-look-beyond-gdp/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/25/countries-need-to-look-beyond-gdp/</guid>
-            <dc:creator><![CDATA[Katrín Jakobsdóttir]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Ending of 'The Whisper Man']]></title>
-            <link>https://time.com/article/2026/08/25/whisper-man-ending-explained/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/25/whisper-man-ending-explained/</guid>
-            <dc:creator><![CDATA[Olivia B. Waxman]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A ‘Tsunami’ for Ukraine: Zelensky Rejects Wartime Elections]]></title>
-            <link>https://time.com/article/2026/08/24/volodymyr-zelensky-elections-ukraine-wartime-mykhailo-fedorov/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/24/volodymyr-zelensky-elections-ukraine-wartime-mykhailo-fedorov/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
-            <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Silicon Valley’s Vision of the AI Future Should Worry You]]></title>
-            <link>https://time.com/article/2026/08/24/silicon-valley-vision-of-the-ai-future-should-worry-you/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/24/silicon-valley-vision-of-the-ai-future-should-worry-you/</guid>
-            <dc:creator><![CDATA[Liz Bucar]]></dc:creator>
-            <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
