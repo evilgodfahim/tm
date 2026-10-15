@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 17:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 20:44:46 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 Oct 2026 17:30:18 GMT</pubDate>
+        <pubDate>Thu, 15 Oct 2026 20:44:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Unions Are the Key to America’s Cost of Living Crisis]]></title>
@@ -31,6 +31,7 @@
             <title><![CDATA[Trump Cancels Fort Hood Execution Livestream]]></title>
             <link>https://time.com/article/2026/10/15/trump-cancels-livestream-of-fort-hood-firing-squad-execution-amid-bipartisan-pushback/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/15/trump-cancels-livestream-of-fort-hood-firing-squad-execution-amid-bipartisan-pushback/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -44,6 +45,14 @@
             <link>https://time.com/article/2026/10/15/santa-ana-winds-wildfire-warnings-southern-california/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/15/santa-ana-winds-wildfire-warnings-southern-california/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Data Centers Have Become Military Targets]]></title>
+            <description><![CDATA[Attacks on data centers in the Gulf, Russia and Ukraine are opening a new front in war, threatening AI and the services people rely on most.]]></description>
+            <link>https://time.com/article/2026/10/15/why-data-centers-have-become-military-targets/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/15/why-data-centers-have-become-military-targets/</guid>
+            <dc:creator><![CDATA[Richard Hall]]></dc:creator>
             <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -102,10 +111,8 @@
         </item>
         <item>
             <title><![CDATA[Can Trump Strip Ilhan Omar of Her Citizenship? Here's How the Process Works]]></title>
-            <description><![CDATA[Legal and immigration experts tell TIME that denaturalizing a U.S. citizen is a rare and difficult process]]></description>
             <link>https://time.com/article/2026/10/14/ilhan-omar-citizenship-investigation-denaturalization-DOJ/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/14/ilhan-omar-citizenship-investigation-denaturalization-DOJ/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3310,13 +3317,6 @@
             <title><![CDATA[‘Lake America’: Trump Floats Renaming Lake Ontario Amid Canada Tensions]]></title>
             <link>https://time.com/article/2026/08/25/trump-lake-america-ontario-name-change-canada/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/trump-lake-america-ontario-name-change-canada/</guid>
-            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dolly Parton Loved Us All, Darlin']]></title>
-            <link>https://time.com/article/2026/08/25/dolly-parton-remembrance/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/25/dolly-parton-remembrance/</guid>
-            <dc:creator><![CDATA[Shima Oliaee]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
