@@ -4,10 +4,22 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 06:45:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 12:19:05 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 Oct 2026 06:45:29 GMT</pubDate>
+        <pubDate>Thu, 15 Oct 2026 12:19:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Unions Are the Key to America’s Cost of Living Crisis]]></title>
+            <link>https://time.com/article/2026/10/15/unions-are-the-key-to-america-s-cost-of-living-crisis/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/15/unions-are-the-key-to-america-s-cost-of-living-crisis/</guid>
+            <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is Palestine Action? Sally Rooney Books Pulled Over Ties]]></title>
+            <link>https://time.com/article/2026/10/15/sally-rooney-palestine-action-uk-books/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/15/sally-rooney-palestine-action-uk-books/</guid>
+            <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How School Violence Catalyzed Philippine Lawmakers to Crack Down on Kids’ Social Media Use]]></title>
             <link>https://time.com/article/2026/10/14/philippines-social-media-ban-school-violence/</link>
@@ -60,7 +72,28 @@
             <title><![CDATA[Cornell Community Reacts to Fraternity Party Pause]]></title>
             <link>https://time.com/article/2026/10/14/cornell-community-reacts-to-fraternity-party-pause/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/14/cornell-community-reacts-to-fraternity-party-pause/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid and Connor Greene]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Trump Strip Ilhan Omar of Her Citizenship? Here's How the Process Works]]></title>
+            <description><![CDATA[Legal and immigration experts tell TIME that denaturalizing a U.S. citizen is a rare and difficult process]]></description>
+            <link>https://time.com/article/2026/10/14/ilhan-omar-citizenship-investigation-denaturalization-DOJ/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/14/ilhan-omar-citizenship-investigation-denaturalization-DOJ/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI Is Helping Bring Back the Dodo]]></title>
+            <link>https://time.com/article/2026/10/14/ai-dodo-colossal-biosciences/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/14/ai-dodo-colossal-biosciences/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who Runs the Catholic Church While the Pope Is Hospitalized?]]></title>
+            <link>https://time.com/article/2026/10/14/who-leads-catholic-church-when-the-pope-is-hospitalized-sick-pope-leo/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/14/who-leads-catholic-church-when-the-pope-is-hospitalized-sick-pope-leo/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -86,7 +119,6 @@
             <title><![CDATA[These Infections Are Linked to 12% of New Cancer Cases]]></title>
             <link>https://time.com/article/2026/10/13/infections-linked-to-new-cancer-cases/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/13/infections-linked-to-new-cancer-cases/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3287,39 +3319,6 @@
             <link>https://time.com/article/2026/08/24/silicon-valley-vision-of-the-ai-future-should-worry-you/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/24/silicon-valley-vision-of-the-ai-future-should-worry-you/</guid>
             <dc:creator><![CDATA[Liz Bucar]]></dc:creator>
-            <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Backlash After Hakeem Jeffries Holds Private Meeting With Jared Kushner Ahead of Midterms]]></title>
-            <link>https://time.com/article/2026/08/24/hakeem-jeffries-private-meeting-with-jared-kushner-draws-backlash-ahead-of-midterms/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/24/hakeem-jeffries-private-meeting-with-jared-kushner-draws-backlash-ahead-of-midterms/</guid>
-            <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Art of Mess in the AI Era]]></title>
-            <link>https://time.com/article/2026/08/24/the-art-of-mess-in-the-ai-era/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/24/the-art-of-mess-in-the-ai-era/</guid>
-            <dc:creator><![CDATA[Debbie Millman]]></dc:creator>
-            <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘We Don’t Need Canada’: Trump Escalates Trade War With Threat of 50% Auto Tariffs]]></title>
-            <description><![CDATA[President Donald Trump threatened to raise automobile tariffs on Canada to 50% as the trade rift and political slanging match between the neighboring nations escalated.]]></description>
-            <link>https://time.com/article/2026/08/24/-we-don-t-need-canada-trump-escalates-trade-war-with-threat-of-50-auto-tariffs/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/24/-we-don-t-need-canada-trump-escalates-trade-war-with-threat-of-50-auto-tariffs/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
-            <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranian Rial Hits Record Low as the U.S. Unveils New Sanctions]]></title>
-            <link>https://time.com/article/2026/08/24/iranian-rial-hits-record-low-new-us-sanctions/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/24/iranian-rial-hits-record-low-new-us-sanctions/</guid>
-            <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[J.D. Vance Calls Canada a ‘State,’ Claims ‘Freudian Slip’]]></title>
-            <link>https://time.com/article/2026/08/24/vance-canada-state-freudian-slip-us-trade-trump-carney-ford/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/24/vance-canada-state-freudian-slip-us-trade-trump-carney-ford/</guid>
             <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
