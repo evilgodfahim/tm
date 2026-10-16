@@ -4,10 +4,25 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2026 07:45:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 12:52:38 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Oct 2026 07:45:02 GMT</pubDate>
+        <pubDate>Fri, 16 Oct 2026 12:52:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[School Shooting in Bend, Oregon: What to Know]]></title>
+            <description><![CDATA[Five people are dead, including a suspect, after a shooting incident at Silver Rail Elementary School.]]></description>
+            <link>https://time.com/article/2026/10/16/bend-oregon-shooting-silver-rail-elementary-school/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/16/bend-oregon-shooting-silver-rail-elementary-school/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Human Judgement Is the Most Powerful Technology in the AI Age]]></title>
+            <link>https://time.com/article/2026/10/16/human-judgement-is-the-most-powerful-technology-in-the-ai-age/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/16/human-judgement-is-the-most-powerful-technology-in-the-ai-age/</guid>
+            <dc:creator><![CDATA[Halla Tómasdóttir]]></dc:creator>
+            <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Unions Are the Key to America’s Cost of Living Crisis]]></title>
             <link>https://time.com/article/2026/10/15/unions-are-the-key-to-america-s-cost-of-living-crisis/</link>
@@ -24,7 +39,6 @@
             <title><![CDATA[Who Are the Houthis and Why Are They Attacking Saudi Arabia’s Airports?]]></title>
             <link>https://time.com/article/2026/10/15/who-are-the-houthi-rebels-saudi-arabia-oil-airport-attacks/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/15/who-are-the-houthi-rebels-saudi-arabia-oil-airport-attacks/</guid>
-            <dc:creator><![CDATA[Olivia-Anne Cleary and Callum Sutherland]]></dc:creator>
             <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -49,10 +63,16 @@
         </item>
         <item>
             <title><![CDATA[Why Data Centers Have Become Military Targets]]></title>
-            <description><![CDATA[Attacks on data centers in the Gulf, Russia and Ukraine are opening a new front in war, threatening AI and the services people rely on most.]]></description>
             <link>https://time.com/article/2026/10/15/why-data-centers-have-become-military-targets/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/15/why-data-centers-have-become-military-targets/</guid>
             <dc:creator><![CDATA[Richard Hall]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Is Starshield and Why Is It So Important to Ukraine?]]></title>
+            <link>https://time.com/article/2026/10/15/what-is-starshield-spacex-military-version-starlink-restrictions-ukraine-battlefield/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/15/what-is-starshield-spacex-military-version-starlink-restrictions-ukraine-battlefield/</guid>
+            <dc:creator><![CDATA[Tiago Ventura and Olivia-Anne Cleary]]></dc:creator>
             <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3297,26 +3317,6 @@
             <link>https://time.com/article/2026/08/25/dolly-parton-dead-tributes/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/dolly-parton-dead-tributes/</guid>
             <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two People Have Died of Measles in Pennsylvania]]></title>
-            <link>https://time.com/article/2026/08/25/two-people-have-died-of-measles-in-pennsylvania/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/25/two-people-have-died-of-measles-in-pennsylvania/</guid>
-            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The GOP'S Data Center Panic]]></title>
-            <link>https://time.com/article/2026/08/25/data-centers-republican-reset-midterms/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/25/data-centers-republican-reset-midterms/</guid>
-            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Lake America’: Trump Floats Renaming Lake Ontario Amid Canada Tensions]]></title>
-            <link>https://time.com/article/2026/08/25/trump-lake-america-ontario-name-change-canada/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/25/trump-lake-america-ontario-name-change-canada/</guid>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
