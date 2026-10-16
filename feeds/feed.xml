@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2026 17:05:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 20:17:30 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Oct 2026 17:05:56 GMT</pubDate>
+        <pubDate>Fri, 16 Oct 2026 20:17:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[School Shooting in Bend, Oregon: What to Know]]></title>
-            <description><![CDATA[Five people are dead, including a suspect, after a shooting incident at Silver Rail Elementary School.]]></description>
             <link>https://time.com/article/2026/10/16/bend-oregon-shooting-silver-rail-elementary-school/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/16/bend-oregon-shooting-silver-rail-elementary-school/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
@@ -45,9 +44,39 @@
             <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Katie Zacharia Out as Trump's Press Secretary]]></title>
+            <description><![CDATA[Trump on Friday said to reporters that he had told Zacharia to "reconsider" her role]]></description>
+            <link>https://time.com/article/2026/10/16/katie-zacharia-out-as-trump-s-press-secretary-after-1-briefing/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/16/katie-zacharia-out-as-trump-s-press-secretary-after-1-briefing/</guid>
+            <dc:creator><![CDATA[Connor Greene and Nik Popli]]></dc:creator>
+            <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carney Says U.S. Is Trying to ‘Break’ Canada]]></title>
+            <link>https://time.com/article/2026/10/16/trump-canada-trump-annexation-threat-carney-canada-separatist-referendum-warning/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/16/trump-canada-trump-annexation-threat-carney-canada-separatist-referendum-warning/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Billionaires Are the Symptom, Not the Disease]]></title>
+            <link>https://time.com/article/2026/10/16/billionaires-are-the-symptom-not-the-disease/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/16/billionaires-are-the-symptom-not-the-disease/</guid>
+            <dc:creator><![CDATA[Christopher Marquis]]></dc:creator>
+            <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is France Burning?]]></title>
+            <link>https://time.com/article/2026/10/16/france-student-protests-macron/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/16/france-student-protests-macron/</guid>
+            <dc:creator><![CDATA[Nicholas Bequelin]]></dc:creator>
+            <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Unions Are the Key to America’s Cost of Living Crisis]]></title>
             <link>https://time.com/article/2026/10/15/unions-are-the-key-to-america-s-cost-of-living-crisis/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/15/unions-are-the-key-to-america-s-cost-of-living-crisis/</guid>
+            <dc:creator><![CDATA[Liz Shuler]]></dc:creator>
             <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -94,6 +123,20 @@
             <link>https://time.com/article/2026/10/15/what-is-starshield-spacex-military-version-starlink-restrictions-ukraine-battlefield/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/15/what-is-starshield-spacex-military-version-starlink-restrictions-ukraine-battlefield/</guid>
             <dc:creator><![CDATA[Tiago Ventura and Olivia-Anne Cleary]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Whalefall' Is the Most Disgusting Tearjerker You'll See This Year]]></title>
+            <link>https://time.com/article/2026/10/15/whalefall-ending-explained/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/15/whalefall-ending-explained/</guid>
+            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elizabeth Holmes Is Not the Problem With 'You Can See Everything']]></title>
+            <link>https://time.com/article/2026/10/15/you-can-see-everything-movie-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/15/you-can-see-everything-movie-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3280,45 +3323,6 @@
             <title><![CDATA[Iran Vows Retaliation After U.S. Widens ‘Economic D-Day’ Sanctions]]></title>
             <link>https://time.com/article/2026/08/25/iran-vows-retaliation-after-u-s-widens-economic-d-day-sanctions/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/25/iran-vows-retaliation-after-u-s-widens-economic-d-day-sanctions/</guid>
-            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Summer Is Ending With a 'Blood Moon' Lunar Eclipse]]></title>
-            <link>https://time.com/article/2026/08/25/blood-moon-lunar-eclipse-how-to-watch/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/25/blood-moon-lunar-eclipse-how-to-watch/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lawmakers Respond as Supreme Court Hands Trump Win on Mail-in Voting]]></title>
-            <link>https://time.com/article/2026/08/25/-supreme-court-mail-in-voting-trump-order-explainer/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/25/-supreme-court-mail-in-voting-trump-order-explainer/</guid>
-            <dc:creator><![CDATA[Chad de Guzman and Callum Sutherland]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America's Best Colleges of 2027]]></title>
-            <link>https://time.com/article/2026/08/25/americas-best-colleges-2027/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/25/americas-best-colleges-2027/</guid>
-            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Break Up With Your Therapist]]></title>
-            <link>https://time.com/article/2026/08/25/how-to-break-up-with-your-therapist/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/25/how-to-break-up-with-your-therapist/</guid>
-            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why You Should Hang from a Bar for 30 Seconds]]></title>
-            <link>https://time.com/article/2026/08/25/hanging-from-bar-benefits/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/25/hanging-from-bar-benefits/</guid>
-            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Google Bid $10 Million for a Failed Airline’s Data]]></title>
-            <link>https://time.com/article/2026/08/25/google-spirit-airlines-ai-data-RL/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/25/google-spirit-airlines-ai-data-RL/</guid>
-            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
