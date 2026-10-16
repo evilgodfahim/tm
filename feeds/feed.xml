@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2026 20:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 23:09:02 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Oct 2026 20:17:30 GMT</pubDate>
+        <pubDate>Fri, 16 Oct 2026 23:09:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[School Shooting in Bend, Oregon: What to Know]]></title>
@@ -73,6 +73,13 @@
             <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Once Upon a Time in Harlem' Is One of the Great Documentaries of the Year]]></title>
+            <link>https://time.com/article/2026/10/16/once-upon-a-time-in-harlem-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/16/once-upon-a-time-in-harlem-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Unions Are the Key to America’s Cost of Living Crisis]]></title>
             <link>https://time.com/article/2026/10/15/unions-are-the-key-to-america-s-cost-of-living-crisis/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/15/unions-are-the-key-to-america-s-cost-of-living-crisis/</guid>
@@ -136,6 +143,13 @@
             <title><![CDATA[Elizabeth Holmes Is Not the Problem With 'You Can See Everything']]></title>
             <link>https://time.com/article/2026/10/15/you-can-see-everything-movie-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/15/you-can-see-everything-movie-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Daisy Edgar-Jones Anchors a Charming 'Sense and Sensibility']]></title>
+            <link>https://time.com/article/2026/10/15/sense-and-sensibility-movie-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/15/sense-and-sensibility-movie-review/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
         </item>
@@ -3311,19 +3325,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/08/26/furious-season-1-finale-explained/</guid>
             <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why AI Watermarks and Detectors Could Backfire]]></title>
-            <link>https://time.com/article/2026/08/25/why-ai-watermarks-and-detectors-could-backfire/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/25/why-ai-watermarks-and-detectors-could-backfire/</guid>
-            <dc:creator><![CDATA[Nadav Ziv]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran Vows Retaliation After U.S. Widens ‘Economic D-Day’ Sanctions]]></title>
-            <link>https://time.com/article/2026/08/25/iran-vows-retaliation-after-u-s-widens-economic-d-day-sanctions/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/25/iran-vows-retaliation-after-u-s-widens-economic-d-day-sanctions/</guid>
-            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
