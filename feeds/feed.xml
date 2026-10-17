@@ -4,15 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Oct 2026 21:53:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 23:39:23 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 17 Oct 2026 21:53:17 GMT</pubDate>
+        <pubDate>Sat, 17 Oct 2026 23:39:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Family Matters: The Secret History Behind Why Vincent van Gogh Cut Off His Ear]]></title>
             <link>https://time.com/article/2026/10/17/family-matters-the-secret-history-behind-why-vincent-van-gogh-cut-off-his-ear/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/17/family-matters-the-secret-history-behind-why-vincent-van-gogh-cut-off-his-ear/</guid>
-            <dc:creator><![CDATA[Joan Martelli]]></dc:creator>
             <pubDate>Sat, 17 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -23,8 +22,15 @@
             <pubDate>Sat, 17 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What Trump’s Waiver of New Russia Sanctions Means for Ukraine]]></title>
+            <description><![CDATA[Experts say easing pressure on Moscow could bring limited relief to U.S. fuel buyers while undermining support for Kyiv.]]></description>
+            <link>https://time.com/article/2026/10/17/what-trump-s-waiver-of-new-russia-sanctions-means-for-ukraine/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/17/what-trump-s-waiver-of-new-russia-sanctions-means-for-ukraine/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sat, 17 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[School Shooting in Bend, Oregon: What to Know]]></title>
-            <description><![CDATA[Five people are dead, including a suspect, after a shooting incident at Silver Rail Elementary School.]]></description>
             <link>https://time.com/article/2026/10/16/bend-oregon-shooting-silver-rail-elementary-school/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/16/bend-oregon-shooting-silver-rail-elementary-school/</guid>
             <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
@@ -3316,13 +3322,6 @@
             <link>https://time.com/article/2026/08/26/what-to-do-when-someone-gives-you-the-silent-treatment/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/26/what-to-do-when-someone-gives-you-the-silent-treatment/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Experts Shrink Their Home's Water Usage]]></title>
-            <link>https://time.com/article/2026/08/26/water-experts-s-habits-to-reduce-their-water-footprint/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/26/water-experts-s-habits-to-reduce-their-water-footprint/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
