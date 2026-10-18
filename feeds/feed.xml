@@ -4,10 +4,18 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 12:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 16:14:50 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 Oct 2026 12:18:12 GMT</pubDate>
+        <pubDate>Sun, 18 Oct 2026 16:14:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Exclusive: Documents Show How Israel Steered Qatari Payments to Gaza]]></title>
+            <description><![CDATA[Letters obtained by TIME reveal Israel played a bigger role in the payments than Netanyahu has acknowledged]]></description>
+            <link>https://time.com/article/2026/10/18/exclusive-israel-qatar-payments-to-gaza/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/18/exclusive-israel-qatar-payments-to-gaza/</guid>
+            <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
+            <pubDate>Sun, 18 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Family Matters: The Secret History Behind Why Vincent van Gogh Cut Off His Ear]]></title>
             <link>https://time.com/article/2026/10/17/family-matters-the-secret-history-behind-why-vincent-van-gogh-cut-off-his-ear/</link>
@@ -23,7 +31,6 @@
         </item>
         <item>
             <title><![CDATA[What Trump’s Waiver of New Russia Sanctions Means for Ukraine]]></title>
-            <description><![CDATA[Experts say easing pressure on Moscow could bring limited relief to U.S. fuel buyers while undermining support for Kyiv.]]></description>
             <link>https://time.com/article/2026/10/17/what-trump-s-waiver-of-new-russia-sanctions-means-for-ukraine/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/17/what-trump-s-waiver-of-new-russia-sanctions-means-for-ukraine/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
@@ -33,7 +40,6 @@
             <title><![CDATA[School Shooting in Bend, Oregon: What to Know]]></title>
             <link>https://time.com/article/2026/10/16/bend-oregon-shooting-silver-rail-elementary-school/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/16/bend-oregon-shooting-silver-rail-elementary-school/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3315,13 +3321,6 @@
             <link>https://time.com/article/2026/08/26/e-coli-salmonella-cyclospora-is-the-u-s-seeing-a-surge-in-foodborne-illnesses-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/26/e-coli-salmonella-cyclospora-is-the-u-s-seeing-a-surge-in-foodborne-illnesses-/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Do When Someone Gives You the Silent Treatment]]></title>
-            <link>https://time.com/article/2026/08/26/what-to-do-when-someone-gives-you-the-silent-treatment/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/26/what-to-do-when-someone-gives-you-the-silent-treatment/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
