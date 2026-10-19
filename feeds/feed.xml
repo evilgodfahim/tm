@@ -4,19 +4,45 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Oct 2026 11:38:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 17:59:49 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Oct 2026 11:38:06 GMT</pubDate>
+        <pubDate>Mon, 19 Oct 2026 17:59:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Who Will Benefit From the AI Revolution?]]></title>
             <link>https://time.com/article/2026/10/19/who-will-benefit-from-the-ai-revolution-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/19/who-will-benefit-from-the-ai-revolution-/</guid>
-            <dc:creator><![CDATA[David Miliband]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the Fallout From an ICE Raid in Idaho Could Expand]]></title>
+            <link>https://time.com/article/2026/10/19/ICE-immiration-raid-Wilder-Idaho-warrant-FBI-ACLU/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/19/ICE-immiration-raid-Wilder-Idaho-warrant-FBI-ACLU/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ramaswamy Facing Tougher Fight Than Expected in Ohio]]></title>
+            <link>https://time.com/article/2026/10/19/ramaswamy-struggles-in-ohio-race-once-seen-as-a-sure-thing/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/19/ramaswamy-struggles-in-ohio-race-once-seen-as-a-sure-thing/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the Protests in France Spiraled Out of Control]]></title>
+            <link>https://time.com/article/2026/10/19/how-protests-in-france-europe-spiraled-out-of-control/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/19/how-protests-in-france-europe-spiraled-out-of-control/</guid>
+            <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Endorses Netanyahu Days Before Election]]></title>
+            <link>https://time.com/article/2026/10/19/trump-netanyahu-israel-election-endorsement/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/19/trump-netanyahu-israel-election-endorsement/</guid>
             <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Exclusive: Documents Show How Israel Steered Qatari Payments to Gaza]]></title>
+            <description><![CDATA[Letters obtained by TIME reveal Israel played a bigger role in the payments than Netanyahu has acknowledged]]></description>
             <link>https://time.com/article/2026/10/18/exclusive-israel-qatar-payments-to-gaza/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/18/exclusive-israel-qatar-payments-to-gaza/</guid>
             <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
@@ -24,10 +50,8 @@
         </item>
         <item>
             <title><![CDATA[4 Dead in ‘Violent’ Fire at a Canadian Military Base]]></title>
-            <description><![CDATA[Four service members are confirmed dead, with dozens injured, after a fire broke out at CFB Wainwright in Alberta. Authorities have yet to establish what caused the blaze.]]></description>
             <link>https://time.com/article/2026/10/18/what-to-know-about-the-deadly-fire-at-a-canadian-military-base/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/18/what-to-know-about-the-deadly-fire-at-a-canadian-military-base/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sun, 18 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -114,7 +138,6 @@
             <title><![CDATA['Once Upon a Time in Harlem' Is One of the Great Documentaries of the Year]]></title>
             <link>https://time.com/article/2026/10/16/once-upon-a-time-in-harlem-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/16/once-upon-a-time-in-harlem-review/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -174,7 +197,6 @@
             <title><![CDATA['Whalefall' Is the Most Disgusting Tearjerker You'll See This Year]]></title>
             <link>https://time.com/article/2026/10/15/whalefall-ending-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/15/whalefall-ending-explained/</guid>
-            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -188,7 +210,6 @@
             <title><![CDATA[Daisy Edgar-Jones Anchors a Charming 'Sense and Sensibility']]></title>
             <link>https://time.com/article/2026/10/15/sense-and-sensibility-movie-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/15/sense-and-sensibility-movie-review/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -306,6 +327,7 @@
             <title><![CDATA['Crystal Lake' Is Totally Pointless]]></title>
             <link>https://time.com/article/2026/10/13/crystal-lake-review-peacock/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/13/crystal-lake-review-peacock/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3293,33 +3315,6 @@
             <title><![CDATA[Is Toilet Paper Bad For You?]]></title>
             <link>https://time.com/article/2026/08/26/is-toilet-paper-bad-for-you/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/26/is-toilet-paper-bad-for-you/</guid>
-            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Americans Feel Guilty Spending on Joyful Things]]></title>
-            <link>https://time.com/article/2026/08/26/survey-economy-personal-finance-purchases-usa/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/26/survey-economy-personal-finance-purchases-usa/</guid>
-            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift’s Coping Mantra—and How to Find Yours]]></title>
-            <link>https://time.com/article/2026/08/26/taylor-swift-coping-mantra-how-to-find-yours/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/26/taylor-swift-coping-mantra-how-to-find-yours/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dolly Parton Was the Real Buffy Summers]]></title>
-            <link>https://time.com/article/2026/08/26/dolly-parton-buffy-the-vampire-slayer-producer/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/26/dolly-parton-buffy-the-vampire-slayer-producer/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dolly Parton's Life, in Pictures]]></title>
-            <link>https://time.com/article/2026/08/26/dolly-partons-life-in-pictures/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/26/dolly-partons-life-in-pictures/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
