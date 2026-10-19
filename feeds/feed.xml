@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Oct 2026 05:30:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 11:38:06 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Oct 2026 05:30:53 GMT</pubDate>
+        <pubDate>Mon, 19 Oct 2026 11:38:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Who Will Benefit From the AI Revolution?]]></title>
+            <link>https://time.com/article/2026/10/19/who-will-benefit-from-the-ai-revolution-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/19/who-will-benefit-from-the-ai-revolution-/</guid>
+            <dc:creator><![CDATA[David Miliband]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Exclusive: Documents Show How Israel Steered Qatari Payments to Gaza]]></title>
             <link>https://time.com/article/2026/10/18/exclusive-israel-qatar-payments-to-gaza/</link>
@@ -3313,13 +3320,6 @@
             <link>https://time.com/article/2026/08/26/dolly-partons-life-in-pictures/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/26/dolly-partons-life-in-pictures/</guid>
             <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here Are Tim Curry's Most Unforgettable Roles]]></title>
-            <link>https://time.com/article/2026/08/26/tim-curry-movies-and-tv-shows-unforgettable/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/26/tim-curry-movies-and-tv-shows-unforgettable/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
