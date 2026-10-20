@@ -4,12 +4,13 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Oct 2026 12:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 17:38:27 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 20 Oct 2026 12:25:13 GMT</pubDate>
+        <pubDate>Tue, 20 Oct 2026 17:38:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why Satire Is No Laughing Matter]]></title>
+            <description><![CDATA[Sacha Baron Cohen on the power of comedy in a serious time]]></description>
             <link>https://time.com/article/2026/10/20/sacha-baron-cohen-on-satire/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/20/sacha-baron-cohen-on-satire/</guid>
             <dc:creator><![CDATA[Sacha Baron Cohen]]></dc:creator>
@@ -20,6 +21,52 @@
             <link>https://time.com/article/2026/10/20/phony-review-hulu/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/20/phony-review-hulu/</guid>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh’s Vital Garment Industry Struggles Amid Global Energy Crunch]]></title>
+            <link>https://time.com/article/2026/10/20/bangladesh-s-vital-garment-industry-struggles-amid-global-energy-crunch/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/20/bangladesh-s-vital-garment-industry-struggles-amid-global-energy-crunch/</guid>
+            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
+            <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Open to ‘Denuclearization’ Summit with Putin and Xi]]></title>
+            <link>https://time.com/article/2026/10/20/trump-summit-putin-xi-russia-china-ukraine-nuclear-weapons/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/20/trump-summit-putin-xi-russia-china-ukraine-nuclear-weapons/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vance Declines to Endorse Netanyahu for Re-Election, Breaking With Trump]]></title>
+            <link>https://time.com/article/2026/10/20/vance-netanyahu-endorsement-trump-israeli-elections/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/20/vance-netanyahu-endorsement-trump-israeli-elections/</guid>
+            <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alberta Voted to Stay in Canada. That Doesn’t Quite Settle the Separatist Debate]]></title>
+            <link>https://time.com/article/2026/10/20/alberta-voted-to-stay-in-canada-that-doesn-t-quite-settle-the-separatist-debate/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/20/alberta-voted-to-stay-in-canada-that-doesn-t-quite-settle-the-separatist-debate/</guid>
+            <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Europe Braces for a Russian Winter]]></title>
+            <link>https://time.com/article/2026/10/20/ukraine-putin-europe-winter-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/20/ukraine-putin-europe-winter-war/</guid>
+            <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why You Should Turn Your Walk Into a Color Hunt]]></title>
+            <link>https://time.com/article/2026/10/20/how-to-take-a-color-walk/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/20/how-to-take-a-color-walk/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI Safety and Cybersecurity Should Be Allies. Instead, They're at Odds]]></title>
+            <link>https://time.com/article/2026/10/20/ai-safety-cybersecurity/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/20/ai-safety-cybersecurity/</guid>
+            <dc:creator><![CDATA[Harry Booth]]></dc:creator>
             <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -67,6 +114,7 @@
             <title><![CDATA[Jalen Hurts Has Deep Vein Thrombosis and Blood Clots in His Lungs]]></title>
             <link>https://time.com/article/2026/10/19/jalen-hurts-dvt-blood-clots-lungs/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/19/jalen-hurts-dvt-blood-clots-lungs/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +122,12 @@
             <link>https://time.com/article/2026/10/19/hepatitis-b-vaccine-recommendations-study/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/19/hepatitis-b-vaccine-recommendations-study/</guid>
             <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s Golf Course Renovations Face a Growing Legal Fight]]></title>
+            <link>https://time.com/article/2026/10/19/trump-says-dc-golf-course-renovation-will-move-forward-despite-judge-s-order/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/19/trump-says-dc-golf-course-renovation-will-move-forward-despite-judge-s-order/</guid>
             <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -87,6 +141,13 @@
             <title><![CDATA[4 Dead in ‘Violent’ Fire at a Canadian Military Base]]></title>
             <link>https://time.com/article/2026/10/18/what-to-know-about-the-deadly-fire-at-a-canadian-military-base/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/18/what-to-know-about-the-deadly-fire-at-a-canadian-military-base/</guid>
+            <pubDate>Sun, 18 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Aren’t We Teaching Every Student CPR?]]></title>
+            <link>https://time.com/article/2026/10/18/why-aren-t-we-teaching-every-student-cpr/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/18/why-aren-t-we-teaching-every-student-cpr/</guid>
+            <dc:creator><![CDATA[Meng Yang]]></dc:creator>
             <pubDate>Sun, 18 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -107,6 +168,13 @@
             <link>https://time.com/article/2026/10/17/what-trump-s-waiver-of-new-russia-sanctions-means-for-ukraine/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/17/what-trump-s-waiver-of-new-russia-sanctions-means-for-ukraine/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sat, 17 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zest is a Key Ingredient to Good Living]]></title>
+            <link>https://time.com/article/2026/10/17/zest-is-a-key-ingredient-to-good-living/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/17/zest-is-a-key-ingredient-to-good-living/</guid>
+            <dc:creator><![CDATA[Joan M. Cook]]></dc:creator>
             <pubDate>Sat, 17 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3253,73 +3321,6 @@
             <link>https://time.com/article/2026/08/27/meta-settlement-facebook-instagram-child-safety/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/27/meta-settlement-facebook-instagram-child-safety/</guid>
             <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Signs Order to Rename Lake Ontario as 'Lake America']]></title>
-            <link>https://time.com/article/2026/08/27/trump-lake-ontario-america-order-canadians-boycott-us-travel-trade-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/27/trump-lake-ontario-america-order-canadians-boycott-us-travel-trade-war/</guid>
-            <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Eating a ‘Retinol Salad’ Improve Your Skin?]]></title>
-            <link>https://time.com/article/2026/08/27/will-eating-retinol-salad-improve-your-skin/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/27/will-eating-retinol-salad-improve-your-skin/</guid>
-            <dc:creator><![CDATA[Erica Sweeney]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Your Body Adapts to Changing Temperatures]]></title>
-            <link>https://time.com/article/2026/08/27/how-your-body-adapts-to-heat-temperature-changes/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/27/how-your-body-adapts-to-heat-temperature-changes/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At Least One in Four NFL Players May Have CTE]]></title>
-            <link>https://time.com/article/2026/08/27/one-in-four-nfl-football-players-may-have-cte/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/27/one-in-four-nfl-football-players-may-have-cte/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI’s Models Went Rogue. Investigating Them Required More AI]]></title>
-            <link>https://time.com/article/2026/08/27/openai-hack-hugging-face-investigation/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/27/openai-hack-hugging-face-investigation/</guid>
-            <dc:creator><![CDATA[Billy Perrigo and Harry Booth]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Run, Don't Walk, to See 'Coyote vs. Acme']]></title>
-            <link>https://time.com/article/2026/08/27/coyote-vs-acme-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/27/coyote-vs-acme-review/</guid>
-            <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why We Love Watching Robots Fail]]></title>
-            <link>https://time.com/article/2026/08/27/why-we-love-watching-robots-fail/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/27/why-we-love-watching-robots-fail/</guid>
-            <dc:creator><![CDATA[Kyle MacNeill]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I Stopped Fighting AI in My Classroom and Started Teaching With It]]></title>
-            <link>https://time.com/article/2026/08/26/why-i-stopped-fighting-ai-in-my-classroom-and-started-teaching-with-it/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/26/why-i-stopped-fighting-ai-in-my-classroom-and-started-teaching-with-it/</guid>
-            <dc:creator><![CDATA[Jason Corso]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside OpenAI’s Reboot]]></title>
-            <description><![CDATA[In extensive interviews, the leaders of the company that ushered in the AI boom lay out their vision for its future.]]></description>
-            <link>https://time.com/article/2026/08/26/openai-sam-altman-interview/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/26/openai-sam-altman-interview/</guid>
-            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Administration Warns Kennedy Center Could Be Demolished If It Isn’t Fixed]]></title>
-            <link>https://time.com/article/2026/08/26/kennedy-center-demolish-threat-trump-justice-department/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/26/kennedy-center-demolish-threat-trump-justice-department/</guid>
-            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
