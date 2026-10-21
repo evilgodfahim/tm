@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 15:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 19:47:51 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Oct 2026 15:45:19 GMT</pubDate>
+        <pubDate>Wed, 21 Oct 2026 19:47:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How America's AI Trust Issues Could Impact the Midterms]]></title>
@@ -22,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Russia Releases Imprisoned American Man as Trump Envoy Meets With Putin]]></title>
-            <description><![CDATA[Stephen Hubbard, a 74-year-old retired school teacher, had spent more than four years in prison on charges of fighting as a mercenary in Ukraine.]]></description>
+            <description><![CDATA[Russian President Vladimir Putin has also agreed "in principle" to resume U.S.-mediated talks with Ukraine, the Kremlin said.]]></description>
             <link>https://time.com/article/2026/10/21/russia-releases-imprisoned-american-stephen-hubbard-trump-putin-witkoff-deal/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/21/russia-releases-imprisoned-american-stephen-hubbard-trump-putin-witkoff-deal/</guid>
             <dc:creator><![CDATA[Olivia-Anne Cleary]]></dc:creator>
@@ -53,6 +53,20 @@
             <link>https://time.com/article/2026/10/21/what-to-say-someone-cuts-in-line/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/21/what-to-say-someone-cuts-in-line/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Some Rectal Cancer Patients May Be Able to Skip Surgery, Chemo, and Radiation]]></title>
+            <link>https://time.com/article/2026/10/21/fda-approved-immunotherapy-rectal-cancer-patients-avoid-surgery-chemotherapy-radiation/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/21/fda-approved-immunotherapy-rectal-cancer-patients-avoid-surgery-chemotherapy-radiation/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Stanford Prison Experiment's' Gender Trouble]]></title>
+            <link>https://time.com/article/2026/10/21/new-stanford-prison-experiment-women/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/21/new-stanford-prison-experiment-women/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3306,20 +3320,6 @@
             <title><![CDATA[King Harald V of Norway Has Died After 35 Years On the Throne. Meet His Successor]]></title>
             <link>https://time.com/article/2026/08/28/king-harald-v-norway-dies-son-successor-haakon-family-controversy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/28/king-harald-v-norway-dies-son-successor-haakon-family-controversy/</guid>
-            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mounjaro Is Now Approved to Lower the Risk of Heart Events]]></title>
-            <link>https://time.com/article/2026/08/28/eli-lilly-drug-mounjaro-approved-to-lower-heart-events-risk/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/28/eli-lilly-drug-mounjaro-approved-to-lower-heart-events-risk/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
-            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bigger Bet Behind Nvidia’s Hugging Face Deal]]></title>
-            <link>https://time.com/article/2026/08/28/nvidia-hugging-face-chips-open-source/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/28/nvidia-hugging-face-chips-open-source/</guid>
-            <dc:creator><![CDATA[Harry Booth]]></dc:creator>
             <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
