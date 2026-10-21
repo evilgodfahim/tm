@@ -4,14 +4,15 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 19:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 22:54:41 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Oct 2026 19:47:51 GMT</pubDate>
+        <pubDate>Wed, 21 Oct 2026 22:54:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How America's AI Trust Issues Could Impact the Midterms]]></title>
             <link>https://time.com/article/2026/10/21/how-america-s-ai-trust-issues-could-impact-the-midterms/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/21/how-america-s-ai-trust-issues-could-impact-the-midterms/</guid>
+            <dc:creator><![CDATA[Will Johnson]]></dc:creator>
             <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -22,7 +23,6 @@
         </item>
         <item>
             <title><![CDATA[Russia Releases Imprisoned American Man as Trump Envoy Meets With Putin]]></title>
-            <description><![CDATA[Russian President Vladimir Putin has also agreed "in principle" to resume U.S.-mediated talks with Ukraine, the Kremlin said.]]></description>
             <link>https://time.com/article/2026/10/21/russia-releases-imprisoned-american-stephen-hubbard-trump-putin-witkoff-deal/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/21/russia-releases-imprisoned-american-stephen-hubbard-trump-putin-witkoff-deal/</guid>
             <dc:creator><![CDATA[Olivia-Anne Cleary]]></dc:creator>
@@ -39,7 +39,6 @@
             <title><![CDATA[U.S. Midterms Loom Over a Deadlock Between Trump and Tehran]]></title>
             <link>https://time.com/article/2026/10/21/trump-iran-war-midterm-elections-deadlock/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/21/trump-iran-war-midterm-elections-deadlock/</guid>
-            <dc:creator><![CDATA[Ali Vaez]]></dc:creator>
             <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -67,6 +66,27 @@
             <link>https://time.com/article/2026/10/21/new-stanford-prison-experiment-women/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/21/new-stanford-prison-experiment-women/</guid>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elena Kagan Says the Supreme Court Is Undermining Voting Rights]]></title>
+            <description><![CDATA[The liberal justice says the conservative majority’s rulings have weakened democracy. Here’s how those decisions affect the midterms—and what Congress could do in response.]]></description>
+            <link>https://time.com/article/2026/10/21/ahead-of-the-midterms-elena-kagan-says-the-supreme-court-is-undermining-voting-rights/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/21/ahead-of-the-midterms-elena-kagan-says-the-supreme-court-is-undermining-voting-rights/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['We Now Deserve to Lose': Ramaswamy Ad Deepens GOP Panic in Ohio]]></title>
+            <link>https://time.com/article/2026/10/21/ramaswamy-s-ad-of-acton-s-estranged-mom-jolts-ohio-races-across-the-ballot/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/21/ramaswamy-s-ad-of-acton-s-estranged-mom-jolts-ohio-races-across-the-ballot/</guid>
+            <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five Facts To Know From The U.N.'s Major Emissions Report]]></title>
+            <link>https://time.com/article/2026/10/21/un-emissions-gap-report-what-to-know/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/21/un-emissions-gap-report-what-to-know/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3302,24 +3322,6 @@
             <title><![CDATA['Preposterous': Lawmakers Reject Trump's Renaming of Lake Ontario]]></title>
             <link>https://time.com/article/2026/08/28/lawmakers-reject-trump-renaming-lake-ontario-us-canada-trade-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/28/lawmakers-reject-trump-renaming-lake-ontario-us-canada-trade-war/</guid>
-            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rep. Chuck Edwards Makes Last-Minute Attempt to Avoid Censure]]></title>
-            <link>https://time.com/article/2026/08/28/chuck-edwards-house-ethics-probe-censure/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/28/chuck-edwards-house-ethics-probe-censure/</guid>
-            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Trouble With Trump’s Attempt to Rename Lake Ontario]]></title>
-            <link>https://time.com/article/2026/08/28/the-trouble-with-trump-s-attempt-to-rename-lake-ontario/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/28/the-trouble-with-trump-s-attempt-to-rename-lake-ontario/</guid>
-            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[King Harald V of Norway Has Died After 35 Years On the Throne. Meet His Successor]]></title>
-            <link>https://time.com/article/2026/08/28/king-harald-v-norway-dies-son-successor-haakon-family-controversy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/28/king-harald-v-norway-dies-son-successor-haakon-family-controversy/</guid>
             <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
