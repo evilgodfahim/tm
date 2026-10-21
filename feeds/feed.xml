@@ -4,22 +4,55 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 10:52:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 15:45:19 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Oct 2026 10:52:15 GMT</pubDate>
+        <pubDate>Wed, 21 Oct 2026 15:45:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How America's AI Trust Issues Could Impact the Midterms]]></title>
             <link>https://time.com/article/2026/10/21/how-america-s-ai-trust-issues-could-impact-the-midterms/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/21/how-america-s-ai-trust-issues-could-impact-the-midterms/</guid>
-            <dc:creator><![CDATA[Will Johnson]]></dc:creator>
             <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Elon Musk Wants to Merge SpaceX and Tesla]]></title>
             <link>https://time.com/article/2026/10/21/elon-musk-spacex-tesla-merger-tech-business/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/21/elon-musk-spacex-tesla-merger-tech-business/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia Releases Imprisoned American Man as Trump Envoy Meets With Putin]]></title>
+            <description><![CDATA[Stephen Hubbard, a 74-year-old retired school teacher, had spent more than four years in prison on charges of fighting as a mercenary in Ukraine.]]></description>
+            <link>https://time.com/article/2026/10/21/russia-releases-imprisoned-american-stephen-hubbard-trump-putin-witkoff-deal/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/21/russia-releases-imprisoned-american-stephen-hubbard-trump-putin-witkoff-deal/</guid>
+            <dc:creator><![CDATA[Olivia-Anne Cleary]]></dc:creator>
+            <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Keeps Promising Cash on the Campaign Trail]]></title>
+            <link>https://time.com/article/2026/10/21/trump-cash-campaign-promises-history-midterm-elections-republicans/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/21/trump-cash-campaign-promises-history-midterm-elections-republicans/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. Midterms Loom Over a Deadlock Between Trump and Tehran]]></title>
+            <link>https://time.com/article/2026/10/21/trump-iran-war-midterm-elections-deadlock/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/21/trump-iran-war-midterm-elections-deadlock/</guid>
+            <dc:creator><![CDATA[Ali Vaez]]></dc:creator>
+            <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can We Eat Our Way Out Of An Ecological Disaster?]]></title>
+            <link>https://time.com/article/2026/10/21/invasive-species-on-the-menu/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/21/invasive-species-on-the-menu/</guid>
+            <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Say When Someone Cuts in Line]]></title>
+            <link>https://time.com/article/2026/10/21/what-to-say-someone-cuts-in-line/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/21/what-to-say-someone-cuts-in-line/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -27,7 +60,6 @@
             <description><![CDATA[Sacha Baron Cohen on the power of comedy in a serious time]]></description>
             <link>https://time.com/article/2026/10/20/sacha-baron-cohen-on-satire/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/20/sacha-baron-cohen-on-satire/</guid>
-            <dc:creator><![CDATA[Sacha Baron Cohen]]></dc:creator>
             <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -40,7 +72,6 @@
             <title><![CDATA[Bangladesh’s Vital Garment Industry Struggles Amid Global Energy Crunch]]></title>
             <link>https://time.com/article/2026/10/20/bangladesh-s-vital-garment-industry-struggles-amid-global-energy-crunch/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/20/bangladesh-s-vital-garment-industry-struggles-amid-global-energy-crunch/</guid>
-            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
             <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -66,6 +97,7 @@
             <title><![CDATA[Europe Braces for a Russian Winter]]></title>
             <link>https://time.com/article/2026/10/20/ukraine-putin-europe-winter-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/20/ukraine-putin-europe-winter-war/</guid>
+            <dc:creator><![CDATA[Ian Bremmer]]></dc:creator>
             <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -78,13 +110,13 @@
             <title><![CDATA[AI Safety and Cybersecurity Should Be Allies. Instead, They're at Odds]]></title>
             <link>https://time.com/article/2026/10/20/ai-safety-cybersecurity/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/20/ai-safety-cybersecurity/</guid>
+            <dc:creator><![CDATA[Harry Booth]]></dc:creator>
             <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What Chair Yoga Can Do for Your Body]]></title>
             <link>https://time.com/article/2026/10/20/what-chair-yoga-can-do-for-your-body/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/20/what-chair-yoga-can-do-for-your-body/</guid>
-            <dc:creator><![CDATA[Jennifer Heimlich]]></dc:creator>
             <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -259,6 +291,7 @@
             <title><![CDATA['Once Upon a Time in Harlem' Is One of the Great Documentaries of the Year]]></title>
             <link>https://time.com/article/2026/10/16/once-upon-a-time-in-harlem-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/16/once-upon-a-time-in-harlem-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3287,39 +3320,6 @@
             <link>https://time.com/article/2026/08/28/nvidia-hugging-face-chips-open-source/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/28/nvidia-hugging-face-chips-open-source/</guid>
             <dc:creator><![CDATA[Harry Booth]]></dc:creator>
-            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When Did It Become So Hard to Make Plans With Friends?]]></title>
-            <link>https://time.com/article/2026/08/28/when-did-it-become-so-hard-to-make-plans-with-friends-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/28/when-did-it-become-so-hard-to-make-plans-with-friends-/</guid>
-            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Barney, But Make It Horror]]></title>
-            <link>https://time.com/article/2026/08/28/buddy-casper-kelly-interview/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/28/buddy-casper-kelly-interview/</guid>
-            <dc:creator><![CDATA[James Grebey]]></dc:creator>
-            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bond Market’s Supply and Demand Problem]]></title>
-            <link>https://time.com/article/2026/08/28/the-bond-market-s-supply-and-demand-problem/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/28/the-bond-market-s-supply-and-demand-problem/</guid>
-            <dc:creator><![CDATA[Ray Dalio]]></dc:creator>
-            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Experimental One-Time Treatment for High Cholesterol]]></title>
-            <link>https://time.com/article/2026/08/28/one-time-treatment-high-cholesterol-crispr-results/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/28/one-time-treatment-high-cholesterol-crispr-results/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
-            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alix Earle's Underwhelming Reality Show]]></title>
-            <link>https://time.com/article/2026/08/28/earle-meets-world-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/28/earle-meets-world-review/</guid>
             <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
