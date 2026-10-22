@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 17:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 21:00:04 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 Oct 2026 17:45:18 GMT</pubDate>
+        <pubDate>Thu, 22 Oct 2026 21:00:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Exclusive: Ben-Gvir’s Plan to Push Netanyahu Further Right]]></title>
@@ -20,7 +20,6 @@
             <title><![CDATA[U.S. Reportedly Considering Major Strikes on Iran After Midterms]]></title>
             <link>https://time.com/article/2026/10/22/us-israel-iran-war-strikes-midterms/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/22/us-israel-iran-war-strikes-midterms/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -47,6 +46,26 @@
             <link>https://time.com/article/2026/10/22/ai-meta-muse-agent-older-users/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/22/ai-meta-muse-agent-older-users/</guid>
             <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Cornell 7 and the Problem with Writing as Punishment]]></title>
+            <link>https://time.com/article/2026/10/22/the-cornell-7-and-the-problem-with-writing-as-punishment/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/22/the-cornell-7-and-the-problem-with-writing-as-punishment/</guid>
+            <dc:creator><![CDATA[Debbie Millman]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Price of Faustian Bargains with Trump]]></title>
+            <link>https://time.com/article/2026/10/22/trump-elon-musk-ukraine-oligarchs-starlink/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/22/trump-elon-musk-ukraine-oligarchs-starlink/</guid>
+            <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does Anybody Want Morgan and Sasha?]]></title>
+            <link>https://time.com/article/2026/10/22/nobody-wants-this-season-3-morgan-sasha/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/22/nobody-wants-this-season-3-morgan-sasha/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -87,6 +106,7 @@
             <title><![CDATA[Can We Eat Our Way Out Of An Ecological Disaster?]]></title>
             <link>https://time.com/article/2026/10/21/invasive-species-on-the-menu/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/21/invasive-species-on-the-menu/</guid>
+            <dc:creator><![CDATA[Victoria Malloy]]></dc:creator>
             <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3308,26 +3328,6 @@
             <link>https://time.com/article/2026/08/31/how-to-start-mediterranean-diet/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/31/how-to-start-mediterranean-diet/</guid>
             <dc:creator><![CDATA[Kari Sonde]]></dc:creator>
-            <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Should You Prepare For A Super El Niño?]]></title>
-            <link>https://time.com/article/2026/08/31/how-to-prepare-super-el-nino/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/31/how-to-prepare-super-el-nino/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Flying Blind’: Trump’s Mail-In Ballot Fight Leaves Campaigns Guessing]]></title>
-            <link>https://time.com/article/2026/08/31/mail-in-ballots-campaigns-flying-blind/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/31/mail-in-ballots-campaigns-flying-blind/</guid>
-            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
-            <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kalshi Is Imposing Its First-Ever Lifetime Ban on Former Rep. George Santos. Here’s Why]]></title>
-            <link>https://time.com/article/2026/08/31/kalshi-george-santos-lifetime-ban/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/31/kalshi-george-santos-lifetime-ban/</guid>
             <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
