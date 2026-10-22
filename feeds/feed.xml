@@ -4,10 +4,51 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 06:51:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 12:39:02 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 Oct 2026 06:51:17 GMT</pubDate>
+        <pubDate>Thu, 22 Oct 2026 12:39:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Exclusive: Ben-Gvir’s Plan to Push Netanyahu Further Right]]></title>
+            <description><![CDATA[In an interview, the ultra-nationalist security minister lays out his ambitions in Israel’s Oct. 27 election]]></description>
+            <link>https://time.com/article/2026/10/22/ben-gvir-interview/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/22/ben-gvir-interview/</guid>
+            <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. Reportedly Considering Major Strikes on Iran After Midterms]]></title>
+            <link>https://time.com/article/2026/10/22/us-israel-iran-war-strikes-midterms/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/22/us-israel-iran-war-strikes-midterms/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Health Care Costs Are Becoming Unsustainable]]></title>
+            <link>https://time.com/article/2026/10/22/us-health-care-costs-becoming-unsustainable/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/22/us-health-care-costs-becoming-unsustainable/</guid>
+            <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta Sued in Australia Over Alleged Harm to Children]]></title>
+            <link>https://time.com/article/2026/10/22/australia-class-action-meta-social-media-harm-children/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/22/australia-class-action-meta-social-media-harm-children/</guid>
+            <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The True Story Behind 'Swipe Right on the Devil']]></title>
+            <link>https://time.com/article/2026/10/22/swipe-right-on-the-devil/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/22/swipe-right-on-the-devil/</guid>
+            <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta's Muse AI Is Winning Over Older Adults. Privacy Experts Are Worried]]></title>
+            <link>https://time.com/article/2026/10/22/ai-meta-muse-agent-older-users/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/22/ai-meta-muse-agent-older-users/</guid>
+            <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How America's AI Trust Issues Could Impact the Midterms]]></title>
             <link>https://time.com/article/2026/10/21/how-america-s-ai-trust-issues-could-impact-the-midterms/</link>
@@ -19,13 +60,13 @@
             <title><![CDATA[Why Elon Musk Wants to Merge SpaceX and Tesla]]></title>
             <link>https://time.com/article/2026/10/21/elon-musk-spacex-tesla-merger-tech-business/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/21/elon-musk-spacex-tesla-merger-tech-business/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Russia Releases Imprisoned American Man as Trump Envoy Meets With Putin]]></title>
             <link>https://time.com/article/2026/10/21/russia-releases-imprisoned-american-stephen-hubbard-trump-putin-witkoff-deal/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/21/russia-releases-imprisoned-american-stephen-hubbard-trump-putin-witkoff-deal/</guid>
-            <dc:creator><![CDATA[Olivia-Anne Cleary]]></dc:creator>
             <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -39,6 +80,7 @@
             <title><![CDATA[U.S. Midterms Loom Over a Deadlock Between Trump and Tehran]]></title>
             <link>https://time.com/article/2026/10/21/trump-iran-war-midterm-elections-deadlock/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/21/trump-iran-war-midterm-elections-deadlock/</guid>
+            <dc:creator><![CDATA[Ali Vaez]]></dc:creator>
             <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -80,6 +122,7 @@
             <title><![CDATA['We Now Deserve to Lose': Ramaswamy Ad Deepens GOP Panic in Ohio]]></title>
             <link>https://time.com/article/2026/10/21/ramaswamy-s-ad-of-acton-s-estranged-mom-jolts-ohio-races-across-the-ballot/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/21/ramaswamy-s-ad-of-acton-s-estranged-mom-jolts-ohio-races-across-the-ballot/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
             <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3286,43 +3329,6 @@
             <link>https://time.com/article/2026/08/31/kalshi-george-santos-lifetime-ban/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/31/kalshi-george-santos-lifetime-ban/</guid>
             <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Says Tariffs Saved the U.S. Auto Industry. The Data Tells a Different Story]]></title>
-            <link>https://time.com/article/2026/08/31/is-trump-responsible-for-reviving-america-s-auto-industry-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/31/is-trump-responsible-for-reviving-america-s-auto-industry-/</guid>
-            <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Doing Random Acts of Kindness Is Good for You]]></title>
-            <link>https://time.com/article/2026/08/30/doing-random-acts-of-kindness-is-good-for-you/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/30/doing-random-acts-of-kindness-is-good-for-you/</guid>
-            <pubDate>Sun, 30 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Is Trump’s U.S. Space Academy?]]></title>
-            <link>https://time.com/article/2026/08/30/what-is-trumps-us-space-academy-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/30/what-is-trumps-us-space-academy-/</guid>
-            <pubDate>Sun, 30 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Therapy Has a Relationship Problem]]></title>
-            <link>https://time.com/article/2026/08/29/therapy-has-a-relationship-problem/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/29/therapy-has-a-relationship-problem/</guid>
-            <pubDate>Sat, 29 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Says His Venezuela Oil Deal Will Lower Gas Prices. But When?]]></title>
-            <link>https://time.com/article/2026/08/29/trump-says-his-venezuela-oil-deal-will-lower-gas-prices-but-when-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/29/trump-says-his-venezuela-oil-deal-will-lower-gas-prices-but-when-/</guid>
-            <dc:creator><![CDATA[T. Michelle Murphy]]></dc:creator>
-            <pubDate>Sat, 29 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Preposterous': Lawmakers Reject Trump's Renaming of Lake Ontario]]></title>
-            <link>https://time.com/article/2026/08/28/lawmakers-reject-trump-renaming-lake-ontario-us-canada-trade-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/28/lawmakers-reject-trump-renaming-lake-ontario-us-canada-trade-war/</guid>
-            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
