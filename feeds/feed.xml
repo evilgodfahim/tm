@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 23:55:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 02:39:32 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 Oct 2026 23:55:11 GMT</pubDate>
+        <pubDate>Fri, 23 Oct 2026 02:39:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Exclusive: Ben-Gvir’s Plan to Push Netanyahu Further Right]]></title>
@@ -73,6 +73,13 @@
             <link>https://time.com/article/2026/10/22/maha-leader-calley-means-steps-down-from-trump-administration-health-advisory-role/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/22/maha-leader-calley-means-steps-down-from-trump-administration-health-advisory-role/</guid>
             <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Personalized Cancer Vaccine Lowers Melanoma Recurrence by 42%]]></title>
+            <link>https://time.com/article/2026/10/22/moderna-merck-immunotherapy-lowers-melanoma-recurrence/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/22/moderna-merck-immunotherapy-lowers-melanoma-recurrence/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3321,13 +3328,6 @@
             <link>https://time.com/article/2026/08/31/dollyfest-dolly-parton-festival/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/31/dollyfest-dolly-parton-festival/</guid>
             <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
-            <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Pack a Low-Waste School Lunch]]></title>
-            <link>https://time.com/article/2026/08/31/how-to-reduce-school-lunch-food-waste/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/31/how-to-reduce-school-lunch-food-waste/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
