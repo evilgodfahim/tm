@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Oct 2026 18:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 21:46:29 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 23 Oct 2026 18:04:37 GMT</pubDate>
+        <pubDate>Fri, 23 Oct 2026 21:46:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Venezuelans Take to the Streets to Demand Democracy]]></title>
@@ -43,8 +43,36 @@
             <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How a Fake Pollster May Have Hurt Real Candidates]]></title>
+            <description><![CDATA[Wedgewood Polls admitted to using fabricated data in its surveys, claiming the stunt was an “experimental project” intended to showcase the “vulnerabilities” of the polling industry.]]></description>
+            <link>https://time.com/article/2026/10/23/what-fake-wedgewood-polls-scandal-reveals-about-election-polling/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/23/what-fake-wedgewood-polls-scandal-reveals-about-election-polling/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: 'Fatherland']]></title>
+            <link>https://time.com/article/2026/10/23/fatherland-movie-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/23/fatherland-movie-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The AI-Discovered Bug That Could Have Become a Cybersecurity Disaster]]></title>
+            <link>https://time.com/article/2026/10/23/ai-cybersecurity-php-hack/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/23/ai-cybersecurity-php-hack/</guid>
+            <dc:creator><![CDATA[Harry Booth]]></dc:creator>
+            <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clean Energy Has a Lot Riding on the AI Data Center Boom]]></title>
+            <link>https://time.com/article/2026/10/23/clean-energy-ai-boom-coreweave/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/23/clean-energy-ai-boom-coreweave/</guid>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
+            <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Exclusive: Ben-Gvir’s Plan to Push Netanyahu Further Right]]></title>
-            <description><![CDATA[In an interview, the ultra-nationalist security minister lays out his ambitions in Israel’s Oct. 27 election]]></description>
             <link>https://time.com/article/2026/10/22/ben-gvir-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/22/ben-gvir-interview/</guid>
             <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
@@ -3303,32 +3331,6 @@
             <link>https://time.com/article/2026/09/01/irans-president-willing-to-resume-peace-talks-what-stands-in-the-way-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/01/irans-president-willing-to-resume-peace-talks-what-stands-in-the-way-/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet Sean Parnell, a Contender to Succeed Army Secretary Driscoll]]></title>
-            <link>https://time.com/article/2026/09/01/sean-parnell-chief-pentagon-spokesperson-driscoll-army-secretary-replacement-contender/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/01/sean-parnell-chief-pentagon-spokesperson-driscoll-army-secretary-replacement-contender/</guid>
-            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Is Nepal So Vulnerable to Flooding?]]></title>
-            <link>https://time.com/article/2026/09/01/nepal-flooding-risk-climate-change/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/01/nepal-flooding-risk-climate-change/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Love Island USA' Fails to Protect Black Women]]></title>
-            <link>https://time.com/article/2026/09/01/love-island-usa-black-women/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/01/love-island-usa-black-women/</guid>
-            <dc:creator><![CDATA[Taylor Crumpton]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down 'Silo' Season 3]]></title>
-            <link>https://time.com/article/2026/09/01/silo-season-3-finale-ending-apple/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/01/silo-season-3-finale-ending-apple/</guid>
             <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
