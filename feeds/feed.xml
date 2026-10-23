@@ -4,10 +4,37 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Oct 2026 08:06:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 13:57:30 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 23 Oct 2026 08:06:28 GMT</pubDate>
+        <pubDate>Fri, 23 Oct 2026 13:57:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Venezuelans Take to the Streets to Demand Democracy]]></title>
+            <link>https://time.com/article/2026/10/23/venezuela-protests-presidential-elections-opposition-maduro-machado-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/23/venezuela-protests-presidential-elections-opposition-maduro-machado-trump/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China Cannot Remain the World’s Factory. What Comes Next?]]></title>
+            <link>https://time.com/article/2026/10/23/china-manufacturing-technology-export-economic-strategy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/23/china-manufacturing-technology-export-economic-strategy/</guid>
+            <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Real Child Protection Cases That Inspired 'Fjord']]></title>
+            <link>https://time.com/article/2026/10/23/fjord-true-story/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/23/fjord-true-story/</guid>
+            <dc:creator><![CDATA[Tomris Laffly]]></dc:creator>
+            <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Trump’s Rebrand of Artificial Intelligence to Super Intelligent Matters]]></title>
+            <link>https://time.com/article/2026/10/23/why-trump-s-rebrand-of-artificial-intelligence-to-super-intelligent-matters/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/23/why-trump-s-rebrand-of-artificial-intelligence-to-super-intelligent-matters/</guid>
+            <dc:creator><![CDATA[David Litt]]></dc:creator>
+            <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Exclusive: Ben-Gvir’s Plan to Push Netanyahu Further Right]]></title>
             <description><![CDATA[In an interview, the ultra-nationalist security minister lays out his ambitions in Israel’s Oct. 27 election]]></description>
@@ -79,7 +106,6 @@
             <title><![CDATA[A Personalized Cancer Vaccine Lowers Melanoma Recurrence by 42%]]></title>
             <link>https://time.com/article/2026/10/22/moderna-merck-immunotherapy-lowers-melanoma-recurrence/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/22/moderna-merck-immunotherapy-lowers-melanoma-recurrence/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3302,32 +3328,6 @@
             <title><![CDATA[Trump Vows to Hit Iran ‘Hard’ After First Fresh Strikes in a Month]]></title>
             <link>https://time.com/article/2026/08/31/us-iran-strikes-larak-island/</link>
             <guid isPermaLink="true">https://time.com/article/2026/08/31/us-iran-strikes-larak-island/</guid>
-            <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Maps Changes ‘Lake Ontario’ to ‘Lake America’]]></title>
-            <link>https://time.com/article/2026/08/31/lake-ontario-america-us-canada-trump-google-maps/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/31/lake-ontario-america-us-canada-trump-google-maps/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
-            <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2 Dead and More Than a Dozen Missing After Flash Flooding at the Grand Canyon]]></title>
-            <link>https://time.com/article/2026/08/31/grand-canyon-flash-flood/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/31/grand-canyon-flash-flood/</guid>
-            <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Economics of Public Grocery Stores]]></title>
-            <link>https://time.com/article/2026/08/31/the-economics-of-public-grocery-stores/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/31/the-economics-of-public-grocery-stores/</guid>
-            <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What We Know About ‘Dollyfest’]]></title>
-            <link>https://time.com/article/2026/08/31/dollyfest-dolly-parton-festival/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/08/31/dollyfest-dolly-parton-festival/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
