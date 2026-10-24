@@ -4,14 +4,22 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 20:00:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 22:18:19 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 24 Oct 2026 20:00:03 GMT</pubDate>
+        <pubDate>Sat, 24 Oct 2026 22:18:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Fight Over Who Counts in India]]></title>
             <link>https://time.com/article/2026/10/24/the-fight-over-who-counts-in-india/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/24/the-fight-over-who-counts-in-india/</guid>
+            <pubDate>Sat, 24 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Thinks Alaskans Could Vote for the Wrong Sullivan. What Can the DOJ Do?]]></title>
+            <description><![CDATA[The Justice Department filed a lawsuit saying Alaska voters could confuse candidates with similar names. Experts question its authority.]]></description>
+            <link>https://time.com/article/2026/10/24/trump-thinks-alaskans-could-vote-for-the-wrong-sullivan-what-can-the-doj-do-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/24/trump-thinks-alaskans-could-vote-for-the-wrong-sullivan-what-can-the-doj-do-/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sat, 24 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -50,7 +58,6 @@
         </item>
         <item>
             <title><![CDATA[How a Fake Pollster May Have Hurt Real Candidates]]></title>
-            <description><![CDATA[Wedgewood Polls admitted to using fabricated data in its surveys, claiming the stunt was an “experimental project” intended to showcase the “vulnerabilities” of the polling industry.]]></description>
             <link>https://time.com/article/2026/10/23/what-fake-wedgewood-polls-scandal-reveals-about-election-polling/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/23/what-fake-wedgewood-polls-scandal-reveals-about-election-polling/</guid>
             <dc:creator><![CDATA[Connor Greene]]></dc:creator>
@@ -120,7 +127,6 @@
             <title><![CDATA[The Cornell 7 and the Problem with Writing as Punishment]]></title>
             <link>https://time.com/article/2026/10/22/the-cornell-7-and-the-problem-with-writing-as-punishment/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/22/the-cornell-7-and-the-problem-with-writing-as-punishment/</guid>
-            <dc:creator><![CDATA[Debbie Millman]]></dc:creator>
             <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -147,6 +153,7 @@
             <title><![CDATA[A Personalized Cancer Vaccine Lowers Melanoma Recurrence by 42%]]></title>
             <link>https://time.com/article/2026/10/22/moderna-merck-immunotherapy-lowers-melanoma-recurrence/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/22/moderna-merck-immunotherapy-lowers-melanoma-recurrence/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3323,12 +3330,6 @@
             <link>https://time.com/article/2026/09/01/rogue-ai-chatgpt-hugging-face-invasive-species/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/01/rogue-ai-chatgpt-hugging-face-invasive-species/</guid>
             <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Responds to Talk of Hegseth Running for President in 2028]]></title>
-            <link>https://time.com/article/2026/09/01/trump-response-hegseth-run-for-president-2028-top-contenders/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/01/trump-response-hegseth-run-for-president-2028-top-contenders/</guid>
             <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
