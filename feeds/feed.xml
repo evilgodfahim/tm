@@ -4,10 +4,16 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 10:01:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 14:10:26 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 24 Oct 2026 10:01:21 GMT</pubDate>
+        <pubDate>Sat, 24 Oct 2026 14:10:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Fight Over Who Counts in India]]></title>
+            <link>https://time.com/article/2026/10/24/the-fight-over-who-counts-in-india/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/24/the-fight-over-who-counts-in-india/</guid>
+            <pubDate>Sat, 24 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Venezuelans Take to the Streets to Demand Democracy]]></title>
             <link>https://time.com/article/2026/10/23/venezuela-protests-presidential-elections-opposition-maduro-machado-trump/</link>
@@ -3323,14 +3329,6 @@
             <title><![CDATA[Trump Responds to Talk of Hegseth Running for President in 2028]]></title>
             <link>https://time.com/article/2026/09/01/trump-response-hegseth-run-for-president-2028-top-contenders/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/01/trump-response-hegseth-run-for-president-2028-top-contenders/</guid>
-            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran’s President Signals Willingness to Resume Peace Talks. What Stands in the Way?]]></title>
-            <description><![CDATA[Tehran says it could return to its June ceasefire with the U.S. But fresh strikes and hard-line resistance complicate diplomacy.]]></description>
-            <link>https://time.com/article/2026/09/01/irans-president-willing-to-resume-peace-talks-what-stands-in-the-way-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/01/irans-president-willing-to-resume-peace-talks-what-stands-in-the-way-/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
