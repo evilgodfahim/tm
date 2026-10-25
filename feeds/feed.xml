@@ -4,10 +4,25 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 17:59:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 20:33:10 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 25 Oct 2026 17:59:43 GMT</pubDate>
+        <pubDate>Sun, 25 Oct 2026 20:33:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Former General Who Could End the Netanyahu Era]]></title>
+            <description><![CDATA[Gadi Eisenkot Lost His Son in Gaza. Now He’s Running to Lead Israel Beyond the Trauma of Oct. 7]]></description>
+            <link>https://time.com/article/2026/10/25/gadi-eisenkot-exclusive-interview/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/25/gadi-eisenkot-exclusive-interview/</guid>
+            <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Does Trump’s Declining Latino Support Mean for Florida?]]></title>
+            <link>https://time.com/article/2026/10/25/what-does-trump-s-declining-latino-support-mean-for-florida-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/25/what-does-trump-s-declining-latino-support-mean-for-florida-/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Fight Over Who Counts in India]]></title>
             <link>https://time.com/article/2026/10/24/the-fight-over-who-counts-in-india/</link>
@@ -16,7 +31,6 @@
         </item>
         <item>
             <title><![CDATA[Trump Thinks Alaskans Could Vote for the Wrong Sullivan. What Can the DOJ Do?]]></title>
-            <description><![CDATA[The Justice Department filed a lawsuit saying Alaska voters could confuse candidates with similar names. Experts question its authority.]]></description>
             <link>https://time.com/article/2026/10/24/trump-thinks-alaskans-could-vote-for-the-wrong-sullivan-what-can-the-doj-do-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/24/trump-thinks-alaskans-could-vote-for-the-wrong-sullivan-what-can-the-doj-do-/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
@@ -60,7 +74,6 @@
             <title><![CDATA[How a Fake Pollster May Have Hurt Real Candidates]]></title>
             <link>https://time.com/article/2026/10/23/what-fake-wedgewood-polls-scandal-reveals-about-election-polling/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/23/what-fake-wedgewood-polls-scandal-reveals-about-election-polling/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3317,19 +3330,6 @@
             <link>https://time.com/article/2026/09/01/trump-s-head-start-overhaul-borrows-a-playbook-that-already-failed/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/01/trump-s-head-start-overhaul-borrows-a-playbook-that-already-failed/</guid>
             <dc:creator><![CDATA[Peter Edelman]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 5-Minute Habit That Can Bring You Closer to Your Kid]]></title>
-            <link>https://time.com/article/2026/09/01/ask-your-child-to-teach-you-something/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/01/ask-your-child-to-teach-you-something/</guid>
-            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Rogue AI Could Act Like an Invasive Species]]></title>
-            <link>https://time.com/article/2026/09/01/rogue-ai-chatgpt-hugging-face-invasive-species/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/01/rogue-ai-chatgpt-hugging-face-invasive-species/</guid>
-            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
             <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
