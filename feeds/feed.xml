@@ -4,16 +4,54 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2026 05:41:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 11:55:35 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 26 Oct 2026 05:41:08 GMT</pubDate>
+        <pubDate>Mon, 26 Oct 2026 11:55:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Israel's Choice]]></title>
+            <description><![CDATA['This election is about the identity of Israel']]></description>
+            <link>https://time.com/article/2026/10/26/israel-election/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/26/israel-election/</guid>
+            <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Maine's Senate Race Comes Down to Collins' Record]]></title>
+            <link>https://time.com/article/2026/10/26/in-maine-a-toss-up-senate-race-is-about-the-incumbent-and-not-much-else/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/26/in-maine-a-toss-up-senate-race-is-about-the-incumbent-and-not-much-else/</guid>
+            <dc:creator><![CDATA[Julia Terruso]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brazil Re-Elects Lula for Historic Fourth Term]]></title>
+            <link>https://time.com/article/2026/10/26/brazil-lula-bolsonaro-presidential-election-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/26/brazil-lula-bolsonaro-presidential-election-trump/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exiled Opposition Leader María Corina Machado Returns to Venezuela]]></title>
+            <link>https://time.com/article/2026/10/26/venezuela-maria-corina-machado-return-opposition-election-democracy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/26/venezuela-maria-corina-machado-return-opposition-election-democracy/</guid>
+            <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI Colonies Are Coming]]></title>
+            <link>https://time.com/article/2026/10/26/ai-colonies-are-coming/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/26/ai-colonies-are-coming/</guid>
+            <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A New Way to Think About Women’s Heart Health]]></title>
+            <link>https://time.com/article/2026/10/26/a-new-way-to-think-about-women-heart-health-sadiya-s-khan-essay/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/26/a-new-way-to-think-about-women-heart-health-sadiya-s-khan-essay/</guid>
+            <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Former General Who Could End the Netanyahu Era]]></title>
-            <description><![CDATA[Gadi Eisenkot Lost His Son in Gaza. Now He’s Running to Lead Israel Beyond the Trauma of Oct. 7]]></description>
             <link>https://time.com/article/2026/10/25/gadi-eisenkot-exclusive-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/25/gadi-eisenkot-exclusive-interview/</guid>
-            <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
             <pubDate>Sun, 25 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -114,6 +152,7 @@
             <title><![CDATA[Health Care Costs Are Becoming Unsustainable]]></title>
             <link>https://time.com/article/2026/10/22/us-health-care-costs-becoming-unsustainable/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/22/us-health-care-costs-becoming-unsustainable/</guid>
+            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
             <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3292,45 +3331,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/09/02/possible-love-review-lee-chang-dong/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Supreme Court Allows Trump’s $400 Million White House Ballroom to Proceed]]></title>
-            <link>https://time.com/article/2026/09/01/white-house-east-wing-ballroom-trump-supreme-court/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/01/white-house-east-wing-ballroom-trump-supreme-court/</guid>
-            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Duane ‘Keffe D’ Davis Found Guilty of Tupac Shakur’s Murder]]></title>
-            <link>https://time.com/article/2026/09/01/duane-davis-tupac-shakur-1996-killing-guilty-verdict/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/01/duane-davis-tupac-shakur-1996-killing-guilty-verdict/</guid>
-            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Defends Hosting Russia at G20 as Europeans Voice Disapproval]]></title>
-            <link>https://time.com/article/2026/09/01/trump-defends-hosting-russia-g20-european-disapproval-ukraine-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/01/trump-defends-hosting-russia-g20-european-disapproval-ukraine-war/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Former U.K. PM Keir Starmer Steps Down From Parliament. Read His Statement Here]]></title>
-            <link>https://time.com/article/2026/09/01/keir-starmer-resigns-british-parliament-statement-new-role/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/01/keir-starmer-resigns-british-parliament-statement-new-role/</guid>
-            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Says He's Lowering Drug Prices. Is it True?]]></title>
-            <link>https://time.com/article/2026/09/01/what-trump-most-favored-nation-deal-means-for-drug-prices/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/01/what-trump-most-favored-nation-deal-means-for-drug-prices/</guid>
-            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s Head Start Overhaul Borrows a Playbook That Already Failed]]></title>
-            <link>https://time.com/article/2026/09/01/trump-s-head-start-overhaul-borrows-a-playbook-that-already-failed/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/01/trump-s-head-start-overhaul-borrows-a-playbook-that-already-failed/</guid>
-            <dc:creator><![CDATA[Peter Edelman]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
