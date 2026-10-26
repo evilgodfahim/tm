@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2026 17:58:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 22:20:28 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 26 Oct 2026 17:58:39 GMT</pubDate>
+        <pubDate>Mon, 26 Oct 2026 22:20:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Israel's Choice]]></title>
@@ -20,7 +20,6 @@
             <title><![CDATA[Maine's Senate Race Comes Down to Collins' Record]]></title>
             <link>https://time.com/article/2026/10/26/in-maine-a-toss-up-senate-race-is-about-the-incumbent-and-not-much-else/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/26/in-maine-a-toss-up-senate-race-is-about-the-incumbent-and-not-much-else/</guid>
-            <dc:creator><![CDATA[Julia Terruso]]></dc:creator>
             <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -40,6 +39,7 @@
             <title><![CDATA[AI Colonies Are Coming]]></title>
             <link>https://time.com/article/2026/10/26/ai-colonies-are-coming/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/26/ai-colonies-are-coming/</guid>
+            <dc:creator><![CDATA[Noah Giansiracusa]]></dc:creator>
             <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -72,6 +72,19 @@
             <title><![CDATA[Politeness Has Changed. Our Language Shows How]]></title>
             <link>https://time.com/article/2026/10/26/politeness-has-changed-our-language-shows-how/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/26/politeness-has-changed-our-language-shows-how/</guid>
+            <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine’s Satellite Disruption Exposes a Central Risk of Modern Warfare]]></title>
+            <link>https://time.com/article/2026/10/26/ukraine-s-satellite-disruption-exposes-a-central-risk-of-modern-warfare/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/26/ukraine-s-satellite-disruption-exposes-a-central-risk-of-modern-warfare/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Catholic Bishops Are Apologizing Over a Photo With Trump]]></title>
+            <link>https://time.com/article/2026/10/26/catholic-bishops-apologize-meeting-with-trump-white-house-video/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/26/catholic-bishops-apologize-meeting-with-trump-white-house-video/</guid>
             <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3314,18 +3327,6 @@
             <link>https://time.com/article/2026/09/02/ink-review-danny-boyle/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/02/ink-review-danny-boyle/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Suggests Renaming Strait of Hormuz the 'Trump Strait']]></title>
-            <link>https://time.com/article/2026/09/02/trump-suggests-renaming-strait-of-hormuz-after-himself-iran-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/02/trump-suggests-renaming-strait-of-hormuz-after-himself-iran-war/</guid>
-            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[E.U. Chief Says Alleged Russian Drone Plot Had 'Hallmarks of State-Sponsored Terrorism']]></title>
-            <link>https://time.com/article/2026/09/02/germany-russia-alleged-drone-attack-airport-european-retaliation/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/02/germany-russia-alleged-drone-attack-airport-european-retaliation/</guid>
             <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
