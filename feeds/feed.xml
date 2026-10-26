@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2026 11:55:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 17:58:39 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 26 Oct 2026 11:55:35 GMT</pubDate>
+        <pubDate>Mon, 26 Oct 2026 17:58:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Israel's Choice]]></title>
@@ -46,6 +46,32 @@
             <title><![CDATA[A New Way to Think About Women’s Heart Health]]></title>
             <link>https://time.com/article/2026/10/26/a-new-way-to-think-about-women-heart-health-sadiya-s-khan-essay/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/26/a-new-way-to-think-about-women-heart-health-sadiya-s-khan-essay/</guid>
+            <dc:creator><![CDATA[Sadiya S. Khan]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Details of Rape Allegation Against Trump Revealed in Democrats’ Epstein Report]]></title>
+            <link>https://time.com/article/2026/10/26/house-democrats-unveil-new-details-from-trump-accuser/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/26/house-democrats-unveil-new-details-from-trump-accuser/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lula’s Victory in Brazil Is a Defeat for Trumpism]]></title>
+            <link>https://time.com/article/2026/10/26/lula-brazil-election-victory-bolsonaro-trump-defeat/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/26/lula-brazil-election-victory-bolsonaro-trump-defeat/</guid>
+            <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World’s Top GreenTech Companies of 2027 Search]]></title>
+            <link>https://time.com/article/2026/10/26/worlds-top-greentech-companies-2027-search/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/26/worlds-top-greentech-companies-2027-search/</guid>
+            <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Politeness Has Changed. Our Language Shows How]]></title>
+            <link>https://time.com/article/2026/10/26/politeness-has-changed-our-language-shows-how/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/26/politeness-has-changed-our-language-shows-how/</guid>
             <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -71,7 +97,12 @@
             <title><![CDATA[Trump Thinks Alaskans Could Vote for the Wrong Sullivan. What Can the DOJ Do?]]></title>
             <link>https://time.com/article/2026/10/24/trump-thinks-alaskans-could-vote-for-the-wrong-sullivan-what-can-the-doj-do-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/24/trump-thinks-alaskans-could-vote-for-the-wrong-sullivan-what-can-the-doj-do-/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sat, 24 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our Brains Weren’t Built for This Much Comparison]]></title>
+            <link>https://time.com/article/2026/10/24/our-brains-weren-t-built-for-this-much-comparison/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/24/our-brains-weren-t-built-for-this-much-comparison/</guid>
             <pubDate>Sat, 24 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -118,7 +149,6 @@
             <title><![CDATA[Review: 'Fatherland']]></title>
             <link>https://time.com/article/2026/10/23/fatherland-movie-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/23/fatherland-movie-review/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -294,15 +324,16 @@
         </item>
         <item>
             <title><![CDATA[Why Satire Is No Laughing Matter]]></title>
-            <description><![CDATA[Sacha Baron Cohen on the power of comedy in a serious time]]></description>
             <link>https://time.com/article/2026/10/20/sacha-baron-cohen-on-satire/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/20/sacha-baron-cohen-on-satire/</guid>
+            <dc:creator><![CDATA[Sacha Baron Cohen]]></dc:creator>
             <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Phony' Is Something New on TV: Review]]></title>
             <link>https://time.com/article/2026/10/20/phony-review-hulu/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/20/phony-review-hulu/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3295,41 +3326,6 @@
             <title><![CDATA[E.U. Chief Says Alleged Russian Drone Plot Had 'Hallmarks of State-Sponsored Terrorism']]></title>
             <link>https://time.com/article/2026/09/02/germany-russia-alleged-drone-attack-airport-european-retaliation/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/02/germany-russia-alleged-drone-attack-airport-european-retaliation/</guid>
-            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why America's AI Boom Isn't an Industrial Boom]]></title>
-            <link>https://time.com/article/2026/09/02/why-america-s-ai-boom-isn-t-an-industrial-boom/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/02/why-america-s-ai-boom-isn-t-an-industrial-boom/</guid>
-            <dc:creator><![CDATA[Shubham Singhal, Anna Kortis and Jan Mischke]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Danger of Ignoring Nepal]]></title>
-            <link>https://time.com/article/2026/09/02/climate-change-melting-glaciers-himalayas-floods-nepal-danger-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/02/climate-change-melting-glaciers-himalayas-floods-nepal-danger-/</guid>
-            <dc:creator><![CDATA[Sumnima Udas]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Republican Senator Calls On Trump to Replace Defense Secretary Pete Hegseth]]></title>
-            <link>https://time.com/article/2026/09/02/trump-hegseth-tillis-driscoll-resignation-pentagon/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/02/trump-hegseth-tillis-driscoll-resignation-pentagon/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boosting Africa's Farmers Is a Boost to the Economy]]></title>
-            <link>https://time.com/article/2026/09/02/africa-farmers-economy-future/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/02/africa-farmers-economy-future/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Review: Lee Chang Dong's 'Possible Love']]></title>
-            <link>https://time.com/article/2026/09/02/possible-love-review-lee-chang-dong/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/02/possible-love-review-lee-chang-dong/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
