@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 13:47:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 19:06:23 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Oct 2026 13:47:19 GMT</pubDate>
+        <pubDate>Tue, 27 Oct 2026 19:06:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Electrostates Could Redraw The Global Economy]]></title>
@@ -19,13 +19,13 @@
             <title><![CDATA['The One About Matthew Perry': TV Review]]></title>
             <link>https://time.com/article/2026/10/27/the-one-about-matthew-perry-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/27/the-one-about-matthew-perry-review/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Carbon Footprint of the Ultrarich]]></title>
             <link>https://time.com/article/2026/10/27/carbon-emissions-ultra-rich-oxfam-report/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/27/carbon-emissions-ultra-rich-oxfam-report/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -33,7 +33,7 @@
             <description><![CDATA[Here’s what to know as Prime Minister Benjamin Netanyahu battles to stay in power.]]></description>
             <link>https://time.com/article/2026/10/27/israel-netanyahu-eisenkot-knesset-election-explainer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/27/israel-netanyahu-eisenkot-knesset-election-explainer/</guid>
-            <dc:creator><![CDATA[Chad de Guzman and Olivia-Anne Cleary]]></dc:creator>
+            <dc:creator><![CDATA[Chad de Guzman, Olivia-Anne Cleary and Callum Sutherland]]></dc:creator>
             <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -54,6 +54,53 @@
             <link>https://time.com/article/2026/10/27/nocturne-review-apple/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/27/nocturne-review-apple/</guid>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ICE Does Not Belong at the Polls]]></title>
+            <link>https://time.com/article/2026/10/27/ice-does-not-belong-at-the-polls/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/27/ice-does-not-belong-at-the-polls/</guid>
+            <dc:creator><![CDATA[Wendy Weiser and Jasleen Singh]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Justice Department Files More Charges Against James Comey]]></title>
+            <link>https://time.com/article/2026/10/27/james-comey-justice-department-charges-media-leaks/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/27/james-comey-justice-department-charges-media-leaks/</guid>
+            <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the War in Iran Could Escalate]]></title>
+            <link>https://time.com/article/2026/10/27/how-the-war-in-iran-could-escalate/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/27/how-the-war-in-iran-could-escalate/</guid>
+            <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Remote Work Was Supposed to Make Parenting Easier. Why Are Parents Still Struggling?]]></title>
+            <link>https://time.com/article/2026/10/27/remote-work-was-supposed-to-make-parenting-easier-why-are-parents-still-struggling-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/27/remote-work-was-supposed-to-make-parenting-easier-why-are-parents-still-struggling-/</guid>
+            <dc:creator><![CDATA[Natalia Emanuel]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The New Relationship Minefield: Your Partner’s AI Chats]]></title>
+            <link>https://time.com/article/2026/10/27/new-relationship-minefield-partners-ai-chats/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/27/new-relationship-minefield-partners-ai-chats/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Dangerous Fungi Are on the Rise]]></title>
+            <link>https://time.com/article/2026/10/27/why-dangerous-fungi-are-on-the-rise/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/27/why-dangerous-fungi-are-on-the-rise/</guid>
+            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This 30-Second Habit Can Improve Your Balance]]></title>
+            <link>https://time.com/article/2026/10/27/standing-on-one-leg-balance/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/27/standing-on-one-leg-balance/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -106,6 +153,7 @@
             <title><![CDATA[Lula’s Victory in Brazil Is a Defeat for Trumpism]]></title>
             <link>https://time.com/article/2026/10/26/lula-brazil-election-victory-bolsonaro-trump-defeat/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/26/lula-brazil-election-victory-bolsonaro-trump-defeat/</guid>
+            <dc:creator><![CDATA[Adriana Carranca]]></dc:creator>
             <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -157,6 +205,7 @@
             <title><![CDATA[The Fight Over Who Counts in India]]></title>
             <link>https://time.com/article/2026/10/24/the-fight-over-who-counts-in-india/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/24/the-fight-over-who-counts-in-india/</guid>
+            <dc:creator><![CDATA[Asim Ali]]></dc:creator>
             <pubDate>Sat, 24 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -215,6 +264,7 @@
             <title><![CDATA[Review: 'Fatherland']]></title>
             <link>https://time.com/article/2026/10/23/fatherland-movie-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/23/fatherland-movie-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3282,51 +3332,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/09/03/vance-iran-war-press-briefing/</guid>
             <dc:creator><![CDATA[Nik Popli]]></dc:creator>
             <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Americans and Canadians Are Feeling About the Escalating Trade War]]></title>
-            <link>https://time.com/article/2026/09/03/us-canada-trade-war-trump-carney-tariffs-lake-ontario-name-change-polls/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/03/us-canada-trade-war-trump-carney-tariffs-lake-ontario-name-change-polls/</guid>
-            <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Democrats Are Pushing for a Supreme Court Overhaul]]></title>
-            <link>https://time.com/article/2026/09/03/how-democrats-are-pushing-for-a-supreme-court-overhaul/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/03/how-democrats-are-pushing-for-a-supreme-court-overhaul/</guid>
-            <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FBI Probes Report of Breach Exposing 153 Million Driver’s License Scans]]></title>
-            <link>https://time.com/article/2026/09/03/fbi-probes-reported-dark-web-drivers-license-breach/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/03/fbi-probes-reported-dark-web-drivers-license-breach/</guid>
-            <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Stakes of America’s 2026 Midterm Elections]]></title>
-            <link>https://time.com/article/2026/09/03/stakes-of-2026-midterm-elections/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/03/stakes-of-2026-midterm-elections/</guid>
-            <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PBS Period Romance 'Trespasses': TV Review]]></title>
-            <link>https://time.com/article/2026/09/03/trespasses-review-pbs/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/03/trespasses-review-pbs/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing the 2026 TIME Trailblazers]]></title>
-            <link>https://time.com/article/2026/09/02/introducing-time-trailblazers/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/02/introducing-time-trailblazers/</guid>
-            <dc:creator><![CDATA[Cate Matthews and Jessica Hullinger]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. and Iran Exchange Most Intense Attacks in Weeks]]></title>
-            <link>https://time.com/article/2026/09/02/us-iran-deadly-strikes-attacks-civilians-sirik-strait-hormuz/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/02/us-iran-deadly-strikes-attacks-civilians-sirik-strait-hormuz/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam and Tiago Ventura]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
