@@ -4,15 +4,29 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 01:44:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 07:04:39 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Oct 2026 01:44:27 GMT</pubDate>
+        <pubDate>Tue, 27 Oct 2026 07:04:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Electrostates Could Redraw The Global Economy]]></title>
             <link>https://time.com/article/2026/10/27/electrostates-global-economy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/27/electrostates-global-economy/</guid>
             <dc:creator><![CDATA[Jan Rosenow and Maria Mendiluce]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['The One About Matthew Perry': TV Review]]></title>
+            <link>https://time.com/article/2026/10/27/the-one-about-matthew-perry-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/27/the-one-about-matthew-perry-review/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Carbon Footprint of the Ultrarich]]></title>
+            <link>https://time.com/article/2026/10/27/carbon-emissions-ultra-rich-oxfam-report/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/27/carbon-emissions-ultra-rich-oxfam-report/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3312,20 +3326,6 @@
             <link>https://time.com/article/2026/09/02/signs-venting-hurting-relationships/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/02/signs-venting-hurting-relationships/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Mint Begins Selling Trump $1 Coins. Are They Legal?]]></title>
-            <link>https://time.com/article/2026/09/02/trump-1-gold-coins-go-on-sale/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/02/trump-1-gold-coins-go-on-sale/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is 'Scromiting'? ER Doctors Are Seeing it More]]></title>
-            <link>https://time.com/article/2026/09/02/what-is-scromiting-er-doctors-are-seeing-it-more/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/02/what-is-scromiting-er-doctors-are-seeing-it-more/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
