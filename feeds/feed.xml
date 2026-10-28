@@ -4,10 +4,16 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Oct 2026 03:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 10:10:43 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Oct 2026 03:12:01 GMT</pubDate>
+        <pubDate>Wed, 28 Oct 2026 10:10:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mbappé Apologizes After ‘Dictator’ Mao Comment: What to Know]]></title>
+            <link>https://time.com/article/2026/10/28/kylian-mbappe-china-mao-zedong-dictator-meme-backlash-controversy-explainer/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/28/kylian-mbappe-china-mao-zedong-dictator-meme-backlash-controversy-explainer/</guid>
+            <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Electrostates Could Redraw The Global Economy]]></title>
             <link>https://time.com/article/2026/10/27/electrostates-global-economy/</link>
@@ -29,8 +35,7 @@
             <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Israeli Exit Polls Indicate No Clear Winner]]></title>
-            <description><![CDATA[Israelis headed to polling stations Tuesday to decide the political fate of Benjamin Netanyahu, the country’s longest-serving Prime Minister.]]></description>
+            <title><![CDATA[Israeli Exit Polls Too Close to Call After Pivotal Election]]></title>
             <link>https://time.com/article/2026/10/27/israel-netanyahu-eisenkot-knesset-election-explainer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/27/israel-netanyahu-eisenkot-knesset-election-explainer/</guid>
             <dc:creator><![CDATA[Chad de Guzman, Olivia-Anne Cleary, Callum Sutherland and Annika Neklason]]></dc:creator>
@@ -38,13 +43,14 @@
         </item>
         <item>
             <title><![CDATA[Why Republicans Are Saying the Polls Are Wrong]]></title>
+            <description><![CDATA[Republicans argue that pollsters are undercounting their voters. That's happened in past elections in the Trump era.]]></description>
             <link>https://time.com/article/2026/10/27/republicans-say-the-polls-are-wrong-could-that-be-true-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/27/republicans-say-the-polls-are-wrong-could-that-be-true-/</guid>
             <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
             <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trump Administration to Grant Visa to Flavio Bolsonaro Amid Election Loss, Money Laundering Investigation]]></title>
+            <title><![CDATA[Flávio Bolsonaro Flees Brazil Amid Financial Crime Investigations]]></title>
             <link>https://time.com/article/2026/10/27/brazil-flavio-bolsonaro-money-laundering-supreme-court-lula/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/27/brazil-flavio-bolsonaro-money-laundering-supreme-court-lula/</guid>
             <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
@@ -72,6 +78,7 @@
             <title><![CDATA[How the War in Iran Could Escalate]]></title>
             <link>https://time.com/article/2026/10/27/how-the-war-in-iran-could-escalate/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/27/how-the-war-in-iran-could-escalate/</guid>
+            <dc:creator><![CDATA[Hamidreza Azizi]]></dc:creator>
             <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3323,13 +3330,6 @@
             <link>https://time.com/article/2026/09/03/how-9-11-shaped-my-life/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/03/how-9-11-shaped-my-life/</guid>
             <dc:creator><![CDATA[TIME Staff]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Review: 'Wild Horse Nine']]></title>
-            <link>https://time.com/article/2026/09/03/wild-horse-nine-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/03/wild-horse-nine-review/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
