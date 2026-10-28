@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Oct 2026 16:54:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 21:26:54 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Oct 2026 16:54:25 GMT</pubDate>
+        <pubDate>Wed, 28 Oct 2026 21:26:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Mbappé Apologizes After ‘Dictator’ Mao Comment: What to Know]]></title>
@@ -26,7 +26,6 @@
             <title><![CDATA[What to Say to Someone Having Intrusive Thoughts]]></title>
             <link>https://time.com/article/2026/10/28/what-to-say-intrusive-thoughts/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/28/what-to-say-intrusive-thoughts/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -34,6 +33,33 @@
             <link>https://time.com/article/2026/10/28/being-heumann-movie-essay/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/28/being-heumann-movie-essay/</guid>
             <dc:creator><![CDATA[Rebekah Taussig]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Activist Dolores Huerta Dies at 96. Here's What To Know About Her Trailblazing Life]]></title>
+            <link>https://time.com/article/2026/10/28/dolores-huerta-dies/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/28/dolores-huerta-dies/</guid>
+            <dc:creator><![CDATA[Jasmine Aguilera]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NASA's Artemis III Mission Will Be One of its Most Complex Flights Ever]]></title>
+            <link>https://time.com/article/2026/10/28/nasa-artemis-III-complex-mission/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/28/nasa-artemis-III-complex-mission/</guid>
+            <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[America's Favorite Brands, By Generation]]></title>
+            <description><![CDATA[See how different generations view popular brands in a survey by TIME and Statista.]]></description>
+            <link>https://time.com/article/2026/10/28/americas-best-brands-by-generation/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/28/americas-best-brands-by-generation/</guid>
+            <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Peptide Rush Has Begun]]></title>
+            <link>https://time.com/article/2026/10/28/peptide-rush-has-begun/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/28/peptide-rush-has-begun/</guid>
+            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
             <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -57,10 +83,9 @@
             <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Israeli Exit Polls Too Close to Call After Pivotal Election]]></title>
+            <title><![CDATA[As Israelis Await Final Election Results, Netanyahu and Rival Face Tough Path to Power]]></title>
             <link>https://time.com/article/2026/10/27/israel-netanyahu-eisenkot-knesset-election-explainer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/27/israel-netanyahu-eisenkot-knesset-election-explainer/</guid>
-            <dc:creator><![CDATA[Chad de Guzman, Olivia-Anne Cleary, Callum Sutherland and Annika Neklason]]></dc:creator>
             <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -72,9 +97,10 @@
             <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Flávio Bolsonaro Flees Brazil Amid Financial Crime Investigations]]></title>
+            <title><![CDATA[Flávio Bolsonaro Flees to Miami After Brazil Election Loss]]></title>
             <link>https://time.com/article/2026/10/27/brazil-flavio-bolsonaro-money-laundering-supreme-court-lula/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/27/brazil-flavio-bolsonaro-money-laundering-supreme-court-lula/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam and Connor Greene]]></dc:creator>
             <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -135,7 +161,6 @@
             <title><![CDATA[What Early Voting Data Is Showing About the Midterm Elections]]></title>
             <link>https://time.com/article/2026/10/27/midterm-elections-early-voting-data-democrats-republicans-hispanic-voters/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/27/midterm-elections-early-voting-data-democrats-republicans-hispanic-voters/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3307,33 +3332,6 @@
             <link>https://time.com/article/2026/09/04/white-house-arcade-trump-agenda-immigration/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/04/white-house-arcade-trump-agenda-immigration/</guid>
             <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Support Someone With Postpartum Depression]]></title>
-            <link>https://time.com/article/2026/09/04/how-to-support-someone-postpartum-depression/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/04/how-to-support-someone-postpartum-depression/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Review: Werner Herzog's 'Bucking Fastard']]></title>
-            <link>https://time.com/article/2026/09/04/bucking-fastard-review-werner-herzog/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/04/bucking-fastard-review-werner-herzog/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Falklands Dispute Escalates With Milei Seizing on Trump's Comments]]></title>
-            <link>https://time.com/article/2026/09/04/falkland-islands-britain-argentina-sovereignty-dispute-Milei-threats-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/04/falkland-islands-britain-argentina-sovereignty-dispute-Milei-threats-trump/</guid>
-            <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Feminist Activist and Icon Gloria Steinem Dies at 92]]></title>
-            <link>https://time.com/article/2026/09/03/gloria-steinem-dead-at-92-feminist-activist-icon-tributes/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/03/gloria-steinem-dead-at-92-feminist-activist-icon-tributes/</guid>
-            <dc:creator><![CDATA[Olivia-Anne Cleary]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
