@@ -4,10 +4,38 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2026 07:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 14:48:07 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Oct 2026 07:50:33 GMT</pubDate>
+        <pubDate>Thu, 29 Oct 2026 14:48:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump's Approval Is Historically Low This Close to the Midterms]]></title>
+            <description><![CDATA[Here's where other presidents' approval ratings stood before the midterm elections, and how their parties fared.]]></description>
+            <link>https://time.com/article/2026/10/29/trump-approval-rating-midterm-elections-republicans/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/29/trump-approval-rating-midterm-elections-republicans/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ohio’s Data-Center Revolt Is Upending the Midterms]]></title>
+            <link>https://time.com/article/2026/10/29/ohio-data-center-revolt-upending-midterms/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/29/ohio-data-center-revolt-upending-midterms/</guid>
+            <dc:creator><![CDATA[Naomi Nix]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spanish Transport Minister Blames Train Crash That Killed 68 on ‘Inexplicable’ Error]]></title>
+            <link>https://time.com/article/2026/10/29/spain-high-speed-train-crash-cause-inexplicable-human-error-transport/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/29/spain-high-speed-train-crash-cause-inexplicable-human-error-transport/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Halloween Is a Chance to Rethink Your Relationship With Fear]]></title>
+            <link>https://time.com/article/2026/10/29/halloween-is-a-chance-to-rethink-your-relationship-with-fear/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/29/halloween-is-a-chance-to-rethink-your-relationship-with-fear/</guid>
+            <pubDate>Thu, 29 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mbappé Apologizes After ‘Dictator’ Mao Comment: What to Know]]></title>
             <link>https://time.com/article/2026/10/28/kylian-mbappe-china-mao-zedong-dictator-meme-backlash-controversy-explainer/</link>
@@ -16,16 +44,15 @@
         </item>
         <item>
             <title><![CDATA[How Trump Could Interfere With the Midterms—At Every Step]]></title>
-            <description><![CDATA[Here’s how the Trump Administration could potentially interfere in each step of the election process—and how states are preparing to fight back.]]></description>
             <link>https://time.com/article/2026/10/28/Trump-voting-election-interference-ballots-DOJ-fraud-investigation/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/28/Trump-voting-election-interference-ballots-DOJ-fraud-investigation/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What to Say to Someone Having Intrusive Thoughts]]></title>
             <link>https://time.com/article/2026/10/28/what-to-say-intrusive-thoughts/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/28/what-to-say-intrusive-thoughts/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -39,7 +66,6 @@
             <title><![CDATA[Activist Dolores Huerta Dies at 96. Here's What To Know About Her Trailblazing Life]]></title>
             <link>https://time.com/article/2026/10/28/dolores-huerta-dies/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/28/dolores-huerta-dies/</guid>
-            <dc:creator><![CDATA[Jasmine Aguilera]]></dc:creator>
             <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -59,14 +85,20 @@
             <title><![CDATA[The Peptide Rush Has Begun]]></title>
             <link>https://time.com/article/2026/10/28/peptide-rush-has-begun/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/28/peptide-rush-has-begun/</guid>
-            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I Thought Running Would Make Me Worthy of Love]]></title>
+            <link>https://time.com/article/2026/10/28/i-thought-running-would-make-me-worthy-of-love/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/28/i-thought-running-would-make-me-worthy-of-love/</guid>
+            <dc:creator><![CDATA[Nickademus de la Rosa]]></dc:creator>
             <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Electrostates Could Redraw The Global Economy]]></title>
             <link>https://time.com/article/2026/10/27/electrostates-global-economy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/27/electrostates-global-economy/</guid>
-            <dc:creator><![CDATA[Jan Rosenow and Maria Mendiluce]]></dc:creator>
+            <dc:creator><![CDATA[Jan Rosenow]]></dc:creator>
             <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -114,6 +146,7 @@
             <title><![CDATA[ICE Does Not Belong at the Polls]]></title>
             <link>https://time.com/article/2026/10/27/ice-does-not-belong-at-the-polls/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/27/ice-does-not-belong-at-the-polls/</guid>
+            <dc:creator><![CDATA[Wendy Weiser]]></dc:creator>
             <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -140,7 +173,6 @@
             <title><![CDATA[The New Relationship Minefield: Your Partner’s AI Chats]]></title>
             <link>https://time.com/article/2026/10/27/new-relationship-minefield-partners-ai-chats/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/27/new-relationship-minefield-partners-ai-chats/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3301,37 +3333,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/09/05/putin-pauses-strikes-kyiv-trump-envoys-visit-russia-ukraine/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sat, 05 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Everyman Economics: Why Growth Requires Measuring More than GDP]]></title>
-            <link>https://time.com/article/2026/09/05/economics-capitalism-growth-inequality-gdp/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/05/economics-capitalism-growth-inequality-gdp/</guid>
-            <pubDate>Sat, 05 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why You Shouldn’t Work on Labor Day]]></title>
-            <link>https://time.com/article/2026/09/04/why-you-shouldn-t-work-on-labor-day/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/04/why-you-shouldn-t-work-on-labor-day/</guid>
-            <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI Will Transform Work, But It Can't Replace Relationships]]></title>
-            <link>https://time.com/article/2026/09/04/ai-will-transform-work-but-it-can-t-replace-relationships/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/04/ai-will-transform-work-but-it-can-t-replace-relationships/</guid>
-            <dc:creator><![CDATA[Tom Flanagan]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who Is Adam Telle, Trump’s New Acting Army Secretary?]]></title>
-            <link>https://time.com/article/2026/09/04/adam-telle-acting-army-secretary-trump-driscoll-resignation/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/04/adam-telle-acting-army-secretary-trump-driscoll-resignation/</guid>
-            <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[White House Promotes Trump Agenda in ‘Arcade’ Video Games]]></title>
-            <link>https://time.com/article/2026/09/04/white-house-arcade-trump-agenda-immigration/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/04/white-house-arcade-trump-agenda-immigration/</guid>
-            <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
