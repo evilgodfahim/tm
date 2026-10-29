@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2026 19:58:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 23:48:13 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Oct 2026 19:58:31 GMT</pubDate>
+        <pubDate>Thu, 29 Oct 2026 23:48:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump's Approval Is Historically Low This Close to the Midterms]]></title>
@@ -46,6 +46,12 @@
             <title><![CDATA[How Europe Is Defying Trump by Rallying Around the ICC]]></title>
             <link>https://time.com/article/2026/10/29/how-europe-is-defying-trump-by-rallying-around-the-icc/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/29/how-europe-is-defying-trump-by-rallying-around-the-icc/</guid>
+            <pubDate>Thu, 29 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tributes Pour In for Patrick Stewart, Who Has Died at 86]]></title>
+            <link>https://time.com/article/2026/10/29/patrick-stewart-death-tributes/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/29/patrick-stewart-death-tributes/</guid>
             <pubDate>Thu, 29 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3324,13 +3330,6 @@
             <link>https://time.com/article/2026/09/06/what-the-pentagon-s-sweeping-polygraph-hunt-has-revealed/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/06/what-the-pentagon-s-sweeping-polygraph-hunt-has-revealed/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Review: Robert Pattinson in 'Primetime']]></title>
-            <link>https://time.com/article/2026/09/06/primetime-review-robert-pattinson/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/06/primetime-review-robert-pattinson/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Sun, 06 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
