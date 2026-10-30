@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 16:53:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 21:15:45 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 Oct 2026 16:53:15 GMT</pubDate>
+        <pubDate>Fri, 30 Oct 2026 21:15:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Review: 'The Only Living Pickpocket in New York']]></title>
@@ -64,6 +64,33 @@
             <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[House Democrats Demand Trump Preserve Grok AI Chats After TIME Report]]></title>
+            <link>https://time.com/article/2026/10/30/house-democrats-trump-grok-ai-chats-musk/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/30/house-democrats-trump-grok-ai-chats-musk/</guid>
+            <dc:creator><![CDATA[Eric Cortellessa and Nik Popli]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carney Sets Target for Canada Becoming E.U.'s First 'Associate' Member]]></title>
+            <link>https://time.com/article/2026/10/30/canada-eu-membership-associate-partnership-us-trade-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/30/canada-eu-membership-associate-partnership-us-trade-war/</guid>
+            <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Muhammad Ali Series 'The Greatest': TV Review]]></title>
+            <link>https://time.com/article/2026/10/30/greatest-review-2026-amazon/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/30/greatest-review-2026-amazon/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How a Democratic Wave Could Change the Way Companies Talk About Climate]]></title>
+            <link>https://time.com/article/2026/10/30/democrats-midterms-corporate-climate-action/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/30/democrats-midterms-corporate-climate-action/</guid>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Trump's Approval Is Historically Low This Close to the Midterms]]></title>
             <link>https://time.com/article/2026/10/29/trump-approval-rating-midterm-elections-republicans/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/29/trump-approval-rating-midterm-elections-republicans/</guid>
@@ -99,7 +126,6 @@
             <title><![CDATA[How Europe Is Defying Trump by Rallying Around the ICC]]></title>
             <link>https://time.com/article/2026/10/29/how-europe-is-defying-trump-by-rallying-around-the-icc/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/29/how-europe-is-defying-trump-by-rallying-around-the-icc/</guid>
-            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
             <pubDate>Thu, 29 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -107,6 +133,13 @@
             <link>https://time.com/article/2026/10/29/patrick-stewart-death-tributes/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/29/patrick-stewart-death-tributes/</guid>
             <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Taxing Wealth Makes Sense, But It Won’t Fix Our Economy]]></title>
+            <link>https://time.com/article/2026/10/29/taxing-wealth-makes-sense-but-it-won-t-fix-our-economy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/29/taxing-wealth-makes-sense-but-it-won-t-fix-our-economy/</guid>
+            <dc:creator><![CDATA[Mariana Mazzucato]]></dc:creator>
             <pubDate>Thu, 29 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -172,7 +205,7 @@
             <title><![CDATA[Electrostates Could Redraw The Global Economy]]></title>
             <link>https://time.com/article/2026/10/27/electrostates-global-economy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/27/electrostates-global-economy/</guid>
-            <dc:creator><![CDATA[Jan Rosenow]]></dc:creator>
+            <dc:creator><![CDATA[Jan Rosenow and Maria Mendiluce]]></dc:creator>
             <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3301,39 +3334,6 @@
             <link>https://time.com/article/2026/09/08/why-reading-confessions-online-feels-good/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/08/why-reading-confessions-online-feels-good/</guid>
             <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Write a To-Do List Before Bed]]></title>
-            <link>https://time.com/article/2026/09/08/how-to-fall-asleep-faster-to-do-list/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/08/how-to-fall-asleep-faster-to-do-list/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the U.K., Canada, and France Are Banning Trade With Israeli Settlements]]></title>
-            <link>https://time.com/article/2026/09/08/why-the-u-k-canada-and-france-are-banning-trade-with-israeli-settlements/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/08/why-the-u-k-canada-and-france-are-banning-trade-with-israeli-settlements/</guid>
-            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yes, There Has Been an Uptick in High-Profile Art Heists. Here’s Why]]></title>
-            <link>https://time.com/article/2026/09/08/-we-are-under-siege-renoir-heist-joins-an-art-thievery-trend/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/08/-we-are-under-siege-renoir-heist-joins-an-art-thievery-trend/</guid>
-            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We Must Defend the Refugee Convention]]></title>
-            <link>https://time.com/article/2026/09/08/we-must-defend-the-refugee-convention/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/08/we-must-defend-the-refugee-convention/</guid>
-            <dc:creator><![CDATA[Theo James]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Promise of the Kurdish Peace]]></title>
-            <link>https://time.com/article/2026/09/08/the-promise-of-the-kurdish-peace/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/08/the-promise-of-the-kurdish-peace/</guid>
-            <dc:creator><![CDATA[Galip Dalay]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
