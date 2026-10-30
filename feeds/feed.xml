@@ -4,14 +4,63 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 10:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 16:53:15 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 Oct 2026 10:36:38 GMT</pubDate>
+        <pubDate>Fri, 30 Oct 2026 16:53:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Review: 'The Only Living Pickpocket in New York']]></title>
             <link>https://time.com/article/2026/10/30/only-living-pickpocket-in-new-york-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/30/only-living-pickpocket-in-new-york-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Key Congressional Races to Watch on Election Night]]></title>
+            <link>https://time.com/article/2026/10/30/the-key-congressional-races-to-watch-on-election-night/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/30/the-key-congressional-races-to-watch-on-election-night/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cybersecurity Is Economic Security]]></title>
+            <link>https://time.com/article/2026/10/30/cybersecurity-is-economic-security/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/30/cybersecurity-is-economic-security/</guid>
+            <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Running a Marathon Good for Your Heart?]]></title>
+            <link>https://time.com/article/2026/10/30/is-running-a-marathon-good-for-your-heart/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/30/is-running-a-marathon-good-for-your-heart/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[John Turturro on 'The Only Living Pickpocket in New York']]></title>
+            <link>https://time.com/article/2026/10/30/john-turturro-interview-only-living-pickpocket-in-new-york/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/30/john-turturro-interview-only-living-pickpocket-in-new-york/</guid>
+            <dc:creator><![CDATA[Eliza Berman]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The True Story Behind 'The Mosquito Bowl']]></title>
+            <link>https://time.com/article/2026/10/30/the-true-story-behind-the-mosquito-bowl/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/30/the-true-story-behind-the-mosquito-bowl/</guid>
+            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Groundswell of Water Solutions in the Himalayas]]></title>
+            <link>https://time.com/article/2026/10/30/himalayas-climate-water-solutions/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/30/himalayas-climate-water-solutions/</guid>
+            <dc:creator><![CDATA[Anna Fiorentino]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Key Climate Issues to Watch In The Midterm Elections]]></title>
+            <link>https://time.com/article/2026/10/30/top-climate-issues-midterm-elections/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/30/top-climate-issues-midterm-elections/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3286,50 +3335,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/09/08/the-promise-of-the-kurdish-peace/</guid>
             <dc:creator><![CDATA[Galip Dalay]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Truth Behind 'A Killer Story']]></title>
-            <link>https://time.com/article/2026/09/08/a-killer-story-hbo-dana-chandler/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/08/a-killer-story-hbo-dana-chandler/</guid>
-            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The True Story Behind 'The Uprising']]></title>
-            <link>https://time.com/article/2026/09/08/the-true-story-behind-the-uprising/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/08/the-true-story-behind-the-uprising/</guid>
-            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How 'The Early Spring' Ends]]></title>
-            <link>https://time.com/article/2026/09/08/breaking-down-the-ending-of-netflix-s-chinese-drama-the-early-spring/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/08/breaking-down-the-ending-of-netflix-s-chinese-drama-the-early-spring/</guid>
-            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At Least Five Killed in Amazon Prime Air Cargo Plane Crash in Miami]]></title>
-            <link>https://time.com/article/2026/09/07/miami-airport-plane-overshoot-runway-amazon-cargo/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/07/miami-airport-plane-overshoot-runway-amazon-cargo/</guid>
-            <pubDate>Mon, 07 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Merz Under Pressure After Far-Right Party Emerges Victorious in State Election]]></title>
-            <link>https://time.com/article/2026/09/07/germany-saxony-anhalt-election-afd-party-far-right-ulrich-siegmund/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/07/germany-saxony-anhalt-election-afd-party-far-right-ulrich-siegmund/</guid>
-            <pubDate>Mon, 07 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Shares Map Renaming New Mexico as 'New America']]></title>
-            <link>https://time.com/article/2026/09/07/trump-shares-map-renaming-new-mexico-as-new-america-amid-uproar/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/07/trump-shares-map-renaming-new-mexico-as-new-america-amid-uproar/</guid>
-            <pubDate>Mon, 07 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[E.U. Pledges Investments and 'Full Solidarity' With Greenland Amid Trump’s Threats]]></title>
-            <link>https://time.com/article/2026/09/07/greenland-investment-boost-eu-trump-annexation-threats/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/07/greenland-investment-boost-eu-trump-annexation-threats/</guid>
-            <pubDate>Mon, 07 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
