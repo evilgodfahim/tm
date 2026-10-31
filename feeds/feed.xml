@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 07:46:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 14:04:30 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 31 Oct 2026 07:46:26 GMT</pubDate>
+        <pubDate>Sat, 31 Oct 2026 14:04:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The True Story Behind 'Everest: The Other Side']]></title>
@@ -23,6 +23,20 @@
             <pubDate>Sat, 31 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Americans Lost Nearly $18B Last Year to Cyberscams. What Can Congress Do?]]></title>
+            <description><![CDATA[A Congressional investigation identifies gaps in federal efforts to help Americans recover billions of dollars lost to scammers online.]]></description>
+            <link>https://time.com/article/2026/10/31/americans-lost-nearly-18-billion-last-year-to-cyberscams-is-washington-doing-enough-to-help-them-get-it-back-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/31/americans-lost-nearly-18-billion-last-year-to-cyberscams-is-washington-doing-enough-to-help-them-get-it-back-/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sat, 31 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why You Shouldn't Toss Halloween Pumpkins In The Trash]]></title>
+            <link>https://time.com/article/2026/10/31/compost-halloween-pumpkins/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/31/compost-halloween-pumpkins/</guid>
+            <pubDate>Sat, 31 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Review: 'The Only Living Pickpocket in New York']]></title>
             <link>https://time.com/article/2026/10/30/only-living-pickpocket-in-new-york-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/30/only-living-pickpocket-in-new-york-review/</guid>
@@ -33,7 +47,6 @@
             <title><![CDATA[The Key Congressional Races to Watch on Election Night]]></title>
             <link>https://time.com/article/2026/10/30/the-key-congressional-races-to-watch-on-election-night/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/30/the-key-congressional-races-to-watch-on-election-night/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -126,7 +139,6 @@
         </item>
         <item>
             <title><![CDATA[Ohio’s Data-Center Revolt Is Upending the Midterms]]></title>
-            <description><![CDATA[In conservative Ohio, the pushback against data centers may propel Democrats at the polls.]]></description>
             <link>https://time.com/article/2026/10/29/ohio-data-center-revolt-upending-midterms/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/29/ohio-data-center-revolt-upending-midterms/</guid>
             <dc:creator><![CDATA[Naomi Nix]]></dc:creator>
@@ -3322,18 +3334,6 @@
             <title><![CDATA[Key Democrat Plans Ballroom Probe If Party Wins House]]></title>
             <link>https://time.com/article/2026/09/08/exclusive-obscure-committee-set-to-be-at-center-of-trump-fight-if-democrats-win-house/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/08/exclusive-obscure-committee-set-to-be-at-center-of-trump-fight-if-democrats-win-house/</guid>
-            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran Threatens to Target U.S. Energy Assets in Gulf If U.S. Strikes Again]]></title>
-            <link>https://time.com/article/2026/09/08/iran-us-war-strait-of-hormuz-gulf-targets/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/08/iran-us-war-strait-of-hormuz-gulf-targets/</guid>
-            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mamdani Launches Public Portal With 170,000 Pages of 9/11 Records]]></title>
-            <link>https://time.com/article/2026/09/08/mamdani-to-release-9-11-related-documents/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/08/mamdani-to-release-9-11-related-documents/</guid>
             <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
