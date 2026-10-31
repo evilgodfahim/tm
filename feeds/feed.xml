@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 21:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 01:16:13 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 Oct 2026 21:15:45 GMT</pubDate>
+        <pubDate>Sat, 31 Oct 2026 01:16:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The True Story Behind 'Everest: The Other Side']]></title>
+            <link>https://time.com/article/2026/10/31/everest-the-other-side-documentary/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/31/everest-the-other-side-documentary/</guid>
+            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
+            <pubDate>Sat, 31 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Review: 'The Only Living Pickpocket in New York']]></title>
             <link>https://time.com/article/2026/10/30/only-living-pickpocket-in-new-york-review/</link>
@@ -88,6 +95,20 @@
             <link>https://time.com/article/2026/10/30/democrats-midterms-corporate-climate-action/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/30/democrats-midterms-corporate-climate-action/</guid>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Ending of 'Dead End Job']]></title>
+            <link>https://time.com/article/2026/10/30/dead-end-job-ending-explained/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/30/dead-end-job-ending-explained/</guid>
+            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Advocates for Children Call for AI Guardrails]]></title>
+            <link>https://time.com/article/2026/10/30/ai-kids-common-sense-media/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/30/ai-kids-common-sense-media/</guid>
+            <dc:creator><![CDATA[Belinda Luscombe]]></dc:creator>
             <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3313,27 +3334,6 @@
             <link>https://time.com/article/2026/09/08/losing-health-insurance-affects-everyone/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/08/losing-health-insurance-affects-everyone/</guid>
             <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Leaders AI Innovation Needs]]></title>
-            <link>https://time.com/article/2026/09/08/the-leaders-ai-innovation-needs/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/08/the-leaders-ai-innovation-needs/</guid>
-            <dc:creator><![CDATA[Linda A. Hill]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Growing Push to Ban Superintelligent AI]]></title>
-            <link>https://time.com/article/2026/09/08/ban-superintelligence-ai-uk-us-lawmakers/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/08/ban-superintelligence-ai-uk-us-lawmakers/</guid>
-            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Reading People's Confessions Online Feels So Good]]></title>
-            <link>https://time.com/article/2026/09/08/why-reading-confessions-online-feels-good/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/08/why-reading-confessions-online-feels-good/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
