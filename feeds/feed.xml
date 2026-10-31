@@ -4,15 +4,22 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 01:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 07:46:26 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 31 Oct 2026 01:16:13 GMT</pubDate>
+        <pubDate>Sat, 31 Oct 2026 07:46:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The True Story Behind 'Everest: The Other Side']]></title>
             <link>https://time.com/article/2026/10/31/everest-the-other-side-documentary/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/31/everest-the-other-side-documentary/</guid>
             <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
+            <pubDate>Sat, 31 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: The Mosquito Bowl]]></title>
+            <link>https://time.com/article/2026/10/31/the-mosquito-bowl-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/31/the-mosquito-bowl-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Sat, 31 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3327,13 +3334,6 @@
             <title><![CDATA[Mamdani Launches Public Portal With 170,000 Pages of 9/11 Records]]></title>
             <link>https://time.com/article/2026/09/08/mamdani-to-release-9-11-related-documents/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/08/mamdani-to-release-9-11-related-documents/</guid>
-            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More Americans Are Losing Health Insurance—And Everyone Will Pay]]></title>
-            <link>https://time.com/article/2026/09/08/losing-health-insurance-affects-everyone/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/08/losing-health-insurance-affects-everyone/</guid>
-            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
