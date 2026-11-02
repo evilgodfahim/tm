@@ -4,16 +4,37 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Nov 2026 03:33:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 11:51:47 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Nov 2026 03:33:42 GMT</pubDate>
+        <pubDate>Mon, 02 Nov 2026 11:51:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump Invites Haley Stevens to Join GOP as Democrats Condemn Her ‘Betrayal’]]></title>
+            <description><![CDATA[The Democratic congresswoman from Michigan endorsed a Republican nominee for U.S. Senate, potentially upending the race.]]></description>
+            <link>https://time.com/article/2026/11/02/haley-stevens-abdul-el-sayed-mike-rogers-endorsement-trump-republicans-democrats/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/02/haley-stevens-abdul-el-sayed-mike-rogers-endorsement-trump-republicans-democrats/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Top House Democrat Now Backs Impeaching Trump and Hegseth]]></title>
+            <link>https://time.com/article/2026/11/02/top-house-armed-services-democrat-backs-impeaching-trump-and-hegseth/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/02/top-house-armed-services-democrat-backs-impeaching-trump-and-hegseth/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump Officials Are Hitting the Campaign Trail. Are They Allowed To?]]></title>
             <description><![CDATA[Legal experts and advocacy groups contend that in seeking to boost Republicans ahead of the midterms, members of the Administration have violated a decades-old law.]]></description>
             <link>https://time.com/article/2026/11/01/trump-administration-officials-midterm-elections-hatch-act/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/01/trump-administration-officials-midterm-elections-hatch-act/</guid>
             <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Sun, 01 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Doctors Are Last to Know What’s in the Drug Supply]]></title>
+            <link>https://time.com/article/2026/11/01/why-doctors-are-last-to-know-what-s-in-the-drug-supply/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/01/why-doctors-are-last-to-know-what-s-in-the-drug-supply/</guid>
             <pubDate>Sun, 01 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -40,6 +61,7 @@
             <title><![CDATA[Why You Shouldn't Toss Halloween Pumpkins In The Trash]]></title>
             <link>https://time.com/article/2026/10/31/compost-halloween-pumpkins/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/31/compost-halloween-pumpkins/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Sat, 31 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -142,7 +164,12 @@
             <title><![CDATA[Advocates for Children Call for AI Guardrails]]></title>
             <link>https://time.com/article/2026/10/30/ai-kids-common-sense-media/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/30/ai-kids-common-sense-media/</guid>
-            <dc:creator><![CDATA[Belinda Luscombe]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 Candidates Who Could Make History in the Midterms]]></title>
+            <link>https://time.com/article/2026/10/30/midterms-senate-governor-elections-race-gender-religion-history-nationwide-firsts/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/30/midterms-senate-governor-elections-race-gender-religion-history-nationwide-firsts/</guid>
             <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3309,31 +3336,6 @@
             <link>https://time.com/article/2026/09/09/easy-recycling-mistakes-to-avoid/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/09/easy-recycling-mistakes-to-avoid/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What the U.S. and Canada’s Trade War Could Mean for Prices]]></title>
-            <link>https://time.com/article/2026/09/09/us-canada-trade-war-tariffs-prices/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/09/us-canada-trade-war-tariffs-prices/</guid>
-            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Anthropic Researcher Quit Over Fears AI Could Kill Us. Here’s Why]]></title>
-            <link>https://time.com/article/2026/09/09/ai-anthropic-openai-jacob-coxon/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/09/ai-anthropic-openai-jacob-coxon/</guid>
-            <dc:creator><![CDATA[Harry Booth]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet the Canadians Boycotting American Products as Trade Rift Widens]]></title>
-            <link>https://time.com/article/2026/09/09/buy-canadian-movement-consumers-us-products-boycott-trump-trade-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/09/buy-canadian-movement-consumers-us-products-boycott-trump-trade-war/</guid>
-            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the U.S. Treasury's Sanctions on Iran Extend Beyond Tehran]]></title>
-            <link>https://time.com/article/2026/09/09/us-treasury-iran-sanctions-aviation-global-impact-economy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/09/us-treasury-iran-sanctions-aviation-global-impact-economy/</guid>
             <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
