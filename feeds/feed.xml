@@ -4,10 +4,25 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 03:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 11:29:31 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Nov 2026 03:11:42 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 11:29:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Trump Is Spending Election Day and Night]]></title>
+            <description><![CDATA[Ahead of Election Day, Trump packed his schedule with back-to-back tele-rallies for Republican candidates.]]></description>
+            <link>https://time.com/article/2026/11/03/what-is-trump-planning-to-do-on-election-day-midterm/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/03/what-is-trump-planning-to-do-on-election-day-midterm/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Almost Every Corporate AI Transformation Fails]]></title>
+            <link>https://time.com/article/2026/11/03/why-almost-every-corporate-ai-transformation-fails/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/03/why-almost-every-corporate-ai-transformation-fails/</guid>
+            <dc:creator><![CDATA[Kai-Fu Lee]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump Invites Haley Stevens to Join GOP as Democrats Condemn Her ‘Betrayal’]]></title>
             <link>https://time.com/article/2026/11/02/haley-stevens-abdul-el-sayed-mike-rogers-endorsement-trump-republicans-democrats/</link>
@@ -18,14 +33,12 @@
             <title><![CDATA[A Top House Democrat Now Backs Impeaching Trump and Hegseth]]></title>
             <link>https://time.com/article/2026/11/02/top-house-armed-services-democrat-backs-impeaching-trump-and-hegseth/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/02/top-house-armed-services-democrat-backs-impeaching-trump-and-hegseth/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
             <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Could a Democrat Win the Senate Race in Deep-Red South Carolina?]]></title>
             <link>https://time.com/article/2026/11/02/south-carolina-senate-midterm-elections-lindsey-graham-darline-annie-andrews/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/02/south-carolina-senate-midterm-elections-lindsey-graham-darline-annie-andrews/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -37,10 +50,15 @@
         </item>
         <item>
             <title><![CDATA[Trump Delivers Closing Appeal Before the Midterms]]></title>
-            <description><![CDATA[Less than 24 hours before Election Day, Trump railed against Democrats and contended that if his supporters show up to the polls, Republicans “will win in a landslide.”]]></description>
             <link>https://time.com/article/2026/11/02/trump-2026-midterm-elections/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/02/trump-2026-midterm-elections/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Buttigieg and Warnock Became Democrats' Midterm MVPs]]></title>
+            <link>https://time.com/article/2026/11/02/how-pete-buttigieg-and-rafael-warnock-became-democrats-midterm-mvps/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/02/how-pete-buttigieg-and-rafael-warnock-became-democrats-midterm-mvps/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
             <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -102,6 +120,7 @@
             <title><![CDATA[The Key Congressional Races to Watch on Election Night]]></title>
             <link>https://time.com/article/2026/10/30/the-key-congressional-races-to-watch-on-election-night/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/30/the-key-congressional-races-to-watch-on-election-night/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -203,6 +222,7 @@
             <title><![CDATA[Ohio’s Data-Center Revolt Is Upending the Midterms]]></title>
             <link>https://time.com/article/2026/10/29/ohio-data-center-revolt-upending-midterms/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/29/ohio-data-center-revolt-upending-midterms/</guid>
+            <dc:creator><![CDATA[Naomi Nix]]></dc:creator>
             <pubDate>Thu, 29 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3316,26 +3336,6 @@
             <title><![CDATA[World's Best Companies of 2026]]></title>
             <link>https://time.com/article/2026/09/09/worlds-best-companies-of-2026/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/09/worlds-best-companies-of-2026/</guid>
-            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dating Apps Are Dying]]></title>
-            <link>https://time.com/article/2026/09/09/dating-apps-are-dying/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/09/dating-apps-are-dying/</guid>
-            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It's Head Lice Season. Here's What to Know]]></title>
-            <link>https://time.com/article/2026/09/09/head-lice-season-back-to-school-what-to-know/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/09/head-lice-season-back-to-school-what-to-know/</guid>
-            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[12 Questions to Ask Your Grandparents]]></title>
-            <link>https://time.com/article/2026/09/09/questions-to-ask-your-grandparents/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/09/questions-to-ask-your-grandparents/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
