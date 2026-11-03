@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 11:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 18:51:32 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Nov 2026 11:29:31 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 18:51:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How Trump Is Spending Election Day and Night]]></title>
-            <description><![CDATA[Ahead of Election Day, Trump packed his schedule with back-to-back tele-rallies for Republican candidates.]]></description>
             <link>https://time.com/article/2026/11/03/what-is-trump-planning-to-do-on-election-day-midterm/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/03/what-is-trump-planning-to-do-on-election-day-midterm/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
@@ -21,6 +20,40 @@
             <link>https://time.com/article/2026/11/03/why-almost-every-corporate-ai-transformation-fails/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/03/why-almost-every-corporate-ai-transformation-fails/</guid>
             <dc:creator><![CDATA[Kai-Fu Lee]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[8 Senate Races the Forecasters Can’t Agree On]]></title>
+            <link>https://time.com/article/2026/11/03/us-election-midterms-forecasters-analysis-senate-race-ratings/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/03/us-election-midterms-forecasters-analysis-senate-race-ratings/</guid>
+            <dc:creator><![CDATA[Ruairí Arrieta-Kenna]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[12 House Races That Forecasters See Going Different Ways]]></title>
+            <link>https://time.com/article/2026/11/03/us-election-midterms-forecasters-analysis-house-race-ratings/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/03/us-election-midterms-forecasters-analysis-house-race-ratings/</guid>
+            <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This Simple Rule Can Keep AI From Doing All Your Thinking]]></title>
+            <link>https://time.com/article/2026/11/03/brainstorm-ideas-before-asking-ai/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/03/brainstorm-ideas-before-asking-ai/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[E-Bike and E-Scooter Accidents Are Skyrocketing Among Children]]></title>
+            <link>https://time.com/article/2026/11/03/e-bike-e-scooter-accidents-skyrocketing-among-children/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/03/e-bike-e-scooter-accidents-skyrocketing-among-children/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Godzilla Minus Zero' Is a Response to 'Oppenheimer']]></title>
+            <link>https://time.com/article/2026/11/03/godzilla-minus-zero-Takashi-Yamazaki-interview/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/03/godzilla-minus-zero-Takashi-Yamazaki-interview/</guid>
+            <dc:creator><![CDATA[James Grebey]]></dc:creator>
             <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -120,7 +153,6 @@
             <title><![CDATA[The Key Congressional Races to Watch on Election Night]]></title>
             <link>https://time.com/article/2026/10/30/the-key-congressional-races-to-watch-on-election-night/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/30/the-key-congressional-races-to-watch-on-election-night/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -208,6 +240,7 @@
         </item>
         <item>
             <title><![CDATA[10 Candidates Who Could Make History in the Midterms]]></title>
+            <description><![CDATA[The 2026 midterms could see the U.S.’s first Muslim, first Native woman, and first openly gay man elected to the Senate, among other potential barrier-breakers.]]></description>
             <link>https://time.com/article/2026/10/30/midterms-senate-governor-elections-race-gender-religion-history-nationwide-firsts/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/30/midterms-senate-governor-elections-race-gender-religion-history-nationwide-firsts/</guid>
             <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
@@ -401,6 +434,7 @@
             <title><![CDATA[The New Relationship Minefield: Your Partner’s AI Chats]]></title>
             <link>https://time.com/article/2026/10/27/new-relationship-minefield-partners-ai-chats/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/27/new-relationship-minefield-partners-ai-chats/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3305,38 +3339,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/09/10/ai-should-be-a-wake-up-call-for-universities/</guid>
             <dc:creator><![CDATA[Arianna Huffington]]></dc:creator>
             <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[White House Removes ‘Build the Wall’ Game After Tetris Rebuke]]></title>
-            <link>https://time.com/article/2026/09/09/tetris-company-build-the-wall-video-game-trump-white-house/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/09/tetris-company-build-the-wall-video-game-trump-white-house/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iceland Summons U.S. Ambassador Over Trump’s Expansionist Map]]></title>
-            <link>https://time.com/article/2026/09/09/iceland-greenland-us-trump-map-ambassador-summons/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/09/iceland-greenland-us-trump-map-ambassador-summons/</guid>
-            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oil Hits $100 a Barrel for First Time Since July as U.S. and Iran Trade Strikes]]></title>
-            <link>https://time.com/article/2026/09/09/iran-us-base-jordan-oil-tankers-war-strikes/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/09/iran-us-base-jordan-oil-tankers-war-strikes/</guid>
-            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[With Midterm Convention, Trump Tries to Pull Party Out of Tailspin]]></title>
-            <link>https://time.com/article/2026/09/09/Republican-Convention-dallas-trump-how-to-watch/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/09/Republican-Convention-dallas-trump-how-to-watch/</guid>
-            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World's Best Companies of 2026]]></title>
-            <link>https://time.com/article/2026/09/09/worlds-best-companies-of-2026/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/09/worlds-best-companies-of-2026/</guid>
-            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
