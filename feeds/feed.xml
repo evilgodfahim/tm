@@ -4,15 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 18:51:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 23:51:17 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Nov 2026 18:51:32 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 23:51:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How Trump Is Spending Election Day and Night]]></title>
             <link>https://time.com/article/2026/11/03/what-is-trump-planning-to-do-on-election-day-midterm/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/03/what-is-trump-planning-to-do-on-election-day-midterm/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -54,6 +53,34 @@
             <link>https://time.com/article/2026/11/03/godzilla-minus-zero-Takashi-Yamazaki-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/03/godzilla-minus-zero-Takashi-Yamazaki-interview/</guid>
             <dc:creator><![CDATA[James Grebey]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live Updates: First Midterm Polls Close, With Hours of Voting Ahead in Other States]]></title>
+            <description><![CDATA[The outcome of Tuesday's elections will shape the rest of Trump's presidency.]]></description>
+            <link>https://time.com/article/2026/11/03/midterm-elections-2026-key-races-live-results-polls-latest-news-updates/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/03/midterm-elections-2026-key-races-live-results-polls-latest-news-updates/</guid>
+            <dc:creator><![CDATA[TIME Staff]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When Will We Know the Results of the Midterm Elections?]]></title>
+            <link>https://time.com/article/2026/11/03/2026-midterm-elections-polls-close-results-when/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/03/2026-midterm-elections-polls-close-results-when/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Astronauts Are Casting Their Midterm Votes From Space]]></title>
+            <link>https://time.com/article/2026/11/03/how-astronauts-are-casting-their-midterm-votes-from-space/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/03/how-astronauts-are-casting-their-midterm-votes-from-space/</guid>
+            <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why India Cannot Rise With Weak State Capacity]]></title>
+            <link>https://time.com/article/2026/11/03/india-global-rise-problem-weak-state-capacity/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/03/india-global-rise-problem-weak-state-capacity/</guid>
+            <dc:creator><![CDATA[Devesh Kapur]]></dc:creator>
             <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -106,6 +133,7 @@
             <title><![CDATA[Why Doctors Are Last to Know What’s in the Drug Supply]]></title>
             <link>https://time.com/article/2026/11/01/why-doctors-are-last-to-know-what-s-in-the-drug-supply/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/01/why-doctors-are-last-to-know-what-s-in-the-drug-supply/</guid>
+            <dc:creator><![CDATA[Dr. Shravani Durbhakula]]></dc:creator>
             <pubDate>Sun, 01 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -143,6 +171,13 @@
             <pubDate>Sat, 31 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Why We Like to Be Scared]]></title>
+            <link>https://time.com/article/2026/10/31/why-we-like-to-be-scared/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/31/why-we-like-to-be-scared/</guid>
+            <dc:creator><![CDATA[Coltan Scrivner]]></dc:creator>
+            <pubDate>Sat, 31 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Review: 'The Only Living Pickpocket in New York']]></title>
             <link>https://time.com/article/2026/10/30/only-living-pickpocket-in-new-york-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/30/only-living-pickpocket-in-new-york-review/</guid>
@@ -153,6 +188,7 @@
             <title><![CDATA[The Key Congressional Races to Watch on Election Night]]></title>
             <link>https://time.com/article/2026/10/30/the-key-congressional-races-to-watch-on-election-night/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/30/the-key-congressional-races-to-watch-on-election-night/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -790,6 +826,12 @@
             <link>https://time.com/article/2026/10/21/un-emissions-gap-report-what-to-know/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/21/un-emissions-gap-report-what-to-know/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 Key Governor Races to Watch in the Midterms]]></title>
+            <link>https://time.com/article/2026/10/21/governor-races-to-watch-in-the-midterms/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/10/21/governor-races-to-watch-in-the-midterms/</guid>
             <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3297,47 +3339,6 @@
             <link>https://time.com/article/2026/09/10/thousands-of-food-packaging-chemicals-lack-safety-data/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/10/thousands-of-food-packaging-chemicals-lack-safety-data/</guid>
             <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Treat Age Spots Without Damaging Your Skin]]></title>
-            <link>https://time.com/article/2026/09/10/how-to-treat-age-spots-without-damaging-your-skin/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/10/how-to-treat-age-spots-without-damaging-your-skin/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Voters Are Turning to AI for Election Help. The Answers Aren't Always Right]]></title>
-            <link>https://time.com/article/2026/09/10/election-voting-gemini-chatgpt-claude/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/10/election-voting-gemini-chatgpt-claude/</guid>
-            <dc:creator><![CDATA[Naomi Nix]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI Is Developing a Culture of Its Own. That Could Be Dangerous]]></title>
-            <link>https://time.com/article/2026/09/10/ai-openai-hugging-face-hack-culture-swarm/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/10/ai-openai-hugging-face-hack-culture-swarm/</guid>
-            <dc:creator><![CDATA[Tharin Pillay]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Promises $500 Obamacare Refunds. Here's Who Qualifies]]></title>
-            <link>https://time.com/article/2026/09/10/trump-obamacare-refunds/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/10/trump-obamacare-refunds/</guid>
-            <dc:creator><![CDATA[Annika Neklason]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Incredible Shrinking Planet Mercury]]></title>
-            <link>https://time.com/article/2026/09/10/mercury-shrinking-study/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/10/mercury-shrinking-study/</guid>
-            <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI Should Be a Wake-Up Call For Universities]]></title>
-            <link>https://time.com/article/2026/09/10/ai-should-be-a-wake-up-call-for-universities/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/10/ai-should-be-a-wake-up-call-for-universities/</guid>
-            <dc:creator><![CDATA[Arianna Huffington]]></dc:creator>
             <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
