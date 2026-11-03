@@ -4,16 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Nov 2026 21:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 03:11:42 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Nov 2026 21:07:57 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 03:11:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump Invites Haley Stevens to Join GOP as Democrats Condemn Her ‘Betrayal’]]></title>
-            <description><![CDATA[The Democratic congresswoman from Michigan endorsed a Republican nominee for U.S. Senate, potentially upending the race.]]></description>
             <link>https://time.com/article/2026/11/02/haley-stevens-abdul-el-sayed-mike-rogers-endorsement-trump-republicans-democrats/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/02/haley-stevens-abdul-el-sayed-mike-rogers-endorsement-trump-republicans-democrats/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -35,6 +33,14 @@
             <link>https://time.com/article/2026/11/02/how-sunlight-may-affect-blood-sugar/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/02/how-sunlight-may-affect-blood-sugar/</guid>
             <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Delivers Closing Appeal Before the Midterms]]></title>
+            <description><![CDATA[Less than 24 hours before Election Day, Trump railed against Democrats and contended that if his supporters show up to the polls, Republicans “will win in a landslide.”]]></description>
+            <link>https://time.com/article/2026/11/02/trump-2026-midterm-elections/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/02/trump-2026-midterm-elections/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -178,6 +184,7 @@
             <title><![CDATA[Advocates for Children Call for AI Guardrails]]></title>
             <link>https://time.com/article/2026/10/30/ai-kids-common-sense-media/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/30/ai-kids-common-sense-media/</guid>
+            <dc:creator><![CDATA[Belinda Luscombe]]></dc:creator>
             <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3329,13 +3336,6 @@
             <link>https://time.com/article/2026/09/09/questions-to-ask-your-grandparents/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/09/questions-to-ask-your-grandparents/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI Is at a Turning Point]]></title>
-            <link>https://time.com/article/2026/09/09/ai-is-at-a-turning-point/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/09/ai-is-at-a-turning-point/</guid>
-            <dc:creator><![CDATA[Yoshua Bengio]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
