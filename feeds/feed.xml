@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Nov 2026 04:01:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 12:41:26 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 04 Nov 2026 04:01:11 GMT</pubDate>
+        <pubDate>Wed, 04 Nov 2026 12:41:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Annie Andrews Flips South Carolina Senate Seat in Stunning Upset]]></title>
@@ -16,9 +16,47 @@
             <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How Trump Is Spending Election Day and Night]]></title>
+            <title><![CDATA[What Just Happened in Texas Changes Everything]]></title>
+            <link>https://time.com/article/2026/11/04/what-just-happened-in-texas-changes-everything/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/04/what-just-happened-in-texas-changes-everything/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Democrat Gina Hinojosa Ousts Gov. Greg Abbott in Texas]]></title>
+            <link>https://time.com/article/2026/11/04/texas-governor-hinojosa-abbott-2026-midterm-elections/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/04/texas-governor-hinojosa-abbott-2026-midterm-elections/</guid>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Troy Jackson Defeats Susan Collins in Maine Senate Race]]></title>
+            <link>https://time.com/article/2026/11/04/maine-democrat-troy-jackson-defeats-republican-senator-susan-collins/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/04/maine-democrat-troy-jackson-defeats-republican-senator-susan-collins/</guid>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Talarico Wins Texas Senate Seat in Major Upset]]></title>
+            <link>https://time.com/article/2026/11/04/talarico-wins-texas-senate-race-first-democrat-to-win-statewide-in-more-than-30-years/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/04/talarico-wins-texas-senate-race-first-democrat-to-win-statewide-in-more-than-30-years/</guid>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Democrat Amy Acton Defeats Vivek Ramaswamy in Ohio Governor’s Race]]></title>
+            <link>https://time.com/article/2026/11/04/amy-acton-ohio-governor-ramaswamy-midterm-election-bitter-race-against/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/04/amy-acton-ohio-governor-ramaswamy-midterm-election-bitter-race-against/</guid>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Max Miller Loses Re-Election Bid Amid Domestic Abuse Allegations]]></title>
+            <link>https://time.com/article/2026/11/04/democrat-brian-poindexter-defeats-rep-max-miller-who-faces-domestic-abuse-allegations/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/04/democrat-brian-poindexter-defeats-rep-max-miller-who-faces-domestic-abuse-allegations/</guid>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Blames Republicans After Crushing Election Defeats]]></title>
             <link>https://time.com/article/2026/11/03/what-is-trump-planning-to-do-on-election-day-midterm/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/03/what-is-trump-planning-to-do-on-election-day-midterm/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -63,8 +101,8 @@
             <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Live Updates: Democrats Flip Key Senate Seats in North and South Carolina]]></title>
-            <description><![CDATA[Roy Cooper beat Michael Whatley for the open seat in North Carolina, and Annie Andrews has defeated Darline Graham in South Carolina.]]></description>
+            <title><![CDATA[Live Updates: Democrats Win House and Senate]]></title>
+            <description><![CDATA[Trump has congratulated Democrats while insisting the results are not a rebuke of his presidency.]]></description>
             <link>https://time.com/article/2026/11/03/midterm-elections-2026-key-races-live-results-polls-latest-news-updates/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/03/midterm-elections-2026-key-races-live-results-polls-latest-news-updates/</guid>
             <dc:creator><![CDATA[TIME Staff]]></dc:creator>
@@ -88,6 +126,12 @@
             <link>https://time.com/article/2026/11/03/india-global-rise-problem-weak-state-capacity/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/03/india-global-rise-problem-weak-state-capacity/</guid>
             <dc:creator><![CDATA[Devesh Kapur]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Abdul El-Sayed Wins Michigan Senate Race]]></title>
+            <link>https://time.com/article/2026/11/03/abdul-el-sayed-michigan-senate-2026-midterm-elections-mike-rogers/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/03/abdul-el-sayed-michigan-senate-2026-midterm-elections-mike-rogers/</guid>
             <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -126,6 +170,12 @@
             <link>https://time.com/article/2026/11/02/how-pete-buttigieg-and-rafael-warnock-became-democrats-midterm-mvps/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/02/how-pete-buttigieg-and-rafael-warnock-became-democrats-midterm-mvps/</guid>
             <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adam Hamilton Becomes First Democrat Elected to the Senate in Kansas in Almost 100 Years]]></title>
+            <link>https://time.com/article/2026/11/02/kansas-senate-2026-midterm-elections-adam-hamilton-roger-mashall/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/02/kansas-senate-2026-midterm-elections-adam-hamilton-roger-mashall/</guid>
             <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -282,8 +332,8 @@
             <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[10 Candidates Who Could Make History in the Midterms]]></title>
-            <description><![CDATA[The 2026 midterms could see the U.S.’s first Muslim, first Native woman, and first openly gay man elected to the Senate, among other potential barrier-breakers.]]></description>
+            <title><![CDATA[The Candidates Who Made History in the Midterms]]></title>
+            <description><![CDATA[The 2026 midterms saw the election of the first openly gay male U.S. Senator, the first Black woman governor, and the first Muslim U.S. Senator, among other historic barrier-breakers.]]></description>
             <link>https://time.com/article/2026/10/30/midterms-senate-governor-elections-race-gender-religion-history-nationwide-firsts/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/30/midterms-senate-governor-elections-race-gender-religion-history-nationwide-firsts/</guid>
             <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
@@ -3289,57 +3339,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/09/11/cyclospora-outbreak-deaths-sickened-states/</guid>
             <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Record U.S. Diesel Prices Could Affect You]]></title>
-            <link>https://time.com/article/2026/09/11/us-diesel-prices-record-high-impact-groceries-american-consumers/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/11/us-diesel-prices-record-high-impact-groceries-american-consumers/</guid>
-            <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Trump’s Proposed Census Changes Could Impact States’ Funding—and Political Power]]></title>
-            <link>https://time.com/article/2026/09/11/trump-us-census-changes-proposal-state-federal-funding-congressional-seats/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/11/trump-us-census-changes-proposal-state-federal-funding-congressional-seats/</guid>
-            <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Africa's Next Growth Story Start on the Farm?]]></title>
-            <link>https://time.com/article/2026/09/11/future-africa-farming-sustainability/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/11/future-africa-farming-sustainability/</guid>
-            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sharon Horgan's 'Youth': TV Review]]></title>
-            <link>https://time.com/article/2026/09/11/youth-review-sharon-horgan-hbo/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/11/youth-review-sharon-horgan-hbo/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Promises End to Iran War After Midterms]]></title>
-            <link>https://time.com/article/2026/09/10/iran-us-war-attacks-shipping-midterm-elections-strait-hormuz/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/10/iran-us-war-attacks-shipping-midterm-elections-strait-hormuz/</guid>
-            <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Promises $5,000 Dividend if Republicans Win Midterms]]></title>
-            <link>https://time.com/article/2026/09/10/trump-dividend-five-thousand-dollars-midterms-republican-convention/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/10/trump-dividend-five-thousand-dollars-midterms-republican-convention/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[9/11 and the Substitute Mother]]></title>
-            <link>https://time.com/article/2026/09/10/9-11-and-the-substitute-mother/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/10/9-11-and-the-substitute-mother/</guid>
-            <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s Attacks on the Environment Are Out of Touch With America]]></title>
-            <link>https://time.com/article/2026/09/10/trump-s-attacks-on-the-environment-are-out-of-touch-with-america/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/10/trump-s-attacks-on-the-environment-are-out-of-touch-with-america/</guid>
-            <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
