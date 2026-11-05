@@ -4,14 +4,33 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2026 08:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 16:57:47 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Nov 2026 08:45:52 GMT</pubDate>
+        <pubDate>Thu, 05 Nov 2026 16:57:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How the Mississippi Senate Race Became a Nail-Biter]]></title>
             <link>https://time.com/article/2026/11/05/mississippi-senate-race-2026-midterm-elections-colom-hyde-smith/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/05/mississippi-senate-race-2026-midterm-elections-colom-hyde-smith/</guid>
+            <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Senator Elizabeth Warren: Why Democrats Won the Midterms]]></title>
+            <link>https://time.com/article/2026/11/05/senator-elizabeth-warren-why-democrats-won-the-midterms/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/05/senator-elizabeth-warren-why-democrats-won-the-midterms/</guid>
+            <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the Midterms Mean for the Iran War]]></title>
+            <link>https://time.com/article/2026/11/05/iran-us-midterms-republicans-democrats-war-trump-hegseth/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/05/iran-us-midterms-republicans-democrats-war-trump-hegseth/</guid>
+            <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scientists Have Found a New Way to Control AI's Behavior]]></title>
+            <link>https://time.com/article/2026/11/05/ai-cheating-scientists-report-alignment/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/05/ai-cheating-scientists-report-alignment/</guid>
+            <dc:creator><![CDATA[Harry Booth]]></dc:creator>
             <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -60,7 +79,6 @@
         </item>
         <item>
             <title><![CDATA[Inside the Democrats' Plans to Take On Trump]]></title>
-            <description><![CDATA[Interviews with party leaders and insiders reveal an ambitious agenda and big challenges]]></description>
             <link>https://time.com/article/2026/11/04/democrats-power-midterms/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/04/democrats-power-midterms/</guid>
             <dc:creator><![CDATA[Nik Popli and Julia Terruso]]></dc:creator>
@@ -68,6 +86,7 @@
         </item>
         <item>
             <title><![CDATA[Welcome to Trump’s Lame-Duck Era]]></title>
+            <description><![CDATA[After a midterm rout, aides anticipate more staff turnover, more Supreme Court battles and a more isolated Trump.]]></description>
             <link>https://time.com/article/2026/11/04/trump-lame-duck-era/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/04/trump-lame-duck-era/</guid>
             <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
@@ -90,19 +109,21 @@
             <title><![CDATA[Meet the Democratic Rising Stars Who Could Shape 2028]]></title>
             <link>https://time.com/article/2026/11/04/meet-the-democratic-rising-stars-who-could-shape-2028/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/04/meet-the-democratic-rising-stars-who-could-shape-2028/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Exclusive: DNC Sees Voters of Color as ‘Driving Force’ Behind Midterm Rout]]></title>
+            <description><![CDATA[In a memo obtained by TIME, top Democratic Party strategists say voters of color swinging back to Democrats proved pivotal in many races,]]></description>
             <link>https://time.com/article/2026/11/04/exclusive-democrats-memo-voters-of-color-blue-tsunami/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/04/exclusive-democrats-memo-voters-of-color-blue-tsunami/</guid>
-            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
             <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From Health and Science to Elected Office]]></title>
             <link>https://time.com/article/2026/11/04/doctors-scientists-won-2026-midterm-elections/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/04/doctors-scientists-won-2026-midterm-elections/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3309,26 +3330,6 @@
             <link>https://time.com/article/2026/09/14/canada-alliance-european-union-membership-debate-us-trade-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/14/canada-alliance-european-union-membership-debate-us-trade-war/</guid>
             <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who Is Umar Kremlev? The Russian Oligarch Who Partly Funded Trump Jr.’s Wedding Celebrations]]></title>
-            <link>https://time.com/article/2026/09/14/umar-kremlev-russian-businessman-donald-trump-jr-wedding-celebrations/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/14/umar-kremlev-russian-businessman-donald-trump-jr-wedding-celebrations/</guid>
-            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mariska Hargitay Hosts a Lackluster Emmys]]></title>
-            <link>https://time.com/article/2026/09/14/emmys-2026-review-mariska-hargitay/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/14/emmys-2026-review-mariska-hargitay/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIME100 AI Honorees Speak to Perils and Promise of the Technology]]></title>
-            <link>https://time.com/article/2026/09/14/ai-impact-dinner-toasts-joseph-gordon-levitt/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/14/ai-impact-dinner-toasts-joseph-gordon-levitt/</guid>
-            <dc:creator><![CDATA[Io Dodds]]></dc:creator>
             <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
