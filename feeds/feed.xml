@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2026 16:57:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 22:31:00 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Nov 2026 16:57:47 GMT</pubDate>
+        <pubDate>Thu, 05 Nov 2026 22:31:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How the Mississippi Senate Race Became a Nail-Biter]]></title>
@@ -31,6 +31,27 @@
             <link>https://time.com/article/2026/11/05/ai-cheating-scientists-report-alignment/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/05/ai-cheating-scientists-report-alignment/</guid>
             <dc:creator><![CDATA[Harry Booth]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Democratic Socialist Mayors Will Now Run LA, New York, and D.C.]]></title>
+            <link>https://time.com/article/2026/11/05/democratic-socialist-mayors-la-dc-new-york-city-nithya-raman-election/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/05/democratic-socialist-mayors-la-dc-new-york-city-nithya-raman-election/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MAHA Supporters Say Trump’s Broken Promises Helped Democrats Win]]></title>
+            <link>https://time.com/article/2026/11/05/maha-supporters-say-trump-broken-promises-helped-democrats-win/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/05/maha-supporters-say-trump-broken-promises-helped-democrats-win/</guid>
+            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About Rhabdomyolysis]]></title>
+            <link>https://time.com/article/2026/11/05/what-is-rhabdomyolysis-linked-to-new-york-city-marathon-death/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/05/what-is-rhabdomyolysis-linked-to-new-york-city-marathon-death/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -109,7 +130,6 @@
             <title><![CDATA[Meet the Democratic Rising Stars Who Could Shape 2028]]></title>
             <link>https://time.com/article/2026/11/04/meet-the-democratic-rising-stars-who-could-shape-2028/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/04/meet-the-democratic-rising-stars-who-could-shape-2028/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3308,28 +3328,6 @@
             <link>https://time.com/article/2026/09/14/what-it-was-like-to-know-gloria-steinem/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/14/what-it-was-like-to-know-gloria-steinem/</guid>
             <dc:creator><![CDATA[Ai-jen Poo]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The High Cost of Winning a Michelin Star]]></title>
-            <link>https://time.com/article/2026/09/14/the-high-cost-of-winning-a-michelin-star/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/14/the-high-cost-of-winning-a-michelin-star/</guid>
-            <dc:creator><![CDATA[Tulasi Srinivas]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mitch McConnell Returns to the Senate]]></title>
-            <description><![CDATA[The Kentucky lawmaker announced that he’s casting a vote in the Senate on Monday, marking the end of his months-long absence from the upper chamber after he was hospitalized in June following a fall.]]></description>
-            <link>https://time.com/article/2026/09/14/mitch-mcconnell-senate-return-absence/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/14/mitch-mcconnell-senate-return-absence/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[E.U. Wants Canada to Become Bloc's First 'Associate Member']]></title>
-            <link>https://time.com/article/2026/09/14/canada-alliance-european-union-membership-debate-us-trade-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/14/canada-alliance-european-union-membership-debate-us-trade-war/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
