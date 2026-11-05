@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Nov 2026 20:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 01:10:42 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 04 Nov 2026 20:09:17 GMT</pubDate>
+        <pubDate>Thu, 05 Nov 2026 01:10:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How the Mississippi Senate Race Became a Nail-Biter]]></title>
+            <link>https://time.com/article/2026/11/05/mississippi-senate-race-2026-midterm-elections-colom-hyde-smith/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/05/mississippi-senate-race-2026-midterm-elections-colom-hyde-smith/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Annie Andrews Flips South Carolina Senate Seat in Stunning Upset]]></title>
             <link>https://time.com/article/2026/11/04/south-carolina-senate-results-darline-graham-democrat-annie-andrews-republican/</link>
@@ -82,10 +89,60 @@
             <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Meet the Democratic Rising Stars Who Could Shape 2028]]></title>
+            <link>https://time.com/article/2026/11/04/meet-the-democratic-rising-stars-who-could-shape-2028/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/04/meet-the-democratic-rising-stars-who-could-shape-2028/</guid>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exclusive: DNC Sees Voters of Color as ‘Driving Force’ Behind Midterm Rout]]></title>
+            <link>https://time.com/article/2026/11/04/exclusive-democrats-memo-voters-of-color-blue-tsunami/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/04/exclusive-democrats-memo-voters-of-color-blue-tsunami/</guid>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From Health and Science to Elected Office]]></title>
+            <link>https://time.com/article/2026/11/04/doctors-scientists-won-2026-midterm-elections/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/04/doctors-scientists-won-2026-midterm-elections/</guid>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Democrats’ Midterm Gains Reveal About Trump’s Voter Coalition]]></title>
+            <link>https://time.com/article/2026/11/04/what-democrats-midterm-gains-reveal-about-trump-s-voter-coalition/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/04/what-democrats-midterm-gains-reveal-about-trump-s-voter-coalition/</guid>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the Democratic Blue Wave Will Mean For Climate Action]]></title>
+            <link>https://time.com/article/2026/11/04/democrats-midterms-win-climate-action/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/04/democrats-midterms-win-climate-action/</guid>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the Midterms Meant for Working-Class Candidates]]></title>
+            <link>https://time.com/article/2026/11/04/what-the-midterms-meant-for-working-class-candidates/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/04/what-the-midterms-meant-for-working-class-candidates/</guid>
+            <dc:creator><![CDATA[Nicholas Carnes]]></dc:creator>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Texas Midterms Showed that Latino Voters Are Still Looking For a Political Home]]></title>
+            <link>https://time.com/article/2026/11/04/texas-midterms-showed-that-latino-voters-are-still-looking-for-a-political-home/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/04/texas-midterms-showed-that-latino-voters-are-still-looking-for-a-political-home/</guid>
+            <dc:creator><![CDATA[Lisa García Bedolla]]></dc:creator>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What We Lost When Errands Went Online]]></title>
+            <link>https://time.com/article/2026/11/04/what-we-lost-when-errands-went-online/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/04/what-we-lost-when-errands-went-online/</guid>
+            <dc:creator><![CDATA[Gabe Bullard]]></dc:creator>
+            <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Trump Blames Republicans After Crushing Election Defeats]]></title>
             <link>https://time.com/article/2026/11/03/what-is-trump-planning-to-do-on-election-day-midterm/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/03/what-is-trump-planning-to-do-on-election-day-midterm/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -130,10 +187,9 @@
             <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Live Updates: Vance Blames Iran War for GOP’s Midterm Losses]]></title>
+            <title><![CDATA[Live Updates: Mississippi and Alaska Senate Races Remain Too Close to Call]]></title>
             <link>https://time.com/article/2026/11/03/midterm-elections-2026-key-races-live-results-polls-latest-news-updates/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/03/midterm-elections-2026-key-races-live-results-polls-latest-news-updates/</guid>
-            <dc:creator><![CDATA[TIME Staff]]></dc:creator>
             <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3276,68 +3332,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/09/14/ai-impact-dinner-toasts-joseph-gordon-levitt/</guid>
             <dc:creator><![CDATA[Io Dodds]]></dc:creator>
             <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Panelists Discuss AI’s Potential Impacts, for Better or Worse, on the Economy]]></title>
-            <link>https://time.com/article/2026/09/14/ai-impact-dinner-panel-intelligent-economy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/14/ai-impact-dinner-panel-intelligent-economy/</guid>
-            <dc:creator><![CDATA[Io Dodds]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIME Reveals the 2026 TIME Latino Leaders]]></title>
-            <description><![CDATA[TIME reveals the fourth annual TIME Latino Leaders list, recognizing 13 U.S.-based trailblazers changing their industries and the world.]]></description>
-            <link>https://time.com/article/2026/09/14/time-reveals-the-2026-time-latino-leaders/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/14/time-reveals-the-2026-time-latino-leaders/</guid>
-            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There’s a New Tennis Force in Town]]></title>
-            <link>https://time.com/article/2026/09/13/there-s-a-new-tennis-force-in-town/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/13/there-s-a-new-tennis-force-in-town/</guid>
-            <pubDate>Sun, 13 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Blames Oil Shortages on the Russia-Ukraine War]]></title>
-            <link>https://time.com/article/2026/09/13/trump-wants-ukraine-to-stop-striking-russian-refineries-what-would-that-mean-for-the-war-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/13/trump-wants-ukraine-to-stop-striking-russian-refineries-what-would-that-mean-for-the-war-/</guid>
-            <pubDate>Sun, 13 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Price of Privacy When It Comes to Dementia]]></title>
-            <link>https://time.com/article/2026/09/12/the-price-of-privacy-when-it-comes-to-dementia/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/12/the-price-of-privacy-when-it-comes-to-dementia/</guid>
-            <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At the U.S. Open, Ben Shelton Has America Believing Again]]></title>
-            <description><![CDATA[The 23-year-old will face Alexander Zverev on Sunday after becoming the first Black American man to reach the U.S. Open final since 1972.]]></description>
-            <link>https://time.com/article/2026/09/12/at-the-u-s-open-ben-shelton-has-america-believing-again/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/12/at-the-u-s-open-ben-shelton-has-america-believing-again/</guid>
-            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The U.S. Is Having One of Its Most Active Wildfire Seasons. Here’s How the Costs Are Adding Up]]></title>
-            <link>https://time.com/article/2026/09/12/the-u-s-is-on-track-for-a-record-wildfire-season-here-s-what-it-could-cost-americans/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/12/the-u-s-is-on-track-for-a-record-wildfire-season-here-s-what-it-could-cost-americans/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[25 Years After 9/11, Americans Must Remember What Binds Us]]></title>
-            <description><![CDATA[The victims of 9/11 “represented the American experiment itself,” writes Joe Daniels, founding president and CEO of the 9/11 Memorial & Museum.]]></description>
-            <link>https://time.com/article/2026/09/11/25-years-after-9-11-americans-must-remember-what-binds-us/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/11/25-years-after-9-11-americans-must-remember-what-binds-us/</guid>
-            <dc:creator><![CDATA[Joe Daniels]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How 9/11 Helped Shape Our Politics Today]]></title>
-            <link>https://time.com/article/2026/09/11/september-11-america-europe-far-right-immigration-muslims-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/11/september-11-america-europe-far-right-immigration-muslims-trump/</guid>
-            <dc:creator><![CDATA[Faisal Devji]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
