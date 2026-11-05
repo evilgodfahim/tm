@@ -4,15 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2026 01:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 08:45:52 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Nov 2026 01:10:42 GMT</pubDate>
+        <pubDate>Thu, 05 Nov 2026 08:45:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How the Mississippi Senate Race Became a Nail-Biter]]></title>
             <link>https://time.com/article/2026/11/05/mississippi-senate-race-2026-midterm-elections-colom-hyde-smith/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/05/mississippi-senate-race-2026-midterm-elections-colom-hyde-smith/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +84,6 @@
             <title><![CDATA[How AI Backlash Shaped the 2026 Midterms]]></title>
             <link>https://time.com/article/2026/11/04/midterm-elections-results-ai-industry-data-centers/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/04/midterm-elections-results-ai-industry-data-centers/</guid>
-            <dc:creator><![CDATA[Andrew R. Chow and Harry Booth]]></dc:creator>
             <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -98,6 +96,7 @@
             <title><![CDATA[Exclusive: DNC Sees Voters of Color as ‘Driving Force’ Behind Midterm Rout]]></title>
             <link>https://time.com/article/2026/11/04/exclusive-democrats-memo-voters-of-color-blue-tsunami/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/04/exclusive-democrats-memo-voters-of-color-blue-tsunami/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
             <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -122,7 +121,6 @@
             <title><![CDATA[What the Midterms Meant for Working-Class Candidates]]></title>
             <link>https://time.com/article/2026/11/04/what-the-midterms-meant-for-working-class-candidates/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/04/what-the-midterms-meant-for-working-class-candidates/</guid>
-            <dc:creator><![CDATA[Nicholas Carnes]]></dc:creator>
             <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
