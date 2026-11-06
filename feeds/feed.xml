@@ -4,10 +4,53 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 10:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 17:45:06 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Nov 2026 10:26:03 GMT</pubDate>
+        <pubDate>Fri, 06 Nov 2026 17:45:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Base Wants Someone Else. Schumer Has the Votes]]></title>
+            <description><![CDATA[He's on track to become Senate majority leader, even as many in the party think he's wrong for this moment]]></description>
+            <link>https://time.com/article/2026/11/06/schumer-has-the-votes-senate-majority-leader/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/06/schumer-has-the-votes-senate-majority-leader/</guid>
+            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: 'Godzilla Minus Zero']]></title>
+            <link>https://time.com/article/2026/11/06/godzilla-minus-zero-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/06/godzilla-minus-zero-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: 'Club Kid']]></title>
+            <link>https://time.com/article/2026/11/06/club-kid-review-jordan-firstman/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/06/club-kid-review-jordan-firstman/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['It Gets Worse' Is TV's Best Gen Z Comedy Yet]]></title>
+            <link>https://time.com/article/2026/11/06/it-gets-worse-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/06/it-gets-worse-review/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How AI is Impacting College Students Like Me]]></title>
+            <link>https://time.com/article/2026/11/06/how-ai-is-impacting-college-students-like-me/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/06/how-ai-is-impacting-college-students-like-me/</guid>
+            <dc:creator><![CDATA[Alana Kaufman]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Tide Could Be Turning on Global Climate Cooperation]]></title>
+            <link>https://time.com/article/2026/11/06/tide-turning-global-climate-cooperation/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/06/tide-turning-global-climate-cooperation/</guid>
+            <dc:creator><![CDATA[Laurence Tubiana]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How the Mississippi Senate Race Became a Nail-Biter]]></title>
             <link>https://time.com/article/2026/11/05/mississippi-senate-race-2026-midterm-elections-colom-hyde-smith/</link>
@@ -36,12 +79,10 @@
             <title><![CDATA[Democratic Socialist Mayors Will Now Run LA, New York, and D.C.]]></title>
             <link>https://time.com/article/2026/11/05/democratic-socialist-mayors-la-dc-new-york-city-nithya-raman-election/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/05/democratic-socialist-mayors-la-dc-new-york-city-nithya-raman-election/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MAHA Supporters Say Trump’s Broken Promises Helped Democrats Win]]></title>
-            <description><![CDATA[Failures by Republicans to prioritize issues like pesticides prompted MAHA voters to pick Democrats or not to vote at all, activists say.]]></description>
             <link>https://time.com/article/2026/11/05/maha-supporters-say-trump-broken-promises-helped-democrats-win/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/05/maha-supporters-say-trump-broken-promises-helped-democrats-win/</guid>
             <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
@@ -57,7 +98,6 @@
             <title><![CDATA[Democrat Chris Gallant Loses House Bid After Leak of Fetish-Themed Modeling Photos]]></title>
             <link>https://time.com/article/2026/11/05/democrat-chris-gallant-house-new-york-modeling-photos-leak-2026-midterm-elections/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/05/democrat-chris-gallant-house-new-york-modeling-photos-leak-2026-midterm-elections/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -125,7 +165,6 @@
         </item>
         <item>
             <title><![CDATA[Welcome to Trump’s Lame-Duck Era]]></title>
-            <description><![CDATA[After a midterm rout, aides anticipate more staff turnover, more Supreme Court battles and a more isolated Trump.]]></description>
             <link>https://time.com/article/2026/11/04/trump-lame-duck-era/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/04/trump-lame-duck-era/</guid>
             <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
@@ -3290,45 +3329,6 @@
             <link>https://time.com/article/2026/09/15/americans-eating-fruit-vegetables/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/15/americans-eating-fruit-vegetables/</guid>
             <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How We Chose the 2026 Latino Leaders]]></title>
-            <description><![CDATA[The list features 13 U.S.-based trailblazers changing their industries and the world.]]></description>
-            <link>https://time.com/article/2026/09/15/how-we-chose-2026-latino-leaders/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/15/how-we-chose-2026-latino-leaders/</guid>
-            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The U.S. Just Admitted it Has Weapons in Space]]></title>
-            <link>https://time.com/article/2026/09/15/us-space-weapons-why-it-matters/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/15/us-space-weapons-why-it-matters/</guid>
-            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Review: The History of Concrete]]></title>
-            <link>https://time.com/article/2026/09/15/the-history-of-concrete-review-john-wilson/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/15/the-history-of-concrete-review-john-wilson/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Escalating Attacks in Yemen Impact Global Oil Trade]]></title>
-            <link>https://time.com/article/2026/09/14/yemen-houthi-saudi-arabia-attacks-oil-red-sea-iran-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/14/yemen-houthi-saudi-arabia-attacks-oil-red-sea-iran-war/</guid>
-            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the Iran War Forced the Gulf to Rethink Its Security]]></title>
-            <link>https://time.com/article/2026/09/14/gulf-uae-saudi-arabia-qatar-iran-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/14/gulf-uae-saudi-arabia-qatar-iran-war/</guid>
-            <dc:creator><![CDATA[H.A. Hellyer]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Says He'd 'Love to See' Ireland Unified, Sparking British Backlash]]></title>
-            <link>https://time.com/article/2026/09/14/trump-united-ireland-northern-republic-uk-backlash/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/14/trump-united-ireland-northern-republic-uk-backlash/</guid>
-            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
