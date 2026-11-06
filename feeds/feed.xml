@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2026 22:31:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 02:58:31 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Nov 2026 22:31:00 GMT</pubDate>
+        <pubDate>Fri, 06 Nov 2026 02:58:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How the Mississippi Senate Race Became a Nail-Biter]]></title>
@@ -44,7 +44,6 @@
             <title><![CDATA[MAHA Supporters Say Trump’s Broken Promises Helped Democrats Win]]></title>
             <link>https://time.com/article/2026/11/05/maha-supporters-say-trump-broken-promises-helped-democrats-win/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/05/maha-supporters-say-trump-broken-promises-helped-democrats-win/</guid>
-            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
             <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -124,6 +123,7 @@
             <title><![CDATA[How AI Backlash Shaped the 2026 Midterms]]></title>
             <link>https://time.com/article/2026/11/04/midterm-elections-results-ai-industry-data-centers/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/04/midterm-elections-results-ai-industry-data-centers/</guid>
+            <dc:creator><![CDATA[Andrew R. Chow and Harry Booth]]></dc:creator>
             <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
