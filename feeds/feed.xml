@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 02:58:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 10:26:03 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Nov 2026 02:58:31 GMT</pubDate>
+        <pubDate>Fri, 06 Nov 2026 10:26:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How the Mississippi Senate Race Became a Nail-Biter]]></title>
@@ -30,7 +30,6 @@
             <title><![CDATA[Scientists Have Found a New Way to Control AI's Behavior]]></title>
             <link>https://time.com/article/2026/11/05/ai-cheating-scientists-report-alignment/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/05/ai-cheating-scientists-report-alignment/</guid>
-            <dc:creator><![CDATA[Harry Booth]]></dc:creator>
             <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -42,15 +41,35 @@
         </item>
         <item>
             <title><![CDATA[MAHA Supporters Say Trump’s Broken Promises Helped Democrats Win]]></title>
+            <description><![CDATA[Failures by Republicans to prioritize issues like pesticides prompted MAHA voters to pick Democrats or not to vote at all, activists say.]]></description>
             <link>https://time.com/article/2026/11/05/maha-supporters-say-trump-broken-promises-helped-democrats-win/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/05/maha-supporters-say-trump-broken-promises-helped-democrats-win/</guid>
+            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
             <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What to Know About Rhabdomyolysis]]></title>
             <link>https://time.com/article/2026/11/05/what-is-rhabdomyolysis-linked-to-new-york-city-marathon-death/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/05/what-is-rhabdomyolysis-linked-to-new-york-city-marathon-death/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Democrat Chris Gallant Loses House Bid After Leak of Fetish-Themed Modeling Photos]]></title>
+            <link>https://time.com/article/2026/11/05/democrat-chris-gallant-house-new-york-modeling-photos-leak-2026-midterm-elections/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/05/democrat-chris-gallant-house-new-york-modeling-photos-leak-2026-midterm-elections/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BYD’s Vice President on the Price of Global Success]]></title>
+            <link>https://time.com/article/2026/11/05/byd-china-trade-ev-cars-toyota/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/05/byd-china-trade-ev-cars-toyota/</guid>
+            <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Diabetes Diagnosis Came Out of Nowhere. Today, Families Can Know Sooner]]></title>
+            <link>https://time.com/article/2026/11/05/my-diabetes-diagnosis-came-out-of-nowhere-today-families-can-know-sooner/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/05/my-diabetes-diagnosis-came-out-of-nowhere-today-families-can-know-sooner/</guid>
             <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -156,12 +175,14 @@
             <title><![CDATA[What the Democratic Blue Wave Will Mean For Climate Action]]></title>
             <link>https://time.com/article/2026/11/04/democrats-midterms-win-climate-action/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/04/democrats-midterms-win-climate-action/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What the Midterms Meant for Working-Class Candidates]]></title>
             <link>https://time.com/article/2026/11/04/what-the-midterms-meant-for-working-class-candidates/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/04/what-the-midterms-meant-for-working-class-candidates/</guid>
+            <dc:creator><![CDATA[Nicholas Carnes]]></dc:creator>
             <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3307,27 +3328,6 @@
             <title><![CDATA[Trump Says He'd 'Love to See' Ireland Unified, Sparking British Backlash]]></title>
             <link>https://time.com/article/2026/09/14/trump-united-ireland-northern-republic-uk-backlash/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/14/trump-united-ireland-northern-republic-uk-backlash/</guid>
-            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why You Should Never Wear Shoes in Your House]]></title>
-            <link>https://time.com/article/2026/09/14/why-you-should-never-wear-shoes-in-the-house/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/14/why-you-should-never-wear-shoes-in-the-house/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Is Actually New About the AI Revolution?]]></title>
-            <link>https://time.com/article/2026/09/14/what-is-actually-new-about-the-ai-revolution-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/14/what-is-actually-new-about-the-ai-revolution-/</guid>
-            <dc:creator><![CDATA[Paula Goldman]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What It Was Like to Know Gloria Steinem]]></title>
-            <link>https://time.com/article/2026/09/14/what-it-was-like-to-know-gloria-steinem/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/14/what-it-was-like-to-know-gloria-steinem/</guid>
-            <dc:creator><![CDATA[Ai-jen Poo]]></dc:creator>
             <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
