@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 17:45:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 22:33:02 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Nov 2026 17:45:06 GMT</pubDate>
+        <pubDate>Fri, 06 Nov 2026 22:33:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Base Wants Someone Else. Schumer Has the Votes]]></title>
-            <description><![CDATA[He's on track to become Senate majority leader, even as many in the party think he's wrong for this moment]]></description>
             <link>https://time.com/article/2026/11/06/schumer-has-the-votes-senate-majority-leader/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/06/schumer-has-the-votes-senate-majority-leader/</guid>
             <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
@@ -49,6 +48,41 @@
             <link>https://time.com/article/2026/11/06/tide-turning-global-climate-cooperation/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/06/tide-turning-global-climate-cooperation/</guid>
             <dc:creator><![CDATA[Laurence Tubiana]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stephen Miller to Be Trump's New Chief of Staff, Replacing Susie Wiles]]></title>
+            <description><![CDATA[Miller has been the driving force behind Trump's immigration agenda.]]></description>
+            <link>https://time.com/article/2026/11/06/stephen-miller-tapped-as-trump-s-new-chief-of-staff-replacing-susie-wiles/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/06/stephen-miller-tapped-as-trump-s-new-chief-of-staff-replacing-susie-wiles/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ted Cruz Is Texas' Only Remaining Statewide Republican Lawmaker]]></title>
+            <link>https://time.com/article/2026/11/06/ted-cruz-republican-texas-midterm-elections/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/06/ted-cruz-republican-texas-midterm-elections/</guid>
+            <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: I Play Rocky]]></title>
+            <link>https://time.com/article/2026/11/06/i-play-rocky-movie-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/06/i-play-rocky-movie-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The True Story Behind 'Being Heumann']]></title>
+            <link>https://time.com/article/2026/11/06/being-heumann-true-story/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/06/being-heumann-true-story/</guid>
+            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why The Democrats' Next Climate Agenda Will Look Different]]></title>
+            <link>https://time.com/article/2026/11/06/democrats-new-climate-agenda-midterm-elections/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/06/democrats-new-climate-agenda-midterm-elections/</guid>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -167,7 +201,6 @@
             <title><![CDATA[Welcome to Trump’s Lame-Duck Era]]></title>
             <link>https://time.com/article/2026/11/04/trump-lame-duck-era/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/04/trump-lame-duck-era/</guid>
-            <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
             <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3297,37 +3330,6 @@
             <link>https://time.com/article/2026/09/15/trump-power-plant-emissions-climate-health-impact/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/15/trump-power-plant-emissions-climate-health-impact/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Signs Caregiving Is Harming Your Health]]></title>
-            <link>https://time.com/article/2026/09/15/caregiver-stress-health-warning-signs/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/15/caregiver-stress-health-warning-signs/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Is the Status of the U.S.-Iran Peace Talks? Here's What Both Sides Are Saying]]></title>
-            <link>https://time.com/article/2026/09/15/us-iran-peace-talks-deal-stalled-houthis-leverage-shipping-disruptions/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/15/us-iran-peace-talks-deal-stalled-houthis-leverage-shipping-disruptions/</guid>
-            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Republican Congressman Introduces Articles of Impeachment Against Defense Secretary Pete Hegseth]]></title>
-            <link>https://time.com/article/2026/09/15/massie-hegseth-impeachment-iran/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/15/massie-hegseth-impeachment-iran/</guid>
-            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crisis at the Kennedy Center: Why Its Main Building Is Going Dark for Two Years]]></title>
-            <link>https://time.com/article/2026/09/15/kennedy-center-board-approves-immediate-2-year-building-closure/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/15/kennedy-center-board-approves-immediate-2-year-building-closure/</guid>
-            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More Americans Are Eating Fruit—But Fewer Are Eating Vegetables]]></title>
-            <link>https://time.com/article/2026/09/15/americans-eating-fruit-vegetables/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/15/americans-eating-fruit-vegetables/</guid>
             <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
