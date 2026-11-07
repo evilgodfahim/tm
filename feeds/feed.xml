@@ -4,10 +4,18 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 19:55:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 23:16:23 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Nov 2026 19:55:19 GMT</pubDate>
+        <pubDate>Sat, 07 Nov 2026 23:16:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Europe’s Bomb Threats Raise Fears of Hybrid Warfare]]></title>
+            <description><![CDATA[Waves of bomb threats have so far proved to be hoaxes, leaving officials searching for answers about who is behind them—and why.]]></description>
+            <link>https://time.com/article/2026/11/07/europe-bomb-threats-raise-fear-new-warfare/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/07/europe-bomb-threats-raise-fear-new-warfare/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sat, 07 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Base Wants Someone Else. Schumer Has the Votes]]></title>
             <link>https://time.com/article/2026/11/06/schumer-has-the-votes-senate-majority-leader/</link>
@@ -52,10 +60,8 @@
         </item>
         <item>
             <title><![CDATA[Stephen Miller to Be Trump's New Chief of Staff, Replacing Susie Wiles]]></title>
-            <description><![CDATA[Miller has been the driving force behind Trump's immigration agenda.]]></description>
             <link>https://time.com/article/2026/11/06/stephen-miller-tapped-as-trump-s-new-chief-of-staff-replacing-susie-wiles/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/06/stephen-miller-tapped-as-trump-s-new-chief-of-staff-replacing-susie-wiles/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -83,6 +89,13 @@
             <link>https://time.com/article/2026/11/06/democrats-new-climate-agenda-midterm-elections/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/06/democrats-new-climate-agenda-midterm-elections/</guid>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Europe's Far-Right Leaders Are Backing Away From Trump After Midterms]]></title>
+            <link>https://time.com/article/2026/11/06/europe-far-right-leaders-backing-away-from-trump-after-midterm-losses/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/06/europe-far-right-leaders-backing-away-from-trump-after-midterm-losses/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3317,19 +3330,6 @@
             <title><![CDATA[How the 1980s Permanently Shaped America]]></title>
             <link>https://time.com/article/2026/09/15/how-the-1980s-permanently-shaped-america/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/15/how-the-1980s-permanently-shaped-america/</guid>
-            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Get Stronger With These 5 Movements]]></title>
-            <link>https://time.com/article/2026/09/15/5-get-stronger-with-these-5-movements/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/15/5-get-stronger-with-these-5-movements/</guid>
-            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Science Says About the Health Impact of Carbon Pollution]]></title>
-            <link>https://time.com/article/2026/09/15/trump-power-plant-emissions-climate-health-impact/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/15/trump-power-plant-emissions-climate-health-impact/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
