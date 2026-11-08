@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 10:55:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 16:52:11 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Nov 2026 10:55:15 GMT</pubDate>
+        <pubDate>Sun, 08 Nov 2026 16:52:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What Happens When AI Is the President’s Advisor?]]></title>
+            <link>https://time.com/article/2026/11/08/what-happens-when-ai-is-the-president-s-advisor-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/08/what-happens-when-ai-is-the-president-s-advisor-/</guid>
+            <dc:creator><![CDATA[Keren Yarhi-Milo]]></dc:creator>
+            <pubDate>Sun, 08 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Europe’s Bomb Threats Raise Fears of Hybrid Warfare]]></title>
             <description><![CDATA[Waves of bomb threats have so far proved to be hoaxes, leaving officials searching for answers about who is behind them—and why.]]></description>
@@ -1481,9 +1488,10 @@
             <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cornell Community Reacts to Fraternity Party Pause]]></title>
+            <title><![CDATA[Cornell Faces Pressure for Broader Reform After Faculty No-Confidence Vote]]></title>
             <link>https://time.com/article/2026/10/14/cornell-community-reacts-to-fraternity-party-pause/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/14/cornell-community-reacts-to-fraternity-party-pause/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid and Connor Greene]]></dc:creator>
             <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3324,12 +3332,6 @@
             <title><![CDATA[Iran War Has Cost U.S. Nearly $40 Billion and Fueled Inflation, CBO Finds]]></title>
             <link>https://time.com/article/2026/09/15/iran-war-cost-inflation-cbo-report/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/15/iran-war-cost-inflation-cbo-report/</guid>
-            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the 1980s Permanently Shaped America]]></title>
-            <link>https://time.com/article/2026/09/15/how-the-1980s-permanently-shaped-america/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/15/how-the-1980s-permanently-shaped-america/</guid>
             <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
