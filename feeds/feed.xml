@@ -4,15 +4,76 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Nov 2026 07:29:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 18:00:57 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Nov 2026 07:29:07 GMT</pubDate>
+        <pubDate>Mon, 09 Nov 2026 18:00:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump Casts Doubt on Midterm Election Results]]></title>
+            <description><![CDATA[The President is following a familiar playbook by sowing doubt about election outcomes after a wave of Republican losses.]]></description>
+            <link>https://time.com/article/2026/11/09/trump-casts-doubt-on-midterm-election-results/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/09/trump-casts-doubt-on-midterm-election-results/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are Democrats’ Stunning Midterm Upsets in Deep-Red States a Blip—or Is Their Map Expanding?]]></title>
+            <link>https://time.com/article/2026/11/09/democrats-2026-midterm-elections-deep-red-states/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/09/democrats-2026-midterm-elections-deep-red-states/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Defends Hegseth as Republican-Led Impeachment Vote Looms]]></title>
+            <link>https://time.com/article/2026/11/09/trump-defends-hegseth-as-republican-led-impeachment-vote-looms/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/09/trump-defends-hegseth-as-republican-led-impeachment-vote-looms/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[These 2026 Election-Winners Made History in Their States]]></title>
+            <link>https://time.com/article/2026/11/09/midterms-elections-race-gender-religion-history-state-firsts/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/09/midterms-elections-race-gender-religion-history-state-firsts/</guid>
+            <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Small Talk Is a Big Deal]]></title>
+            <link>https://time.com/article/2026/11/09/why-small-talk-is-a-big-deal/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/09/why-small-talk-is-a-big-deal/</guid>
+            <dc:creator><![CDATA[Meehika Barua]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Broken Promise of a Home in Spain]]></title>
+            <link>https://time.com/article/2026/11/09/spain-housing-crisis-maricarmen-abascal-pedro-sanchez/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/09/spain-housing-crisis-maricarmen-abascal-pedro-sanchez/</guid>
+            <dc:creator><![CDATA[Máriam Martínez-Bascuñán]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exclusive: Former Meta and OpenAI Contractor Sama Liquidates, Citing Lawsuits]]></title>
+            <link>https://time.com/article/2026/11/09/sama-ai-data-liquidates-lawsuits-meta/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/09/sama-ai-data-liquidates-lawsuits-meta/</guid>
+            <dc:creator><![CDATA[Billy Perrigo]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How We Chose the 100 Most Influential Climate Leaders of 2026]]></title>
+            <link>https://time.com/article/2026/11/09/time100-climate-how-we-chose/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/09/time100-climate-how-we-chose/</guid>
+            <dc:creator><![CDATA[Sam Jacobs]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Happens When AI Is the President’s Advisor?]]></title>
             <link>https://time.com/article/2026/11/08/what-happens-when-ai-is-the-president-s-advisor-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/08/what-happens-when-ai-is-the-president-s-advisor-/</guid>
-            <dc:creator><![CDATA[Keren Yarhi-Milo]]></dc:creator>
+            <pubDate>Sun, 08 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Did Republican Redistricting Fail to Stop the Blue Wave?]]></title>
+            <link>https://time.com/article/2026/11/08/republican-redistricting-2026-midterm-elections/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/08/republican-redistricting-2026-midterm-elections/</guid>
             <pubDate>Sun, 08 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -21,6 +82,13 @@
             <link>https://time.com/article/2026/11/07/europe-bomb-threats-raise-fear-new-warfare/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/07/europe-bomb-threats-raise-fear-new-warfare/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sat, 07 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Silver Linings Of an Aging World]]></title>
+            <link>https://time.com/article/2026/11/07/silver-linings-in-an-aging-world/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/07/silver-linings-in-an-aging-world/</guid>
+            <dc:creator><![CDATA[Daron Acemoglu]]></dc:creator>
             <pubDate>Sat, 07 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3264,75 +3332,6 @@
             <link>https://time.com/article/2026/09/16/scotus-mail-ballot-ruling-trump-rant/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/16/scotus-mail-ballot-ruling-trump-rant/</guid>
             <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saudi Arabia Calls Mecca a ‘Red Line’ After Alleged Houthi Drone Attack]]></title>
-            <link>https://time.com/article/2026/09/16/saudi-arabia-declares-mecca-a-red-line-as-houthis-deny-targeting-holy-site/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/16/saudi-arabia-declares-mecca-a-red-line-as-houthis-deny-targeting-holy-site/</guid>
-            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Surprising Health Benefits of Reading a Book]]></title>
-            <link>https://time.com/article/2026/09/16/health-benefits-reading-books-for-pleasure/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/16/health-benefits-reading-books-for-pleasure/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Americans Are Increasingly Worried About AI's Environmental Impact]]></title>
-            <link>https://time.com/article/2026/09/16/majority-americans-worried-ai-environment-impact/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/16/majority-americans-worried-ai-environment-impact/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Democrats Are Mobilizing to Counter Potential Election Interference]]></title>
-            <description><![CDATA[With the midterm elections less than two months away, Democrats are training thousands of volunteers on how to respond to any voter intimidation.]]></description>
-            <link>https://time.com/article/2026/09/16/midterms-democrats-election-interference-voter-intimidation-trump-administration-concerns/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/16/midterms-democrats-election-interference-voter-intimidation-trump-administration-concerns/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Politicization of ‘DEI’ Bike Lanes]]></title>
-            <link>https://time.com/article/2026/09/16/the-politicization-of-dei-bike-lanes/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/16/the-politicization-of-dei-bike-lanes/</guid>
-            <dc:creator><![CDATA[Evan Friss]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside Lizzie Borden's House Today]]></title>
-            <link>https://time.com/article/2026/09/16/lizzie-borden-monster-netflix-maplecroft-history/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/16/lizzie-borden-monster-netflix-maplecroft-history/</guid>
-            <dc:creator><![CDATA[Rosemary Counter]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Brutal Ending of 'Resident Evil']]></title>
-            <link>https://time.com/article/2026/09/16/resident-evil-zach-cregger-ending-explained/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/16/resident-evil-zach-cregger-ending-explained/</guid>
-            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside 'Best of the Best']]></title>
-            <link>https://time.com/article/2026/09/16/best-of-the-best-netflix-hasan-minhaj-maitreyi-ramakrishnan/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/16/best-of-the-best-netflix-hasan-minhaj-maitreyi-ramakrishnan/</guid>
-            <dc:creator><![CDATA[Radheyan Simonpillai]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The AI Tipping Point]]></title>
-            <description><![CDATA[Inside the industry's growing alarm—and the struggle to turn warnings into action.]]></description>
-            <link>https://time.com/article/2026/09/15/ai-anthropic-researcher-quits-coxon-slowdown/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/15/ai-anthropic-researcher-quits-coxon-slowdown/</guid>
-            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran War Has Cost U.S. Nearly $40 Billion and Fueled Inflation, CBO Finds]]></title>
-            <link>https://time.com/article/2026/09/15/iran-war-cost-inflation-cbo-report/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/15/iran-war-cost-inflation-cbo-report/</guid>
-            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
