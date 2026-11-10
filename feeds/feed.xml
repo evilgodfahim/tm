@@ -4,13 +4,19 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Nov 2026 18:00:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 01:47:56 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Nov 2026 18:00:57 GMT</pubDate>
+        <pubDate>Tue, 10 Nov 2026 01:47:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Fossil Fuel Emissions Set to Decrease in 2026]]></title>
+            <link>https://time.com/article/2026/11/10/fossil-fuel-emissions-decrease-2026/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/10/fossil-fuel-emissions-decrease-2026/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Trump Casts Doubt on Midterm Election Results]]></title>
-            <description><![CDATA[The President is following a familiar playbook by sowing doubt about election outcomes after a wave of Republican losses.]]></description>
             <link>https://time.com/article/2026/11/09/trump-casts-doubt-on-midterm-election-results/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/09/trump-casts-doubt-on-midterm-election-results/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
@@ -24,10 +30,11 @@
             <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trump Defends Hegseth as Republican-Led Impeachment Vote Looms]]></title>
+            <title><![CDATA[Republican Lawmaker Files Resolution to Impeach Hegseth]]></title>
+            <description><![CDATA[President Donald Trump vowed to "stand by" the embattled Defense Secretary if he is impeached.]]></description>
             <link>https://time.com/article/2026/11/09/trump-defends-hegseth-as-republican-led-impeachment-vote-looms/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/09/trump-defends-hegseth-as-republican-led-impeachment-vote-looms/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <dc:creator><![CDATA[Tiago Ventura and Olivia-Anne Cleary]]></dc:creator>
             <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -62,6 +69,20 @@
             <link>https://time.com/article/2026/11/09/time100-climate-how-we-chose/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/09/time100-climate-how-we-chose/</guid>
             <dc:creator><![CDATA[Sam Jacobs]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weight-Loss Drugs May Help Sleep Apnea and Arthritis]]></title>
+            <link>https://time.com/article/2026/11/09/glp-1-weight-loss-drugs-may-help-sleep-apnea-and-arthritis/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/09/glp-1-weight-loss-drugs-may-help-sleep-apnea-and-arthritis/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Efficiently Heat Your Home As a Renter This Winter]]></title>
+            <link>https://time.com/article/2026/11/09/home-winter-heating-renters/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/09/home-winter-heating-renters/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3312,25 +3333,6 @@
             <link>https://time.com/article/2026/09/16/worlds-top-healthtech-companies-2026/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/16/worlds-top-healthtech-companies-2026/</guid>
             <dc:creator><![CDATA[Charlotte Hu]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Best Ways to Stop Yourself From Crying]]></title>
-            <link>https://time.com/article/2026/09/16/how-to-stop-yourself-from-crying/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/16/how-to-stop-yourself-from-crying/</guid>
-            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why AI Makes Customer Service Worse, And What Companies Can Do To Fix It]]></title>
-            <link>https://time.com/article/2026/09/16/why-ai-makes-customer-service-worse-and-what-companies-can-do-to-fix-it/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/16/why-ai-makes-customer-service-worse-and-what-companies-can-do-to-fix-it/</guid>
-            <dc:creator><![CDATA[Francine Berman]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Criticizes His Supreme Court Picks Over Mail-In Ballot Ruling]]></title>
-            <link>https://time.com/article/2026/09/16/scotus-mail-ballot-ruling-trump-rant/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/16/scotus-mail-ballot-ruling-trump-rant/</guid>
             <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
