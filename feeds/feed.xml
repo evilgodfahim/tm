@@ -4,15 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Nov 2026 08:59:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 16:50:55 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Nov 2026 08:59:21 GMT</pubDate>
+        <pubDate>Tue, 10 Nov 2026 16:50:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Fossil Fuel Emissions Set to Decrease in 2026]]></title>
             <link>https://time.com/article/2026/11/10/fossil-fuel-emissions-decrease-2026/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/10/fossil-fuel-emissions-decrease-2026/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -23,10 +22,43 @@
             <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Democrats’ Biggest Surprise Wins in the Midterms]]></title>
+            <link>https://time.com/article/2026/11/10/midterm-election-results-biggest-democrat-surprise-wins-forecaster-ratings-republican/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/10/midterm-election-results-biggest-democrat-surprise-wins-forecaster-ratings-republican/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Making a Film About Iran Taught Me About Power]]></title>
+            <link>https://time.com/article/2026/11/10/film-iran-civil-society-death-penalty-power/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/10/film-iran-civil-society-death-penalty-power/</guid>
+            <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Relieve Sciatica Pain]]></title>
+            <link>https://time.com/article/2026/11/10/how-to-relieve-sciatica-pain/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/10/how-to-relieve-sciatica-pain/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You Can ‘Shake Off’ Stress. Here’s How]]></title>
+            <link>https://time.com/article/2026/11/10/somatic-shaking-stress-relief/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/10/somatic-shaking-stress-relief/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside the Troubling Rise of TeleICUs]]></title>
+            <link>https://time.com/article/2026/11/10/inside-the-trouble-rise-of-teleicus/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/10/inside-the-trouble-rise-of-teleicus/</guid>
+            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Trump Casts Doubt on Midterm Election Results]]></title>
             <link>https://time.com/article/2026/11/09/trump-casts-doubt-on-midterm-election-results/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/09/trump-casts-doubt-on-midterm-election-results/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +69,7 @@
             <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Republican Lawmaker Files Resolution to Impeach Hegseth]]></title>
+            <title><![CDATA['This Is Sabotage': Pete Hegseth Rails Against Looming Impeachment Vote]]></title>
             <description><![CDATA[President Donald Trump vowed to "stand by" the embattled Defense Secretary if he is impeached.]]></description>
             <link>https://time.com/article/2026/11/09/trump-defends-hegseth-as-republican-led-impeachment-vote-looms/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/09/trump-defends-hegseth-as-republican-led-impeachment-vote-looms/</guid>
@@ -54,7 +86,6 @@
             <title><![CDATA[Why Small Talk Is a Big Deal]]></title>
             <link>https://time.com/article/2026/11/09/why-small-talk-is-a-big-deal/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/09/why-small-talk-is-a-big-deal/</guid>
-            <dc:creator><![CDATA[Meehika Barua]]></dc:creator>
             <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -82,20 +113,25 @@
             <title><![CDATA[Weight-Loss Drugs May Help Sleep Apnea and Arthritis]]></title>
             <link>https://time.com/article/2026/11/09/glp-1-weight-loss-drugs-may-help-sleep-apnea-and-arthritis/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/09/glp-1-weight-loss-drugs-may-help-sleep-apnea-and-arthritis/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How To Efficiently Heat Your Home As a Renter This Winter]]></title>
             <link>https://time.com/article/2026/11/09/home-winter-heating-renters/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/09/home-winter-heating-renters/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Could a Democratic Congress Make an Immigration Deal with Trump?]]></title>
+            <link>https://time.com/article/2026/11/09/democratic-congress-immigration-deal-Trump-DACA-mass-deportation-amnesty/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/09/democratic-congress-immigration-deal-Trump-DACA-mass-deportation-amnesty/</guid>
             <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What Happens When AI Is the President’s Advisor?]]></title>
             <link>https://time.com/article/2026/11/08/what-happens-when-ai-is-the-president-s-advisor-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/08/what-happens-when-ai-is-the-president-s-advisor-/</guid>
+            <dc:creator><![CDATA[Keren Yarhi-Milo]]></dc:creator>
             <pubDate>Sun, 08 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -223,6 +259,7 @@
             <title><![CDATA[Scientists Have Found a New Way to Control AI's Behavior]]></title>
             <link>https://time.com/article/2026/11/05/ai-cheating-scientists-report-alignment/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/05/ai-cheating-scientists-report-alignment/</guid>
+            <dc:creator><![CDATA[Harry Booth]]></dc:creator>
             <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -242,6 +279,7 @@
             <title><![CDATA[What to Know About Rhabdomyolysis]]></title>
             <link>https://time.com/article/2026/11/05/what-is-rhabdomyolysis-linked-to-new-york-city-marathon-death/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/05/what-is-rhabdomyolysis-linked-to-new-york-city-marathon-death/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3295,45 +3333,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/09/17/trump-ice-director-nominee-lance-schroyer-rand-paul/</guid>
             <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump-Backed Republican Congresswoman Says the President’s Immigration Crackdown Has Gone ‘Too Far’]]></title>
-            <link>https://time.com/article/2026/09/17/trump-immigration-florida-republican-maria-elvira-salazar-midterms/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/17/trump-immigration-florida-republican-maria-elvira-salazar-midterms/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘You’re Eroding Trust’: What Trump Shifting Tens of Millions in Military Aid Means for U.S. Alliances]]></title>
-            <link>https://time.com/article/2026/09/17/trump-military-aid-us-alliances-europe-middle-east-americas/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/17/trump-military-aid-us-alliances-europe-middle-east-americas/</guid>
-            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colin Kaepernick Still Won't Stand for the National Anthem]]></title>
-            <link>https://time.com/article/2026/09/17/colin-kaepernick-memoir-interview/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/17/colin-kaepernick-memoir-interview/</guid>
-            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Genetic Mutation May Help Explain Lung Cancer in Nonsmokers]]></title>
-            <link>https://time.com/article/2026/09/17/genetic-mutation-lung-cancer-nonsmokers/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/17/genetic-mutation-lung-cancer-nonsmokers/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia Sanctions Bill Could 'Harm' Americans, Say Democratic Leaders]]></title>
-            <link>https://time.com/article/2026/09/17/russian-sanctions-bill-trump-new-tariffs-power-democrats-backlash/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/17/russian-sanctions-bill-trump-new-tariffs-power-democrats-backlash/</guid>
-            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thanks to DOGE, Federal Employees Got Paid Billions to Not Work]]></title>
-            <link>https://time.com/article/2026/09/16/federal-spending-layoffs-deferred-resignation-opm-doge-gao-report/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/16/federal-spending-layoffs-deferred-resignation-opm-doge-gao-report/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
