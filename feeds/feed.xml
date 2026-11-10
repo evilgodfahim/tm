@@ -4,14 +4,15 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Nov 2026 16:50:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 22:04:13 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Nov 2026 16:50:55 GMT</pubDate>
+        <pubDate>Tue, 10 Nov 2026 22:04:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Fossil Fuel Emissions Set to Decrease in 2026]]></title>
             <link>https://time.com/article/2026/11/10/fossil-fuel-emissions-decrease-2026/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/10/fossil-fuel-emissions-decrease-2026/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -25,7 +26,6 @@
             <title><![CDATA[Democrats’ Biggest Surprise Wins in the Midterms]]></title>
             <link>https://time.com/article/2026/11/10/midterm-election-results-biggest-democrat-surprise-wins-forecaster-ratings-republican/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/10/midterm-election-results-biggest-democrat-surprise-wins-forecaster-ratings-republican/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -38,21 +38,64 @@
             <title><![CDATA[How to Relieve Sciatica Pain]]></title>
             <link>https://time.com/article/2026/11/10/how-to-relieve-sciatica-pain/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/10/how-to-relieve-sciatica-pain/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[You Can ‘Shake Off’ Stress. Here’s How]]></title>
             <link>https://time.com/article/2026/11/10/somatic-shaking-stress-relief/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/10/somatic-shaking-stress-relief/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Inside the Troubling Rise of TeleICUs]]></title>
             <link>https://time.com/article/2026/11/10/inside-the-trouble-rise-of-teleicus/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/10/inside-the-trouble-rise-of-teleicus/</guid>
-            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jim Jordan Elected as New House Republican Leader]]></title>
+            <description><![CDATA[Jordan beat out Majority Leader Steve Scalise for the top House GOP position in the next Congress after Speaker Mike Johnson said he would not seek the role.]]></description>
+            <link>https://time.com/article/2026/11/10/jim-jordan-house-minority-leader-republicans-congress/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/10/jim-jordan-house-minority-leader-republicans-congress/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Trump Has Increased His Net Worth by Billions in His Second Term]]></title>
+            <link>https://time.com/article/2026/11/10/trump-net-worth-second-term/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/10/trump-net-worth-second-term/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump and Venezuela’s Elusive Elections]]></title>
+            <link>https://time.com/article/2026/11/10/trump-machado-venezuela-elections/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/10/trump-machado-venezuela-elections/</guid>
+            <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Israel Will Choose Its Next Prime Minister, Explained]]></title>
+            <link>https://time.com/article/2026/11/10/how-israel-will-choose-its-next-prime-minister-explained/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/10/how-israel-will-choose-its-next-prime-minister-explained/</guid>
+            <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World’s Best Companies in Sustainable Growth 2027]]></title>
+            <link>https://time.com/article/2026/11/10/worlds-best-companies-sustainable-growth-2027/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/10/worlds-best-companies-sustainable-growth-2027/</guid>
+            <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TIME's Kid of the Year Is Helping Comfort Children in Crisis]]></title>
+            <link>https://time.com/article/2026/11/10/kid-of-the-year-2026/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/10/kid-of-the-year-2026/</guid>
+            <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Democrats Can Win Florida in 2028]]></title>
+            <link>https://time.com/article/2026/11/10/how-democrats-can-win-florida-in-2028/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/10/how-democrats-can-win-florida-in-2028/</guid>
+            <dc:creator><![CDATA[Isvett Verde]]></dc:creator>
             <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -70,7 +113,6 @@
         </item>
         <item>
             <title><![CDATA['This Is Sabotage': Pete Hegseth Rails Against Looming Impeachment Vote]]></title>
-            <description><![CDATA[President Donald Trump vowed to "stand by" the embattled Defense Secretary if he is impeached.]]></description>
             <link>https://time.com/article/2026/11/09/trump-defends-hegseth-as-republican-led-impeachment-vote-looms/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/09/trump-defends-hegseth-as-republican-led-impeachment-vote-looms/</guid>
             <dc:creator><![CDATA[Tiago Ventura and Olivia-Anne Cleary]]></dc:creator>
@@ -113,18 +155,27 @@
             <title><![CDATA[Weight-Loss Drugs May Help Sleep Apnea and Arthritis]]></title>
             <link>https://time.com/article/2026/11/09/glp-1-weight-loss-drugs-may-help-sleep-apnea-and-arthritis/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/09/glp-1-weight-loss-drugs-may-help-sleep-apnea-and-arthritis/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How To Efficiently Heat Your Home As a Renter This Winter]]></title>
             <link>https://time.com/article/2026/11/09/home-winter-heating-renters/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/09/home-winter-heating-renters/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Could a Democratic Congress Make an Immigration Deal with Trump?]]></title>
             <link>https://time.com/article/2026/11/09/democratic-congress-immigration-deal-Trump-DACA-mass-deportation-amnesty/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/09/democratic-congress-immigration-deal-Trump-DACA-mass-deportation-amnesty/</guid>
+            <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are Data Centers to Blame for Rising Electricity Prices?]]></title>
+            <link>https://time.com/article/2026/11/09/are-data-centers-to-blame-for-rising-electricity-prices-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/09/are-data-centers-to-blame-for-rising-electricity-prices-/</guid>
+            <dc:creator><![CDATA[John Farrell]]></dc:creator>
             <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -138,6 +189,13 @@
             <title><![CDATA[Why Did Republican Redistricting Fail to Stop the Blue Wave?]]></title>
             <link>https://time.com/article/2026/11/08/republican-redistricting-2026-midterm-elections/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/08/republican-redistricting-2026-midterm-elections/</guid>
+            <pubDate>Sun, 08 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No One Should Be Shamed for Using a Mobility Aid]]></title>
+            <link>https://time.com/article/2026/11/08/no-one-should-be-shamed-for-using-a-mobility-aid/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/08/no-one-should-be-shamed-for-using-a-mobility-aid/</guid>
+            <dc:creator><![CDATA[Nicole Clark]]></dc:creator>
             <pubDate>Sun, 08 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3271,68 +3329,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/09/18/breaking-down-the-ending-of-the-scandal/</guid>
             <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
             <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Circle CEO Jeremy Allaire on Arc, the Future of Quantum and the Agentic Economy]]></title>
-            <link>https://time.com/article/2026/09/18/circle-ceo-jeremy-allaire-interview/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/18/circle-ceo-jeremy-allaire-interview/</guid>
-            <dc:creator><![CDATA[Ayesha Javed]]></dc:creator>
-            <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Having Health Insurance Doesn’t Prevent Medical Debt]]></title>
-            <link>https://time.com/article/2026/09/17/having-health-insurance-doesnt-prevent-medical-debt/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/17/having-health-insurance-doesnt-prevent-medical-debt/</guid>
-            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Trump Helped Put a Texas Senate Seat In Play]]></title>
-            <description><![CDATA[Democrats may be within reach of their first statewide win in decades]]></description>
-            <link>https://time.com/article/2026/09/17/trump-paxton-talarico-texas-senate/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/17/trump-paxton-talarico-texas-senate/</guid>
-            <dc:creator><![CDATA[Eric Cortellessa]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carney Champions Canada-E.U. Alliance as Trump Threatens Europe Over 'Hostile Act']]></title>
-            <link>https://time.com/article/2026/09/17/canada-european-union-membership-carney-trump-tariff-threats/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/17/canada-european-union-membership-carney-trump-tariff-threats/</guid>
-            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Southeast Asia Is Facing a Haze Crisis]]></title>
-            <link>https://time.com/article/2026/09/17/wildfire-haze-indonesia-malaysia-singapore-southeast-asia-super-el-nino/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/17/wildfire-haze-indonesia-malaysia-singapore-southeast-asia-super-el-nino/</guid>
-            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Govern the Existential Risk of AI]]></title>
-            <link>https://time.com/article/2026/09/17/how-to-govern-the-existential-risk-of-ai/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/17/how-to-govern-the-existential-risk-of-ai/</guid>
-            <dc:creator><![CDATA[Mary Robinson and Ahmet Üzümcü]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Attacks Against Judges Are an Attack Against America’s Constitution]]></title>
-            <link>https://time.com/article/2026/09/17/attacks-against-judges-are-an-attack-against-america-s-constitution/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/17/attacks-against-judges-are-an-attack-against-america-s-constitution/</guid>
-            <dc:creator><![CDATA[Paul R. Michel]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the U.S. Urgently Needs More Platelet Donors]]></title>
-            <link>https://time.com/article/2026/09/17/why-the-us-urgently-needs-more-platelet-donors/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/17/why-the-us-urgently-needs-more-platelet-donors/</guid>
-            <dc:creator><![CDATA[Robert Glatter]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Withdraws ICE Director Nominee After Republican Senator Blocks Confirmation Hearing]]></title>
-            <link>https://time.com/article/2026/09/17/trump-ice-director-nominee-lance-schroyer-rand-paul/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/17/trump-ice-director-nominee-lance-schroyer-rand-paul/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
