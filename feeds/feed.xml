@@ -4,10 +4,48 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Nov 2026 10:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 18:13:51 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Nov 2026 10:03:23 GMT</pubDate>
+        <pubDate>Wed, 11 Nov 2026 18:13:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Kennedys Sue to Block Trump Arch]]></title>
+            <description><![CDATA[Nine members of the Kennedy family became the latest group to sue to stop the construction of Trump’s 250-foot arch in Washington, D.C.]]></description>
+            <link>https://time.com/article/2026/11/11/trump-arch-kennedy-family-lawsuit-washington-dc/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/11/trump-arch-kennedy-family-lawsuit-washington-dc/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Biden Says He Would Have Stepped Down If He Knew He Had Cancer]]></title>
+            <link>https://time.com/article/2026/11/11/biden-says-he-would-have-stepped-down-if-he-knew-he-had-cancer/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/11/biden-says-he-would-have-stepped-down-if-he-knew-he-had-cancer/</guid>
+            <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['The Good Daughter' Is One Long Trauma Dump]]></title>
+            <link>https://time.com/article/2026/11/11/the-good-daughter-review-peacock/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/11/the-good-daughter-review-peacock/</guid>
+            <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: Avedon]]></title>
+            <link>https://time.com/article/2026/11/11/avedon-documentary-review-ron-howard/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/11/avedon-documentary-review-ron-howard/</guid>
+            <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Check in on Your Friendships]]></title>
+            <link>https://time.com/article/2026/11/11/friendship-check-in-questions/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/11/friendship-check-in-questions/</guid>
+            <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Finale of 'The Body']]></title>
+            <link>https://time.com/article/2026/11/11/the-body-netflix-finale-explained/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/11/the-body-netflix-finale-explained/</guid>
+            <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fossil Fuel Emissions Set to Decrease in 2026]]></title>
             <link>https://time.com/article/2026/11/10/fossil-fuel-emissions-decrease-2026/</link>
@@ -38,12 +76,14 @@
             <title><![CDATA[How to Relieve Sciatica Pain]]></title>
             <link>https://time.com/article/2026/11/10/how-to-relieve-sciatica-pain/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/10/how-to-relieve-sciatica-pain/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[You Can ‘Shake Off’ Stress. Here’s How]]></title>
             <link>https://time.com/article/2026/11/10/somatic-shaking-stress-relief/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/10/somatic-shaking-stress-relief/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -56,7 +96,6 @@
             <title><![CDATA[Jim Jordan Elected as New House Republican Leader]]></title>
             <link>https://time.com/article/2026/11/10/jim-jordan-house-minority-leader-republicans-congress/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/10/jim-jordan-house-minority-leader-republicans-congress/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -70,6 +109,7 @@
             <title><![CDATA[Trump and Venezuela’s Elusive Elections]]></title>
             <link>https://time.com/article/2026/11/10/trump-machado-venezuela-elections/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/10/trump-machado-venezuela-elections/</guid>
+            <dc:creator><![CDATA[Ian Bremmer]]></dc:creator>
             <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -99,14 +139,13 @@
         </item>
         <item>
             <title><![CDATA[House Blocks Hegseth Impeachment, but Democrats Could Revive Effort]]></title>
-            <description><![CDATA[The House voted 211-204 to defeat a resolution brought by Rep. Thomas Massie]]></description>
             <link>https://time.com/article/2026/11/10/hegseth-impeachment-procedural-vote-house/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/10/hegseth-impeachment-procedural-vote-house/</guid>
             <dc:creator><![CDATA[Nik Popli]]></dc:creator>
             <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hegseth Could Still Be the Third Cabinet Secretary to be Impeached. What Happened to the Others?]]></title>
+            <title><![CDATA[Hegseth Could Be the Third Cabinet Secretary Impeached in U.S. History]]></title>
             <link>https://time.com/article/2026/11/10/hegseth-could-be-the-third-cabinet-secretary-to-be-impeached/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/10/hegseth-could-be-the-third-cabinet-secretary-to-be-impeached/</guid>
             <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
@@ -3288,45 +3327,6 @@
             <title><![CDATA[U.S. May Have Committed War Crimes in Iran, U.N. Report Says]]></title>
             <link>https://time.com/article/2026/09/18/us-iran-israel-war-crimes-strike-minab-school-un-report/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/18/us-iran-israel-war-crimes-strike-minab-school-un-report/</guid>
-            <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Earthshot Prize Is Embracing the Idea of Positive Tipping Points]]></title>
-            <link>https://time.com/article/2026/09/18/earthshot-prize-finalists-2026-tipping-points/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/18/earthshot-prize-finalists-2026-tipping-points/</guid>
-            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
-            <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Korea Set to Approve Abortion Pills Next Year]]></title>
-            <link>https://time.com/article/2026/09/18/south-korea-abortion-pill-mifepristone-misoprostol/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/18/south-korea-abortion-pill-mifepristone-misoprostol/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
-            <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Your Shoe Size Can Change as You Age. Here's Why]]></title>
-            <link>https://time.com/article/2026/09/18/your-shoe-size-can-change-as-you-age/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/18/your-shoe-size-can-change-as-you-age/</guid>
-            <dc:creator><![CDATA[Erica Sweeney]]></dc:creator>
-            <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Bans CNN, Politico and MS NOW From the White House]]></title>
-            <link>https://time.com/article/2026/09/18/trump-bans-3-news-organizations-from-white-house/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/18/trump-bans-3-news-organizations-from-white-house/</guid>
-            <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How a New Trump Administration Rule Is Set to Restrict Green Card Access]]></title>
-            <link>https://time.com/article/2026/09/18/trump-green-card-public-assistance-benefits-immigration/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/18/trump-green-card-public-assistance-benefits-immigration/</guid>
-            <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the Outcome of Russia's Elections Is All But Assured]]></title>
-            <link>https://time.com/article/2026/09/18/russia-elections-parliament-state-duma-putin/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/18/russia-elections-parliament-state-duma-putin/</guid>
             <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
