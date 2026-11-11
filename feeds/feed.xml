@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Nov 2026 22:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 02:25:02 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Nov 2026 22:04:13 GMT</pubDate>
+        <pubDate>Wed, 11 Nov 2026 02:25:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Fossil Fuel Emissions Set to Decrease in 2026]]></title>
@@ -54,7 +54,6 @@
         </item>
         <item>
             <title><![CDATA[Jim Jordan Elected as New House Republican Leader]]></title>
-            <description><![CDATA[Jordan beat out Majority Leader Steve Scalise for the top House GOP position in the next Congress after Speaker Mike Johnson said he would not seek the role.]]></description>
             <link>https://time.com/article/2026/11/10/jim-jordan-house-minority-leader-republicans-congress/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/10/jim-jordan-house-minority-leader-republicans-congress/</guid>
             <dc:creator><![CDATA[Connor Greene]]></dc:creator>
@@ -96,6 +95,27 @@
             <link>https://time.com/article/2026/11/10/how-democrats-can-win-florida-in-2028/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/10/how-democrats-can-win-florida-in-2028/</guid>
             <dc:creator><![CDATA[Isvett Verde]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[House Blocks Hegseth Impeachment, but Democrats Could Revive Effort]]></title>
+            <description><![CDATA[The House voted 211-204 to defeat a resolution brought by Rep. Thomas Massie]]></description>
+            <link>https://time.com/article/2026/11/10/hegseth-impeachment-procedural-vote-house/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/10/hegseth-impeachment-procedural-vote-house/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hegseth Could Still Be the Third Cabinet Secretary to be Impeached. What Happened to the Others?]]></title>
+            <link>https://time.com/article/2026/11/10/hegseth-could-be-the-third-cabinet-secretary-to-be-impeached/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/10/hegseth-could-be-the-third-cabinet-secretary-to-be-impeached/</guid>
+            <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate Leaders Toast to a Hopeful Future at TIME100 Impact Dinner]]></title>
+            <link>https://time.com/article/2026/11/10/cop31-time100-impact-dinner/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/10/cop31-time100-impact-dinner/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3307,27 +3327,6 @@
             <title><![CDATA[Why the Outcome of Russia's Elections Is All But Assured]]></title>
             <link>https://time.com/article/2026/09/18/russia-elections-parliament-state-duma-putin/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/18/russia-elections-parliament-state-duma-putin/</guid>
-            <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Monster: The Lizzie Borden Story' Disappoints]]></title>
-            <link>https://time.com/article/2026/09/18/monster-lizzie-borden-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/18/monster-lizzie-borden-review/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Resident Evil Is a Fleet, Entertaining Reboot]]></title>
-            <link>https://time.com/article/2026/09/18/resident-evil-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/18/resident-evil-review/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Ending of 'The Scandal']]></title>
-            <link>https://time.com/article/2026/09/18/breaking-down-the-ending-of-the-scandal/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/18/breaking-down-the-ending-of-the-scandal/</guid>
-            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
             <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
