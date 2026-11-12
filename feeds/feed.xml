@@ -4,10 +4,18 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Nov 2026 01:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 08:59:34 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Nov 2026 01:11:32 GMT</pubDate>
+        <pubDate>Thu, 12 Nov 2026 08:59:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Democrat Scott Colom Wins Mississippi Senate Race]]></title>
+            <description><![CDATA[Colom defeated incumbent Sen. Cindy Hyde-Smith to become the first Democrat elected to the Senate from Mississippi since 1982.]]></description>
+            <link>https://time.com/article/2026/11/12/mississippi-senate-race-scott-colom-cindy-hyde-smith-2026-midterm-elections/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/12/mississippi-senate-race-scott-colom-cindy-hyde-smith-2026-midterm-elections/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kennedys Sue to Block Trump Arch]]></title>
             <link>https://time.com/article/2026/11/11/trump-arch-kennedy-family-lawsuit-washington-dc/</link>
@@ -3322,13 +3330,6 @@
             <title><![CDATA[How National Security Became Central to Trump’s D.C. Construction Projects]]></title>
             <link>https://time.com/article/2026/09/20/why-trumps-building-projects-national-security/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/20/why-trumps-building-projects-national-security/</guid>
-            <pubDate>Sun, 20 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Helicopter Parenting Can Help Children Recover From Concussions]]></title>
-            <link>https://time.com/article/2026/09/20/helicopter-parenting-can-help-children-recover-from-concussions/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/20/helicopter-parenting-can-help-children-recover-from-concussions/</guid>
-            <dc:creator><![CDATA[Teena Shetty]]></dc:creator>
             <pubDate>Sun, 20 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
