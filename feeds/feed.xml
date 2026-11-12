@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Nov 2026 18:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 01:11:32 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Nov 2026 18:13:51 GMT</pubDate>
+        <pubDate>Thu, 12 Nov 2026 01:11:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Kennedys Sue to Block Trump Arch]]></title>
-            <description><![CDATA[Nine members of the Kennedy family became the latest group to sue to stop the construction of Trump’s 250-foot arch in Washington, D.C.]]></description>
             <link>https://time.com/article/2026/11/11/trump-arch-kennedy-family-lawsuit-washington-dc/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/11/trump-arch-kennedy-family-lawsuit-washington-dc/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
@@ -44,6 +43,27 @@
             <title><![CDATA[Breaking Down the Finale of 'The Body']]></title>
             <link>https://time.com/article/2026/11/11/the-body-netflix-finale-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/11/the-body-netflix-finale-explained/</guid>
+            <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Democrat Scott Colom Wins Mississippi Senate Race]]></title>
+            <description><![CDATA[Colom defeated incumbent Sen. Cindy Hyde-Smith to become the first Democrat elected to the Senate from Mississippi since 1982.]]></description>
+            <link>https://time.com/article/2026/11/11/mississippi-senate-race-scott-colom-cindy-hyde-smith-2026-midterm-elections/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/11/mississippi-senate-race-scott-colom-cindy-hyde-smith-2026-midterm-elections/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet the Decorated Olympian Running for French President]]></title>
+            <link>https://time.com/article/2026/11/11/meet-teddy-riner-olympian-running-for-french-president/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/11/meet-teddy-riner-olympian-running-for-french-president/</guid>
+            <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Comes Next for NVIDIA]]></title>
+            <link>https://time.com/article/2026/11/11/what-comes-next-for-nvidia/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/11/what-comes-next-for-nvidia/</guid>
+            <dc:creator><![CDATA[Jeffrey Sonnenfeld, Steven Tian and Stephen Henriques]]></dc:creator>
             <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3310,24 +3330,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/09/20/helicopter-parenting-can-help-children-recover-from-concussions/</guid>
             <dc:creator><![CDATA[Teena Shetty]]></dc:creator>
             <pubDate>Sun, 20 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Kevin Warsh Change the Federal Reserve?]]></title>
-            <link>https://time.com/article/2026/09/19/can-kevin-warsh-change-the-federal-reserve-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/19/can-kevin-warsh-change-the-federal-reserve-/</guid>
-            <pubDate>Sat, 19 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What 1,000 Women Workers Can Teach Us About Surviving Extreme Heat]]></title>
-            <link>https://time.com/article/2026/09/19/what-1000-women-workers-can-teach-us-about-surviving-extreme-heat/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/19/what-1000-women-workers-can-teach-us-about-surviving-extreme-heat/</guid>
-            <pubDate>Sat, 19 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. May Have Committed War Crimes in Iran, U.N. Report Says]]></title>
-            <link>https://time.com/article/2026/09/18/us-iran-israel-war-crimes-strike-minab-school-un-report/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/18/us-iran-israel-war-crimes-strike-minab-school-un-report/</guid>
-            <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
