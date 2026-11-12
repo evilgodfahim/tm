@@ -4,16 +4,64 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Nov 2026 08:59:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 17:25:24 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Nov 2026 08:59:34 GMT</pubDate>
+        <pubDate>Thu, 12 Nov 2026 17:25:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Democrat Scott Colom Wins Mississippi Senate Race]]></title>
-            <description><![CDATA[Colom defeated incumbent Sen. Cindy Hyde-Smith to become the first Democrat elected to the Senate from Mississippi since 1982.]]></description>
             <link>https://time.com/article/2026/11/12/mississippi-senate-race-scott-colom-cindy-hyde-smith-2026-midterm-elections/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/12/mississippi-senate-race-scott-colom-cindy-hyde-smith-2026-midterm-elections/</guid>
             <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Calls For Apple's Tim Cook to Replace Jensen Huang as NVIDIA CEO]]></title>
+            <description><![CDATA["A Legend replaces a Legend," Trump wrote, explaining his thinking behind who should take over NVIDIA]]></description>
+            <link>https://time.com/article/2026/11/12/trump-wants-apple-s-tim-cook-to-replace-jenson-huang-as-nvidia-ceo/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/12/trump-wants-apple-s-tim-cook-to-replace-jenson-huang-as-nvidia-ceo/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brooklyn Apartment Building Collapses, Killing 8: What To Know]]></title>
+            <link>https://time.com/article/2026/11/12/brooklyn-new-york-apartment-building-collapse-death-toll-search-rescue-operations/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/12/brooklyn-new-york-apartment-building-collapse-death-toll-search-rescue-operations/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Envoys Witkoff and Kushner Meet With Putin in Moscow]]></title>
+            <link>https://time.com/article/2026/11/12/ukraine-russia-peace-deal-talks-putin-zelensky-witkoff-kushner/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/12/ukraine-russia-peace-deal-talks-putin-zelensky-witkoff-kushner/</guid>
+            <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Too Little Sleep Makes You Easier to Scam]]></title>
+            <link>https://time.com/article/2026/11/12/getting-too-little-sleep-makes-you-easier-to-scam/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/12/getting-too-little-sleep-makes-you-easier-to-scam/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How AI Can Help You Appeal Health Insurance Denials]]></title>
+            <link>https://time.com/article/2026/11/12/how-ai-can-help-you-appeal-health-insurance-denials/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/12/how-ai-can-help-you-appeal-health-insurance-denials/</guid>
+            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I Worked Out Every Day for 35 Years. It Saved My Life]]></title>
+            <link>https://time.com/article/2026/11/12/alfonso-moretti-essay/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/12/alfonso-moretti-essay/</guid>
+            <dc:creator><![CDATA[Alfonso Moretti]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The True Story Behind 'Get Huge: Looksmaxxing to Death']]></title>
+            <link>https://time.com/article/2026/11/12/get-huge-looksmaxxing-to-death-true-story/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/12/get-huge-looksmaxxing-to-death-true-story/</guid>
+            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
             <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3283,54 +3331,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/09/21/what-russia-s-parliamentary-election-results-mean-for-putin-and-the-war/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why K-Pop Took Off When C-Pop Didn’t]]></title>
-            <link>https://time.com/article/2026/09/21/why-k-pop-took-off-when-c-pop-did-not/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/21/why-k-pop-took-off-when-c-pop-did-not/</guid>
-            <dc:creator><![CDATA[Bobby Ghosh]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Older Americans Are Drinking More Alcohol—Not Less]]></title>
-            <link>https://time.com/article/2026/09/21/why-older-americans-are-drinking-more-alcohol—not-less/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/21/why-older-americans-are-drinking-more-alcohol—not-less/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can This Week's U.N. Gathering Cool Rising Tensions Between the U.S. and Iran?]]></title>
-            <link>https://time.com/article/2026/09/21/trump-iran-war-united-nations-general-assembly/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/21/trump-iran-war-united-nations-general-assembly/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Older Americans Are Drinking More Alcohol—Not Less]]></title>
-            <link>https://time.com/article/2026/09/21/why-older-americans-are-drinking-more-alcohol-not-less/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/21/why-older-americans-are-drinking-more-alcohol-not-less/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We Have a Climate Imagination Problem]]></title>
-            <link>https://time.com/article/2026/09/21/we-have-a-climate-imagination-problem/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/21/we-have-a-climate-imagination-problem/</guid>
-            <dc:creator><![CDATA[Solitaire Townsend]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The True Story Behind 'Unabomber']]></title>
-            <link>https://time.com/article/2026/09/21/the-true-story-behind-unabomber-netflix-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/21/the-true-story-behind-unabomber-netflix-/</guid>
-            <dc:creator><![CDATA[Isadora Wandermurem]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How National Security Became Central to Trump’s D.C. Construction Projects]]></title>
-            <link>https://time.com/article/2026/09/20/why-trumps-building-projects-national-security/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/20/why-trumps-building-projects-national-security/</guid>
-            <pubDate>Sun, 20 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
