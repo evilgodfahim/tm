@@ -4,10 +4,31 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Nov 2026 03:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 11:44:16 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Nov 2026 03:15:14 GMT</pubDate>
+        <pubDate>Fri, 13 Nov 2026 11:44:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Van Hollen Challenges Schumer for Senate Majority Leader]]></title>
+            <description><![CDATA[The senator from Maryland answered calls from progressives for new Democratic leadership, but Schumer insists he has the votes to stay in charge of the caucus.]]></description>
+            <link>https://time.com/article/2026/11/13/chris-van-hollen-senate-majority-leader-chuck-schumer-progressive-democrats/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/13/chris-van-hollen-senate-majority-leader-chuck-schumer-progressive-democrats/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Democrats Can Start the Next Era of Immigration Reform Now]]></title>
+            <link>https://time.com/article/2026/11/13/how-democrats-can-start-the-next-era-of-immigration-reform-now/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/13/how-democrats-can-start-the-next-era-of-immigration-reform-now/</guid>
+            <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why AI Could Create More Places Like Youngstown, Ohio]]></title>
+            <link>https://time.com/article/2026/11/13/why-ai-could-create-more-places-like-youngstown-ohio/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/13/why-ai-could-create-more-places-like-youngstown-ohio/</guid>
+            <dc:creator><![CDATA[Todd Jick and Bruce Usher]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Democrat Scott Colom Wins Mississippi Senate Race]]></title>
             <link>https://time.com/article/2026/11/12/mississippi-senate-race-scott-colom-cindy-hyde-smith-2026-midterm-elections/</link>
@@ -17,7 +38,6 @@
         </item>
         <item>
             <title><![CDATA[Trump Calls For Apple's Tim Cook to Replace Jensen Huang as NVIDIA CEO]]></title>
-            <description><![CDATA["A Legend replaces a Legend," Trump wrote, explaining his thinking behind who should take over NVIDIA]]></description>
             <link>https://time.com/article/2026/11/12/trump-wants-apple-s-tim-cook-to-replace-jenson-huang-as-nvidia-ceo/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/12/trump-wants-apple-s-tim-cook-to-replace-jenson-huang-as-nvidia-ceo/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
@@ -27,7 +47,6 @@
             <title><![CDATA[Brooklyn Apartment Building Collapses, Killing 8: What To Know]]></title>
             <link>https://time.com/article/2026/11/12/brooklyn-new-york-apartment-building-collapse-death-toll-search-rescue-operations/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/12/brooklyn-new-york-apartment-building-collapse-death-toll-search-rescue-operations/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -40,14 +59,12 @@
             <title><![CDATA[Getting Too Little Sleep Makes You Easier to Scam]]></title>
             <link>https://time.com/article/2026/11/12/getting-too-little-sleep-makes-you-easier-to-scam/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/12/getting-too-little-sleep-makes-you-easier-to-scam/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How AI Can Help You Appeal Health Insurance Denials]]></title>
             <link>https://time.com/article/2026/11/12/how-ai-can-help-you-appeal-health-insurance-denials/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/12/how-ai-can-help-you-appeal-health-insurance-denials/</guid>
-            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
             <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -61,13 +78,13 @@
             <title><![CDATA[The True Story Behind 'Get Huge: Looksmaxxing to Death']]></title>
             <link>https://time.com/article/2026/11/12/get-huge-looksmaxxing-to-death-true-story/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/12/get-huge-looksmaxxing-to-death-true-story/</guid>
-            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
             <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Next Chapter of mRNA]]></title>
             <link>https://time.com/article/2026/11/12/next-chapter-of-mrna-moderna-stephane-bancel/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/12/next-chapter-of-mrna-moderna-stephane-bancel/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -81,14 +98,12 @@
             <title><![CDATA[A New Pill Could Reduce the Risk of Having a Second Stroke]]></title>
             <link>https://time.com/article/2026/11/12/new-pill-could-reduce-risk-second-stroke/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/12/new-pill-could-reduce-risk-second-stroke/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Movies About Tech Turned Dystopian]]></title>
             <link>https://time.com/article/2026/11/12/hollywood-ai-backlash-sorkin/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/12/hollywood-ai-backlash-sorkin/</guid>
-            <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
             <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -96,6 +111,12 @@
             <link>https://time.com/article/2026/11/12/the-good-daughter-ending-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/12/the-good-daughter-ending-explained/</guid>
             <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 10 Best Gifts for Health and Fitness Nuts]]></title>
+            <link>https://time.com/article/2026/11/12/best-gifts-for-health-and-fitness-nuts/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/12/best-gifts-for-health-and-fitness-nuts/</guid>
             <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -115,24 +136,28 @@
             <title><![CDATA['The Good Daughter' Is One Long Trauma Dump]]></title>
             <link>https://time.com/article/2026/11/11/the-good-daughter-review-peacock/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/11/the-good-daughter-review-peacock/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Review: Avedon]]></title>
             <link>https://time.com/article/2026/11/11/avedon-documentary-review-ron-howard/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/11/avedon-documentary-review-ron-howard/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Check in on Your Friendships]]></title>
             <link>https://time.com/article/2026/11/11/friendship-check-in-questions/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/11/friendship-check-in-questions/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Breaking Down the Finale of 'The Body']]></title>
             <link>https://time.com/article/2026/11/11/the-body-netflix-finale-explained/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/11/the-body-netflix-finale-explained/</guid>
+            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -153,7 +178,7 @@
             <title><![CDATA[What Comes Next for NVIDIA]]></title>
             <link>https://time.com/article/2026/11/11/what-comes-next-for-nvidia/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/11/what-comes-next-for-nvidia/</guid>
-            <dc:creator><![CDATA[Jeffrey Sonnenfeld, Steven Tian and Stephen Henriques]]></dc:creator>
+            <dc:creator><![CDATA[Jeffrey Sonnenfeld]]></dc:creator>
             <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3305,32 +3330,6 @@
             <link>https://time.com/article/2026/09/22/time-names-inaugural-list-of-executives-of-the-year-tech-and-data/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/22/time-names-inaugural-list-of-executives-of-the-year-tech-and-data/</guid>
             <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the U.K. Is Supporting Saudi Arabia In Its Fight Against the Houthis]]></title>
-            <link>https://time.com/article/2026/09/22/uk-military-saudi-arabia-support-yemen-iran-houthis-rebels-fight/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/22/uk-military-saudi-arabia-support-yemen-iran-houthis-rebels-fight/</guid>
-            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICE Shooting of Immigrant in Texas Under Investigation: What to Know]]></title>
-            <link>https://time.com/article/2026/09/21/ice-austin-texas-shooting-venezuela-immigrant-investigation/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/21/ice-austin-texas-shooting-venezuela-immigrant-investigation/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In Europe, Today's Children Will Live Through More Fire Weather Than Their Grandparents]]></title>
-            <link>https://time.com/article/2026/09/21/children-europe-extreme-fire-weather-climate-future/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/21/children-europe-extreme-fire-weather-climate-future/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[German Far-Right Surges in ‘Disaster’ State Elections for Chancellor Merz]]></title>
-            <link>https://time.com/article/2026/09/21/german-far-right-expands-gains-in-disaster-to-chancellor-merz/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/21/german-far-right-expands-gains-in-disaster-to-chancellor-merz/</guid>
-            <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
