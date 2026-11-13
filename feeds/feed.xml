@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Nov 2026 11:44:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 18:58:25 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Nov 2026 11:44:16 GMT</pubDate>
+        <pubDate>Fri, 13 Nov 2026 18:58:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Van Hollen Challenges Schumer for Senate Majority Leader]]></title>
-            <description><![CDATA[The senator from Maryland answered calls from progressives for new Democratic leadership, but Schumer insists he has the votes to stay in charge of the caucus.]]></description>
             <link>https://time.com/article/2026/11/13/chris-van-hollen-senate-majority-leader-chuck-schumer-progressive-democrats/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/13/chris-van-hollen-senate-majority-leader-chuck-schumer-progressive-democrats/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
@@ -30,6 +29,41 @@
             <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How Texas’ Blue Takeover Could Soon Begin Impacting Texans’ Lives]]></title>
+            <description><![CDATA[This year’s elections have abruptly turned the ruby-red state blue, with sweeping implications for Texas’ laws and its more than 30 million residents.]]></description>
+            <link>https://time.com/article/2026/11/13/texas-midterm-elections-democrats-state-government/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/13/texas-midterm-elections-democrats-state-government/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Struggles to Repair Worldwide Outage]]></title>
+            <link>https://time.com/article/2026/11/13/microsoft-outage-worldwide-disruption-teams-outlook-emails/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/13/microsoft-outage-worldwide-disruption-teams-outlook-emails/</guid>
+            <dc:creator><![CDATA[Tiago Ventura and Olivia-Anne Cleary]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What An Early Polar Vortex Combined With El Niño Means For Winter]]></title>
+            <link>https://time.com/article/2026/11/13/early-polar-vortex-el-nino-winter/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/13/early-polar-vortex-el-nino-winter/</guid>
+            <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why BMI Is Not the Best Measure of Health]]></title>
+            <link>https://time.com/article/2026/11/13/why-bmi-is-not-the-most-accurate-measure-of-health/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/13/why-bmi-is-not-the-most-accurate-measure-of-health/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jordan Firstman and Reggie Absolom on 'Club Kid']]></title>
+            <link>https://time.com/article/2026/11/13/club-kid-jordan-firstman-reggie-absolom-interview/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/13/club-kid-jordan-firstman-reggie-absolom-interview/</guid>
+            <dc:creator><![CDATA[Rich Juzwiak]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Democrat Scott Colom Wins Mississippi Senate Race]]></title>
             <link>https://time.com/article/2026/11/12/mississippi-senate-race-scott-colom-cindy-hyde-smith-2026-midterm-elections/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/12/mississippi-senate-race-scott-colom-cindy-hyde-smith-2026-midterm-elections/</guid>
@@ -40,7 +74,6 @@
             <title><![CDATA[Trump Calls For Apple's Tim Cook to Replace Jensen Huang as NVIDIA CEO]]></title>
             <link>https://time.com/article/2026/11/12/trump-wants-apple-s-tim-cook-to-replace-jenson-huang-as-nvidia-ceo/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/12/trump-wants-apple-s-tim-cook-to-replace-jenson-huang-as-nvidia-ceo/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -104,6 +137,7 @@
             <title><![CDATA[How Movies About Tech Turned Dystopian]]></title>
             <link>https://time.com/article/2026/11/12/hollywood-ai-backlash-sorkin/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/12/hollywood-ai-backlash-sorkin/</guid>
+            <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
             <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3295,40 +3329,6 @@
             <link>https://time.com/article/2026/09/22/the-strange-reason-you-may-suddenly-feel-dizzy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/22/the-strange-reason-you-may-suddenly-feel-dizzy/</guid>
             <dc:creator><![CDATA[Stacey Colino]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Narrow Path to a Trump-Xi AI Deal]]></title>
-            <link>https://time.com/article/2026/09/22/trump-xi-ai-deal-china/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/22/trump-xi-ai-deal-china/</guid>
-            <dc:creator><![CDATA[Charlie Campbell and Harry Booth]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What We Tell Our Kids About AI]]></title>
-            <link>https://time.com/article/2026/09/22/what-we-tell-our-kids-about-ai/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/22/what-we-tell-our-kids-about-ai/</guid>
-            <dc:creator><![CDATA[Alex Karnal and Brian Kreiter]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Administration to Cancel Obamacare Coverage for 760,000 Enrollees Over Alleged Fraud]]></title>
-            <link>https://time.com/article/2026/09/22/obamacare-fraud-vance-trump-administration/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/22/obamacare-fraud-vance-trump-administration/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s U.N. Address Offers a Doctrine of Peace Through Force]]></title>
-            <link>https://time.com/article/2026/09/22/trump-s-u-n-address-offers-a-doctrine-of-peace-through-force/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/22/trump-s-u-n-address-offers-a-doctrine-of-peace-through-force/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIME Names Inaugural List of Executives of the Year: Tech and Data]]></title>
-            <link>https://time.com/article/2026/09/22/time-names-inaugural-list-of-executives-of-the-year-tech-and-data/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/22/time-names-inaugural-list-of-executives-of-the-year-tech-and-data/</guid>
             <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
