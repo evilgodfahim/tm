@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Nov 2026 18:58:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2026 00:10:55 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Nov 2026 18:58:25 GMT</pubDate>
+        <pubDate>Sat, 14 Nov 2026 00:10:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Van Hollen Challenges Schumer for Senate Majority Leader]]></title>
@@ -61,6 +61,27 @@
             <link>https://time.com/article/2026/11/13/club-kid-jordan-firstman-reggie-absolom-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/13/club-kid-jordan-firstman-reggie-absolom-interview/</guid>
             <dc:creator><![CDATA[Rich Juzwiak]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Ending of 'Heartland']]></title>
+            <link>https://time.com/article/2026/11/13/heartland-ending-explained-netflix/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/13/heartland-ending-explained-netflix/</guid>
+            <dc:creator><![CDATA[Isabella Wandermurem]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside Salish and Jordan Matter’s Growing Father-Daughter Empire]]></title>
+            <link>https://time.com/article/2026/11/13/salish-jordan-matter-interview/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/13/salish-jordan-matter-interview/</guid>
+            <dc:creator><![CDATA[Avery Stone]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Energy World Will Never Be the Same As Before the Iran War]]></title>
+            <link>https://time.com/article/2026/11/13/fatih-birol-iran-war-energy-cop31/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/13/fatih-birol-iran-war-energy-cop31/</guid>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3309,26 +3330,6 @@
             <link>https://time.com/article/2026/09/22/who-should-get-new-blood-tests-for-alzheimers-disease/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/22/who-should-get-new-blood-tests-for-alzheimers-disease/</guid>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Past Decade’s Emissions Are Driving Worse Heat Waves in Europe]]></title>
-            <link>https://time.com/article/2026/09/22/emissions-paris-agreement-europe-heat-waves-study/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/22/emissions-paris-agreement-europe-heat-waves-study/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump's Deal With Denmark—and What It Means for Greenland's Sovereignty]]></title>
-            <link>https://time.com/article/2026/09/22/trump-greenland-security-deal-sovereignty-annexation-threats-military-guarantees/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/22/trump-greenland-security-deal-sovereignty-annexation-threats-military-guarantees/</guid>
-            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Strange Reason You May Suddenly Feel Dizzy]]></title>
-            <link>https://time.com/article/2026/09/22/the-strange-reason-you-may-suddenly-feel-dizzy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/22/the-strange-reason-you-may-suddenly-feel-dizzy/</guid>
-            <dc:creator><![CDATA[Stacey Colino]]></dc:creator>
             <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
