@@ -4,14 +4,22 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Nov 2026 19:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2026 23:31:36 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Nov 2026 19:37:18 GMT</pubDate>
+        <pubDate>Sat, 14 Nov 2026 23:31:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Congress Must Protect the CDC From Politics]]></title>
             <link>https://time.com/article/2026/11/14/congress-must-protect-the-cdc-from-politics/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/14/congress-must-protect-the-cdc-from-politics/</guid>
+            <pubDate>Sat, 14 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Air Traffic Control Systems Are Outdated. What’s Being Done to Prevent Another Outage?]]></title>
+            <description><![CDATA[A nationwide flight halt has put the FAA’s aging technology in the spotlight. Upgrades are underway, but preventing future outages will take more than new equipment.]]></description>
+            <link>https://time.com/article/2026/11/14/air-traffic-control-systems-are-outdated-what-s-being-done-to-prevent-another-outage-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/14/air-traffic-control-systems-are-outdated-what-s-being-done-to-prevent-another-outage-/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sat, 14 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -36,7 +44,6 @@
         </item>
         <item>
             <title><![CDATA[How Texas’ Blue Takeover Could Soon Begin Impacting Texans’ Lives]]></title>
-            <description><![CDATA[This year’s elections have abruptly turned the ruby-red state blue, with sweeping implications for Texas’ laws and its more than 30 million residents.]]></description>
             <link>https://time.com/article/2026/11/13/texas-midterm-elections-democrats-state-government/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/13/texas-midterm-elections-democrats-state-government/</guid>
             <dc:creator><![CDATA[Connor Greene]]></dc:creator>
@@ -3323,13 +3330,6 @@
             <title><![CDATA[White House Launches ‘Trump TV’ Amid Feud With Press]]></title>
             <link>https://time.com/article/2026/09/22/trump-tv-white-house-press-pool-ban-boycott-state-media/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/22/trump-tv-white-house-press-pool-ban-boycott-state-media/</guid>
-            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revisiting Childhood Hobbies Is a Way to Learn Who You Are as an Adult]]></title>
-            <link>https://time.com/article/2026/09/22/revisiting-childhood-hobbies-is-a-way-to-learn-who-you-are-as-an-adult/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/22/revisiting-childhood-hobbies-is-a-way-to-learn-who-you-are-as-an-adult/</guid>
-            <dc:creator><![CDATA[Rainesford Stauffer]]></dc:creator>
             <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
