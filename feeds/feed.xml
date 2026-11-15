@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Nov 2026 11:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2026 18:15:25 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Nov 2026 11:42:21 GMT</pubDate>
+        <pubDate>Sun, 15 Nov 2026 18:15:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[All Hail Philomena Cunk]]></title>
+            <link>https://time.com/article/2026/11/15/cunk-on-cinema-philomena-cunk/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/15/cunk-on-cinema-philomena-cunk/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Congress Must Protect the CDC From Politics]]></title>
             <link>https://time.com/article/2026/11/14/congress-must-protect-the-cdc-from-politics/</link>
@@ -3324,12 +3331,6 @@
             <title><![CDATA[The Priest Preparing to Care for 31 Children if ICE Detains Their Parents]]></title>
             <link>https://time.com/article/2026/09/22/El-Salvador-priest-standby-guardian-31-kids-immigration-TPS/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/22/El-Salvador-priest-standby-guardian-31-kids-immigration-TPS/</guid>
-            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[White House Launches ‘Trump TV’ Amid Feud With Press]]></title>
-            <link>https://time.com/article/2026/09/22/trump-tv-white-house-press-pool-ban-boycott-state-media/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/22/trump-tv-white-house-press-pool-ban-boycott-state-media/</guid>
             <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
