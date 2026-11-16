@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Nov 2026 12:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 22:39:52 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Nov 2026 12:21:49 GMT</pubDate>
+        <pubDate>Mon, 16 Nov 2026 22:39:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[In Jeffries’ Rise to Speaker, Black Leaders See a Milestone—and a Test]]></title>
-            <description><![CDATA[For Black leaders, Jeffries’ rise to House Speaker carries historic meaning—and new challenges.]]></description>
             <link>https://time.com/article/2026/11/16/hakeem-jeffries-first-speaker-black-leaders/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/16/hakeem-jeffries-first-speaker-black-leaders/</guid>
             <dc:creator><![CDATA[Philip Wang]]></dc:creator>
@@ -20,7 +19,48 @@
             <title><![CDATA[U.S. Army Whistleblower Alleges Warnings Dismissed Before Deadly Attack]]></title>
             <link>https://time.com/article/2026/11/16/army-whistleblower-ramsbottom-port-shuaiba-warnings-iran-war-hegseth-democrats/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/16/army-whistleblower-ramsbottom-port-shuaiba-warnings-iran-war-hegseth-democrats/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US to Clamp Down On AI Chip Loophole Ahead Of Trump Meeting With Xi]]></title>
+            <description><![CDATA[The new rule gives Commerce Secretary Howard Lutnick more discretion over the sale of AI chips to certain countries.]]></description>
+            <link>https://time.com/article/2026/11/16/trump-administration-ai-chips-nvidia-china/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/16/trump-administration-ai-chips-nvidia-china/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will the Midterms Hurt J.D. Vance’s Presidential Chances in 2028?]]></title>
+            <link>https://time.com/article/2026/11/16/j-d-vance-2028-presidential-election-midterms-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/16/j-d-vance-2028-presidential-election-midterms-trump/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DOJ Warns Democratic Senator of ‘Legal Consequences’ Over Trump Investigations]]></title>
+            <link>https://time.com/article/2026/11/16/doj-warns-democratic-senator-of-legal-consequences-over-trump-investigations-what-can-it-actually-do-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/16/doj-warns-democratic-senator-of-legal-consequences-over-trump-investigations-what-can-it-actually-do-/</guid>
+            <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Premature Birth Taught Me the Dark Comedy of Trauma]]></title>
+            <link>https://time.com/article/2026/11/16/premature-birth-taught-me-the-dark-comedy-of-trauma/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/16/premature-birth-taught-me-the-dark-comedy-of-trauma/</guid>
+            <dc:creator><![CDATA[Katy Sherman]]></dc:creator>
+            <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Build an Artificial Intelligence Revolution for All]]></title>
+            <link>https://time.com/article/2026/11/16/how-to-build-an-artificial-intelligence-revolution-for-all/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/16/how-to-build-an-artificial-intelligence-revolution-for-all/</guid>
+            <dc:creator><![CDATA[Lynn Forester de Rothschild]]></dc:creator>
+            <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Electricity Toll of America's AI Data Centers]]></title>
+            <link>https://time.com/article/2026/11/16/ai-data-centers-electricity-carbon-emissions-study/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/16/ai-data-centers-electricity-carbon-emissions-study/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -33,7 +73,6 @@
             <title><![CDATA[Trump’s Golf Course Plans Hit a Legal Obstacle: His Own Social Media Posts]]></title>
             <link>https://time.com/article/2026/11/15/trumps-social-media-posts-evidence-against-his-administration/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/15/trumps-social-media-posts-evidence-against-his-administration/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sun, 15 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -64,6 +103,7 @@
             <title><![CDATA[How Democrats Can Start the Next Era of Immigration Reform Now]]></title>
             <link>https://time.com/article/2026/11/13/how-democrats-can-start-the-next-era-of-immigration-reform-now/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/13/how-democrats-can-start-the-next-era-of-immigration-reform-now/</guid>
+            <dc:creator><![CDATA[Andrea R. Flores]]></dc:creator>
             <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +117,6 @@
             <title><![CDATA[How Texas’ Blue Takeover Could Soon Begin Impacting Texans’ Lives]]></title>
             <link>https://time.com/article/2026/11/13/texas-midterm-elections-democrats-state-government/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/13/texas-midterm-elections-democrats-state-government/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -126,6 +165,14 @@
             <title><![CDATA[The Energy World Will Never Be the Same As Before the Iran War]]></title>
             <link>https://time.com/article/2026/11/13/fatih-birol-iran-war-energy-cop31/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/13/fatih-birol-iran-war-energy-cop31/</guid>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Gutted USAID. Congo Pays the Price in an Ebola Epidemic]]></title>
+            <link>https://time.com/article/2026/11/13/ebola-congo-epidemic-usaid-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/13/ebola-congo-epidemic-usaid-trump/</guid>
+            <dc:creator><![CDATA[Anthony W. Gambino]]></dc:creator>
             <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3288,52 +3335,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/09/24/your-mother-your-mother-your-mother-review/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Myanmar’s Dictator Wants to Rebuild Ties With the West]]></title>
-            <link>https://time.com/article/2026/09/23/myanmar-president-interview-Min-Aung-Hlaing/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/23/myanmar-president-interview-Min-Aung-Hlaing/</guid>
-            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America Must Win Back Its Global Standing]]></title>
-            <link>https://time.com/article/2026/09/23/america-united-nations-trump-global-leadership/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/23/america-united-nations-trump-global-leadership/</guid>
-            <dc:creator><![CDATA[Gordon Brown]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What a Diesel Export Ban Would Mean for U.S. Consumers]]></title>
-            <link>https://time.com/article/2026/09/23/diesel-export-ban-pump-prices-trump-energy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/23/diesel-export-ban-pump-prices-trump-energy/</guid>
-            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Brothers' Coasts on Charm: TV Review]]></title>
-            <link>https://time.com/article/2026/09/23/brothers-review-mcconaughey-harrelson/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/23/brothers-review-mcconaughey-harrelson/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hurricane Polo Intensifies Off Mexico’s Coast]]></title>
-            <link>https://time.com/article/2026/09/23/hurricane-polo-natural-disaster-el-nino-weather-mexico/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/23/hurricane-polo-natural-disaster-el-nino-weather-mexico/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why California Declared a State of Emergency Due to El Niño]]></title>
-            <link>https://time.com/article/2026/09/23/california-state-of-emergency-el-nino/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/23/california-state-of-emergency-el-nino/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who Will Be the Next Leader of the U.N.?]]></title>
-            <link>https://time.com/article/2026/09/23/un-secretary-general-race-guterres/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/23/un-secretary-general-race-guterres/</guid>
-            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
