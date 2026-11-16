@@ -4,20 +4,33 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Nov 2026 03:56:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 12:21:49 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Nov 2026 03:56:37 GMT</pubDate>
+        <pubDate>Mon, 16 Nov 2026 12:21:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[In Jeffries’ Rise to Speaker, Black Leaders See a Milestone—and a Test]]></title>
+            <description><![CDATA[For Black leaders, Jeffries’ rise to House Speaker carries historic meaning—and new challenges.]]></description>
+            <link>https://time.com/article/2026/11/16/hakeem-jeffries-first-speaker-black-leaders/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/16/hakeem-jeffries-first-speaker-black-leaders/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. Army Whistleblower Alleges Warnings Dismissed Before Deadly Attack]]></title>
+            <link>https://time.com/article/2026/11/16/army-whistleblower-ramsbottom-port-shuaiba-warnings-iran-war-hegseth-democrats/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/16/army-whistleblower-ramsbottom-port-shuaiba-warnings-iran-war-hegseth-democrats/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[All Hail Philomena Cunk]]></title>
             <link>https://time.com/article/2026/11/15/cunk-on-cinema-philomena-cunk/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/15/cunk-on-cinema-philomena-cunk/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Sun, 15 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump’s Golf Course Plans Hit a Legal Obstacle: His Own Social Media Posts]]></title>
-            <description><![CDATA[This is not the first time the President’s online commentary has carried consequences in the courtroom.]]></description>
             <link>https://time.com/article/2026/11/15/trumps-social-media-posts-evidence-against-his-administration/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/15/trumps-social-media-posts-evidence-against-his-administration/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
@@ -33,7 +46,12 @@
             <title><![CDATA[Air Traffic Control Systems Are Outdated. What’s Being Done to Prevent Another Outage?]]></title>
             <link>https://time.com/article/2026/11/14/air-traffic-control-systems-are-outdated-what-s-being-done-to-prevent-another-outage-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/14/air-traffic-control-systems-are-outdated-what-s-being-done-to-prevent-another-outage-/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sat, 14 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The China Shock in the AI Era]]></title>
+            <link>https://time.com/article/2026/11/14/the-china-shock-in-the-ai-era/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/14/the-china-shock-in-the-ai-era/</guid>
             <pubDate>Sat, 14 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -73,6 +91,7 @@
             <title><![CDATA[What An Early Polar Vortex Combined With El Niño Means For Winter]]></title>
             <link>https://time.com/article/2026/11/13/early-polar-vortex-el-nino-winter/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/13/early-polar-vortex-el-nino-winter/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -107,7 +126,6 @@
             <title><![CDATA[The Energy World Will Never Be the Same As Before the Iran War]]></title>
             <link>https://time.com/article/2026/11/13/fatih-birol-iran-war-energy-cop31/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/13/fatih-birol-iran-war-energy-cop31/</guid>
-            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -140,12 +158,14 @@
             <title><![CDATA[Getting Too Little Sleep Makes You Easier to Scam]]></title>
             <link>https://time.com/article/2026/11/12/getting-too-little-sleep-makes-you-easier-to-scam/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/12/getting-too-little-sleep-makes-you-easier-to-scam/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How AI Can Help You Appeal Health Insurance Denials]]></title>
             <link>https://time.com/article/2026/11/12/how-ai-can-help-you-appeal-health-insurance-denials/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/12/how-ai-can-help-you-appeal-health-insurance-denials/</guid>
+            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
             <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -159,6 +179,7 @@
             <title><![CDATA[The True Story Behind 'Get Huge: Looksmaxxing to Death']]></title>
             <link>https://time.com/article/2026/11/12/get-huge-looksmaxxing-to-death-true-story/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/12/get-huge-looksmaxxing-to-death-true-story/</guid>
+            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
             <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -179,6 +200,7 @@
             <title><![CDATA[A New Pill Could Reduce the Risk of Having a Second Stroke]]></title>
             <link>https://time.com/article/2026/11/12/new-pill-could-reduce-risk-second-stroke/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/12/new-pill-could-reduce-risk-second-stroke/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -572,6 +594,12 @@
             <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The 10 Best Gifts for a Stylish Friend]]></title>
+            <link>https://time.com/article/2026/11/06/best-gifts-for-the-stylish-friend/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/06/best-gifts-for-the-stylish-friend/</guid>
+            <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How the Mississippi Senate Race Became a Nail-Biter]]></title>
             <link>https://time.com/article/2026/11/05/mississippi-senate-race-2026-midterm-elections-colom-hyde-smith/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/05/mississippi-senate-race-2026-midterm-elections-colom-hyde-smith/</guid>
@@ -632,6 +660,18 @@
             <title><![CDATA[My Diabetes Diagnosis Came Out of Nowhere. Today, Families Can Know Sooner]]></title>
             <link>https://time.com/article/2026/11/05/my-diabetes-diagnosis-came-out-of-nowhere-today-families-can-know-sooner/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/05/my-diabetes-diagnosis-came-out-of-nowhere-today-families-can-know-sooner/</guid>
+            <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 10 Best Gifts for Foodies]]></title>
+            <link>https://time.com/article/2026/11/05/best-gifts-for-foodies/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/05/best-gifts-for-foodies/</guid>
+            <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 10 Best Gifts for Techies]]></title>
+            <link>https://time.com/article/2026/11/05/best-gifts-for-techies/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/05/best-gifts-for-techies/</guid>
             <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3293,44 +3333,6 @@
             <title><![CDATA[Who Will Be the Next Leader of the U.N.?]]></title>
             <link>https://time.com/article/2026/09/23/un-secretary-general-race-guterres/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/23/un-secretary-general-race-guterres/</guid>
-            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reimagining Early Childhood for a Changing World]]></title>
-            <link>https://time.com/article/2026/09/23/time100-talks-panel-early-childhood-development/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/23/time100-talks-panel-early-childhood-development/</guid>
-            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You Actually Don’t Need to See That Movie in IMAX]]></title>
-            <link>https://time.com/article/2026/09/23/you-actually-don-t-need-to-see-that-movie-in-imax/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/23/you-actually-don-t-need-to-see-that-movie-in-imax/</guid>
-            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Governments Must Prohibit Superintelligent AI While We Still Can]]></title>
-            <link>https://time.com/article/2026/09/23/governments-must-prohibit-superintelligent-ai-while-we-still-can/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/23/governments-must-prohibit-superintelligent-ai-while-we-still-can/</guid>
-            <dc:creator><![CDATA[Andrea Miotti]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Democrat Plans to Work With Trump to End Debt Ceiling]]></title>
-            <link>https://time.com/article/2026/09/23/how-democrats-could-work-with-trump-to-eliminate-the-debt-ceiling-for-good/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/23/how-democrats-could-work-with-trump-to-eliminate-the-debt-ceiling-for-good/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why More Republicans Are Breaking With Trump on Iran]]></title>
-            <link>https://time.com/article/2026/09/23/republicans-trump-iran-war-midterms-gas-prices/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/23/republicans-trump-iran-war-midterms-gas-prices/</guid>
-            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About SpaceX's Wildlife Refuge Land Swap]]></title>
-            <link>https://time.com/article/2026/09/23/spacex-texas-land-swap-what-to-know/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/23/spacex-texas-land-swap-what-to-know/</guid>
             <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
