@@ -4,15 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Nov 2026 14:00:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 22:05:11 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Nov 2026 14:00:10 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 22:05:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Philippine Protests Grow as Government Welcomes Trump]]></title>
             <link>https://time.com/article/2026/11/17/trump-philippines-marcos-manila-asean-protests-pax-silica/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/17/trump-philippines-marcos-manila-asean-protests-pax-silica/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -26,6 +25,7 @@
             <title><![CDATA[The Greenland Test: What Follows When America Coerces Its Allies]]></title>
             <link>https://time.com/article/2026/11/17/greenland-trump-nato-america-britain-france-allies/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/17/greenland-trump-nato-america-britain-france-allies/</guid>
+            <dc:creator><![CDATA[Ariane Tabatabai]]></dc:creator>
             <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -54,6 +54,39 @@
             <link>https://time.com/article/2026/11/17/caro-claire-burke-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/17/caro-claire-burke-interview/</guid>
             <dc:creator><![CDATA[Lucy Feldman]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Is the Kerch Bridge—and Why Does Ukraine Keep Attacking It?]]></title>
+            <link>https://time.com/article/2026/11/17/what-is-the-kerch-bridge-and-why-does-ukraine-keep-attacking-it-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/17/what-is-the-kerch-bridge-and-why-does-ukraine-keep-attacking-it-/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Measles Has Returned]]></title>
+            <link>https://time.com/article/2026/11/17/measles-has-returned/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/17/measles-has-returned/</guid>
+            <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Jensen Huang Should Not Be Reinstated as Nvidia's CEO]]></title>
+            <link>https://time.com/article/2026/11/17/why-jensen-huang-should-not-be-reinstated-as-nvidia-s-ceo/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/17/why-jensen-huang-should-not-be-reinstated-as-nvidia-s-ceo/</guid>
+            <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Danger of a French Right Turn for Ukraine]]></title>
+            <link>https://time.com/article/2026/11/17/marine-le-pen-france-europe-cut-ukraine-aid-support/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/17/marine-le-pen-france-europe-cut-ukraine-aid-support/</guid>
+            <dc:creator><![CDATA[Ian Bremmer]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Measles Is Back in the U.S.]]></title>
+            <link>https://time.com/article/2026/11/17/us-loses-measles-elimination-status-what-it-means/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/17/us-loses-measles-elimination-status-what-it-means/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
             <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3299,40 +3332,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/09/25/new-york-climate-week/</guid>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Hands Off!’: European Leaders Reject Trump's Call to Quit the ICC]]></title>
-            <link>https://time.com/article/2026/09/25/-hands-off-european-leaders-reject-trump-s-call-to-quit-the-icc/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/25/-hands-off-european-leaders-reject-trump-s-call-to-quit-the-icc/</guid>
-            <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Does Climate Change Impact Nor'easters?]]></title>
-            <link>https://time.com/article/2026/09/25/climate-change-nor-easters/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/25/climate-change-nor-easters/</guid>
-            <dc:creator><![CDATA[Simmone Shah and Rebecca Schneid]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Review: Ha-Chan, Shake Your Booty!]]></title>
-            <link>https://time.com/article/2026/09/25/ha-chan-shake-your-booty-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/25/ha-chan-shake-your-booty-review/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netflix's 'A Different World' Revival: Review]]></title>
-            <link>https://time.com/article/2026/09/24/different-world-netflix-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/24/different-world-netflix-review/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australia Condemns ‘Unacceptable’ OpenAI Breach of Government Health Portal]]></title>
-            <link>https://time.com/article/2026/09/24/australia-condemns-unacceptable-openai-breach-of-government-health-portal/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/24/australia-condemns-unacceptable-openai-breach-of-government-health-portal/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
-            <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
