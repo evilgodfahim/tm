@@ -4,15 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Nov 2026 22:39:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 04:53:50 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Nov 2026 22:39:52 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 04:53:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[In Jeffries’ Rise to Speaker, Black Leaders See a Milestone—and a Test]]></title>
             <link>https://time.com/article/2026/11/16/hakeem-jeffries-first-speaker-black-leaders/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/16/hakeem-jeffries-first-speaker-black-leaders/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -23,10 +22,8 @@
         </item>
         <item>
             <title><![CDATA[US to Clamp Down On AI Chip Loophole Ahead Of Trump Meeting With Xi]]></title>
-            <description><![CDATA[The new rule gives Commerce Secretary Howard Lutnick more discretion over the sale of AI chips to certain countries.]]></description>
             <link>https://time.com/article/2026/11/16/trump-administration-ai-chips-nvidia-china/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/16/trump-administration-ai-chips-nvidia-china/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -61,6 +58,27 @@
             <link>https://time.com/article/2026/11/16/ai-data-centers-electricity-carbon-emissions-study/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/16/ai-data-centers-electricity-carbon-emissions-study/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Trump, Putin, and Xi Each Want From a Summit]]></title>
+            <description><![CDATA[A three-way meeting could strengthen each leader’s standing, even as competing goals complicate talks on war and nuclear arms.]]></description>
+            <link>https://time.com/article/2026/11/16/trump-putin-xi-meeting-summit-china-ai/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/16/trump-putin-xi-meeting-summit-china-ai/</guid>
+            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
+            <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Trump Is Throwing His Weight Behind a Hollywood Tax Credit]]></title>
+            <link>https://time.com/article/2026/11/16/why-trump-is-throwing-his-weight-behind-a-hollywood-tax-credit/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/16/why-trump-is-throwing-his-weight-behind-a-hollywood-tax-credit/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About the Banking Service Outages]]></title>
+            <link>https://time.com/article/2026/11/16/bank-outage-down-jpmorgan-chase-technical-issue/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/16/bank-outage-down-jpmorgan-chase-technical-issue/</guid>
             <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3313,27 +3331,6 @@
             <link>https://time.com/article/2026/09/24/ai-arrived-at-the-worst-possible-moment/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/24/ai-arrived-at-the-worst-possible-moment/</guid>
             <dc:creator><![CDATA[Tiffany Xingyu Wang]]></dc:creator>
-            <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump and Xi Meet Ahead of State Dinner With A.I. Leaders]]></title>
-            <link>https://time.com/article/2026/09/24/Trump-Xi-meeting-White-House-2026-AI-trade-Iran/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/24/Trump-Xi-meeting-White-House-2026-AI-trade-Iran/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
-            <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu Dismisses Gaza Genocide Allegations as Dozens of U.N. Delegates Walk Out]]></title>
-            <link>https://time.com/article/2026/09/24/netanyahu-dismisses-gaza-genocide-allegations-as-dozens-of-u-n-delegates-walk-out/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/24/netanyahu-dismisses-gaza-genocide-allegations-as-dozens-of-u-n-delegates-walk-out/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
-            <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Review: Your Mother Your Mother Your Mother]]></title>
-            <link>https://time.com/article/2026/09/24/your-mother-your-mother-your-mother-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/24/your-mother-your-mother-your-mother-review/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
