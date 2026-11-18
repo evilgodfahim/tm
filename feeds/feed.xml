@@ -4,13 +4,13 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Nov 2026 12:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 21:00:48 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Nov 2026 12:39:22 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 21:00:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Hakeem Jeffries on Track For Speaker Nomination in Wednesday Vote]]></title>
-            <description><![CDATA[Progressives are still pushing for answers on how he’ll wield power.]]></description>
+            <title><![CDATA[Hakeem Jeffries Easily Wins Caucus Vote to Be Next Speaker]]></title>
+            <description><![CDATA[Jeffries faced no challenger and secured the nomination in a 251-11 vote]]></description>
             <link>https://time.com/article/2026/11/18/hakeem-jeffries-picked-by-democrats-first-black-speaker-of-the-house/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/18/hakeem-jeffries-picked-by-democrats-first-black-speaker-of-the-house/</guid>
             <dc:creator><![CDATA[Nik Popli]]></dc:creator>
@@ -20,20 +20,73 @@
             <title><![CDATA[U.S. Strikes Qeshm Island as Vance Says Iran Won’t Become ‘Forever War’]]></title>
             <link>https://time.com/article/2026/11/18/qeshm-island-strikes-us-iran-end-forever-war-vance/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/18/qeshm-island-strikes-us-iran-end-forever-war-vance/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Irish Man Charged With Destroying U.S. Military Plane Becomes Protest Symbol]]></title>
             <link>https://time.com/article/2026/11/18/daithi-ocorrain-us-military-plane-ireland-axe-iran-israel/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/18/daithi-ocorrain-us-military-plane-ireland-axe-iran-israel/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mary Peltola Defeats Incumbent Republican in Alaska Senate Race]]></title>
             <link>https://time.com/article/2026/11/18/democrat-mary-peltola-wins-alaska-senate-race/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/18/democrat-mary-peltola-wins-alaska-senate-race/</guid>
+            <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NSA’s Classified Network Was Disrupted. What Does That Mean for National Security?]]></title>
+            <link>https://time.com/article/2026/11/18/nsa-s-classified-network-was-disrupted-what-does-that-mean-for-national-security-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/18/nsa-s-classified-network-was-disrupted-what-does-that-mean-for-national-security-/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia Says Europe Is in ‘Humiliating Decline’ as Trump, Putin, and Xi Meet]]></title>
+            <link>https://time.com/article/2026/11/18/trump-putin-and-xi-meet-for-first-time-as-russia-claims-europe-in-humiliating-decline-at-china-summit/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/18/trump-putin-and-xi-meet-for-first-time-as-russia-claims-europe-in-humiliating-decline-at-china-summit/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Democrats Who Voted Against Nominating Hakeem Jeffries for Speaker of the House]]></title>
+            <link>https://time.com/article/2026/11/18/democrats-hakeem-jeffries-house-speaker-nomination-vote/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/18/democrats-hakeem-jeffries-house-speaker-nomination-vote/</guid>
+            <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Not to Say to Someone With Memory Problems]]></title>
+            <link>https://time.com/article/2026/11/18/what-not-to-say-to-someone-with-memory-problems/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/18/what-not-to-say-to-someone-with-memory-problems/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The True Story Behind 'Madden']]></title>
+            <link>https://time.com/article/2026/11/18/madden-movie-true-story-video-game-nfl/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/18/madden-movie-true-story-video-game-nfl/</guid>
+            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Billie Jean Doesn't Want to Sugarcoat It]]></title>
+            <link>https://time.com/article/2026/11/18/billie-jean-king-give-me-the-ball-interview/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/18/billie-jean-king-give-me-the-ball-interview/</guid>
+            <dc:creator><![CDATA[Sean Gregory]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Palantir's New Pitch]]></title>
+            <link>https://time.com/article/2026/11/18/palantir-military-targeting/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/18/palantir-military-targeting/</guid>
+            <dc:creator><![CDATA[Manisha Ganguly]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. Air Travel Infrastructure Isn't Ready for Climate Climate]]></title>
+            <link>https://time.com/article/2026/11/18/us-air-travel-infrastructure-extreme-weather/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/18/us-air-travel-infrastructure-extreme-weather/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -114,6 +167,7 @@
             <title><![CDATA[Measles Is Back in the U.S.]]></title>
             <link>https://time.com/article/2026/11/17/us-loses-measles-elimination-status-what-it-means/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/17/us-loses-measles-elimination-status-what-it-means/</guid>
+            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
             <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3277,60 +3331,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/09/28/trump-rolls-back-fuel-economy-standards-will-cars-really-get-cheaper-/</guid>
             <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Story of 'The Swan: Behind the Mirror']]></title>
-            <link>https://time.com/article/2026/09/28/the-swan-behind-the-mirror-true-story/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/28/the-swan-behind-the-mirror-true-story/</guid>
-            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
-            <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The True Story Behind 'The Widower']]></title>
-            <link>https://time.com/article/2026/09/28/the-widower-thomas-randolph-netflix/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/28/the-widower-thomas-randolph-netflix/</guid>
-            <dc:creator><![CDATA[Jake Kring-Schreifels]]></dc:creator>
-            <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The True Story Behind 'Atonement']]></title>
-            <link>https://time.com/article/2026/09/28/atonement-true-story-iraq-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/28/atonement-true-story-iraq-war/</guid>
-            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
-            <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nursing Homes Have Become Last-Resort Housing]]></title>
-            <link>https://time.com/article/2026/09/27/nursing-homes-have-become-last-resort-housing/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/27/nursing-homes-have-become-last-resort-housing/</guid>
-            <pubDate>Sun, 27 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.K. Police Investigate Suspected Terror Plot Near Base Used by U.S. Forces]]></title>
-            <description><![CDATA[Five men were arrested near RAF Fairford, an air base used in U.S. strikes on Iran, on suspicion of explosives and terrorism offenses.]]></description>
-            <link>https://time.com/article/2026/09/27/5-men-arrested-in-suspected-terrorist-attack-at-uk-base-used-by-us-forces/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/27/5-men-arrested-in-suspected-terrorist-attack-at-uk-base-used-by-us-forces/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Sun, 27 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Is a ‘Pocket Rescission’? Inside Trump’s Move to Cancel $810 Million in Federal Funding]]></title>
-            <link>https://time.com/article/2026/09/26/what-is-a-pocket-rescission-inside-trump-s-move-to-cancel-810-million-in-federal-funding/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/26/what-is-a-pocket-rescission-inside-trump-s-move-to-cancel-810-million-in-federal-funding/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We Turned Sleep Into Homework. Now We’re Losing Sleep Over It]]></title>
-            <link>https://time.com/article/2026/09/26/we-turned-sleep-into-homework-now-we-re-losing-sleep-over-it/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/26/we-turned-sleep-into-homework-now-we-re-losing-sleep-over-it/</guid>
-            <pubDate>Sat, 26 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Surveys Show Socialism Growing in Popularity]]></title>
-            <link>https://time.com/article/2026/09/25/socialism-is-more-popular-than-ever-in-the-u-s-according-to-polls/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/25/socialism-is-more-popular-than-ever-in-the-u-s-according-to-polls/</guid>
-            <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
