@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Nov 2026 22:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 03:58:02 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Nov 2026 22:05:11 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 03:58:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Philippine Protests Grow as Government Welcomes Trump]]></title>
@@ -18,7 +18,6 @@
             <title><![CDATA[What to Know About the Threat of a ‘Dirty Bomb’ Amid Reported Iran Plot]]></title>
             <link>https://time.com/article/2026/11/17/iran-dirty-bomb-plot-radiological-chemical-weapon-washington-dc-intelligence/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/17/iran-dirty-bomb-plot-radiological-chemical-weapon-washington-dc-intelligence/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -60,13 +59,13 @@
             <title><![CDATA[What Is the Kerch Bridge—and Why Does Ukraine Keep Attacking It?]]></title>
             <link>https://time.com/article/2026/11/17/what-is-the-kerch-bridge-and-why-does-ukraine-keep-attacking-it-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/17/what-is-the-kerch-bridge-and-why-does-ukraine-keep-attacking-it-/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Measles Has Returned]]></title>
             <link>https://time.com/article/2026/11/17/measles-has-returned/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/17/measles-has-returned/</guid>
+            <dc:creator><![CDATA[Julie Sweetland]]></dc:creator>
             <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -84,9 +83,23 @@
         </item>
         <item>
             <title><![CDATA[Measles Is Back in the U.S.]]></title>
+            <description><![CDATA[After more than a year of continuous measles transmission, the U.S. has lost a public-health milestone it held for more than two decades.]]></description>
             <link>https://time.com/article/2026/11/17/us-loses-measles-elimination-status-what-it-means/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/17/us-loses-measles-elimination-status-what-it-means/</guid>
             <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Democrats Could Nullify the Electoral College]]></title>
+            <link>https://time.com/article/2026/11/17/democrats-electoral-college-national-popular-vote-interstate-compact/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/17/democrats-electoral-college-national-popular-vote-interstate-compact/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will the Nationwide Ground Stop Affect Your Thanksgiving Travel Plans?]]></title>
+            <link>https://time.com/article/2026/11/17/thanksgiving-travel-nationwide-ground-stop-flight-delays-cancellations/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/17/thanksgiving-travel-nationwide-ground-stop-flight-delays-cancellations/</guid>
             <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -144,7 +157,6 @@
         </item>
         <item>
             <title><![CDATA[What Trump, Putin, and Xi Each Want From a Summit]]></title>
-            <description><![CDATA[A three-way meeting could strengthen each leader’s standing, even as competing goals complicate talks on war and nuclear arms.]]></description>
             <link>https://time.com/article/2026/11/16/trump-putin-xi-meeting-summit-china-ai/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/16/trump-putin-xi-meeting-summit-china-ai/</guid>
             <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
@@ -3317,20 +3329,6 @@
             <title><![CDATA[Why You Should Join a Choir]]></title>
             <link>https://time.com/article/2026/09/25/why-you-should-join-a-choir/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/25/why-you-should-join-a-choir/</guid>
-            <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['War' Doesn't Know Which Side It's On]]></title>
-            <link>https://time.com/article/2026/09/25/war-review-hbo/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/25/war-review-hbo/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Everyone's Still Talking About Climate Change, Actually]]></title>
-            <link>https://time.com/article/2026/09/25/new-york-climate-week/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/25/new-york-climate-week/</guid>
-            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
             <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
