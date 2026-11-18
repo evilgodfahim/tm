@@ -4,10 +4,38 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Nov 2026 03:58:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 12:39:22 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Nov 2026 03:58:02 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 12:39:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Hakeem Jeffries on Track For Speaker Nomination in Wednesday Vote]]></title>
+            <description><![CDATA[Progressives are still pushing for answers on how he’ll wield power.]]></description>
+            <link>https://time.com/article/2026/11/18/hakeem-jeffries-picked-by-democrats-first-black-speaker-of-the-house/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/18/hakeem-jeffries-picked-by-democrats-first-black-speaker-of-the-house/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. Strikes Qeshm Island as Vance Says Iran Won’t Become ‘Forever War’]]></title>
+            <link>https://time.com/article/2026/11/18/qeshm-island-strikes-us-iran-end-forever-war-vance/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/18/qeshm-island-strikes-us-iran-end-forever-war-vance/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Irish Man Charged With Destroying U.S. Military Plane Becomes Protest Symbol]]></title>
+            <link>https://time.com/article/2026/11/18/daithi-ocorrain-us-military-plane-ireland-axe-iran-israel/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/18/daithi-ocorrain-us-military-plane-ireland-axe-iran-israel/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mary Peltola Defeats Incumbent Republican in Alaska Senate Race]]></title>
+            <link>https://time.com/article/2026/11/18/democrat-mary-peltola-wins-alaska-senate-race/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/18/democrat-mary-peltola-wins-alaska-senate-race/</guid>
+            <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Philippine Protests Grow as Government Welcomes Trump]]></title>
             <link>https://time.com/article/2026/11/17/trump-philippines-marcos-manila-asean-protests-pax-silica/</link>
@@ -72,6 +100,7 @@
             <title><![CDATA[Why Jensen Huang Should Not Be Reinstated as Nvidia's CEO]]></title>
             <link>https://time.com/article/2026/11/17/why-jensen-huang-should-not-be-reinstated-as-nvidia-s-ceo/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/17/why-jensen-huang-should-not-be-reinstated-as-nvidia-s-ceo/</guid>
+            <dc:creator><![CDATA[Jeffrey Sonnenfeld]]></dc:creator>
             <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -83,17 +112,14 @@
         </item>
         <item>
             <title><![CDATA[Measles Is Back in the U.S.]]></title>
-            <description><![CDATA[After more than a year of continuous measles transmission, the U.S. has lost a public-health milestone it held for more than two decades.]]></description>
             <link>https://time.com/article/2026/11/17/us-loses-measles-elimination-status-what-it-means/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/17/us-loses-measles-elimination-status-what-it-means/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
             <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Democrats Could Nullify the Electoral College]]></title>
             <link>https://time.com/article/2026/11/17/democrats-electoral-college-national-popular-vote-interstate-compact/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/17/democrats-electoral-college-national-popular-vote-interstate-compact/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
             <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3304,31 +3330,6 @@
             <title><![CDATA[Surveys Show Socialism Growing in Popularity]]></title>
             <link>https://time.com/article/2026/09/25/socialism-is-more-popular-than-ever-in-the-u-s-according-to-polls/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/25/socialism-is-more-popular-than-ever-in-the-u-s-according-to-polls/</guid>
-            <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Data Center Debate Taking Over Native American Tribes]]></title>
-            <link>https://time.com/article/2026/09/25/the-data-center-debate-taking-over-native-american-tribes/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/25/the-data-center-debate-taking-over-native-american-tribes/</guid>
-            <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Has China’s Panda Diplomacy Lost Its Charm? It’s Not So Black-and-White]]></title>
-            <link>https://time.com/article/2026/09/25/china-panda-diplomacy-trump-xi-jinping/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/25/china-panda-diplomacy-trump-xi-jinping/</guid>
-            <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Fight to Rein In AI Is Dividing Washington]]></title>
-            <link>https://time.com/article/2026/09/25/ai-congress-regulation-safety-democrats-republicans/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/25/ai-congress-regulation-safety-democrats-republicans/</guid>
-            <dc:creator><![CDATA[Naomi Nix]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why You Should Join a Choir]]></title>
-            <link>https://time.com/article/2026/09/25/why-you-should-join-a-choir/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/25/why-you-should-join-a-choir/</guid>
             <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
