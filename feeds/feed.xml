@@ -4,15 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Nov 2026 10:57:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 19:18:36 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Nov 2026 10:57:02 GMT</pubDate>
+        <pubDate>Thu, 19 Nov 2026 19:18:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Musk Downplays Support of Republican Candidates After Record Election Spending]]></title>
             <link>https://time.com/article/2026/11/19/elon-musk-maga-midterms-spending-republicans-democrats/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/19/elon-musk-maga-midterms-spending-republicans-democrats/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam]]></dc:creator>
             <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -26,6 +25,85 @@
             <title><![CDATA[Netflix's FTX Drama 'The Altruists': Review]]></title>
             <link>https://time.com/article/2026/11/19/the-altruists-review-netflix/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/19/the-altruists-review-netflix/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Xi, Trump, and Putin Summit Makes History but Not Much Else]]></title>
+            <description><![CDATA[The platitude-rich trilateral had more optical than substantive significance.]]></description>
+            <link>https://time.com/article/2026/11/19/xi-trump-putin-summit-history-optics-substance/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/19/xi-trump-putin-summit-history-optics-substance/</guid>
+            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
+            <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Draws Ire Over Calling Putin His 'Friend' as Europe-U.S. Rift Widens]]></title>
+            <link>https://time.com/article/2026/11/19/trump-calls-putin-friend-european-response-tusk-ukraine-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/19/trump-calls-putin-friend-european-response-tusk-ukraine-war/</guid>
+            <dc:creator><![CDATA[Callum Sutherland and Olivia-Anne Cleary]]></dc:creator>
+            <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Senator Unveils Bill to Force More Disclosure of Deaths in ICE Custody]]></title>
+            <link>https://time.com/article/2026/11/19/democratic-senator-ICE-deaths-bill/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/19/democratic-senator-ICE-deaths-bill/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the Midterms Taught Us About the State of America’s Democracy]]></title>
+            <link>https://time.com/article/2026/11/19/what-the-midterms-taught-us-about-the-state-of-america-s-democracy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/19/what-the-midterms-taught-us-about-the-state-of-america-s-democracy/</guid>
+            <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Much Can the New Congress Reshape Health?]]></title>
+            <link>https://time.com/article/2026/11/19/how-much-can-new-congress-reshape-health/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/19/how-much-can-new-congress-reshape-health/</guid>
+            <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Cybersecurity Software Spots a Hack]]></title>
+            <link>https://time.com/article/2026/11/19/cybersecurity-software-explained/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/19/cybersecurity-software-explained/</guid>
+            <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: 'The Further Mis-Adventures of Cliff Booth']]></title>
+            <link>https://time.com/article/2026/11/19/the-further-mis-adventures-of-cliff-booth-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/19/the-further-mis-adventures-of-cliff-booth-review/</guid>
+            <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amy Poehler Returns to TV in 'Dig': Review]]></title>
+            <link>https://time.com/article/2026/11/19/dig-review-peacock/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/19/dig-review-peacock/</guid>
+            <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Best Colleges for Future Leaders 2027]]></title>
+            <link>https://time.com/article/2026/11/19/best-colleges-for-future-leaders-2027/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/19/best-colleges-for-future-leaders-2027/</guid>
+            <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Best Companies for Future Leaders 2027]]></title>
+            <link>https://time.com/article/2026/11/19/best-companies-for-future-leaders-2027/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/19/best-companies-for-future-leaders-2027/</guid>
+            <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When People Keep What Surgeons Remove]]></title>
+            <link>https://time.com/article/2026/11/19/when-people-keep-what-surgeons-remove/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/19/when-people-keep-what-surgeons-remove/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The True Story Behind 'The Altruists']]></title>
+            <link>https://time.com/article/2026/11/19/the-true-story-behind-the-altruists-sam-bankman-fried/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/19/the-true-story-behind-the-altruists-sam-bankman-fried/</guid>
+            <dc:creator><![CDATA[Rory Doherty]]></dc:creator>
             <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3250,84 +3328,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/09/29/iran-war-houthis-red-sea-chokepoints-regional-influence/</guid>
             <dc:creator><![CDATA[Hamidreza Azizi]]></dc:creator>
             <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why You Should Make a Reverse Bucket List]]></title>
-            <link>https://time.com/article/2026/09/29/reverse-bucket-list-benefits-how-to-make/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/29/reverse-bucket-list-benefits-how-to-make/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why That Mucus in Your Throat Won’t Go Away]]></title>
-            <link>https://time.com/article/2026/09/29/postnasal-drip-mucus-throat/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/29/postnasal-drip-mucus-throat/</guid>
-            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flying Doesn’t Have to Be This Miserable]]></title>
-            <link>https://time.com/article/2026/09/29/flying-doesn-t-have-to-be-this-miserable/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/29/flying-doesn-t-have-to-be-this-miserable/</guid>
-            <dc:creator><![CDATA[Ganesh Sitaraman]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TV Networks Resume White House Pool Coverage—With a Caveat]]></title>
-            <link>https://time.com/article/2026/09/29/trump-white-house-press-pool-tv-networks-cnn/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/29/trump-white-house-press-pool-tv-networks-cnn/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Trump's Hunt for Non-Citizen Voters Is Showing]]></title>
-            <link>https://time.com/article/2026/09/29/trump-non-citizen-voting-voter-fraud-claims/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/29/trump-non-citizen-voting-voter-fraud-claims/</guid>
-            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eli Lilly’s Experimental Weight-Loss Drug Shows Promising Results]]></title>
-            <link>https://time.com/article/2026/09/29/eli-lilly-triple-targeting-experimental-weight-loss-drug-promising-results/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/29/eli-lilly-triple-targeting-experimental-weight-loss-drug-promising-results/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Six Flags Closes Its X2 Roller Coaster After Brain-Injury Lawsuits]]></title>
-            <link>https://time.com/article/2026/09/29/six-flags-x2-roller-coaster-linked-to-brain-damage/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/29/six-flags-x2-roller-coaster-linked-to-brain-damage/</guid>
-            <dc:creator><![CDATA[Jeffrey Kluger]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tom Cruise Bloviates His Way Through the Aggressively Unfunny Digger]]></title>
-            <link>https://time.com/article/2026/09/29/digger-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/29/digger-review/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Oil and Trump Are Escalating the Falklands Dispute]]></title>
-            <link>https://time.com/article/2026/09/29/falkland-islands-dispute-argentina-milei-oil-project-uk-legal-action/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/29/falkland-islands-dispute-argentina-milei-oil-project-uk-legal-action/</guid>
-            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump's Taxpayer-Funded Ads Draw Bipartisan Criticism]]></title>
-            <link>https://time.com/article/2026/09/28/trump-ads-democrats-republicans-bipartisan-criticism-taxpayer-funds/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/28/trump-ads-democrats-republicans-bipartisan-criticism-taxpayer-funds/</guid>
-            <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three Mass Shootings Kill at Least 32 in South Africa]]></title>
-            <link>https://time.com/article/2026/09/28/south-africa-mass-shootings-wedela-lwadle-khayelitsha-johannesburg-western-cape/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/28/south-africa-mass-shootings-wedela-lwadle-khayelitsha-johannesburg-western-cape/</guid>
-            <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Embassy Issues Security Alert to Citizens in U.K. Amid Suspected Terror Plot]]></title>
-            <link>https://time.com/article/2026/09/28/raf-fairford-uk-us-airbase-suspected-terror-plot-security-alert/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/28/raf-fairford-uk-us-airbase-suspected-terror-plot-security-alert/</guid>
-            <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
