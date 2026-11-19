@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Nov 2026 21:00:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 02:53:13 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Nov 2026 21:00:48 GMT</pubDate>
+        <pubDate>Thu, 19 Nov 2026 02:53:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Hakeem Jeffries Easily Wins Caucus Vote to Be Next Speaker]]></title>
@@ -87,6 +87,19 @@
             <link>https://time.com/article/2026/11/18/us-air-travel-infrastructure-extreme-weather/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/18/us-air-travel-infrastructure-extreme-weather/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Do Election Recounts Work—and How Often Do They Change Results?]]></title>
+            <link>https://time.com/article/2026/11/18/midterm-elections-recounts-house/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/18/midterm-elections-recounts-house/</guid>
+            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[School Phone Bans Show Small Learning Gains. Are They Worth It?]]></title>
+            <link>https://time.com/article/2026/11/18/school-phone-bans-show-small-learning-gains-are-they-worth-it-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/18/school-phone-bans-show-small-learning-gains-are-they-worth-it-/</guid>
             <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3316,20 +3329,6 @@
             <link>https://time.com/article/2026/09/28/truth-about-addictive-personality/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/28/truth-about-addictive-personality/</guid>
             <dc:creator><![CDATA[Stacey Colino]]></dc:creator>
-            <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Case Against Pacing the AI Frontier]]></title>
-            <link>https://time.com/article/2026/09/28/the-case-against-pacing-the-ai-frontier/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/28/the-case-against-pacing-the-ai-frontier/</guid>
-            <dc:creator><![CDATA[Ravi Kumar S, Babak Hodjat and Jeff DeMarrais]]></dc:creator>
-            <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Rolls Back Fuel Economy Standards. Will Cars Really Get Cheaper?]]></title>
-            <link>https://time.com/article/2026/09/28/trump-rolls-back-fuel-economy-standards-will-cars-really-get-cheaper-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/28/trump-rolls-back-fuel-economy-standards-will-cars-really-get-cheaper-/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
