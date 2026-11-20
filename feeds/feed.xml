@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Nov 2026 19:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 01:33:24 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Nov 2026 19:18:36 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 01:33:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Musk Downplays Support of Republican Candidates After Record Election Spending]]></title>
@@ -30,7 +30,6 @@
         </item>
         <item>
             <title><![CDATA[Xi, Trump, and Putin Summit Makes History but Not Much Else]]></title>
-            <description><![CDATA[The platitude-rich trilateral had more optical than substantive significance.]]></description>
             <link>https://time.com/article/2026/11/19/xi-trump-putin-summit-history-optics-substance/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/19/xi-trump-putin-summit-history-optics-substance/</guid>
             <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
@@ -47,7 +46,6 @@
             <title><![CDATA[Senator Unveils Bill to Force More Disclosure of Deaths in ICE Custody]]></title>
             <link>https://time.com/article/2026/11/19/democratic-senator-ICE-deaths-bill/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/19/democratic-senator-ICE-deaths-bill/</guid>
-            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
             <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -104,6 +102,48 @@
             <link>https://time.com/article/2026/11/19/the-true-story-behind-the-altruists-sam-bankman-fried/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/19/the-true-story-behind-the-altruists-sam-bankman-fried/</guid>
             <dc:creator><![CDATA[Rory Doherty]]></dc:creator>
+            <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Van Hollen Puts AI at Center of His Challenge to Schumer]]></title>
+            <description><![CDATA[The Maryland Senator is making the regulation of artificial intelligence a key part of his campaign to lead Senate Democrats.]]></description>
+            <link>https://time.com/article/2026/11/19/chris-van-hollen-ai-schumer-challenge-senate-democratic-leader/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/19/chris-van-hollen-ai-schumer-challenge-senate-democratic-leader/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alia Bhatt]]></title>
+            <link>https://time.com/article/2026/11/19/alia-bhatt-time100-next-india-profile/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/19/alia-bhatt-time100-next-india-profile/</guid>
+            <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Future of Libraries Is About More Than Books]]></title>
+            <link>https://time.com/article/2026/11/19/the-future-of-libraries-is-about-more-than-books/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/19/the-future-of-libraries-is-about-more-than-books/</guid>
+            <dc:creator><![CDATA[Carla Hayden]]></dc:creator>
+            <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Amputations America Can Prevent]]></title>
+            <link>https://time.com/article/2026/11/19/the-amputations-america-can-prevent/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/19/the-amputations-america-can-prevent/</guid>
+            <dc:creator><![CDATA[Foluso Fakorede]]></dc:creator>
+            <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the Pessimists Are Wrong About Latin America]]></title>
+            <link>https://time.com/article/2026/11/19/latin-america-economy-growth/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/19/latin-america-economy-growth/</guid>
+            <dc:creator><![CDATA[Jeff Dayton-Johnson]]></dc:creator>
+            <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the Permitting Bill Is Dividing Climate and Energy Advocates]]></title>
+            <link>https://time.com/article/2026/11/19/baaja-permitting-reform-clean-energy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/19/baaja-permitting-reform-clean-energy/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -206,6 +246,13 @@
             <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How Voting Rights Impacted the 2026 Midterms]]></title>
+            <link>https://time.com/article/2026/11/18/how-voting-rights-impacted-the-2026-midterms/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/18/how-voting-rights-impacted-the-2026-midterms/</guid>
+            <dc:creator><![CDATA[Kevin T. Morris]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Philippine Protests Grow as Government Welcomes Trump]]></title>
             <link>https://time.com/article/2026/11/17/trump-philippines-marcos-manila-asean-protests-pax-silica/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/17/trump-philippines-marcos-manila-asean-protests-pax-silica/</guid>
@@ -246,10 +293,9 @@
             <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Yesteryear' Became a Cultural Sensation. Caro Claire Burke Is Still Reeling]]></title>
+            <title><![CDATA[Caro Claire Burke]]></title>
             <link>https://time.com/article/2026/11/17/caro-claire-burke-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/17/caro-claire-burke-interview/</guid>
-            <dc:creator><![CDATA[Lucy Feldman]]></dc:creator>
             <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -269,7 +315,7 @@
             <title><![CDATA[Why Jensen Huang Should Not Be Reinstated as Nvidia's CEO]]></title>
             <link>https://time.com/article/2026/11/17/why-jensen-huang-should-not-be-reinstated-as-nvidia-s-ceo/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/17/why-jensen-huang-should-not-be-reinstated-as-nvidia-s-ceo/</guid>
-            <dc:creator><![CDATA[Jeffrey Sonnenfeld]]></dc:creator>
+            <dc:creator><![CDATA[Jeffrey Sonnenfeld, Stephen Henriques and Steven Tian]]></dc:creator>
             <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -468,10 +514,9 @@
             <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Inside Salish and Jordan Matter’s Growing Father-Daughter Empire]]></title>
+            <title><![CDATA[Salish Matter]]></title>
             <link>https://time.com/article/2026/11/13/salish-jordan-matter-interview/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/13/salish-jordan-matter-interview/</guid>
-            <dc:creator><![CDATA[Avery Stone]]></dc:creator>
             <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3282,52 +3327,6 @@
             <link>https://time.com/article/2026/09/30/your-questions-about-voting-in-the-2026-midterm-elections-answered/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/30/your-questions-about-voting-in-the-2026-midterm-elections-answered/</guid>
             <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About the Pentagon Breach Affecting Millions]]></title>
-            <link>https://time.com/article/2026/09/29/pentagon-department-defense-manpower-data-center-breach-personnel-information/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/29/pentagon-department-defense-manpower-data-center-breach-personnel-information/</guid>
-            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. and China to Cut Tariffs on $60 Billion of Goods]]></title>
-            <link>https://time.com/article/2026/09/29/us-china-reciprocal-tariffs-cut-trade-goods-60-billion/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/29/us-china-reciprocal-tariffs-cut-trade-goods-60-billion/</guid>
-            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Millions of Americans Live in a County Without a Surgeon]]></title>
-            <link>https://time.com/article/2026/09/29/millions-of-americans-live-in-a-county-without-a-surgeon/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/29/millions-of-americans-live-in-a-county-without-a-surgeon/</guid>
-            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[After 23 Years of Oversight, Oakland’s Police Reform Offers New Hope]]></title>
-            <link>https://time.com/article/2026/09/29/23-years-oversight-oakland-police-reform-offers-new-hope/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/29/23-years-oversight-oakland-police-reform-offers-new-hope/</guid>
-            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fetterman, a Democrat, Turns to Republicans for Campaign Cash]]></title>
-            <link>https://time.com/article/2026/09/29/john-fetterman-democrat-turns-to-republicans-for-campaign-cash/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/29/john-fetterman-democrat-turns-to-republicans-for-campaign-cash/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Google Is Quietly Turning Millions of People Into AI Users]]></title>
-            <link>https://time.com/article/2026/09/29/google-search-ai-mode-chat/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/29/google-search-ai-mode-chat/</guid>
-            <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the War is Changing the Geography of Iran’s Influence]]></title>
-            <link>https://time.com/article/2026/09/29/iran-war-houthis-red-sea-chokepoints-regional-influence/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/29/iran-war-houthis-red-sea-chokepoints-regional-influence/</guid>
-            <dc:creator><![CDATA[Hamidreza Azizi]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
