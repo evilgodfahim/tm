@@ -4,15 +4,61 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Nov 2026 09:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 18:09:53 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Nov 2026 09:27:52 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 18:09:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What Does It Mean to Age Well? Three Experts Weigh In]]></title>
             <link>https://time.com/article/2026/11/20/hims-time100-talk-recap/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/20/hims-time100-talk-recap/</guid>
             <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘We’ve Got Time’: Trump Suggests Iran War Will Continue Into 2027]]></title>
+            <link>https://time.com/article/2026/11/20/iran-war-trump-strikes-major-decision-january-2027/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/20/iran-war-trump-strikes-major-decision-january-2027/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Black Figure Skater Just Made History. Here’s Why It Matters]]></title>
+            <link>https://time.com/article/2026/11/20/a-black-figure-skater-just-made-history-here-s-why-it-matters/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/20/a-black-figure-skater-just-made-history-here-s-why-it-matters/</guid>
+            <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Islam Is Soon Set to Become the World’s Largest Religion]]></title>
+            <link>https://time.com/article/2026/11/20/muslims-christians-population-growth-study/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/20/muslims-christians-population-growth-study/</guid>
+            <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Comes Next After Historic Myanmar Genocide Ruling]]></title>
+            <link>https://time.com/article/2026/11/20/rohingya-genocide-icj-history-myanmar-israel/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/20/rohingya-genocide-icj-history-myanmar-israel/</guid>
+            <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scientists Are Pursuing the Dream of a 'Virtual Cell']]></title>
+            <link>https://time.com/article/2026/11/20/scientists-are-pursuing-the-dream-of-a-virtual-cell/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/20/scientists-are-pursuing-the-dream-of-a-virtual-cell/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andrew Scott Is Radiant in 'Elsinore']]></title>
+            <link>https://time.com/article/2026/11/20/elsinore-review-andrew-scott/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/20/elsinore-review-andrew-scott/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The True Story Behind 'Elsinore']]></title>
+            <link>https://time.com/article/2026/11/20/elsinore-true-story-ian-charleson-hamlet/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/20/elsinore-true-story-ian-charleson-hamlet/</guid>
+            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
             <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -65,6 +111,7 @@
             <title><![CDATA[How Much Can the New Congress Reshape Health?]]></title>
             <link>https://time.com/article/2026/11/19/how-much-can-new-congress-reshape-health/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/19/how-much-can-new-congress-reshape-health/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -150,7 +197,6 @@
             <title><![CDATA[Why the Permitting Bill Is Dividing Climate and Energy Advocates]]></title>
             <link>https://time.com/article/2026/11/19/baaja-permitting-reform-clean-energy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/19/baaja-permitting-reform-clean-energy/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3282,51 +3328,6 @@
             <title><![CDATA[Flydubai Pilot Arrested After 'Apparently' Trying to Crash Israel-Bound Plane, Says Netanyahu]]></title>
             <link>https://time.com/article/2026/09/30/flydubai-pilot-arrested-crash-attempt-stabbing-cockpit-israel-bound-plane/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/30/flydubai-pilot-arrested-crash-attempt-stabbing-cockpit-israel-bound-plane/</guid>
-            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump's Title IX Announcement Is Cruel. But It Does Not Change The Law]]></title>
-            <link>https://time.com/article/2026/09/30/trump-s-title-ix-announcement-is-cruel-but-it-does-not-change-the-law/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/30/trump-s-title-ix-announcement-is-cruel-but-it-does-not-change-the-law/</guid>
-            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing the 2026 TIME100 Next]]></title>
-            <description><![CDATA[We created TIME100 Next knowing that influence can come early. These are the emerging leaders who best represent the stories shaping our world.]]></description>
-            <link>https://time.com/article/2026/09/30/how-we-chose-time100-next/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/30/how-we-chose-time100-next/</guid>
-            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Walking Faster May Help Reverse Frailty]]></title>
-            <link>https://time.com/article/2026/09/30/walking-briskly-may-help-reverse-frailty/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/30/walking-briskly-may-help-reverse-frailty/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Talk to Your Child About Body Image]]></title>
-            <link>https://time.com/article/2026/09/30/what-to-say-child-body-image/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/30/what-to-say-child-body-image/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
-            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Druski]]></title>
-            <link>https://time.com/article/2026/09/30/druski-time100-next/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/30/druski-time100-next/</guid>
-            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ashley Padilla]]></title>
-            <link>https://time.com/article/2026/09/30/ashley-padilla-time100-next/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/30/ashley-padilla-time100-next/</guid>
-            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cornell Sex Assault Case Raises Questions About Title IX Accountability and New York’s Intoxicated Consent Law]]></title>
-            <link>https://time.com/article/2026/09/30/cornell-fraternity-rape-case-title-ix-new-york-intoxicated-consent/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/30/cornell-fraternity-rape-case-title-ix-new-york-intoxicated-consent/</guid>
             <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
