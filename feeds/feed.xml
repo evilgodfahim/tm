@@ -4,10 +4,24 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Nov 2026 07:52:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2026 15:48:39 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Nov 2026 07:52:42 GMT</pubDate>
+        <pubDate>Sat, 21 Nov 2026 15:48:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ebola’s Death Toll Tops 5,700. Can the Outbreak Be Contained?]]></title>
+            <description><![CDATA[Ebola is spreading faster than Congo’s health workers can respond. To save lives, they need stronger frontline clinics, community trust, and a vaccine.]]></description>
+            <link>https://time.com/article/2026/11/21/ebola-s-death-toll-tops-5-700-can-the-outbreak-be-contained-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/21/ebola-s-death-toll-tops-5-700-can-the-outbreak-be-contained-/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[America, China, and the Costs of the Bipolar AI Race]]></title>
+            <link>https://time.com/article/2026/11/21/america-china-and-the-costs-of-the-bipolar-ai-race/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/21/america-china-and-the-costs-of-the-bipolar-ai-race/</guid>
+            <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Does It Mean to Age Well? Three Experts Weigh In]]></title>
             <link>https://time.com/article/2026/11/20/hims-time100-talk-recap/</link>
@@ -63,7 +77,6 @@
         </item>
         <item>
             <title><![CDATA[Trump Praises Jeffries and Schumer, Sees Room for Deals in 2027]]></title>
-            <description><![CDATA[The President said a Democratic Congress may be easier to work with than a Republican one]]></description>
             <link>https://time.com/article/2026/11/20/trump-praises-hakeem-jeffries-schumer/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/20/trump-praises-hakeem-jeffries-schumer/</guid>
             <dc:creator><![CDATA[Nik Popli]]></dc:creator>
@@ -73,13 +86,13 @@
             <title><![CDATA[The Senators Backing Van Hollen for Senate Majority Leader]]></title>
             <link>https://time.com/article/2026/11/20/chris-van-hollen-chuck-schumer-senate-majority-leader/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/20/chris-van-hollen-chuck-schumer-senate-majority-leader/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
             <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Carney’s Shift Toward China Could Become Leverage in U.S. Trade Talks]]></title>
             <link>https://time.com/article/2026/11/20/carney-shift-toward-china-leverage-stalled-trump-us-trade-talks/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/20/carney-shift-toward-china-leverage-stalled-trump-us-trade-talks/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -153,6 +166,7 @@
             <title><![CDATA[How Much Can the New Congress Reshape Health?]]></title>
             <link>https://time.com/article/2026/11/19/how-much-can-new-congress-reshape-health/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/19/how-much-can-new-congress-reshape-health/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -203,7 +217,6 @@
             <title><![CDATA[Van Hollen Puts AI at Center of His Challenge to Schumer]]></title>
             <link>https://time.com/article/2026/11/19/chris-van-hollen-ai-schumer-challenge-senate-democratic-leader/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/19/chris-van-hollen-ai-schumer-challenge-senate-democratic-leader/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
             <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -237,6 +250,7 @@
             <title><![CDATA[Why the Permitting Bill Is Dividing Climate and Energy Advocates]]></title>
             <link>https://time.com/article/2026/11/19/baaja-permitting-reform-clean-energy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/19/baaja-permitting-reform-clean-energy/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3318,19 +3332,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/10/01/misty-green-review/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Ending of 'Take Charge of My Heart']]></title>
-            <link>https://time.com/article/2026/10/01/take-charge-of-my-heart-ending-explained/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/01/take-charge-of-my-heart-ending-explained/</guid>
-            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
-            <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raye]]></title>
-            <link>https://time.com/article/2026/09/30/raye-time100-next/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/30/raye-time100-next/</guid>
-            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
