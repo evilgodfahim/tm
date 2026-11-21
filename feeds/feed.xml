@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Nov 2026 18:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2026 00:31:37 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Nov 2026 18:09:53 GMT</pubDate>
+        <pubDate>Sat, 21 Nov 2026 00:31:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[What Does It Mean to Age Well? Three Experts Weigh In]]></title>
@@ -62,6 +62,48 @@
             <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Trump Praises Jeffries and Schumer, Sees Room for Deals in 2027]]></title>
+            <description><![CDATA[The President said a Democratic Congress may be easier to work with than a Republican one]]></description>
+            <link>https://time.com/article/2026/11/20/trump-praises-hakeem-jeffries-schumer/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/20/trump-praises-hakeem-jeffries-schumer/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Senators Backing Van Hollen for Senate Majority Leader]]></title>
+            <link>https://time.com/article/2026/11/20/chris-van-hollen-chuck-schumer-senate-majority-leader/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/20/chris-van-hollen-chuck-schumer-senate-majority-leader/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Carney’s Shift Toward China Could Become Leverage in U.S. Trade Talks]]></title>
+            <link>https://time.com/article/2026/11/20/carney-shift-toward-china-leverage-stalled-trump-us-trade-talks/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/20/carney-shift-toward-china-leverage-stalled-trump-us-trade-talks/</guid>
+            <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How 'Sunrise on the Reaping' Connects to 'The Hunger Games']]></title>
+            <link>https://time.com/article/2026/11/20/sunrise-on-the-reaping-hunger-games-connection/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/20/sunrise-on-the-reaping-hunger-games-connection/</guid>
+            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['The Hunger Games: Sunrise on the Reaping' Blurs Into a Cloud of Drudgery]]></title>
+            <link>https://time.com/article/2026/11/20/the-hunger-games-sunrise-on-the-reaping-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/20/the-hunger-games-sunrise-on-the-reaping-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Climate Question Hanging Over Anthropic’s IPO]]></title>
+            <link>https://time.com/article/2026/11/20/anthropic-ipo-climate-energy/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/20/anthropic-ipo-climate-energy/</guid>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Musk Downplays Support of Republican Candidates After Record Election Spending]]></title>
             <link>https://time.com/article/2026/11/19/elon-musk-maga-midterms-spending-republicans-democrats/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/19/elon-musk-maga-midterms-spending-republicans-democrats/</guid>
@@ -111,7 +153,6 @@
             <title><![CDATA[How Much Can the New Congress Reshape Health?]]></title>
             <link>https://time.com/article/2026/11/19/how-much-can-new-congress-reshape-health/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/19/how-much-can-new-congress-reshape-health/</guid>
-            <dc:creator><![CDATA[Alice Park]]></dc:creator>
             <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -160,7 +201,6 @@
         </item>
         <item>
             <title><![CDATA[Van Hollen Puts AI at Center of His Challenge to Schumer]]></title>
-            <description><![CDATA[The Maryland Senator is making the regulation of artificial intelligence a key part of his campaign to lead Senate Democrats.]]></description>
             <link>https://time.com/article/2026/11/19/chris-van-hollen-ai-schumer-challenge-senate-democratic-leader/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/19/chris-van-hollen-ai-schumer-challenge-senate-democratic-leader/</guid>
             <dc:creator><![CDATA[Nik Popli]]></dc:creator>
@@ -3290,44 +3330,6 @@
             <title><![CDATA[Raye]]></title>
             <link>https://time.com/article/2026/09/30/raye-time100-next/</link>
             <guid isPermaLink="true">https://time.com/article/2026/09/30/raye-time100-next/</guid>
-            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How James Talarico Made Texas Competitive Again]]></title>
-            <link>https://time.com/article/2026/09/30/can-james-talarico-make-texas-competitive-again/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/30/can-james-talarico-make-texas-competitive-again/</guid>
-            <dc:creator><![CDATA[Philip Elliott]]></dc:creator>
-            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran’s Revolutionary Guard Corps Pens Open Letter to American Voters]]></title>
-            <link>https://time.com/article/2026/09/30/iran-war-irgc-open-letter-us-midterm-elections-american-voters/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/30/iran-war-irgc-open-letter-us-midterm-elections-american-voters/</guid>
-            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Half of Girls Who Want to Play Sports Never Get the Chance]]></title>
-            <link>https://time.com/article/2026/09/30/half-of-girls-who-want-to-play-sports-never-get-the-chance/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/30/half-of-girls-who-want-to-play-sports-never-get-the-chance/</guid>
-            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Children Are Back in School. Measles Is, Too]]></title>
-            <link>https://time.com/article/2026/09/30/children-are-back-in-school-measles-is-too-debra-houry-essay/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/30/children-are-back-in-school-measles-is-too-debra-houry-essay/</guid>
-            <dc:creator><![CDATA[Dr. Debra Houry]]></dc:creator>
-            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hegseth Announces More Sweeping Cuts to Military's Top Ranks]]></title>
-            <link>https://time.com/article/2026/09/30/hegseth-pentagon-us-military-generals-admirals-cuts/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/30/hegseth-pentagon-us-military-generals-admirals-cuts/</guid>
-            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flydubai Pilot Arrested After 'Apparently' Trying to Crash Israel-Bound Plane, Says Netanyahu]]></title>
-            <link>https://time.com/article/2026/09/30/flydubai-pilot-arrested-crash-attempt-stabbing-cockpit-israel-bound-plane/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/09/30/flydubai-pilot-arrested-crash-attempt-stabbing-cockpit-israel-bound-plane/</guid>
             <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
