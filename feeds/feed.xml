@@ -4,23 +4,47 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Nov 2026 03:34:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 13:53:10 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Nov 2026 03:34:49 GMT</pubDate>
+        <pubDate>Mon, 23 Nov 2026 13:53:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Zelensky Says Ukraine Sank Russian Warship in Libya]]></title>
+            <description><![CDATA[Ukraine's President hailed the sinking of the warship as an example of an “exemplary Ukrainian operation in response to Russia’s war.”]]></description>
+            <link>https://time.com/article/2026/11/23/zelensky-says-ukraine-sank-russian-warship-at-naval-base-in-libya/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/23/zelensky-says-ukraine-sank-russian-warship-at-naval-base-in-libya/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
+            <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Know About the U.S. Army’s Controversial Plan to Explode Lead in Iowa]]></title>
+            <link>https://time.com/article/2026/11/23/iowa-lead-azide-detonation-environment-controversy-doj-us-army/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/23/iowa-lead-azide-detonation-environment-controversy-doj-us-army/</guid>
+            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
+            <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South Korean Education Minister Resigns After Backlash Toward Anti-AI Measures]]></title>
+            <link>https://time.com/article/2026/11/23/south-korea-education-minister-resigns-college-exam-suneung-ai-cheating/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/23/south-korea-education-minister-resigns-college-exam-suneung-ai-cheating/</guid>
+            <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why the World’s Climate Talks Broke Down—and What Happens Now]]></title>
-            <description><![CDATA[The EU and others rejected a draft that didn’t explicitly mention fossil fuels, leaving COP31 without a broad agreement.]]></description>
             <link>https://time.com/article/2026/11/22/Why-the-Worlds-Climate-Talks-Broke-Down/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/22/Why-the-Worlds-Climate-Talks-Broke-Down/</guid>
-            <dc:creator><![CDATA[T. Michelle Murphy]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Deal with Anxiety]]></title>
+            <link>https://time.com/article/2026/11/22/how-to-deal-with-anxiety/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/22/how-to-deal-with-anxiety/</guid>
             <pubDate>Sun, 22 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ebola’s Death Toll Tops 5,700. Can the Outbreak Be Contained?]]></title>
             <link>https://time.com/article/2026/11/21/ebola-s-death-toll-tops-5-700-can-the-outbreak-be-contained-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/21/ebola-s-death-toll-tops-5-700-can-the-outbreak-be-contained-/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -105,14 +129,12 @@
             <title><![CDATA[How 'Sunrise on the Reaping' Connects to 'The Hunger Games']]></title>
             <link>https://time.com/article/2026/11/20/sunrise-on-the-reaping-hunger-games-connection/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/20/sunrise-on-the-reaping-hunger-games-connection/</guid>
-            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['The Hunger Games: Sunrise on the Reaping' Blurs Into a Cloud of Drudgery]]></title>
             <link>https://time.com/article/2026/11/20/the-hunger-games-sunrise-on-the-reaping-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/20/the-hunger-games-sunrise-on-the-reaping-review/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -185,12 +207,14 @@
             <title><![CDATA[Review: 'The Further Mis-Adventures of Cliff Booth']]></title>
             <link>https://time.com/article/2026/11/19/the-further-mis-adventures-of-cliff-booth-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/19/the-further-mis-adventures-of-cliff-booth-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amy Poehler Returns to TV in 'Dig': Review]]></title>
             <link>https://time.com/article/2026/11/19/dig-review-peacock/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/19/dig-review-peacock/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3303,33 +3327,6 @@
             <title><![CDATA[Trump Is Being Accused of Interfering in Brazil's Election. Here's Why]]></title>
             <link>https://time.com/article/2026/10/01/trump-brazil-election-interference-accusations-lula-bolsonaro-tensions/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/01/trump-brazil-election-interference-accusations-lula-bolsonaro-tensions/</guid>
-            <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Making Sense of Verity's Ambiguous Ending]]></title>
-            <link>https://time.com/article/2026/10/01/verity-ending-explained/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/01/verity-ending-explained/</guid>
-            <dc:creator><![CDATA[JP Mangalindan]]></dc:creator>
-            <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Ending of 'Four Hands, Two Sonatas']]></title>
-            <link>https://time.com/article/2026/10/01/four-hands-two-sonatas-ending/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/01/four-hands-two-sonatas-ending/</guid>
-            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
-            <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Ending of 'Below']]></title>
-            <link>https://time.com/article/2026/10/01/below-netflix-ending/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/01/below-netflix-ending/</guid>
-            <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Fjord' Details a Family’s Sudden Nightmare]]></title>
-            <link>https://time.com/article/2026/10/01/fjord-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/01/fjord-review/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
