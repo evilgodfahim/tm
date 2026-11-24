@@ -4,23 +4,20 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Nov 2026 13:53:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 01:25:30 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Nov 2026 13:53:10 GMT</pubDate>
+        <pubDate>Tue, 24 Nov 2026 01:25:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Zelensky Says Ukraine Sank Russian Warship in Libya]]></title>
-            <description><![CDATA[Ukraine's President hailed the sinking of the warship as an example of an “exemplary Ukrainian operation in response to Russia’s war.”]]></description>
             <link>https://time.com/article/2026/11/23/zelensky-says-ukraine-sank-russian-warship-at-naval-base-in-libya/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/23/zelensky-says-ukraine-sank-russian-warship-at-naval-base-in-libya/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What to Know About the U.S. Army’s Controversial Plan to Explode Lead in Iowa]]></title>
             <link>https://time.com/article/2026/11/23/iowa-lead-azide-detonation-environment-controversy-doj-us-army/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/23/iowa-lead-azide-detonation-environment-controversy-doj-us-army/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -30,9 +27,72 @@
             <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Trump Applauds NVIDIA’s Decision to Reinstate Jensen Huang]]></title>
+            <description><![CDATA[In Congress, meanwhile, the move has drawn backlash from both sides of the political aisle.]]></description>
+            <link>https://time.com/article/2026/11/23/trump-nvidia-jensen-huang-reinstated/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/23/trump-nvidia-jensen-huang-reinstated/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Taiwan Is Turning Tech Supremacy Into a Security Shield]]></title>
+            <link>https://time.com/article/2026/11/23/how-taiwan-is-turning-tech-supremacy-into-a-security-shield/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/23/how-taiwan-is-turning-tech-supremacy-into-a-security-shield/</guid>
+            <dc:creator><![CDATA[Charlie Campbell]]></dc:creator>
+            <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[To Debate in 2028, Democrats Will Have to Disavow Dark Money]]></title>
+            <link>https://time.com/article/2026/11/23/to-debate-in-2028-democrats-will-have-to-disavow-dark-money/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/23/to-debate-in-2028-democrats-will-have-to-disavow-dark-money/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
+            <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Thanksgiving Dinner Is Set to Cost Americans More This Year]]></title>
+            <link>https://time.com/article/2026/11/23/thanksgiving-set-to-cost-americans-more-this-year-farm-bureau/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/23/thanksgiving-set-to-cost-americans-more-this-year-farm-bureau/</guid>
+            <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Bad Weather Disrupt Thanksgiving Travel?]]></title>
+            <link>https://time.com/article/2026/11/23/weather-disruption-thanksgiving-travel/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/23/weather-disruption-thanksgiving-travel/</guid>
+            <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the Ebola Outbreak Keeps Growing, According to Virus Expert Pardis Sabeti]]></title>
+            <link>https://time.com/article/2026/11/23/pardis-sabeti-interview-why-ebola-outbreak-keeps-growing/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/23/pardis-sabeti-interview-why-ebola-outbreak-keeps-growing/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Blade Runner 2099': TV Review]]></title>
+            <link>https://time.com/article/2026/11/23/blade-runner-2099-review/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/23/blade-runner-2099-review/</guid>
+            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[6 Questions About Jensen Huang's Return as Nvidia CEO]]></title>
+            <link>https://time.com/article/2026/11/23/jensen-huang-return-nvidia-trump/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/23/jensen-huang-return-nvidia-trump/</guid>
+            <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
+            <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Failed COP31 Deal Reveals a New Reality for Climate Action]]></title>
+            <link>https://time.com/article/2026/11/23/cop31-failure-new-phase-climate-action/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/23/cop31-failure-new-phase-climate-action/</guid>
+            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
+            <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why the World’s Climate Talks Broke Down—and What Happens Now]]></title>
             <link>https://time.com/article/2026/11/22/Why-the-Worlds-Climate-Talks-Broke-Down/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/22/Why-the-Worlds-Climate-Talks-Broke-Down/</guid>
+            <dc:creator><![CDATA[T. Michelle Murphy]]></dc:creator>
             <pubDate>Sun, 22 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -45,12 +105,20 @@
             <title><![CDATA[Ebola’s Death Toll Tops 5,700. Can the Outbreak Be Contained?]]></title>
             <link>https://time.com/article/2026/11/21/ebola-s-death-toll-tops-5-700-can-the-outbreak-be-contained-/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/21/ebola-s-death-toll-tops-5-700-can-the-outbreak-be-contained-/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[America, China, and the Costs of the Bipolar AI Race]]></title>
             <link>https://time.com/article/2026/11/21/america-china-and-the-costs-of-the-bipolar-ai-race/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/21/america-china-and-the-costs-of-the-bipolar-ai-race/</guid>
+            <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ECT Is a Controversial Treatment of Last Resort. I Wish I’d Gotten It Sooner]]></title>
+            <link>https://time.com/article/2026/11/21/ect-is-a-controversial-treatment-of-last-resort-i-wish-i-d-gotten-it-sooner/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/21/ect-is-a-controversial-treatment-of-last-resort-i-wish-i-d-gotten-it-sooner/</guid>
+            <dc:creator><![CDATA[Ted Scheinman]]></dc:creator>
             <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -71,6 +139,7 @@
             <title><![CDATA[A Black Figure Skater Just Made History. Here’s Why It Matters]]></title>
             <link>https://time.com/article/2026/11/20/a-black-figure-skater-just-made-history-here-s-why-it-matters/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/20/a-black-figure-skater-just-made-history-here-s-why-it-matters/</guid>
+            <dc:creator><![CDATA[Jasmine Wynn]]></dc:creator>
             <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3263,70 +3332,6 @@
             <link>https://time.com/article/2026/10/01/next-generation-of-weight-loss-drugs-is-almost-here/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/01/next-generation-of-weight-loss-drugs-is-almost-here/</guid>
             <dc:creator><![CDATA[Alice Park]]></dc:creator>
-            <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Trump Has Built]]></title>
-            <link>https://time.com/article/2026/10/01/donald-trump-2026-interview/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/01/donald-trump-2026-interview/</guid>
-            <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fact-Checking What Trump Said in His Latest TIME Interview]]></title>
-            <link>https://time.com/article/2026/10/01/donald-trump-2026-interview-fact-check/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/01/donald-trump-2026-interview-fact-check/</guid>
-            <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Donald Trump Has Appeared on the Cover of TIME More Than Anyone Else]]></title>
-            <link>https://time.com/article/2026/10/01/donald-trump-2026-interview-cover/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/01/donald-trump-2026-interview-cover/</guid>
-            <dc:creator><![CDATA[Sam Jacobs]]></dc:creator>
-            <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The President and the Press]]></title>
-            <link>https://time.com/article/2026/10/01/nixon-trump-press/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/01/nixon-trump-press/</guid>
-            <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the U.S. Must Simultaneously Compete—and Cooperate—With China on AI]]></title>
-            <link>https://time.com/article/2026/10/01/the-u-s-must-compete-and-cooperate-with-china-on-ai/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/01/the-u-s-must-compete-and-cooperate-with-china-on-ai/</guid>
-            <dc:creator><![CDATA[Gina Raimondo]]></dc:creator>
-            <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The First Worthwhile 'Carrie' in 50 Years]]></title>
-            <link>https://time.com/article/2026/10/01/carrie-mike-flanagan-review/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/01/carrie-mike-flanagan-review/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Trump Has Benefited From the Supreme Court ‘Shadow Docket’]]></title>
-            <link>https://time.com/article/2026/10/01/supreme-court-shadow-docket-emergency-rulings-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/01/supreme-court-shadow-docket-emergency-rulings-trump/</guid>
-            <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What the Flydubai Incident Reveals About When a Pilot Becomes the Threat]]></title>
-            <link>https://time.com/article/2026/10/01/flydubai-incident-dubai-israel-cockpit-pilot-stabbing-plane-crash-attempt/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/01/flydubai-incident-dubai-israel-cockpit-pilot-stabbing-plane-crash-attempt/</guid>
-            <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Tip Toe' Captures a World Gone Mad: Review]]></title>
-            <link>https://time.com/article/2026/10/01/tip-toe-review-starz/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/01/tip-toe-review-starz/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Is Being Accused of Interfering in Brazil's Election. Here's Why]]></title>
-            <link>https://time.com/article/2026/10/01/trump-brazil-election-interference-accusations-lula-bolsonaro-tensions/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/01/trump-brazil-election-interference-accusations-lula-bolsonaro-tensions/</guid>
             <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
