@@ -4,15 +4,102 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Nov 2026 11:50:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 21:45:44 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Nov 2026 11:50:59 GMT</pubDate>
+        <pubDate>Tue, 24 Nov 2026 21:45:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[AI’s Frankenstein Moment]]></title>
             <link>https://time.com/article/2026/11/24/ai-s-frankenstein-moment/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/24/ai-s-frankenstein-moment/</guid>
             <dc:creator><![CDATA[Joseph Luzzi]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TIME’s Top 100 Photos of 2026]]></title>
+            <link>https://time.com/article/2026/11/24/times-top-100-photos-of-2026/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/24/times-top-100-photos-of-2026/</guid>
+            <dc:creator><![CDATA[TIME Photo Department]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Taipei Mayoral Candidate Puma Shen on Fighting Chinese Cognitive Warfare]]></title>
+            <link>https://time.com/article/2026/11/24/puma-shen-taipei-mayor-taiwan-china-interview/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/24/puma-shen-taipei-mayor-taiwan-china-interview/</guid>
+            <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Mamdani Plans to Replace NYC's Infamous Rikers Island Jail]]></title>
+            <link>https://time.com/article/2026/11/24/mamdani-rikers-island-borough-based-jails-plan/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/24/mamdani-rikers-island-borough-based-jails-plan/</guid>
+            <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia Accuses Estonia of Hostilities ‘On the Verge of Triggering Open War’]]></title>
+            <link>https://time.com/article/2026/11/24/russia-estonia-conflict-open-war-border-nato-ukraine-eu/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/24/russia-estonia-conflict-open-war-border-nato-ukraine-eu/</guid>
+            <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Gives ‘America’s Mayor’ the Presidential Medal of Freedom]]></title>
+            <link>https://time.com/article/2026/11/24/trump-awards-rudy-giuliani-presidential-medal-of-freedom/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/24/trump-awards-rudy-giuliani-presidential-medal-of-freedom/</guid>
+            <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Immigration Is Not a Fringe Issue]]></title>
+            <link>https://time.com/article/2026/11/24/immigration-is-not-a-fringe-issue/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/24/immigration-is-not-a-fringe-issue/</guid>
+            <dc:creator><![CDATA[Greisa Martínez Rosas]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Havana, Caracas, and Trump’s Unfinished Business in Latin America]]></title>
+            <link>https://time.com/article/2026/11/24/trump-cuba-venezuela-regime-change-western-hemisphere/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/24/trump-cuba-venezuela-regime-change-western-hemisphere/</guid>
+            <dc:creator><![CDATA[Ian Bremmer]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What People in Healthy Relationships Say to Each Other]]></title>
+            <link>https://time.com/article/2026/11/24/things-people-in-healthy-relationships-say/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/24/things-people-in-healthy-relationships-say/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Measles Is Back in the U.S. What Happens Next?]]></title>
+            <link>https://time.com/article/2026/11/24/measles-elimination-status-disease-returns/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/24/measles-elimination-status-disease-returns/</guid>
+            <dc:creator><![CDATA[Alice Park]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['GTA VI' is More Than Just a Violent Crime Thriller]]></title>
+            <link>https://time.com/article/2026/11/24/gta-vi-love-empathy-jason-lucia/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/24/gta-vi-love-empathy-jason-lucia/</guid>
+            <dc:creator><![CDATA[George Yang]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How AI Is Changing What Companies Know About Their Customers]]></title>
+            <link>https://time.com/article/2026/11/24/ai-consumer-data-shopping/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/24/ai-consumer-data-shopping/</guid>
+            <dc:creator><![CDATA[Steve Friess]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jensen Huang and the Cult of the Male Tech Founder]]></title>
+            <link>https://time.com/article/2026/11/24/jensen-huang-ceo-male-tech-founder/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/24/jensen-huang-ceo-male-tech-founder/</guid>
+            <dc:creator><![CDATA[Naomi Nix]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Food-Waste Experts' Thanksgiving Habits]]></title>
+            <link>https://time.com/article/2026/11/24/food-waste-experts-habits-thanksgiving/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/24/food-waste-experts-habits-thanksgiving/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -65,6 +152,7 @@
             <title><![CDATA[Will Bad Weather Disrupt Thanksgiving Travel?]]></title>
             <link>https://time.com/article/2026/11/23/weather-disruption-thanksgiving-travel/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/23/weather-disruption-thanksgiving-travel/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -93,6 +181,21 @@
             <link>https://time.com/article/2026/11/23/cop31-failure-new-phase-climate-action/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/23/cop31-failure-new-phase-climate-action/</guid>
             <dc:creator><![CDATA[Justin Worland]]></dc:creator>
+            <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This Moderate Democrat Thinks Trump Could Help Rein In ICE]]></title>
+            <description><![CDATA[After a sweeping midterm victory, Henry Cuellar sees an opening for Trump and Congress to finally pass immigration reform]]></description>
+            <link>https://time.com/article/2026/11/23/this-moderate-democrat-trump-rein-in-ice-cuellar-texas/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/23/this-moderate-democrat-trump-rein-in-ice-cuellar-texas/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Gambia Helped the Rohingya Prove in The Hague]]></title>
+            <link>https://time.com/article/2026/11/23/rohingya-genocide-myanmar-icj-gambia-the-hague/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/23/rohingya-genocide-myanmar-icj-gambia-the-hague/</guid>
+            <dc:creator><![CDATA[Parampreet Singh]]></dc:creator>
             <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3232,107 +3335,6 @@
             <link>https://time.com/article/2026/10/05/nobel-prize-2026-winners/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/05/nobel-prize-2026-winners/</guid>
             <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking Down the Finale of Mike Flanagan's 'Carrie']]></title>
-            <link>https://time.com/article/2026/10/05/carrie-mike-flanagan-finale-explained/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/05/carrie-mike-flanagan-finale-explained/</guid>
-            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America’s Health Care Workforce Is in Crisis]]></title>
-            <link>https://time.com/article/2026/10/04/us-health-care-workforce-in-crisis/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/04/us-health-care-workforce-in-crisis/</guid>
-            <dc:creator><![CDATA[Michellene Davis]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Is Promising Health Care Checks Before the Midterms. How Far Will They Go?]]></title>
-            <link>https://time.com/article/2026/10/04/trump-is-promising-health-care-checks-before-the-midterms-how-far-will-they-go-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/04/trump-is-promising-health-care-checks-before-the-midterms-how-far-will-they-go-/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We Must Fight Health Misinformation With Empathy]]></title>
-            <link>https://time.com/article/2026/10/04/we-must-fight-health-misinformation-with-empathy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/04/we-must-fight-health-misinformation-with-empathy/</guid>
-            <dc:creator><![CDATA[Megan L. Ranney]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I Bring My Kids to Vote with Me]]></title>
-            <link>https://time.com/article/2026/10/03/why-i-bring-my-kids-to-vote-with-me/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/03/why-i-bring-my-kids-to-vote-with-me/</guid>
-            <dc:creator><![CDATA[Jeanette Senecal]]></dc:creator>
-            <pubDate>Sat, 03 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The G7 Is Releasing Emergency Fuel Reserves. How Much Will It Help Americans?]]></title>
-            <link>https://time.com/article/2026/10/03/the-g7-is-releasing-emergency-fuel-reserves-how-much-will-it-help-americans-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/03/the-g7-is-releasing-emergency-fuel-reserves-how-much-will-it-help-americans-/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
-            <pubDate>Sat, 03 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We Won't Know the Answers to AI's Most Important Questions Until It's Too Late]]></title>
-            <link>https://time.com/article/2026/10/03/we-won-t-know-the-answers-to-ai-s-most-important-questions-until-its-too-late/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/03/we-won-t-know-the-answers-to-ai-s-most-important-questions-until-its-too-late/</guid>
-            <pubDate>Sat, 03 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The System That Failed Cornell’s Jane Doe]]></title>
-            <link>https://time.com/article/2026/10/02/the-system-that-failed-cornell-jane-doe/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/02/the-system-that-failed-cornell-jane-doe/</guid>
-            <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tennessee Reviews Lethal Injection Process After Botched Execution]]></title>
-            <link>https://time.com/article/2026/10/02/christa-pike-botched-execution-lethal-injection-tennessee-pentobarbital/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/02/christa-pike-botched-execution-lethal-injection-tennessee-pentobarbital/</guid>
-            <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Martin Luther King Jr.'s Granddaughter's First Vote Is Up Against]]></title>
-            <link>https://time.com/article/2026/10/02/what-martin-luther-king-jr-granddaughter-first-vote-is-up-against/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/02/what-martin-luther-king-jr-granddaughter-first-vote-is-up-against/</guid>
-            <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to Know About the Dengue Outbreak in the U.S.]]></title>
-            <link>https://time.com/article/2026/10/02/what-to-know-about-dengue-outbreak-florida-mosquito/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/02/what-to-know-about-dengue-outbreak-florida-mosquito/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Awe in the Age of AI]]></title>
-            <link>https://time.com/article/2026/10/02/awe-in-the-age-of-ai/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/02/awe-in-the-age-of-ai/</guid>
-            <dc:creator><![CDATA[Arianna Huffington]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Are Students Protesting Across France?]]></title>
-            <link>https://time.com/article/2026/10/02/france-student-protests-arrests-injuries-school-closures/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/02/france-student-protests-arrests-injuries-school-closures/</guid>
-            <dc:creator><![CDATA[Connor Greene]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How 'East of Eden' Rescues Cathy From Evil]]></title>
-            <link>https://time.com/article/2026/10/02/east-of-eden-netflix-cathy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/02/east-of-eden-netflix-cathy/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Europe’s Approach to Climate Change Is Entering a New Era]]></title>
-            <link>https://time.com/article/2026/10/02/europe-s-approach-to-climate-is-entering-a-new-era/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/02/europe-s-approach-to-climate-is-entering-a-new-era/</guid>
-            <dc:creator><![CDATA[Justin Worland]]></dc:creator>
-            <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
