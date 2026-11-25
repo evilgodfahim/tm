@@ -4,14 +4,27 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Nov 2026 15:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 23:54:59 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Nov 2026 15:11:05 GMT</pubDate>
+        <pubDate>Wed, 25 Nov 2026 23:54:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How to Host Thanksgiving on a Budget]]></title>
+            <link>https://time.com/4118368/thanksgiving-host-budget/</link>
+            <guid isPermaLink="true">https://time.com/4118368/thanksgiving-host-budget/</guid>
+            <pubDate>Wed, 25 Nov 2026 23:54:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Avoid Political Tension at Thanksgiving]]></title>
+            <link>https://time.com/4574483/avoid-political-tension-at-thanksgiving/</link>
+            <guid isPermaLink="true">https://time.com/4574483/avoid-political-tension-at-thanksgiving/</guid>
+            <pubDate>Wed, 25 Nov 2026 23:54:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Review: 'Focker In-Law']]></title>
             <link>https://time.com/article/2026/11/25/focker-in-law-review-ariana-grande/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/25/focker-in-law-review-ariana-grande/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -30,6 +43,7 @@
             <title><![CDATA[An Ode to the Endeavour Space Shuttle]]></title>
             <link>https://time.com/article/2026/11/25/an-ode-to-the-endeavour-space-shuttle/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/25/an-ode-to-the-endeavour-space-shuttle/</guid>
+            <dc:creator><![CDATA[Marsha Ivins]]></dc:creator>
             <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -37,6 +51,68 @@
             <link>https://time.com/article/2026/11/25/people-getting-worse-at-handling-uncertainty/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/25/people-getting-worse-at-handling-uncertainty/</guid>
             <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
+            <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Push to Free a Princeton Scientist From ICE Detention Is Growing]]></title>
+            <link>https://time.com/article/2026/11/25/the-push-to-free-a-princeton-scientist-from-ice-detention-is-growing/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/25/the-push-to-free-a-princeton-scientist-from-ice-detention-is-growing/</guid>
+            <dc:creator><![CDATA[Philip Wang]]></dc:creator>
+            <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El Niño Is Strengthening. Here’s Where Its Effects Are Already Showing Up]]></title>
+            <link>https://time.com/article/2026/11/25/el-ni-o-is-strengthening-here-s-where-its-effects-are-already-showing-up/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/25/el-ni-o-is-strengthening-here-s-where-its-effects-are-already-showing-up/</guid>
+            <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Time Should You Eat Thanksgiving Dinner? We Asked Etiquette Experts]]></title>
+            <description><![CDATA[Serving times are a hotly-debated topic as we approach Thanksgiving Day. TIME spoke to etiquette experts for guidance on how the celebrations should unfold.]]></description>
+            <link>https://time.com/article/2026/11/25/what-time-should-you-eat-thanksgiving-dinner-according-to-etiquette-experts/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/25/what-time-should-you-eat-thanksgiving-dinner-according-to-etiquette-experts/</guid>
+            <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Holiday Tradition of Pretending Our Families Get Along Perfectly]]></title>
+            <link>https://time.com/article/2026/11/25/the-holiday-tradition-of-pretending-our-families-are-perfect/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/25/the-holiday-tradition-of-pretending-our-families-are-perfect/</guid>
+            <dc:creator><![CDATA[Jillian Sanders]]></dc:creator>
+            <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the War Turned Sudan Into a Country Without a Newspaper]]></title>
+            <link>https://time.com/article/2026/11/25/sudan-war-rsf-elfasher-journalists-killed-arrested/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/25/sudan-war-rsf-elfasher-journalists-killed-arrested/</guid>
+            <dc:creator><![CDATA[Isma’il Kushkush]]></dc:creator>
+            <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The True Story Behind 'The Trials of Karen Read']]></title>
+            <link>https://time.com/article/2026/11/25/the-trials-of-karen-read-true-story-netflix/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/25/the-trials-of-karen-read-true-story-netflix/</guid>
+            <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
+            <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Ending of The Remarried Empress]]></title>
+            <link>https://time.com/article/2026/11/25/the-remarried-empress-ending-explained/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/25/the-remarried-empress-ending-explained/</guid>
+            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
+            <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down the Ending of 'Love in Disguise']]></title>
+            <link>https://time.com/article/2026/11/25/breaking-down-the-ending-of-love-in-disguise-/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/25/breaking-down-the-ending-of-love-in-disguise-/</guid>
+            <dc:creator><![CDATA[Kayti Burt]]></dc:creator>
+            <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The ‘Red Flags’ Behind Nvidia Customer Megaspeed]]></title>
+            <link>https://time.com/article/2026/11/25/nvidia-megaspeed-china-investment/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/25/nvidia-megaspeed-china-investment/</guid>
+            <dc:creator><![CDATA[Manisha Ganguly]]></dc:creator>
             <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -95,6 +171,7 @@
             <title><![CDATA[What People in Healthy Relationships Say to Each Other]]></title>
             <link>https://time.com/article/2026/11/24/things-people-in-healthy-relationships-say/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/24/things-people-in-healthy-relationships-say/</guid>
+            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -115,26 +192,26 @@
             <title><![CDATA[How AI Is Changing What Companies Know About Their Customers]]></title>
             <link>https://time.com/article/2026/11/24/ai-consumer-data-shopping/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/24/ai-consumer-data-shopping/</guid>
+            <dc:creator><![CDATA[Steve Friess]]></dc:creator>
             <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jensen Huang and the Cult of the Male Tech Founder]]></title>
             <link>https://time.com/article/2026/11/24/jensen-huang-ceo-male-tech-founder/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/24/jensen-huang-ceo-male-tech-founder/</guid>
-            <dc:creator><![CDATA[Naomi Nix]]></dc:creator>
             <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Food-Waste Experts' Thanksgiving Habits]]></title>
             <link>https://time.com/article/2026/11/24/food-waste-experts-habits-thanksgiving/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/24/food-waste-experts-habits-thanksgiving/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Canada Pushes Back Against Public Rebuke From Pentagon]]></title>
             <link>https://time.com/article/2026/11/24/hegseth-pentagon-accuses-canada-failing-credible-defense-partner/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/24/hegseth-pentagon-accuses-canada-failing-credible-defense-partner/</guid>
-            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -144,9 +221,10 @@
             <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What to Know About the U.S. Army’s On-Again, Off-Again Plan to Explode Lead in Iowa]]></title>
+            <title><![CDATA[What to Know About the U.S. Army's Controversial Lead Detonation in Iowa]]></title>
             <link>https://time.com/article/2026/11/23/iowa-lead-azide-detonation-environment-controversy-doj-us-army/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/23/iowa-lead-azide-detonation-environment-controversy-doj-us-army/</guid>
+            <dc:creator><![CDATA[Chad de Guzman and Connor Greene]]></dc:creator>
             <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -187,7 +265,6 @@
             <title><![CDATA[Will Bad Weather Disrupt Thanksgiving Travel?]]></title>
             <link>https://time.com/article/2026/11/23/weather-disruption-thanksgiving-travel/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/23/weather-disruption-thanksgiving-travel/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3261,78 +3338,6 @@
             <link>https://time.com/article/2026/10/06/texas-governor-race-polls-abbott-hinojosa/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/06/texas-governor-race-polls-abbott-hinojosa/</guid>
             <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Quebec Separatists Win Poses New Challenge for Carney Amid Trump Trade War]]></title>
-            <link>https://time.com/article/2026/10/06/quebec-separatists-independence-referendum-tests-canada-carney-trump-trade-war/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/06/quebec-separatists-independence-referendum-tests-canada-carney-trump-trade-war/</guid>
-            <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Review: 'Artificial']]></title>
-            <link>https://time.com/article/2026/10/06/artificial-review-andrew-garfield-sam-altman/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/06/artificial-review-andrew-garfield-sam-altman/</guid>
-            <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Women Behind 'The Social Reckoning']]></title>
-            <link>https://time.com/article/2026/10/06/mikey-madison-frances-haugen-the-social-reckoning/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/06/mikey-madison-frances-haugen-the-social-reckoning/</guid>
-            <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Democrats in Key Senate Races Embrace 'Capitalist' Label]]></title>
-            <link>https://time.com/article/2026/10/05/democrats-in-key-senate-races-embrace-capitalist-label/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/05/democrats-in-key-senate-races-embrace-capitalist-label/</guid>
-            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gambling Is Sending More People to the ER]]></title>
-            <link>https://time.com/article/2026/10/05/gambling-emergency-room-visits/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/05/gambling-emergency-room-visits/</guid>
-            <dc:creator><![CDATA[Alana Semuels]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Case Against Wearing Headphones in Public]]></title>
-            <link>https://time.com/article/2026/10/05/the-case-against-wearing-headphones-in-public/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/05/the-case-against-wearing-headphones-in-public/</guid>
-            <dc:creator><![CDATA[Meehika Barua]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia Tells WHO No Plague Found After Lab Worker’s Death]]></title>
-            <link>https://time.com/article/2026/10/05/russia-plague-fears-siberia-quarantine-lab-worker-died/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/05/russia-plague-fears-siberia-quarantine-lab-worker-died/</guid>
-            <dc:creator><![CDATA[Veronique Greenwood and Callum Sutherland]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spain’s Leader Is Betting His Government on the Housing Crisis]]></title>
-            <link>https://time.com/article/2026/10/05/spain-snap-elections-sanchez-housing-crisis/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/05/spain-snap-elections-sanchez-housing-crisis/</guid>
-            <dc:creator><![CDATA[T. Michelle Murphy]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[POLITICO Blocked From Air Force One Amid Battle Over Media Access]]></title>
-            <link>https://time.com/article/2026/10/05/politico-white-house-pool-air-force-one-trump-media-ban/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/05/politico-white-house-pool-air-force-one-trump-media-ban/</guid>
-            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the U.S. Bomber Withdrawal From a U.K. Air Base Is Significant]]></title>
-            <link>https://time.com/article/2026/10/05/why-us-bomber-withdrawal-from-raf-fairford-air-base-matters/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/05/why-us-bomber-withdrawal-from-raf-fairford-air-base-matters/</guid>
-            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Despite the Polls Republicans Think This Senate Seat Remains in Play]]></title>
-            <link>https://time.com/article/2026/10/05/new-hampshire-blue-wave-republicans-sununu-pappas/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/05/new-hampshire-blue-wave-republicans-sununu-pappas/</guid>
-            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
