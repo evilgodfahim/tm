@@ -4,15 +4,39 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Nov 2026 04:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 15:11:05 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Nov 2026 04:42:49 GMT</pubDate>
+        <pubDate>Wed, 25 Nov 2026 15:11:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Review: 'Focker In-Law']]></title>
             <link>https://time.com/article/2026/11/25/focker-in-law-review-ariana-grande/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/25/focker-in-law-review-ariana-grande/</guid>
-            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties]]></title>
+            <link>https://time.com/article/2026/11/25/huawei-guilty-crimes-fraud-conspiracy-sanctions-us-china/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/25/huawei-guilty-crimes-fraud-conspiracy-sanctions-us-china/</guid>
+            <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Australia’s ‘Digital Duty of Care’ Law Means for Big Tech]]></title>
+            <link>https://time.com/article/2026/11/25/australia-digital-duty-of-care-big-tech-fines-social-media-platforms-risks-harms-safety/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/25/australia-digital-duty-of-care-big-tech-fines-social-media-platforms-risks-harms-safety/</guid>
+            <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An Ode to the Endeavour Space Shuttle]]></title>
+            <link>https://time.com/article/2026/11/25/an-ode-to-the-endeavour-space-shuttle/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/25/an-ode-to-the-endeavour-space-shuttle/</guid>
+            <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[People Are Getting Worse at Handling Uncertainty]]></title>
+            <link>https://time.com/article/2026/11/25/people-getting-worse-at-handling-uncertainty/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/25/people-getting-worse-at-handling-uncertainty/</guid>
+            <dc:creator><![CDATA[Veronique Greenwood]]></dc:creator>
             <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -71,7 +95,6 @@
             <title><![CDATA[What People in Healthy Relationships Say to Each Other]]></title>
             <link>https://time.com/article/2026/11/24/things-people-in-healthy-relationships-say/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/24/things-people-in-healthy-relationships-say/</guid>
-            <dc:creator><![CDATA[Angela Haupt]]></dc:creator>
             <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -92,7 +115,6 @@
             <title><![CDATA[How AI Is Changing What Companies Know About Their Customers]]></title>
             <link>https://time.com/article/2026/11/24/ai-consumer-data-shopping/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/24/ai-consumer-data-shopping/</guid>
-            <dc:creator><![CDATA[Steve Friess]]></dc:creator>
             <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -106,13 +128,13 @@
             <title><![CDATA[Food-Waste Experts' Thanksgiving Habits]]></title>
             <link>https://time.com/article/2026/11/24/food-waste-experts-habits-thanksgiving/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/24/food-waste-experts-habits-thanksgiving/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hegseth’s Pentagon Accuses Canada of Failing as Credible Defense Partner]]></title>
+            <title><![CDATA[Canada Pushes Back Against Public Rebuke From Pentagon]]></title>
             <link>https://time.com/article/2026/11/24/hegseth-pentagon-accuses-canada-failing-credible-defense-partner/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/24/hegseth-pentagon-accuses-canada-failing-credible-defense-partner/</guid>
+            <dc:creator><![CDATA[Tiago Ventura]]></dc:creator>
             <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -209,6 +231,14 @@
             <link>https://time.com/article/2026/11/23/rohingya-genocide-myanmar-icj-gambia-the-hague/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/23/rohingya-genocide-myanmar-icj-gambia-the-hague/</guid>
             <dc:creator><![CDATA[Parampreet Singh]]></dc:creator>
+            <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Guide to the 4 Caucuses That Could Shape the Democratic House]]></title>
+            <description><![CDATA[From the centrists to the progressives, here's how the key caucuses compare in size and membership]]></description>
+            <link>https://time.com/article/2026/11/23/a-guide-to-the-4-caucuses-that-could-shape-the-democratic-house/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/23/a-guide-to-the-4-caucuses-that-could-shape-the-democratic-house/</guid>
+            <dc:creator><![CDATA[Nik Popli]]></dc:creator>
             <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -321,12 +351,14 @@
             <title><![CDATA[How 'Sunrise on the Reaping' Connects to 'The Hunger Games']]></title>
             <link>https://time.com/article/2026/11/20/sunrise-on-the-reaping-hunger-games-connection/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/20/sunrise-on-the-reaping-hunger-games-connection/</guid>
+            <dc:creator><![CDATA[Megan McCluskey]]></dc:creator>
             <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['The Hunger Games: Sunrise on the Reaping' Blurs Into a Cloud of Drudgery]]></title>
             <link>https://time.com/article/2026/11/20/the-hunger-games-sunrise-on-the-reaping-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/20/the-hunger-games-sunrise-on-the-reaping-review/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
             <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3300,40 +3332,6 @@
             <title><![CDATA[Despite the Polls Republicans Think This Senate Seat Remains in Play]]></title>
             <link>https://time.com/article/2026/10/05/new-hampshire-blue-wave-republicans-sununu-pappas/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/05/new-hampshire-blue-wave-republicans-sununu-pappas/</guid>
-            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Elon Musk Documentary That Has Him Fighting Back]]></title>
-            <link>https://time.com/article/2026/10/05/elon-musk-gibney-documentary/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/05/elon-musk-gibney-documentary/</guid>
-            <dc:creator><![CDATA[Andrew R. Chow]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When Is the Best Time to See Peak Fall Foliage?]]></title>
-            <link>https://time.com/article/2026/10/05/when-is-the-best-time-to-see-peak-fall-foliage-/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/05/when-is-the-best-time-to-see-peak-fall-foliage-/</guid>
-            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Now Is the Best Time to Get Your Flu Shot]]></title>
-            <link>https://time.com/article/2026/10/05/now-is-the-best-time-to-get-your-flu-shot/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/05/now-is-the-best-time-to-get-your-flu-shot/</guid>
-            <dc:creator><![CDATA[Dominique Mosbergen]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Cornell 7’ Case Renews Scrutiny of Fraternities]]></title>
-            <link>https://time.com/article/2026/10/05/cornell-university-sexual-assault-allegations-fraternity-jane-doe-lawsuit/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/05/cornell-university-sexual-assault-allegations-fraternity-jane-doe-lawsuit/</guid>
-            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TIME100 Art Honorees Toast to Imagination, Inspiration, and Influence Across Generations]]></title>
-            <description><![CDATA[Ronald Lauder, Matthew Bogdanos, Amy Sherald, Marie Watt, Ken Griffin, and Alicia Keys and Swizz Beatz gave remarks at the first TIME100 Art Impact Dinner.]]></description>
-            <link>https://time.com/article/2026/10/05/time100-art-impact-dinner-toasts/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/05/time100-art-impact-dinner-toasts/</guid>
             <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
