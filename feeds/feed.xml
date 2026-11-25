@@ -4,10 +4,17 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Nov 2026 21:45:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 04:42:49 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Nov 2026 21:45:44 GMT</pubDate>
+        <pubDate>Wed, 25 Nov 2026 04:42:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Review: 'Focker In-Law']]></title>
+            <link>https://time.com/article/2026/11/25/focker-in-law-review-ariana-grande/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/25/focker-in-law-review-ariana-grande/</guid>
+            <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
+            <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AI’s Frankenstein Moment]]></title>
             <link>https://time.com/article/2026/11/24/ai-s-frankenstein-moment/</link>
@@ -100,6 +107,12 @@
             <link>https://time.com/article/2026/11/24/food-waste-experts-habits-thanksgiving/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/24/food-waste-experts-habits-thanksgiving/</guid>
             <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hegseth’s Pentagon Accuses Canada of Failing as Credible Defense Partner]]></title>
+            <link>https://time.com/article/2026/11/24/hegseth-pentagon-accuses-canada-failing-credible-defense-partner/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/24/hegseth-pentagon-accuses-canada-failing-credible-defense-partner/</guid>
             <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3321,19 +3334,6 @@
             <description><![CDATA[Ronald Lauder, Matthew Bogdanos, Amy Sherald, Marie Watt, Ken Griffin, and Alicia Keys and Swizz Beatz gave remarks at the first TIME100 Art Impact Dinner.]]></description>
             <link>https://time.com/article/2026/10/05/time100-art-impact-dinner-toasts/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/05/time100-art-impact-dinner-toasts/</guid>
-            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Fossil Fuel Turning Point]]></title>
-            <link>https://time.com/article/2026/10/05/the-fossil-fuel-turning-point/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/05/the-fossil-fuel-turning-point/</guid>
-            <dc:creator><![CDATA[André Corrêa do Lago]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet the 2026 Nobel Prize Winners]]></title>
-            <link>https://time.com/article/2026/10/05/nobel-prize-2026-winners/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/05/nobel-prize-2026-winners/</guid>
             <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
