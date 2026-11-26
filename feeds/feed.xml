@@ -4,21 +4,21 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Nov 2026 23:54:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 06:03:33 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Nov 2026 23:54:59 GMT</pubDate>
+        <pubDate>Thu, 26 Nov 2026 06:03:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[How to Host Thanksgiving on a Budget]]></title>
-            <link>https://time.com/4118368/thanksgiving-host-budget/</link>
-            <guid isPermaLink="true">https://time.com/4118368/thanksgiving-host-budget/</guid>
-            <pubDate>Wed, 25 Nov 2026 23:54:59 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Avoid Political Tension at Thanksgiving]]></title>
             <link>https://time.com/4574483/avoid-political-tension-at-thanksgiving/</link>
             <guid isPermaLink="true">https://time.com/4574483/avoid-political-tension-at-thanksgiving/</guid>
-            <pubDate>Wed, 25 Nov 2026 23:54:59 GMT</pubDate>
+            <pubDate>Thu, 26 Nov 2026 06:03:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Host Thanksgiving on a Budget]]></title>
+            <link>https://time.com/4118368/thanksgiving-host-budget/</link>
+            <guid isPermaLink="true">https://time.com/4118368/thanksgiving-host-budget/</guid>
+            <pubDate>Thu, 26 Nov 2026 06:03:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Review: 'Focker In-Law']]></title>
