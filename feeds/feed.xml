@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Nov 2026 17:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 01:18:57 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Nov 2026 17:26:44 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 01:18:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[China and Brazil Lead Pushback Against Trump’s ‘Unacceptable’ Tariff Threats]]></title>
@@ -20,7 +20,6 @@
             <title><![CDATA[‘Not a Close Case’: Judge Strikes Down Trump Administration’s Targeting of ABC]]></title>
             <link>https://time.com/article/2026/11/26/fcc-abc-disney-broadcast-license-early-review-judge-injunction/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/26/fcc-abc-disney-broadcast-license-early-review-judge-injunction/</guid>
-            <dc:creator><![CDATA[Chad de Guzman]]></dc:creator>
             <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -48,6 +47,13 @@
             <link>https://time.com/article/2026/11/26/what-makes-the-hunting-wives-addictive-tv/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/26/what-makes-the-hunting-wives-addictive-tv/</guid>
             <dc:creator><![CDATA[Judy Berman]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Urges Putin to ‘Pull Back’ Military Aggression in Europe]]></title>
+            <link>https://time.com/article/2026/11/26/trump-warns-putin-russia-to-pull-back-military-aggression-europe-ukraine-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/26/trump-warns-putin-russia-to-pull-back-military-aggression-europe-ukraine-war/</guid>
+            <dc:creator><![CDATA[Tiago Ventura and Olivia-Anne Cleary]]></dc:creator>
             <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +91,6 @@
             <title><![CDATA[An Ode to the Endeavour Space Shuttle]]></title>
             <link>https://time.com/article/2026/11/25/an-ode-to-the-endeavour-space-shuttle/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/25/an-ode-to-the-endeavour-space-shuttle/</guid>
-            <dc:creator><![CDATA[Marsha Ivins]]></dc:creator>
             <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3330,12 +3335,6 @@
             <link>https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/</guid>
             <dc:creator><![CDATA[Harry Booth]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Administration Mounts ‘Largest Denaturalization Effort in Modern History’]]></title>
-            <link>https://time.com/article/2026/10/06/denaturalization-citizenship-immigration-justice-department-trump/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/06/denaturalization-citizenship-immigration-justice-department-trump/</guid>
             <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
