@@ -4,13 +4,12 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Nov 2026 10:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 19:44:32 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Nov 2026 10:19:31 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 19:44:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump Demands Probe Into ‘Fake’ Economic Figures]]></title>
-            <description><![CDATA[In his Thanksgiving message on social media, Trump called for an investigation into a routine revision to economic data, calling it a “massive, and purposeful, error.”]]></description>
             <link>https://time.com/article/2026/11/27/trump-thanksgiving-truth-social-economic-data-growth-estimate-revision-election/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/27/trump-thanksgiving-truth-social-economic-data-growth-estimate-revision-election/</guid>
             <dc:creator><![CDATA[Miranda Jeyaretnam and Chad de Guzman]]></dc:creator>
@@ -20,13 +19,27 @@
             <title><![CDATA[What Democrats’ Sweeping Midterm Wins Could Mean for the Redistricting Battle]]></title>
             <link>https://time.com/article/2026/11/27/midterm-elections-redistricting-gerrymandering/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/27/midterm-elections-redistricting-gerrymandering/</guid>
-            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Fri, 27 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Denis Villeneuve on His Radical Adaptation of 'Dune: Part 3']]></title>
+            <link>https://time.com/article/2026/11/27/denis-villeneuve-dune-part-three-james-bond/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/27/denis-villeneuve-dune-part-three-james-bond/</guid>
+            <dc:creator><![CDATA[Eliana Dockterman]]></dc:creator>
+            <pubDate>Fri, 27 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Have a More Sustainable Black Friday]]></title>
+            <link>https://time.com/article/2026/11/27/tips-for-a-more-sustainable-black-friday/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/27/tips-for-a-more-sustainable-black-friday/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Fri, 27 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China and Brazil Lead Pushback Against Trump’s ‘Unacceptable’ Tariff Threats]]></title>
             <link>https://time.com/article/2026/11/26/china-brazil-eu-push-back-against-trump-tariffs/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/26/china-brazil-eu-push-back-against-trump-tariffs/</guid>
+            <dc:creator><![CDATA[Callum Sutherland and Olivia-Anne Cleary]]></dc:creator>
             <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -61,9 +74,10 @@
         </item>
         <item>
             <title><![CDATA[Trump Urges Putin to ‘Pull Back’ Military Aggression in Europe]]></title>
+            <description><![CDATA[The U.S. President expressed hope that a deal can be made between Russia and Ukraine "quickly" to avoid expansion of the war.]]></description>
             <link>https://time.com/article/2026/11/26/trump-warns-putin-russia-to-pull-back-military-aggression-europe-ukraine-war/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/26/trump-warns-putin-russia-to-pull-back-military-aggression-europe-ukraine-war/</guid>
-            <dc:creator><![CDATA[Tiago Ventura and Olivia-Anne Cleary]]></dc:creator>
+            <dc:creator><![CDATA[Olivia-Anne Cleary and Tiago Ventura]]></dc:creator>
             <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3320,20 +3334,6 @@
             <title><![CDATA[Why Student Protesters in France Are Referencing May 1968]]></title>
             <link>https://time.com/article/2026/10/07/student-protests-france-signs-may-1968-strikes-police-clashes/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/07/student-protests-france-signs-may-1968-strikes-police-clashes/</guid>
-            <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What the Cornell 7 Case Reveals About Consent and Bravery]]></title>
-            <link>https://time.com/article/2026/10/07/what-the-cornell-7-case-reveals-about-consent-and-bravery/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/07/what-the-cornell-7-case-reveals-about-consent-and-bravery/</guid>
-            <dc:creator><![CDATA[Reshma Saujani]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The War in Iran Will Make It Harder for Americans to Stay Warm This Winter]]></title>
-            <link>https://time.com/article/2026/10/07/the-war-in-iran-will-make-it-harder-for-americans-to-stay-warm-this-winter/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/07/the-war-in-iran-will-make-it-harder-for-americans-to-stay-warm-this-winter/</guid>
-            <dc:creator><![CDATA[Sanya Carley]]></dc:creator>
             <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
