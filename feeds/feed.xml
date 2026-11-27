@@ -4,16 +4,29 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Nov 2026 01:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 10:19:31 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Nov 2026 01:18:57 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 10:19:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Trump Demands Probe Into ‘Fake’ Economic Figures]]></title>
+            <description><![CDATA[In his Thanksgiving message on social media, Trump called for an investigation into a routine revision to economic data, calling it a “massive, and purposeful, error.”]]></description>
+            <link>https://time.com/article/2026/11/27/trump-thanksgiving-truth-social-economic-data-growth-estimate-revision-election/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/27/trump-thanksgiving-truth-social-economic-data-growth-estimate-revision-election/</guid>
+            <dc:creator><![CDATA[Miranda Jeyaretnam and Chad de Guzman]]></dc:creator>
+            <pubDate>Fri, 27 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Democrats’ Sweeping Midterm Wins Could Mean for the Redistricting Battle]]></title>
+            <link>https://time.com/article/2026/11/27/midterm-elections-redistricting-gerrymandering/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/27/midterm-elections-redistricting-gerrymandering/</guid>
+            <dc:creator><![CDATA[Chantelle Lee]]></dc:creator>
+            <pubDate>Fri, 27 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[China and Brazil Lead Pushback Against Trump’s ‘Unacceptable’ Tariff Threats]]></title>
-            <description><![CDATA[Beijing warned that it reserves the right to take “necessary measures” to retaliate against the Trump Administration’s proposed new tariffs.]]></description>
             <link>https://time.com/article/2026/11/26/china-brazil-eu-push-back-against-trump-tariffs/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/26/china-brazil-eu-push-back-against-trump-tariffs/</guid>
-            <dc:creator><![CDATA[Callum Sutherland and Olivia-Anne Cleary]]></dc:creator>
             <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -30,7 +43,6 @@
         </item>
         <item>
             <title><![CDATA[Connection Must Be More Than a Holiday Tradition]]></title>
-            <description><![CDATA[The connection that Thanksgiving creates should inspire us to address the loneliness epidemic, writes Suzanne McCormick.]]></description>
             <link>https://time.com/article/2026/11/26/connection-must-be-more-than-a-holiday-tradition/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/26/connection-must-be-more-than-a-holiday-tradition/</guid>
             <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
@@ -39,14 +51,12 @@
             <title><![CDATA[Breaking Down The Hunting Wives Season 2 Finale]]></title>
             <link>https://time.com/article/2026/11/26/the-hunting-wives-season-2-finale/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/26/the-hunting-wives-season-2-finale/</guid>
-            <dc:creator><![CDATA[Barry Levitt]]></dc:creator>
             <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why 'The Hunting Wives' Is So Addictive]]></title>
             <link>https://time.com/article/2026/11/26/what-makes-the-hunting-wives-addictive-tv/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/26/what-makes-the-hunting-wives-addictive-tv/</guid>
-            <dc:creator><![CDATA[Judy Berman]]></dc:creator>
             <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -91,6 +101,7 @@
             <title><![CDATA[An Ode to the Endeavour Space Shuttle]]></title>
             <link>https://time.com/article/2026/11/25/an-ode-to-the-endeavour-space-shuttle/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/25/an-ode-to-the-endeavour-space-shuttle/</guid>
+            <dc:creator><![CDATA[Marsha Ivins]]></dc:creator>
             <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -110,7 +121,6 @@
             <title><![CDATA[El Niño Is Strengthening. Here’s Where Its Effects Are Already Showing Up]]></title>
             <link>https://time.com/article/2026/11/25/el-ni-o-is-strengthening-here-s-where-its-effects-are-already-showing-up/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/25/el-ni-o-is-strengthening-here-s-where-its-effects-are-already-showing-up/</guid>
-            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -124,6 +134,7 @@
             <title><![CDATA[The Holiday Tradition of Pretending Our Families Get Along Perfectly]]></title>
             <link>https://time.com/article/2026/11/25/the-holiday-tradition-of-pretending-our-families-are-perfect/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/25/the-holiday-tradition-of-pretending-our-families-are-perfect/</guid>
+            <dc:creator><![CDATA[Jillian Sanders]]></dc:creator>
             <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -137,7 +148,6 @@
             <title><![CDATA[The True Story Behind 'The Trials of Karen Read']]></title>
             <link>https://time.com/article/2026/11/25/the-trials-of-karen-read-true-story-netflix/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/25/the-trials-of-karen-read-true-story-netflix/</guid>
-            <dc:creator><![CDATA[Samantha Bergeson]]></dc:creator>
             <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -158,6 +168,7 @@
             <title><![CDATA[The ‘Red Flags’ Behind Nvidia Customer Megaspeed]]></title>
             <link>https://time.com/article/2026/11/25/nvidia-megaspeed-china-investment/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/25/nvidia-megaspeed-china-investment/</guid>
+            <dc:creator><![CDATA[Manisha Ganguly]]></dc:creator>
             <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -169,9 +180,9 @@
         </item>
         <item>
             <title><![CDATA[TIME’s Top 100 Photos of 2026]]></title>
+            <description><![CDATA[The most memorable photos that capture the year, chosen by TIME's photo editors.]]></description>
             <link>https://time.com/article/2026/11/24/times-top-100-photos-of-2026/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/24/times-top-100-photos-of-2026/</guid>
-            <dc:creator><![CDATA[TIME Photo Department]]></dc:creator>
             <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -251,6 +262,7 @@
             <title><![CDATA[Food-Waste Experts' Thanksgiving Habits]]></title>
             <link>https://time.com/article/2026/11/24/food-waste-experts-habits-thanksgiving/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/24/food-waste-experts-habits-thanksgiving/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -310,6 +322,7 @@
             <title><![CDATA[Will Bad Weather Disrupt Thanksgiving Travel?]]></title>
             <link>https://time.com/article/2026/11/23/weather-disruption-thanksgiving-travel/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/23/weather-disruption-thanksgiving-travel/</guid>
+            <dc:creator><![CDATA[Simmone Shah]]></dc:creator>
             <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3322,20 +3335,6 @@
             <guid isPermaLink="true">https://time.com/article/2026/10/07/the-war-in-iran-will-make-it-harder-for-americans-to-stay-warm-this-winter/</guid>
             <dc:creator><![CDATA[Sanya Carley]]></dc:creator>
             <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Beat Trump’s Noise Machine]]></title>
-            <link>https://time.com/article/2026/10/07/trump-nebraska-los-angeles-iran-war-noise-machine/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/07/trump-nebraska-los-angeles-iran-war-noise-machine/</guid>
-            <dc:creator><![CDATA[Jeffrey Sonnenfeld]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meta’s Muse AI Agent Is Building a Dossier On You]]></title>
-            <link>https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/</guid>
-            <dc:creator><![CDATA[Harry Booth]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
