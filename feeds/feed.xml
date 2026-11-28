@@ -4,15 +4,14 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Nov 2026 19:44:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2026 02:23:52 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Nov 2026 19:44:32 GMT</pubDate>
+        <pubDate>Sat, 28 Nov 2026 02:23:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump Demands Probe Into ‘Fake’ Economic Figures]]></title>
             <link>https://time.com/article/2026/11/27/trump-thanksgiving-truth-social-economic-data-growth-estimate-revision-election/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/27/trump-thanksgiving-truth-social-economic-data-growth-estimate-revision-election/</guid>
-            <dc:creator><![CDATA[Miranda Jeyaretnam and Chad de Guzman]]></dc:creator>
             <pubDate>Fri, 27 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -36,10 +35,16 @@
             <pubDate>Fri, 27 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Why the Russian Exclave of Kaliningrad Is at the Center of a NATO Row]]></title>
+            <link>https://time.com/article/2026/11/27/russian-exclave-kaliningrad-threat-nato-tensions-ukraine-war/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/27/russian-exclave-kaliningrad-threat-nato-tensions-ukraine-war/</guid>
+            <dc:creator><![CDATA[Callum Sutherland]]></dc:creator>
+            <pubDate>Fri, 27 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[China and Brazil Lead Pushback Against Trump’s ‘Unacceptable’ Tariff Threats]]></title>
             <link>https://time.com/article/2026/11/26/china-brazil-eu-push-back-against-trump-tariffs/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/26/china-brazil-eu-push-back-against-trump-tariffs/</guid>
-            <dc:creator><![CDATA[Callum Sutherland and Olivia-Anne Cleary]]></dc:creator>
             <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -135,6 +140,7 @@
             <title><![CDATA[El Niño Is Strengthening. Here’s Where Its Effects Are Already Showing Up]]></title>
             <link>https://time.com/article/2026/11/25/el-ni-o-is-strengthening-here-s-where-its-effects-are-already-showing-up/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/25/el-ni-o-is-strengthening-here-s-where-its-effects-are-already-showing-up/</guid>
+            <dc:creator><![CDATA[Rebecca Schneid]]></dc:creator>
             <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3328,12 +3334,6 @@
             <title><![CDATA[Kansas Has Emerged as a Senate Battleground State. Here’s Why It Matters]]></title>
             <link>https://time.com/article/2026/10/07/why-kansas-has-emerged-as-a-new-battleground-state-and-why-it-matters/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/07/why-kansas-has-emerged-as-a-new-battleground-state-and-why-it-matters/</guid>
-            <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Student Protesters in France Are Referencing May 1968]]></title>
-            <link>https://time.com/article/2026/10/07/student-protests-france-signs-may-1968-strikes-police-clashes/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/07/student-protests-france-signs-may-1968-strikes-police-clashes/</guid>
             <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
