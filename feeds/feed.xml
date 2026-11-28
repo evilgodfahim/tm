@@ -4,9 +4,9 @@
         <description><![CDATA[Breaking news and analysis from TIME]]></description>
         <link>https://time.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Nov 2026 02:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2026 11:10:01 GMT</lastBuildDate>
         <atom:link href="https://time.com/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Nov 2026 02:23:52 GMT</pubDate>
+        <pubDate>Sat, 28 Nov 2026 11:10:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump Demands Probe Into ‘Fake’ Economic Figures]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Fri, 27 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Why You Should Train to Be Ethically Fit]]></title>
+            <link>https://time.com/article/2026/11/27/why-you-should-train-to-be-ethically-fit/</link>
+            <guid isPermaLink="true">https://time.com/article/2026/11/27/why-you-should-train-to-be-ethically-fit/</guid>
+            <dc:creator><![CDATA[David W. Miller and Susan Richardson]]></dc:creator>
+            <pubDate>Fri, 27 Nov 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[China and Brazil Lead Pushback Against Trump’s ‘Unacceptable’ Tariff Threats]]></title>
             <link>https://time.com/article/2026/11/26/china-brazil-eu-push-back-against-trump-tariffs/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/26/china-brazil-eu-push-back-against-trump-tariffs/</guid>
@@ -61,8 +68,10 @@
         </item>
         <item>
             <title><![CDATA[Connection Must Be More Than a Holiday Tradition]]></title>
+            <description><![CDATA[The connection that Thanksgiving creates should inspire us to address the loneliness epidemic, writes Suzanne McCormick.]]></description>
             <link>https://time.com/article/2026/11/26/connection-must-be-more-than-a-holiday-tradition/</link>
             <guid isPermaLink="true">https://time.com/article/2026/11/26/connection-must-be-more-than-a-holiday-tradition/</guid>
+            <dc:creator><![CDATA[Suzanne McCormick]]></dc:creator>
             <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3328,12 +3337,6 @@
             <link>https://time.com/article/2026/10/07/the-social-reckoning-review/</link>
             <guid isPermaLink="true">https://time.com/article/2026/10/07/the-social-reckoning-review/</guid>
             <dc:creator><![CDATA[Stephanie Zacharek]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kansas Has Emerged as a Senate Battleground State. Here’s Why It Matters]]></title>
-            <link>https://time.com/article/2026/10/07/why-kansas-has-emerged-as-a-new-battleground-state-and-why-it-matters/</link>
-            <guid isPermaLink="true">https://time.com/article/2026/10/07/why-kansas-has-emerged-as-a-new-battleground-state-and-why-it-matters/</guid>
             <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
         </item>
     </channel>
